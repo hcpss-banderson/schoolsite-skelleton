@@ -1,0 +1,53 @@
+id:
+  -
+    value: 67
+uuid:
+  -
+    value: 56a48bd4-14d6-41f7-9818-92baa83c1d51
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:13:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: daniel_j_graham@hcpss.org
+field_job_title:
+  -
+    value: '.4 PE Teacher'
+field_name:
+  -
+    value: 'Daniel Graham'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '67'
+  uuid: 56a48bd4-14d6-41f7-9818-92baa83c1d51
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

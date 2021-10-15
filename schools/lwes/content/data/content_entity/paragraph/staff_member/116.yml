@@ -1,0 +1,53 @@
+id:
+  -
+    value: 116
+uuid:
+  -
+    value: 0c8adb3c-eb86-41a9-aab9-4b4f63148dab
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:10:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kristin_ingram@hcpss.org
+field_job_title:
+  -
+    value: '.5 School Counselor'
+field_name:
+  -
+    value: 'Kristin Ingram'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '116'
+  uuid: 0c8adb3c-eb86-41a9-aab9-4b4f63148dab
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

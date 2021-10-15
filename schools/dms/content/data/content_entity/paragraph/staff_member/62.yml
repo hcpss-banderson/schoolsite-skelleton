@@ -1,0 +1,53 @@
+id:
+  -
+    value: 62
+uuid:
+  -
+    value: 0f6c2240-bcf5-4d35-b8c5-41a5d88ed423
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:45:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: sophie_lovera@hcpss.org
+field_job_title:
+  -
+    value: 'Student Assistant'
+field_name:
+  -
+    value: 'Sophie Lovera'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '62'
+  uuid: 0f6c2240-bcf5-4d35-b8c5-41a5d88ed423
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

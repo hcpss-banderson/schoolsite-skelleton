@@ -1,0 +1,53 @@
+id:
+  -
+    value: 82
+uuid:
+  -
+    value: 23e98c66-be36-41c1-8cba-391f39ac73cc
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:15:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: julie_claire@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Julie Claire'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '82'
+  uuid: 23e98c66-be36-41c1-8cba-391f39ac73cc
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

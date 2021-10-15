@@ -1,0 +1,51 @@
+id:
+  -
+    value: 115
+uuid:
+  -
+    value: af0eb8eb-b745-415d-88dc-90fc454af036
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:25:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '18'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: 'Cafeteria Assistant'
+field_name:
+  -
+    value: 'Dominique Taylor'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '115'
+  uuid: af0eb8eb-b745-415d-88dc-90fc454af036
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

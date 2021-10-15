@@ -1,0 +1,53 @@
+id:
+  -
+    value: 105
+uuid:
+  -
+    value: c0abbd97-2517-4dc2-8f90-43004cde1a71
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:59:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '20'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: melissa_verna@hcpss.org
+field_job_title:
+  -
+    value: '0.5 ESOL Paraeducator'
+field_name:
+  -
+    value: 'Mrs. Verna'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '105'
+  uuid: c0abbd97-2517-4dc2-8f90-43004cde1a71
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 79
+uuid:
+  -
+    value: 31ed3e0f-21f3-4750-8a06-d8ce313bc678
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:56:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: cindy_arenberg@hcpss.org
+field_job_title:
+  -
+    value: Kindergarten
+field_name:
+  -
+    value: 'Cindy Arenberg'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '79'
+  uuid: 31ed3e0f-21f3-4750-8a06-d8ce313bc678
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

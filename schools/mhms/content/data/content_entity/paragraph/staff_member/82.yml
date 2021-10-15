@@ -1,0 +1,53 @@
+id:
+  -
+    value: 82
+uuid:
+  -
+    value: 112d42d9-1fda-49c6-b113-eb441e9ad628
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:55:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: april_burnett@hcpss.org
+field_job_title:
+  -
+    value: 'Reading Specialist'
+field_name:
+  -
+    value: 'April Burnett'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '82'
+  uuid: 112d42d9-1fda-49c6-b113-eb441e9ad628
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

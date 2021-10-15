@@ -1,0 +1,53 @@
+id:
+  -
+    value: 2
+uuid:
+  -
+    value: f0e75029-c7d4-4b03-8b23-723702df7e28
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:57:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Sophia_Quirk@hcpss.org
+field_job_title:
+  -
+    value: 'Assistant Principal'
+field_name:
+  -
+    value: 'Sophia Quirk'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '2'
+  uuid: f0e75029-c7d4-4b03-8b23-723702df7e28
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 82
+uuid:
+  -
+    value: d2d8c8e5-374e-4eeb-8329-25803421bd80
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:14:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: anne_metzbower@hcpss.org
+field_job_title:
+  -
+    value: MIST
+field_name:
+  -
+    value: 'Anne Metzbower'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '82'
+  uuid: d2d8c8e5-374e-4eeb-8329-25803421bd80
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

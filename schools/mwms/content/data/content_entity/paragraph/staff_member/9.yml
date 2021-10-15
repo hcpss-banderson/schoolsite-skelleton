@@ -1,0 +1,53 @@
+id:
+  -
+    value: 9
+uuid:
+  -
+    value: 39328cc7-7ca2-4839-873d-f6a63c80192d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:57:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Susan_Bradley@hcpss.org
+field_job_title:
+  -
+    value: 'School Counselor: Grade 8'
+field_name:
+  -
+    value: 'Mrs. Bradley'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '9'
+  uuid: 39328cc7-7ca2-4839-873d-f6a63c80192d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

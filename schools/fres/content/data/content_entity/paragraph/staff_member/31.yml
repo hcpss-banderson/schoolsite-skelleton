@@ -1,0 +1,53 @@
+id:
+  -
+    value: 31
+uuid:
+  -
+    value: cca506e7-5f32-4831-9320-ccba25b7a41a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:00:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Amber_Taylor@hcpss.org
+field_job_title:
+  -
+    value: 'Instructional Team Leader'
+field_name:
+  -
+    value: 'Amber Taylor'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '31'
+  uuid: cca506e7-5f32-4831-9320-ccba25b7a41a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

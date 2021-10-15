@@ -1,0 +1,53 @@
+id:
+  -
+    value: 17
+uuid:
+  -
+    value: ef8a80a1-7a51-4185-b8d0-2e6fe6e9df07
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:54:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Karen_McVay@hcpss.org
+field_job_title:
+  -
+    value: 'Social Studies/Innovative & Inquiry Modules'
+field_name:
+  -
+    value: 'Karen McVay'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '17'
+  uuid: ef8a80a1-7a51-4185-b8d0-2e6fe6e9df07
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

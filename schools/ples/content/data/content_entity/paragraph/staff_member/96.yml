@@ -1,0 +1,53 @@
+id:
+  -
+    value: 96
+uuid:
+  -
+    value: e3318ed4-a980-4616-8f74-9102bdf53492
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:13:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kaleigh_Thomas@hcpss.org
+field_job_title:
+  -
+    value: 'SE Teacher & ITL'
+field_name:
+  -
+    value: 'Kaleigh Thomas'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '96'
+  uuid: e3318ed4-a980-4616-8f74-9102bdf53492
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 105
+uuid:
+  -
+    value: 6d8164e6-6836-4ccb-8e80-a0b2c089f348
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:10:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: maureen_kraft@hcpss.org
+field_job_title:
+  -
+    value: '.5 Interventionist'
+field_name:
+  -
+    value: 'Maureen Kraft'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '105'
+  uuid: 6d8164e6-6836-4ccb-8e80-a0b2c089f348
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

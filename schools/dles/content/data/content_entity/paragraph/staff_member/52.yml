@@ -1,0 +1,53 @@
+id:
+  -
+    value: 52
+uuid:
+  -
+    value: 8e3f8c91-09f8-4de7-a5a1-e94972f8e2b7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:55:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: joshua_allen@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Teacher'
+field_name:
+  -
+    value: 'Joshua Allen'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '52'
+  uuid: 8e3f8c91-09f8-4de7-a5a1-e94972f8e2b7
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

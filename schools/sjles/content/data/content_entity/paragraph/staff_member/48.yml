@@ -1,0 +1,53 @@
+id:
+  -
+    value: 48
+uuid:
+  -
+    value: fcec4d82-5244-4c64-ae7b-e61a3548b90b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:20:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: carl_frantz@hcpss.org
+field_job_title:
+  -
+    value: PE
+field_name:
+  -
+    value: 'Carl Frantz'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '48'
+  uuid: fcec4d82-5244-4c64-ae7b-e61a3548b90b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

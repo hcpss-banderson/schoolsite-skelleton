@@ -1,0 +1,53 @@
+id:
+  -
+    value: 52
+uuid:
+  -
+    value: a1a90dcb-21b9-45b7-b9a7-9528a7d3e6cd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:15:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: cara_scott@hcpss.org
+field_job_title:
+  -
+    value: Technology
+field_name:
+  -
+    value: 'Cara Scott'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '52'
+  uuid: a1a90dcb-21b9-45b7-b9a7-9528a7d3e6cd
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

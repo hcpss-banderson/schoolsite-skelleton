@@ -1,0 +1,53 @@
+id:
+  -
+    value: 85
+uuid:
+  -
+    value: ef04eca6-205b-4a31-908c-d985d24db34d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:13:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Yarixa_Barillas@hcpss.org
+field_job_title:
+  -
+    value: 'Speech Language Pathologist'
+field_name:
+  -
+    value: 'Yari Barillas'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '85'
+  uuid: ef04eca6-205b-4a31-908c-d985d24db34d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

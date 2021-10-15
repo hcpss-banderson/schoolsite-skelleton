@@ -1,0 +1,53 @@
+id:
+  -
+    value: 97
+uuid:
+  -
+    value: 16c8290d-b3a5-4c5b-81e4-a7f686aedef9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:46:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: brianna_gibson@hcpss.org
+field_job_title:
+  -
+    value: 'Reading Module/Theatre Teacher'
+field_name:
+  -
+    value: 'Brianna Gibson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '97'
+  uuid: 16c8290d-b3a5-4c5b-81e4-a7f686aedef9
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

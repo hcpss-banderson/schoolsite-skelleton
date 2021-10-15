@@ -1,0 +1,53 @@
+id:
+  -
+    value: 23
+uuid:
+  -
+    value: ea22368c-d45c-4402-808f-22da79a47b9c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:43:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: hazel_jenkins@hcpps.org
+field_job_title:
+  -
+    value: 'English Teacher'
+field_name:
+  -
+    value: 'Hazel Jenkins'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '23'
+  uuid: ea22368c-d45c-4402-808f-22da79a47b9c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

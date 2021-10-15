@@ -1,0 +1,53 @@
+id:
+  -
+    value: 67
+uuid:
+  -
+    value: 48c79279-6948-482f-b5e2-ef02985ac23e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:55:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: joshua_cortes@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Paraeducator - Regional Program'
+field_name:
+  -
+    value: 'Joshua Cortes'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '67'
+  uuid: 48c79279-6948-482f-b5e2-ef02985ac23e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

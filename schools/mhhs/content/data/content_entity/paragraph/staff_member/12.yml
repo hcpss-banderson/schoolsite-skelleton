@@ -1,0 +1,53 @@
+id:
+  -
+    value: 12
+uuid:
+  -
+    value: 790bebf2-2faa-465f-a630-a8d05cc4a68f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:35:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Miriam_Ling@hcpss.org
+field_job_title:
+  -
+    value: 'Teachers'' Secretary'
+field_name:
+  -
+    value: 'Miriam Ling'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '12'
+  uuid: 790bebf2-2faa-465f-a630-a8d05cc4a68f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 23
+uuid:
+  -
+    value: bfbb6c88-e4de-48ba-9856-34b9bfdc0d8a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:14:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: megan_shea@hcpss.org
+field_job_title:
+  -
+    value: 'Instructional Team Leader'
+field_name:
+  -
+    value: 'Megan Shea'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '23'
+  uuid: bfbb6c88-e4de-48ba-9856-34b9bfdc0d8a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

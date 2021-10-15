@@ -1,0 +1,53 @@
+id:
+  -
+    value: 171
+uuid:
+  -
+    value: 1d23e9da-e177-4f07-b5bb-c7e34d01ae6c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '27'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Arden_Hunt@hcpss.org
+field_job_title:
+  -
+    value: 'Cafeteria Worker'
+field_name:
+  -
+    value: 'Arden Hunt'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '171'
+  uuid: 1d23e9da-e177-4f07-b5bb-c7e34d01ae6c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

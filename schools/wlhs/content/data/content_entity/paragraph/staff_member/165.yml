@@ -1,0 +1,53 @@
+id:
+  -
+    value: 165
+uuid:
+  -
+    value: fdf40532-4d2f-4d69-8297-82ce31c33290
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:14:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kazandra_anderson@hcpss.org
+field_job_title:
+  -
+    value: 'Social Worker'
+field_name:
+  -
+    value: 'Kazandra Anderson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '165'
+  uuid: fdf40532-4d2f-4d69-8297-82ce31c33290
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

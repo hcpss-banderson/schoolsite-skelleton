@@ -1,0 +1,53 @@
+id:
+  -
+    value: 31
+uuid:
+  -
+    value: f5d44e0e-7bcf-4fb1-8f5d-5ceb2920dc5e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:52:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: amanda_proska@hcpss.org
+field_job_title:
+  -
+    value: 'Science 7'
+field_name:
+  -
+    value: 'Amanda Proska'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '31'
+  uuid: f5d44e0e-7bcf-4fb1-8f5d-5ceb2920dc5e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

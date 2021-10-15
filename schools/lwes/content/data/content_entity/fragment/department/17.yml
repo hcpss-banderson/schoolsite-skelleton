@@ -1,0 +1,76 @@
+id:
+  -
+    value: 17
+uuid:
+  -
+    value: af203018-d710-4de9-a516-21b19d8b4a61
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:10:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Student Service Team'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:10:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:10:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 111
+    target_type: paragraph
+  -
+    target_id: 112
+    target_type: paragraph
+  -
+    target_id: 113
+    target_type: paragraph
+  -
+    target_id: 114
+    target_type: paragraph
+  -
+    target_id: 115
+    target_type: paragraph
+  -
+    target_id: 116
+    target_type: paragraph
+  -
+    target_id: 117
+    target_type: paragraph
+  -
+    target_id: 118
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '17'
+  uuid: af203018-d710-4de9-a516-21b19d8b4a61
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

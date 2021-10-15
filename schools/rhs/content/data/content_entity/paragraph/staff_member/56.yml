@@ -1,0 +1,53 @@
+id:
+  -
+    value: 56
+uuid:
+  -
+    value: bb763bc0-63c0-4453-bb64-3dbf0cd93139
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Valerie_McBee@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, Instructional Team Leader (ITL)'
+field_name:
+  -
+    value: 'Valerie McBee'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '56'
+  uuid: bb763bc0-63c0-4453-bb64-3dbf0cd93139
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

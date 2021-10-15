@@ -1,0 +1,53 @@
+id:
+  -
+    value: 31
+uuid:
+  -
+    value: e6831e47-fca2-47cc-aab5-4fbfd8098845
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:50:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Monica_Butler@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Monica Butler'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '31'
+  uuid: e6831e47-fca2-47cc-aab5-4fbfd8098845
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

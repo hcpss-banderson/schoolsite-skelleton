@@ -1,0 +1,53 @@
+id:
+  -
+    value: 14
+uuid:
+  -
+    value: e265eb02-9b94-4424-8e2c-ececd9563f45
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:42:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Amy_H_Kelly@hcpss.org
+field_job_title:
+  -
+    value: 'Social Worker'
+field_name:
+  -
+    value: 'Amy Kelly'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '14'
+  uuid: e265eb02-9b94-4424-8e2c-ececd9563f45
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 33
+uuid:
+  -
+    value: 724f3ced-b653-4737-a58f-a083b24823a4
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:57:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Susan_Reider@hcpss.org
+field_job_title:
+  -
+    value: Modules
+field_name:
+  -
+    value: 'Ms. Reider'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '33'
+  uuid: 724f3ced-b653-4737-a58f-a083b24823a4
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

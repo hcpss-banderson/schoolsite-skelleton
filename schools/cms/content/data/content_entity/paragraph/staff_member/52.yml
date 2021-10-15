@@ -1,0 +1,53 @@
+id:
+  -
+    value: 52
+uuid:
+  -
+    value: 5f88bc67-2c65-45f7-9a12-f30cbf58e3a8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:44:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Caroline_Marcotte@hcpss.org
+field_job_title:
+  -
+    value: Chorus
+field_name:
+  -
+    value: 'Caroline Marcotte'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '52'
+  uuid: 5f88bc67-2c65-45f7-9a12-f30cbf58e3a8
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

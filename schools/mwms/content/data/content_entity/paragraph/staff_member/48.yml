@@ -1,0 +1,53 @@
+id:
+  -
+    value: 48
+uuid:
+  -
+    value: a8afe832-66cf-422e-96d1-3e565b81456c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:57:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Gina_Iannazzi@hcpss.org
+field_job_title:
+  -
+    value: Science
+field_name:
+  -
+    value: 'Mrs. Iannazzi'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '48'
+  uuid: a8afe832-66cf-422e-96d1-3e565b81456c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 53
+uuid:
+  -
+    value: d57e64a4-272e-4586-bfb2-a032aba733bd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:45:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: amy_west@hcpss.org
+field_job_title:
+  -
+    value: 'Reading Specialist'
+field_name:
+  -
+    value: 'Amy West'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '53'
+  uuid: d57e64a4-272e-4586-bfb2-a032aba733bd
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

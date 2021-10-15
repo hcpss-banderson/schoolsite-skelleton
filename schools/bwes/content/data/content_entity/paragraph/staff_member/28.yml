@@ -1,0 +1,53 @@
+id:
+  -
+    value: 28
+uuid:
+  -
+    value: 3015db55-e49d-4c7e-b0b0-cbaa3972e57e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:50:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Katelyn_Brehm@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher ITL'
+field_name:
+  -
+    value: 'Katelyn Brehm'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '28'
+  uuid: 3015db55-e49d-4c7e-b0b0-cbaa3972e57e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

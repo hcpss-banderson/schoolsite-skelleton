@@ -1,0 +1,53 @@
+id:
+  -
+    value: 62
+uuid:
+  -
+    value: a3556bf2-fa15-4fca-8896-a088012e7984
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:46:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: tracey_bauer@hcpss.org
+field_job_title:
+  -
+    value: 'Science Teacher, Science Team Leader'
+field_name:
+  -
+    value: 'Tracey Bauer'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '62'
+  uuid: a3556bf2-fa15-4fca-8896-a088012e7984
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

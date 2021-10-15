@@ -1,0 +1,53 @@
+id:
+  -
+    value: 104
+uuid:
+  -
+    value: 9073230a-2a0c-4c06-a286-27689214a479
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:31:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '19'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: lisa_mccollum@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Lisa McCollum'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '104'
+  uuid: 9073230a-2a0c-4c06-a286-27689214a479
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

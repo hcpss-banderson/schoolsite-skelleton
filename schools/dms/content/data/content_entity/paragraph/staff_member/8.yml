@@ -1,0 +1,53 @@
+id:
+  -
+    value: 8
+uuid:
+  -
+    value: 6325ce6f-b8cc-4bb7-ab1c-6cd6794301d7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:45:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: tiffany_madison@hcpss.org
+field_job_title:
+  -
+    value: 'School Counselor (Grades 6, 7, & 8: Alpha L through Z)'
+field_name:
+  -
+    value: 'Tiffany Madison'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '8'
+  uuid: 6325ce6f-b8cc-4bb7-ab1c-6cd6794301d7
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

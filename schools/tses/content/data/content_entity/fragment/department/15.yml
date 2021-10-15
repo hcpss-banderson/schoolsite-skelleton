@@ -1,0 +1,79 @@
+id:
+  -
+    value: 15
+uuid:
+  -
+    value: 76d1921c-0bc2-4921-b530-65f2b73496a8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:23:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Special Education'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:23:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:23:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 57
+    target_type: paragraph
+  -
+    target_id: 58
+    target_type: paragraph
+  -
+    target_id: 59
+    target_type: paragraph
+  -
+    target_id: 60
+    target_type: paragraph
+  -
+    target_id: 61
+    target_type: paragraph
+  -
+    target_id: 62
+    target_type: paragraph
+  -
+    target_id: 63
+    target_type: paragraph
+  -
+    target_id: 64
+    target_type: paragraph
+  -
+    target_id: 65
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '15'
+  uuid: 76d1921c-0bc2-4921-b530-65f2b73496a8
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

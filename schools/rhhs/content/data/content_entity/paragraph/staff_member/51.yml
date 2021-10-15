@@ -1,0 +1,53 @@
+id:
+  -
+    value: 51
+uuid:
+  -
+    value: 370d37b1-a5ee-48d0-a380-33644e0e7880
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Debra_Shannon@hcpss.org
+field_job_title:
+  -
+    value: ITL
+field_name:
+  -
+    value: 'Debra Shannon'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '51'
+  uuid: 370d37b1-a5ee-48d0-a380-33644e0e7880
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

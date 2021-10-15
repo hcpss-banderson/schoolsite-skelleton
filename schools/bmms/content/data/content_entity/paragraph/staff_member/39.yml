@@ -1,0 +1,53 @@
+id:
+  -
+    value: 39
+uuid:
+  -
+    value: bb90e2c1-f73b-430a-b584-e8f2d84b111b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:43:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: carolyn_colon@hcpss.org
+field_job_title:
+  -
+    value: '6th Grade English (6th Grade TL)'
+field_name:
+  -
+    value: 'Carolyn Colon'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '39'
+  uuid: bb90e2c1-f73b-430a-b584-e8f2d84b111b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

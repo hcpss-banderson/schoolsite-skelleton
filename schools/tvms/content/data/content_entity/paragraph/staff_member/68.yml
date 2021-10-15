@@ -1,0 +1,53 @@
+id:
+  -
+    value: 68
+uuid:
+  -
+    value: 044bf554-36f9-4fcf-8b04-5d08184ef066
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:02:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jacqueline_Bates@hcpss.org
+field_job_title:
+  -
+    value: 'Art, Modules'
+field_name:
+  -
+    value: 'Jacqueline Bates'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '68'
+  uuid: 044bf554-36f9-4fcf-8b04-5d08184ef066
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

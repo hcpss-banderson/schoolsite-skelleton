@@ -1,0 +1,53 @@
+id:
+  -
+    value: 19
+uuid:
+  -
+    value: 1371dda9-ab0b-457d-9db2-b571f68b62dd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:13:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: tammy_boyer@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Tammy Boyer'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '19'
+  uuid: 1371dda9-ab0b-457d-9db2-b571f68b62dd
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

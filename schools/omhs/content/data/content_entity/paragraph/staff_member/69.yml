@@ -1,0 +1,51 @@
+id:
+  -
+    value: 69
+uuid:
+  -
+    value: 1898c9c9-efc3-4167-aa6d-1a7554d11299
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: christina_hewitt@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Christina Hewitt'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '69'
+  uuid: 1898c9c9-efc3-4167-aa6d-1a7554d11299
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

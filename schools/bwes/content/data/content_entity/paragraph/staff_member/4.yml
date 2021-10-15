@@ -1,0 +1,53 @@
+id:
+  -
+    value: 4
+uuid:
+  -
+    value: 41b5444f-1d3e-459d-8c0b-3942d66cc902
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:50:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Debra_Eleam@hcpss.org
+field_job_title:
+  -
+    value: 'Teachers'' Secretary'
+field_name:
+  -
+    value: 'Debra Eleam'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '4'
+  uuid: 41b5444f-1d3e-459d-8c0b-3942d66cc902
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

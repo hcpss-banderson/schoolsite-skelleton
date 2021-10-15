@@ -1,0 +1,53 @@
+id:
+  -
+    value: 65
+uuid:
+  -
+    value: 5e7a6a30-9c8f-4f77-94d7-a95b53608503
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:12:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Carrie_Dawes@hcpss.org
+field_job_title:
+  -
+    value: 'Technology Teacher and Related Arts Team Representative'
+field_name:
+  -
+    value: 'Carrie Dawes'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '65'
+  uuid: 5e7a6a30-9c8f-4f77-94d7-a95b53608503
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

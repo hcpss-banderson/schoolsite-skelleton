@@ -1,0 +1,53 @@
+id:
+  -
+    value: 96
+uuid:
+  -
+    value: 3bfb3ced-9059-4de7-9a6e-a8f0f6c0d20c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:32:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '24'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Casey_A_Medairy@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher - Science, Head Varsity Baseball Coach'
+field_name:
+  -
+    value: 'Casey Medairy'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '96'
+  uuid: 3bfb3ced-9059-4de7-9a6e-a8f0f6c0d20c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

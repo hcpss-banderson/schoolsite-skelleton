@@ -1,0 +1,53 @@
+id:
+  -
+    value: 124
+uuid:
+  -
+    value: 264d2b29-0699-4574-aa93-e6a3ee76d9b3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '32'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Lauren_Proctor@hcpss.org
+field_job_title:
+  -
+    value: Para
+field_name:
+  -
+    value: 'Lauren Proctor'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '124'
+  uuid: 264d2b29-0699-4574-aa93-e6a3ee76d9b3
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

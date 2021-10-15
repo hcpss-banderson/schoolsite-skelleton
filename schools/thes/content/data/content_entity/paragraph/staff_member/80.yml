@@ -1,0 +1,53 @@
+id:
+  -
+    value: 80
+uuid:
+  -
+    value: c29962f9-4891-419b-ba01-4aaf969d3e5a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:21:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '18'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Irada_Waldron@hcpss.org
+field_job_title:
+  -
+    value: 'Cluster Nurse'
+field_name:
+  -
+    value: 'Irada Waldron'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '80'
+  uuid: c29962f9-4891-419b-ba01-4aaf969d3e5a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

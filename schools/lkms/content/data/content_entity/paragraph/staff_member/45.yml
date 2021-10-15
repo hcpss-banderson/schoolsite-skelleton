@@ -1,0 +1,53 @@
+id:
+  -
+    value: 45
+uuid:
+  -
+    value: b3df7a27-a3b1-4e6d-a575-87c7e4a08393
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:54:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: William_Kelly@hcpss.org
+field_job_title:
+  -
+    value: 'Social Studies/PE'
+field_name:
+  -
+    value: 'Todd Kelly'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '45'
+  uuid: b3df7a27-a3b1-4e6d-a575-87c7e4a08393
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

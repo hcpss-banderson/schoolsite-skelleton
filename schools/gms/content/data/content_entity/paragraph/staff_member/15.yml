@@ -1,0 +1,53 @@
+id:
+  -
+    value: 15
+uuid:
+  -
+    value: 95a6d190-0540-49a6-8a0c-256f24bf731b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:49:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: courtnay_moore@hcpss.org
+field_job_title:
+  -
+    value: 'Media Specialist'
+field_name:
+  -
+    value: 'Courtnay Moore'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '15'
+  uuid: 95a6d190-0540-49a6-8a0c-256f24bf731b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

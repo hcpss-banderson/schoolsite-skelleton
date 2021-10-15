@@ -1,0 +1,53 @@
+id:
+  -
+    value: 66
+uuid:
+  -
+    value: ee14a422-8d74-4368-a98f-7ab1d5b39c81
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:26:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: charles_wehr@hcpss.org
+field_job_title:
+  -
+    value: Art
+field_name:
+  -
+    value: 'Charles Wehr'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '66'
+  uuid: ee14a422-8d74-4368-a98f-7ab1d5b39c81
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

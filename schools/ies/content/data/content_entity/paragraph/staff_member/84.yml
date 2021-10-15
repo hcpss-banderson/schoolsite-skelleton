@@ -1,0 +1,53 @@
+id:
+  -
+    value: 84
+uuid:
+  -
+    value: 990acad0-0292-42a1-94eb-23fadaeac151
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:06:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: margaret_buckmaster@hcpss.org
+field_job_title:
+  -
+    value: PE
+field_name:
+  -
+    value: 'Peg Buckmaster'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '84'
+  uuid: 990acad0-0292-42a1-94eb-23fadaeac151
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

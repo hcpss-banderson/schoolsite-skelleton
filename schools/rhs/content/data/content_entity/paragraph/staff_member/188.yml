@@ -1,0 +1,53 @@
+id:
+  -
+    value: 188
+uuid:
+  -
+    value: 701d1a01-fdc5-4b58-88c4-cbb9a8eeb64a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Randy_Snearly@hcpss.org
+field_job_title:
+  -
+    value: Security
+field_name:
+  -
+    value: 'Randy Snearly'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '188'
+  uuid: 701d1a01-fdc5-4b58-88c4-cbb9a8eeb64a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

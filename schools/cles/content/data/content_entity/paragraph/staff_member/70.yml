@@ -1,0 +1,53 @@
+id:
+  -
+    value: 70
+uuid:
+  -
+    value: afae72ba-28e0-4054-b020-5a7c6f89a29b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:12:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: natalie_ricketts@hcpss.org
+field_job_title:
+  -
+    value: 'GT Teacher'
+field_name:
+  -
+    value: 'Natalie Ricketts'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '70'
+  uuid: afae72ba-28e0-4054-b020-5a7c6f89a29b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

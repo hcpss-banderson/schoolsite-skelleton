@@ -1,0 +1,53 @@
+id:
+  -
+    value: 65
+uuid:
+  -
+    value: 21b66eb5-6402-4af3-9496-f1e57591b070
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:51:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: samantha_nichols@hcpss.org
+field_job_title:
+  -
+    value: 'School Psychologist'
+field_name:
+  -
+    value: 'Samantha Nichols'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '65'
+  uuid: 21b66eb5-6402-4af3-9496-f1e57591b070
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

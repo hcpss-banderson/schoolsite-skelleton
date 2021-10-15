@@ -1,0 +1,53 @@
+id:
+  -
+    value: 15
+uuid:
+  -
+    value: c6d2766c-c1b2-4a59-85cc-074aceaa5fd0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:42:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jessica_jones@hcpss.org
+field_job_title:
+  -
+    value: 'Pupil Personnel Worker'
+field_name:
+  -
+    value: 'Jessica Jones'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '15'
+  uuid: c6d2766c-c1b2-4a59-85cc-074aceaa5fd0
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

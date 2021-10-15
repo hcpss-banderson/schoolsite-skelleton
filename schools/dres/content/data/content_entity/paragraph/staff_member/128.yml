@@ -1,0 +1,53 @@
+id:
+  -
+    value: 128
+uuid:
+  -
+    value: 1e023051-f763-4a0f-8689-5d367d3f3bc4
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:57:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kendra_jackson@hcpss.org
+field_job_title:
+  -
+    value: 'Paraeducator (ALS)'
+field_name:
+  -
+    value: 'Kendra Jackson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '128'
+  uuid: 1e023051-f763-4a0f-8689-5d367d3f3bc4
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

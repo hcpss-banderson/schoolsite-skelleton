@@ -1,0 +1,53 @@
+id:
+  -
+    value: 43
+uuid:
+  -
+    value: 29d58425-cca4-4f06-a847-73911854a34e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:03:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: joseph_quirk@hcpss.org
+field_job_title:
+  -
+    value: 'Physical Education'
+field_name:
+  -
+    value: 'Joseph Quirk'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '43'
+  uuid: 29d58425-cca4-4f06-a847-73911854a34e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

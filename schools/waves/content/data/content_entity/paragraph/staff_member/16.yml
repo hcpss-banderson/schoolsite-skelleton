@@ -1,0 +1,53 @@
+id:
+  -
+    value: 16
+uuid:
+  -
+    value: f6b7302a-dab1-470a-b2fa-26f1239b198a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:26:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: karol_moore@hcpss.org
+field_job_title:
+  -
+    value: 'Physical Therapist'
+field_name:
+  -
+    value: 'Dr. Karol Moore'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '16'
+  uuid: f6b7302a-dab1-470a-b2fa-26f1239b198a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

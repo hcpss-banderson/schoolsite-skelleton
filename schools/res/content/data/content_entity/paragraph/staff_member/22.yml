@@ -1,0 +1,53 @@
+id:
+  -
+    value: 22
+uuid:
+  -
+    value: 166e9eba-76f7-4821-b099-3828e533fcbf
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:17:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Stephanie_Schmid@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher - Team Leader'
+field_name:
+  -
+    value: 'Stephanie Schmid'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '22'
+  uuid: 166e9eba-76f7-4821-b099-3828e533fcbf
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

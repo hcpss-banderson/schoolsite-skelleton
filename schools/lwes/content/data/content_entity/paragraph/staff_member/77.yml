@@ -1,0 +1,53 @@
+id:
+  -
+    value: 77
+uuid:
+  -
+    value: ffd3fbf9-b001-4a9c-87f7-dd378c065453
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:10:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: palwasha_fatima@hcpss.org
+field_job_title:
+  -
+    value: 'RECC MINC EL Student Assistant'
+field_name:
+  -
+    value: 'Palwasha Fatima'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '77'
+  uuid: ffd3fbf9-b001-4a9c-87f7-dd378c065453
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

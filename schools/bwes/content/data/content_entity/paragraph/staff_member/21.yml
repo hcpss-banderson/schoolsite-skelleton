@@ -1,0 +1,53 @@
+id:
+  -
+    value: 21
+uuid:
+  -
+    value: eedc7de4-3842-4b57-a700-b6d492c9cb04
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:50:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Tara_Brown@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher ITL'
+field_name:
+  -
+    value: 'Tara Brown'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '21'
+  uuid: eedc7de4-3842-4b57-a700-b6d492c9cb04
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

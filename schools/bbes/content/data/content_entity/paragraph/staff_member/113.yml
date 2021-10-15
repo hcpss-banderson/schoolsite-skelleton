@@ -1,0 +1,53 @@
+id:
+  -
+    value: 113
+uuid:
+  -
+    value: 215cd576-e570-4dba-8231-4a1ac6a79928
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '30'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: casey_schurman@hcpss.org
+field_job_title:
+  -
+    value: 'Special Ed'
+field_name:
+  -
+    value: 'Casey Schurman'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '113'
+  uuid: 215cd576-e570-4dba-8231-4a1ac6a79928
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

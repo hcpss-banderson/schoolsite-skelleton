@@ -1,0 +1,53 @@
+id:
+  -
+    value: 151
+uuid:
+  -
+    value: 150b409e-43c5-4cb7-b3e8-07a3eab74d0f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:35:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '25'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Paul_Sabota@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Paul Sabota'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '151'
+  uuid: 150b409e-43c5-4cb7-b3e8-07a3eab74d0f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

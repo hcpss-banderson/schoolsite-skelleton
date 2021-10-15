@@ -1,0 +1,53 @@
+id:
+  -
+    value: 39
+uuid:
+  -
+    value: 453f6c7a-4240-49c7-8b5e-211ec5518a5a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:17:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Julie_Garris@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher - Team Leader'
+field_name:
+  -
+    value: 'Mrs. Garris'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '39'
+  uuid: 453f6c7a-4240-49c7-8b5e-211ec5518a5a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 1
+uuid:
+  -
+    value: 481ebef9-496b-4c11-a484-7f3a196a904a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:52:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: adam_eldridge@hcpss.org
+field_job_title:
+  -
+    value: Principal
+field_name:
+  -
+    value: 'Adam Eldridge'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '1'
+  uuid: 481ebef9-496b-4c11-a484-7f3a196a904a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

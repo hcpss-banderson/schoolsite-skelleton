@@ -1,0 +1,53 @@
+id:
+  -
+    value: 170
+uuid:
+  -
+    value: 4cdc6439-7865-40da-a445-5f5087556d21
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:32:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '34'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kim_Mayo@hcpss.org
+field_job_title:
+  -
+    value: Custodian
+field_name:
+  -
+    value: 'Kim Mayo'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '170'
+  uuid: 4cdc6439-7865-40da-a445-5f5087556d21
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

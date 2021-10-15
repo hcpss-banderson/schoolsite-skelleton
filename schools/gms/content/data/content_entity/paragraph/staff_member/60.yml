@@ -1,0 +1,53 @@
+id:
+  -
+    value: 60
+uuid:
+  -
+    value: d318eb2d-5fb1-4fa0-a372-84d0c382d31c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:49:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: sharon_m_johnson@hcpss.org
+field_job_title:
+  -
+    value: Music/Theater
+field_name:
+  -
+    value: 'Sharon Johnson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '60'
+  uuid: d318eb2d-5fb1-4fa0-a372-84d0c382d31c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

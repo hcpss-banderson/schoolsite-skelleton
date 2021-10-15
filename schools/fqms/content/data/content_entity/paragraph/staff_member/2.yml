@@ -1,0 +1,53 @@
+id:
+  -
+    value: 2
+uuid:
+  -
+    value: 2156ffcf-dd5e-487d-a611-23b3e6ea73f5
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:48:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Michele_Hewitt@hcpss.org
+field_job_title:
+  -
+    value: 'Assistant Principal'
+field_name:
+  -
+    value: 'Michele Hewitt'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '2'
+  uuid: 2156ffcf-dd5e-487d-a611-23b3e6ea73f5
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

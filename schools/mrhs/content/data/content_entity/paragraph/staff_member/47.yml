@@ -1,0 +1,53 @@
+id:
+  -
+    value: 47
+uuid:
+  -
+    value: 7e24f3c6-96c5-4c54-9d9e-e6f29d8f31d5
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:36:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: ross_rawlings@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, Vocal Director'
+field_name:
+  -
+    value: 'Ross Rawlings'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '47'
+  uuid: 7e24f3c6-96c5-4c54-9d9e-e6f29d8f31d5
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

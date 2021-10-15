@@ -1,0 +1,53 @@
+id:
+  -
+    value: 8
+uuid:
+  -
+    value: f7d08240-4f2b-466d-a04f-7f0212b545f9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:16:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Amanda_Munson@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher (Instrunctional Team Leader)'
+field_name:
+  -
+    value: 'Amanda Munson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '8'
+  uuid: f7d08240-4f2b-466d-a04f-7f0212b545f9
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

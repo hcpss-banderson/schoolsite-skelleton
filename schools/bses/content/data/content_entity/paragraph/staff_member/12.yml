@@ -1,0 +1,53 @@
+id:
+  -
+    value: 12
+uuid:
+  -
+    value: 122c601e-619b-4375-a737-a611eba1e350
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:48:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jennifer_waltemire@hcpss.org
+field_job_title:
+  -
+    value: 'Instructional Team Leader'
+field_name:
+  -
+    value: 'Jennifer Waltemire'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '12'
+  uuid: 122c601e-619b-4375-a737-a611eba1e350
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

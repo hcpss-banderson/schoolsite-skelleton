@@ -1,0 +1,53 @@
+id:
+  -
+    value: 7
+uuid:
+  -
+    value: 5fb8e779-0f24-4a3d-83b6-fc9e80ac3f3f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:49:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: caren_hoffman@hcpss.org
+field_job_title:
+  -
+    value: 'School Counselor/A-L'
+field_name:
+  -
+    value: 'Caren Hoffman'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '7'
+  uuid: 5fb8e779-0f24-4a3d-83b6-fc9e80ac3f3f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

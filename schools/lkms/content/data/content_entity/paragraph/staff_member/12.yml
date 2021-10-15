@@ -1,0 +1,53 @@
+id:
+  -
+    value: 12
+uuid:
+  -
+    value: c2afd972-1de0-44d8-96e2-d1f57b8a875b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:54:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kassandra_Wanless@hcpss.org
+field_job_title:
+  -
+    value: Nurse
+field_name:
+  -
+    value: 'Kassandra Wanless'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '12'
+  uuid: c2afd972-1de0-44d8-96e2-d1f57b8a875b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 126
+uuid:
+  -
+    value: b21444fa-7d16-4b98-81cb-1aa7e492959f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:34:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '19'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kristin_Dickel@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, Related Arts Instructional Team Leader'
+field_name:
+  -
+    value: 'Kristin Dickel'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '126'
+  uuid: b21444fa-7d16-4b98-81cb-1aa7e492959f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

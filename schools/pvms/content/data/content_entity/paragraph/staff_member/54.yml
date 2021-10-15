@@ -1,0 +1,53 @@
+id:
+  -
+    value: 54
+uuid:
+  -
+    value: 0ea1209e-bfd3-48ad-8b7e-cace2534ac6d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: elizabeth_oskvarek@hcpss.org
+field_job_title:
+  -
+    value: 'World Language'
+field_name:
+  -
+    value: 'Elizabeth Oskvarek'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '54'
+  uuid: 0ea1209e-bfd3-48ad-8b7e-cace2534ac6d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

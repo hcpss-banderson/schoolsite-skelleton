@@ -1,0 +1,53 @@
+id:
+  -
+    value: 80
+uuid:
+  -
+    value: 0ca7d27f-74e5-46ad-8c25-31ada5d23f95
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:32:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '19'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Alexis_Briscoe@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher - Health/Physical Education, Varsity Girls Basketball Coach'
+field_name:
+  -
+    value: 'Alexis Briscoe'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '80'
+  uuid: 0ca7d27f-74e5-46ad-8c25-31ada5d23f95
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

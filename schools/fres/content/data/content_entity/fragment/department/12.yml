@@ -1,0 +1,67 @@
+id:
+  -
+    value: 12
+uuid:
+  -
+    value: d8cdf8e1-206d-431e-a9c8-cfa76e4a6ea4
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:00:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'General Education Paraeducators'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:00:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:00:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 63
+    target_type: paragraph
+  -
+    target_id: 64
+    target_type: paragraph
+  -
+    target_id: 65
+    target_type: paragraph
+  -
+    target_id: 66
+    target_type: paragraph
+  -
+    target_id: 67
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '12'
+  uuid: d8cdf8e1-206d-431e-a9c8-cfa76e4a6ea4
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

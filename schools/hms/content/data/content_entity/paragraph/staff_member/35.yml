@@ -1,0 +1,53 @@
+id:
+  -
+    value: 35
+uuid:
+  -
+    value: c08ea07b-685e-43a6-8e3f-be7b7d4119b3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:52:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: rocky_seagroves@hcpss.org
+field_job_title:
+  -
+    value: 'Social Studies 6'
+field_name:
+  -
+    value: 'Rocky Seagroves'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '35'
+  uuid: c08ea07b-685e-43a6-8e3f-be7b7d4119b3
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

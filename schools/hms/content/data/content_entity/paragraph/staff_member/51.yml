@@ -1,0 +1,53 @@
+id:
+  -
+    value: 51
+uuid:
+  -
+    value: 95718d63-d9c5-489e-9296-8f821b8044e8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:52:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: karen_dellinger@hcpss.org
+field_job_title:
+  -
+    value: 'ESOL Teacher'
+field_name:
+  -
+    value: 'Karen Dellinger'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '51'
+  uuid: 95718d63-d9c5-489e-9296-8f821b8044e8
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

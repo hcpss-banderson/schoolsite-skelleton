@@ -1,0 +1,53 @@
+id:
+  -
+    value: 69
+uuid:
+  -
+    value: f0fd6f4d-78b6-4483-8624-b6b446b92d28
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:19:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jennifer_carlson@hcpss.org
+field_job_title:
+  -
+    value: 'School Counselor'
+field_name:
+  -
+    value: 'Jenny Carlson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '69'
+  uuid: f0fd6f4d-78b6-4483-8624-b6b446b92d28
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

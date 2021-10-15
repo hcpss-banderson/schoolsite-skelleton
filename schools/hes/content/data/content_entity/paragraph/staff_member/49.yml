@@ -1,0 +1,53 @@
+id:
+  -
+    value: 49
+uuid:
+  -
+    value: 0ac50b90-694a-4bde-a224-3b5c718b19d0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:03:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: bridget_whalen@hcpss.org
+field_job_title:
+  -
+    value: 'ESOL Teacher'
+field_name:
+  -
+    value: 'Bridget Whalen'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '49'
+  uuid: 0ac50b90-694a-4bde-a224-3b5c718b19d0
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

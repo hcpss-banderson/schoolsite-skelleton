@@ -1,0 +1,53 @@
+id:
+  -
+    value: 111
+uuid:
+  -
+    value: 98272681-0a23-4780-a6b1-ec21c5eb64ca
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:56:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: meagan_reccardi@hcpss.org
+field_job_title:
+  -
+    value: 'Student Assistant RECC MINC-EL'
+field_name:
+  -
+    value: 'Meagan Reccardi'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '111'
+  uuid: 98272681-0a23-4780-a6b1-ec21c5eb64ca
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

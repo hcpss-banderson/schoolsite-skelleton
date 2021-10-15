@@ -1,0 +1,53 @@
+id:
+  -
+    value: 84
+uuid:
+  -
+    value: a8f8c02c-9fcd-4f9a-b49e-7221edc82b13
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:13:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: ronda_lennon@hcpss.org
+field_job_title:
+  -
+    value: PPW
+field_name:
+  -
+    value: 'Ronda Lennon'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '84'
+  uuid: a8f8c02c-9fcd-4f9a-b49e-7221edc82b13
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

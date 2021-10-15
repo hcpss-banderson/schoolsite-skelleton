@@ -1,0 +1,53 @@
+id:
+  -
+    value: 25
+uuid:
+  -
+    value: 7ed15d17-488f-47e9-880e-a5d61c2948b0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:42:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: ashley_kronzer@hcpss.org
+field_job_title:
+  -
+    value: 'Sixth Grade ELA Teacher and Reading Modules'
+field_name:
+  -
+    value: 'Ashley Kronzer'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '25'
+  uuid: 7ed15d17-488f-47e9-880e-a5d61c2948b0
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

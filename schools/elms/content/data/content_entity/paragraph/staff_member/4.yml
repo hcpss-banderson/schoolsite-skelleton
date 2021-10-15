@@ -1,0 +1,53 @@
+id:
+  -
+    value: 4
+uuid:
+  -
+    value: 24ac9bab-01a8-41d4-b1e4-2b2cc11b1084
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:46:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: angela_berry@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher''s Secretary'
+field_name:
+  -
+    value: 'Angie Berry'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '4'
+  uuid: 24ac9bab-01a8-41d4-b1e4-2b2cc11b1084
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

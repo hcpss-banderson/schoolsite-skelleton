@@ -1,0 +1,53 @@
+id:
+  -
+    value: 69
+uuid:
+  -
+    value: 58a14dc3-ec7c-436a-8a13-13b35cf64f13
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:36:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: mariah_scott@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Mariah Scott'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '69'
+  uuid: 58a14dc3-ec7c-436a-8a13-13b35cf64f13
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

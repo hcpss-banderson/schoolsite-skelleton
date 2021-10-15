@@ -1,0 +1,53 @@
+id:
+  -
+    value: 44
+uuid:
+  -
+    value: 95756e21-269e-4534-b738-2577435f7fcb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:17:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kris_runner@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Mrs. Runner'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '44'
+  uuid: 95756e21-269e-4534-b738-2577435f7fcb
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 63
+uuid:
+  -
+    value: b9427aec-609b-471e-b841-f0310c246cd6
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:57:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: lauren_martinelli@hcpss.org
+field_job_title:
+  -
+    value: '3rd Grade Teacher'
+field_name:
+  -
+    value: 'Lauren Martinelli'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '63'
+  uuid: b9427aec-609b-471e-b841-f0310c246cd6
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

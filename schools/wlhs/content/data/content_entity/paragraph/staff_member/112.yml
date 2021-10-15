@@ -1,0 +1,53 @@
+id:
+  -
+    value: 112
+uuid:
+  -
+    value: c8b964d6-404e-4cba-a245-8deb4581e819
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:14:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kristin_cooper@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Kristin Cooper'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '112'
+  uuid: c8b964d6-404e-4cba-a245-8deb4581e819
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 90
+uuid:
+  -
+    value: 8684f456-2e99-436d-8491-1d6baa294a04
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '26'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: karen_spangler@hcpss.org
+field_job_title:
+  -
+    value: 'Media 0.5'
+field_name:
+  -
+    value: 'Karen Spangler'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '90'
+  uuid: 8684f456-2e99-436d-8491-1d6baa294a04
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

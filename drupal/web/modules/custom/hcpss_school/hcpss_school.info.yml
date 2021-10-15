@@ -1,0 +1,6 @@
+name: HCPSS School
+type: module
+description: School specific HCPSS module.
+package: HCPSS
+core: 8.x
+core_version_requirement: ^8 || ^9

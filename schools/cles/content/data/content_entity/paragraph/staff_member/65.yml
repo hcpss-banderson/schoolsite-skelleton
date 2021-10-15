@@ -1,0 +1,53 @@
+id:
+  -
+    value: 65
+uuid:
+  -
+    value: 1ba4d80b-b295-44f7-b272-16af04e66d6a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:12:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: mary_nalepa@hcpss.org
+field_job_title:
+  -
+    value: 'School Psychologist'
+field_name:
+  -
+    value: 'Mary Nalepa'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '65'
+  uuid: 1ba4d80b-b295-44f7-b272-16af04e66d6a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

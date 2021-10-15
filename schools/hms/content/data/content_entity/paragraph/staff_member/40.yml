@@ -1,0 +1,53 @@
+id:
+  -
+    value: 40
+uuid:
+  -
+    value: f667f6b4-b324-4fae-8b88-3579a37135e2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:52:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: brittany_hopkins@hcpss.org
+field_job_title:
+  -
+    value: 'French 7/8, Spanish 7'
+field_name:
+  -
+    value: 'Brittany Hopkins'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '40'
+  uuid: f667f6b4-b324-4fae-8b88-3579a37135e2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

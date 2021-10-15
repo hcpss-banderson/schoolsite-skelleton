@@ -1,0 +1,53 @@
+id:
+  -
+    value: 72
+uuid:
+  -
+    value: 821ec85c-95f7-4c6f-b91c-a4a619284aff
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:36:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: natalie_gaieski@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, PE'
+field_name:
+  -
+    value: 'Natalie Gaieski'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '72'
+  uuid: 821ec85c-95f7-4c6f-b91c-a4a619284aff
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

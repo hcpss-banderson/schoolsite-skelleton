@@ -1,0 +1,53 @@
+id:
+  -
+    value: 95
+uuid:
+  -
+    value: 52bfb582-0eec-430b-a1b2-fc132e3c7197
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:57:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kelly_Nycum@hcpss.org
+field_job_title:
+  -
+    value: 'Reading Specialist'
+field_name:
+  -
+    value: 'Mrs. Nycum'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '95'
+  uuid: 52bfb582-0eec-430b-a1b2-fc132e3c7197
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

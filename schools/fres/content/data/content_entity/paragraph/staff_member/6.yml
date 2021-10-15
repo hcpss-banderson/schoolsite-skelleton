@@ -1,0 +1,53 @@
+id:
+  -
+    value: 6
+uuid:
+  -
+    value: 8d05bf93-712a-4f7b-b37d-de30dc7a8b93
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:00:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kerri_Lewis@hcpss.org
+field_job_title:
+  -
+    value: 'Cluster Nurse'
+field_name:
+  -
+    value: 'Kerri Lewis'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '6'
+  uuid: 8d05bf93-712a-4f7b-b37d-de30dc7a8b93
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

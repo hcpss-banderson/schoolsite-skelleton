@@ -1,0 +1,53 @@
+id:
+  -
+    value: 64
+uuid:
+  -
+    value: 246ef963-b587-4989-9951-4a37b9f4a850
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:25:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Megan_Haley@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Para-Educator'
+field_name:
+  -
+    value: 'Megan Haley'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '64'
+  uuid: 246ef963-b587-4989-9951-4a37b9f4a850
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

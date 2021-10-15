@@ -1,0 +1,53 @@
+id:
+  -
+    value: 73
+uuid:
+  -
+    value: 2ca340d0-a98d-4ee9-8b20-8c3c70624d63
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:18:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: tara_diventi@hcpss.org
+field_job_title:
+  -
+    value: 'GT Resource Teacher'
+field_name:
+  -
+    value: 'Tara DiVenti'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '73'
+  uuid: 2ca340d0-a98d-4ee9-8b20-8c3c70624d63
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

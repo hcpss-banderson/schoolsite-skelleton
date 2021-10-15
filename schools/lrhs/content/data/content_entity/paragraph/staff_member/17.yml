@@ -1,0 +1,53 @@
+id:
+  -
+    value: 17
+uuid:
+  -
+    value: bb2b841a-0e79-4a76-8a53-5816856da80e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:34:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: arnetta_young@hcpss.org
+field_job_title:
+  -
+    value: 'Assistant Principal, 10-12th, H-Pa'
+field_name:
+  -
+    value: 'Arnetta Young'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '17'
+  uuid: bb2b841a-0e79-4a76-8a53-5816856da80e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

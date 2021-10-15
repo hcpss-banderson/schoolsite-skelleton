@@ -1,0 +1,53 @@
+id:
+  -
+    value: 68
+uuid:
+  -
+    value: c599bb2a-738b-4306-9894-a4f222e379c2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:49:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: cynthia_robinson@hcpss.org
+field_job_title:
+  -
+    value: Custodian
+field_name:
+  -
+    value: 'Cynthia Robinson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '68'
+  uuid: c599bb2a-738b-4306-9894-a4f222e379c2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

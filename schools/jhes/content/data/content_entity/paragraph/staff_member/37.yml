@@ -1,0 +1,53 @@
+id:
+  -
+    value: 37
+uuid:
+  -
+    value: ff7e12bf-c618-4d85-b489-835715cd99a8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:07:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Katherine_Meloro@hcpss.org
+field_job_title:
+  -
+    value: 'General Vocal Music Teacher'
+field_name:
+  -
+    value: 'Katherine Meloro'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '37'
+  uuid: ff7e12bf-c618-4d85-b489-835715cd99a8
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

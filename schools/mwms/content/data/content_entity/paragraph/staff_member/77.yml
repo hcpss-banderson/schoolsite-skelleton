@@ -1,0 +1,53 @@
+id:
+  -
+    value: 77
+uuid:
+  -
+    value: 9dd8efc5-4cb7-4d11-a5e0-1f035397aceb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:57:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Daniel_Carr@hcpss.org
+field_job_title:
+  -
+    value: 'School Psychologist'
+field_name:
+  -
+    value: 'Mr. Carr'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '77'
+  uuid: 9dd8efc5-4cb7-4d11-a5e0-1f035397aceb
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

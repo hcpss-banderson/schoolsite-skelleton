@@ -1,0 +1,53 @@
+id:
+  -
+    value: 6
+uuid:
+  -
+    value: 77df814e-3e9e-4a27-b4da-a4943cf2fa7e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:31:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: tenille_wagoner@hcpss.org
+field_job_title:
+  -
+    value: 'Principal''s Secretary'
+field_name:
+  -
+    value: 'Tenille Wagoner'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '6'
+  uuid: 77df814e-3e9e-4a27-b4da-a4943cf2fa7e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

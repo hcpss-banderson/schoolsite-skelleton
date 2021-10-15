@@ -1,0 +1,53 @@
+id:
+  -
+    value: 122
+uuid:
+  -
+    value: ee7928be-42e1-4663-90dd-be06636ab9bb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '23'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Tamara_Layne@hcpss.org
+field_job_title:
+  -
+    value: 'Speech/Language Pathologist'
+field_name:
+  -
+    value: 'Tamara Layne'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '122'
+  uuid: ee7928be-42e1-4663-90dd-be06636ab9bb
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

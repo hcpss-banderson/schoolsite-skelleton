@@ -1,0 +1,53 @@
+id:
+  -
+    value: 76
+uuid:
+  -
+    value: 7d1df5fb-03cc-44be-8288-d746d6c1721e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jason_Conley@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Jason Conley'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '76'
+  uuid: 7d1df5fb-03cc-44be-8288-d746d6c1721e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

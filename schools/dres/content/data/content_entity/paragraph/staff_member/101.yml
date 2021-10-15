@@ -1,0 +1,53 @@
+id:
+  -
+    value: 101
+uuid:
+  -
+    value: 5579bff1-35f3-482c-969a-e48f6a13a30a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:57:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jacquelyn_debella@hcpss.org
+field_job_title:
+  -
+    value: 'Strings .7'
+field_name:
+  -
+    value: 'Jackie DeBella'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '101'
+  uuid: 5579bff1-35f3-482c-969a-e48f6a13a30a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

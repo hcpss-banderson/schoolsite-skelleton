@@ -1,0 +1,53 @@
+id:
+  -
+    value: 73
+uuid:
+  -
+    value: 75b89403-98b1-4ff9-97fc-c8ec200bcfe3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:17:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Sarah_Granai@hcpss.org
+field_job_title:
+  -
+    value: 'ALS Paraeducator'
+field_name:
+  -
+    value: 'Sarah Granai'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '73'
+  uuid: 75b89403-98b1-4ff9-97fc-c8ec200bcfe3
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

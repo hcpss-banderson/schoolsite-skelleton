@@ -1,0 +1,53 @@
+id:
+  -
+    value: 5
+uuid:
+  -
+    value: 9ce5c2d2-87c3-4cd3-a9fc-4b3b13f92f5d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:48:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: sherri_whitsett@hcpss.org
+field_job_title:
+  -
+    value: 'Part-Time Teachers'' Secretary'
+field_name:
+  -
+    value: 'Sherri Whitsett'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '5'
+  uuid: 9ce5c2d2-87c3-4cd3-a9fc-4b3b13f92f5d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,51 @@
+id:
+  -
+    value: 111
+uuid:
+  -
+    value: 004d379e-dc3d-4796-8a9e-ed5d861ce2a9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:25:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: 'Building Supervisor'
+field_name:
+  -
+    value: 'Nicole Faulcon'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '111'
+  uuid: 004d379e-dc3d-4796-8a9e-ed5d861ce2a9
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 66
+uuid:
+  -
+    value: b4b7bbbc-3c6c-46b5-a9a4-b6cc4a94a700
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:48:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kathleen_borden@hcpss.org
+field_job_title:
+  -
+    value: 'Media Specialist and Instructional Technology'
+field_name:
+  -
+    value: 'Kathleen Borden'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '66'
+  uuid: b4b7bbbc-3c6c-46b5-a9a4-b6cc4a94a700
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

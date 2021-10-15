@@ -1,0 +1,53 @@
+id:
+  -
+    value: 51
+uuid:
+  -
+    value: d41ecbc5-9410-4486-80d5-c220cf12194e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:58:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kelsey_schriefer@hcpss.org
+field_job_title:
+  -
+    value: 'Instructional Team Leader'
+field_name:
+  -
+    value: 'Kelsey Schriefer'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '51'
+  uuid: d41ecbc5-9410-4486-80d5-c220cf12194e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

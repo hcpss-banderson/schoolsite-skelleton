@@ -1,0 +1,53 @@
+id:
+  -
+    value: 63
+uuid:
+  -
+    value: 301d85de-c744-4794-8ca8-c8c697ee76a2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:57:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Laura_Kooyman@hcpss.org
+field_job_title:
+  -
+    value: Art
+field_name:
+  -
+    value: 'Mrs. Kooyman'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '63'
+  uuid: 301d85de-c744-4794-8ca8-c8c697ee76a2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

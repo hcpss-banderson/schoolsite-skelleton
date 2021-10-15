@@ -1,0 +1,53 @@
+id:
+  -
+    value: 100
+uuid:
+  -
+    value: 9ce78682-f6d6-4c85-993e-2fe6cb6a7dbb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:55:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '18'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: lori_mellendick@hcpss.org
+field_job_title:
+  -
+    value: 'Art Teacher'
+field_name:
+  -
+    value: 'Lori Mellendick'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '100'
+  uuid: 9ce78682-f6d6-4c85-993e-2fe6cb6a7dbb
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

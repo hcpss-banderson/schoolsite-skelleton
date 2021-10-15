@@ -1,0 +1,53 @@
+id:
+  -
+    value: 78
+uuid:
+  -
+    value: eeb3a2fe-29af-4bd5-847c-f09cb2559e6c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:12:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: sharlene_reed@hcpss.org
+field_job_title:
+  -
+    value: Custodian
+field_name:
+  -
+    value: 'Sharlene Reed'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '78'
+  uuid: eeb3a2fe-29af-4bd5-847c-f09cb2559e6c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

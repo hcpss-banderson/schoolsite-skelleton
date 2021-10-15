@@ -1,0 +1,53 @@
+id:
+  -
+    value: 103
+uuid:
+  -
+    value: 4aa18bdd-136d-4edf-be59-e4ceea788e84
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:02:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Deborah_Barnes@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Deborah Barnes'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '103'
+  uuid: 4aa18bdd-136d-4edf-be59-e4ceea788e84
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

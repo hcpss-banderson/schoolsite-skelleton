@@ -1,0 +1,58 @@
+id:
+  -
+    value: 12
+uuid:
+  -
+    value: 60a4aab4-404c-4c03-9d3f-3b0ddbc7bdf0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:28:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Instrumental Music'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:28:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:28:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 54
+    target_type: paragraph
+  -
+    target_id: 55
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '12'
+  uuid: 60a4aab4-404c-4c03-9d3f-3b0ddbc7bdf0
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 23
+uuid:
+  -
+    value: bf97a028-e1ff-4205-8d90-46704e1b3235
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:12:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kelly_GaileyWalker@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Kelly Walker'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '23'
+  uuid: bf97a028-e1ff-4205-8d90-46704e1b3235
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

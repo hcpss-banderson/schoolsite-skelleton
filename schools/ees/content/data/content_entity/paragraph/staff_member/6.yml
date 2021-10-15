@@ -1,0 +1,53 @@
+id:
+  -
+    value: 6
+uuid:
+  -
+    value: 2baa0fac-50bc-427b-aa5d-e1c3ec81bbb8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:58:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Korya_Conyers@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher''s Secretary'
+field_name:
+  -
+    value: 'Korya Conyers'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '6'
+  uuid: 2baa0fac-50bc-427b-aa5d-e1c3ec81bbb8
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

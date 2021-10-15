@@ -1,0 +1,53 @@
+id:
+  -
+    value: 22
+uuid:
+  -
+    value: 7219c821-f43e-42e6-8228-4b1c79edf79f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:07:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Sharon_Brunswick@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Sharon Brunswick'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '22'
+  uuid: 7219c821-f43e-42e6-8228-4b1c79edf79f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

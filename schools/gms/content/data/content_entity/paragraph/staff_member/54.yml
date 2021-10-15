@@ -1,0 +1,53 @@
+id:
+  -
+    value: 54
+uuid:
+  -
+    value: 9851d45e-78f9-408c-bf0d-3089c8471f36
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:49:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: judith_kontaxis@hcpss.org
+field_job_title:
+  -
+    value: French/Spanish
+field_name:
+  -
+    value: 'Judy Kontaxis'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '54'
+  uuid: 9851d45e-78f9-408c-bf0d-3089c8471f36
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

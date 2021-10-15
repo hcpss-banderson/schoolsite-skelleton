@@ -1,0 +1,53 @@
+id:
+  -
+    value: 6
+uuid:
+  -
+    value: ea240e97-7300-4ef9-8c5c-0462241cafe8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:49:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: sherri_whitsett@hcpss.org
+field_job_title:
+  -
+    value: 'P/T Teachers'' Secretary'
+field_name:
+  -
+    value: 'Sherri Whitsett'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '6'
+  uuid: ea240e97-7300-4ef9-8c5c-0462241cafe8
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

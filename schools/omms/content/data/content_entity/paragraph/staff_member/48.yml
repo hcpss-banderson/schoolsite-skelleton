@@ -1,0 +1,53 @@
+id:
+  -
+    value: 48
+uuid:
+  -
+    value: 0ff2992b-9fbb-4101-8329-d6b666c4a83c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:59:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: amy_woolf@hcpss.org
+field_job_title:
+  -
+    value: 'Science/6th & 7th Grade/7th Grade Team Leader'
+field_name:
+  -
+    value: 'Amy Woolf'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '48'
+  uuid: 0ff2992b-9fbb-4101-8329-d6b666c4a83c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

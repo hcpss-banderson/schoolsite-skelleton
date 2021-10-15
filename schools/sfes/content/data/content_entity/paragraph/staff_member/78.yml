@@ -1,0 +1,53 @@
+id:
+  -
+    value: 78
+uuid:
+  -
+    value: 0b940a63-6b19-4add-93fb-df05a8344c29
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:19:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Josephine_Baccellieri@hcpss.org
+field_job_title:
+  -
+    value: 'ESOL Paraeducator'
+field_name:
+  -
+    value: 'Josephine Baccellieri'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '78'
+  uuid: 0b940a63-6b19-4add-93fb-df05a8344c29
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

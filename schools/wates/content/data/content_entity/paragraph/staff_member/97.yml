@@ -1,0 +1,53 @@
+id:
+  -
+    value: 97
+uuid:
+  -
+    value: 672c2fa0-8385-4a88-a09a-086aa3d6c7c8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:25:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Naomi_Haberman@hcpss.org
+field_job_title:
+  -
+    value: 'Crisis Intervention'
+field_name:
+  -
+    value: 'Naomi Haberman'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '97'
+  uuid: 672c2fa0-8385-4a88-a09a-086aa3d6c7c8
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

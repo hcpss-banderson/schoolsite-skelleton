@@ -1,0 +1,53 @@
+id:
+  -
+    value: 34
+uuid:
+  -
+    value: 996c8ec6-9552-41d1-9a4d-71a1cd886ffd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:35:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Denise_Kelehan@hcpss.org
+field_job_title:
+  -
+    value: 'Student Services Secretary'
+field_name:
+  -
+    value: 'Denise Kelehan'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '34'
+  uuid: 996c8ec6-9552-41d1-9a4d-71a1cd886ffd
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 43
+uuid:
+  -
+    value: 54a76f34-c12f-4514-8bde-4d2967384378
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:19:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: rachel_kastner@hcpss.org
+field_job_title:
+  -
+    value: 'G/T Resource Teacher'
+field_name:
+  -
+    value: 'Rachel Kastner'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '43'
+  uuid: 54a76f34-c12f-4514-8bde-4d2967384378
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

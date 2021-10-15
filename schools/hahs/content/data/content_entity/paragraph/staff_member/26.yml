@@ -1,0 +1,53 @@
+id:
+  -
+    value: 26
+uuid:
+  -
+    value: e74ea17b-ac4a-4a8d-907a-43bef3265cff
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:32:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: brian_roache@hcpss.org
+field_job_title:
+  -
+    value: 'Computer Programming Academy Teacher'
+field_name:
+  -
+    value: 'Brian Roache'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '26'
+  uuid: e74ea17b-ac4a-4a8d-907a-43bef3265cff
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

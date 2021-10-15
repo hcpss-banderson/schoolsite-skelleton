@@ -1,0 +1,51 @@
+id:
+  -
+    value: 10
+uuid:
+  -
+    value: 97aaad36-0882-48c5-88dd-012268f7dfd5
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:58:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: 'Paraeducator Pre-School AM/Kindergarten PM'
+field_name:
+  -
+    value: 'LaDawn Jackson-Shields'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '10'
+  uuid: 97aaad36-0882-48c5-88dd-012268f7dfd5
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

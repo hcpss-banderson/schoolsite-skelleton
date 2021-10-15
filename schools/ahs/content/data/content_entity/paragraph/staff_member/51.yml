@@ -1,0 +1,53 @@
+id:
+  -
+    value: 51
+uuid:
+  -
+    value: 5a015ec7-ad6c-4d34-9810-07e3cfc1fcc4
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: William_Reinhart@hcpss.org
+field_job_title:
+  -
+    value: 'JROTC Advisor'
+field_name:
+  -
+    value: 'William Reinhart'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '51'
+  uuid: 5a015ec7-ad6c-4d34-9810-07e3cfc1fcc4
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

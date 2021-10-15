@@ -1,0 +1,53 @@
+id:
+  -
+    value: 3
+uuid:
+  -
+    value: 3e1a642b-93d7-409f-a755-9bb04d289ce2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:41:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kathy_Benton@hcpss.org
+field_job_title:
+  -
+    value: 'Administrator''s Secretary'
+field_name:
+  -
+    value: 'Kathy Benton'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '3'
+  uuid: 3e1a642b-93d7-409f-a755-9bb04d289ce2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

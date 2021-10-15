@@ -1,0 +1,53 @@
+id:
+  -
+    value: 93
+uuid:
+  -
+    value: ed2200c9-7453-4863-88cd-d3da256c0260
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:33:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Joshua_McGoun@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, Head Golf Coach'
+field_name:
+  -
+    value: 'Joshua McGoun'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '93'
+  uuid: ed2200c9-7453-4863-88cd-d3da256c0260
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 80
+uuid:
+  -
+    value: 6e27d2e3-c622-4541-a769-55459f92ffc5
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:53:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: stacy_cole@hcpss.org
+field_job_title:
+  -
+    value: 'Student Assistant'
+field_name:
+  -
+    value: 'Stacy Cole'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '80'
+  uuid: 6e27d2e3-c622-4541-a769-55459f92ffc5
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

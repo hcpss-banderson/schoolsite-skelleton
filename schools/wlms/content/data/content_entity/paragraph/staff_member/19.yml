@@ -1,0 +1,53 @@
+id:
+  -
+    value: 19
+uuid:
+  -
+    value: 5eec3100-8fc1-460c-92e3-4726a24a8704
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:04:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Emilie_Fredrick@hcpss.org
+field_job_title:
+  -
+    value: 'ELA Teacher, 6th grade'
+field_name:
+  -
+    value: 'Emilie Fredrick'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '19'
+  uuid: 5eec3100-8fc1-460c-92e3-4726a24a8704
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

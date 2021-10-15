@@ -1,0 +1,53 @@
+id:
+  -
+    value: 8
+uuid:
+  -
+    value: e8c19d51-5088-4025-a3e1-5d6881547fcd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:55:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: anne_wilhelm@hcpss.org
+field_job_title:
+  -
+    value: 'Principal Secretary'
+field_name:
+  -
+    value: 'Anne Wilhelm'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '8'
+  uuid: e8c19d51-5088-4025-a3e1-5d6881547fcd
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

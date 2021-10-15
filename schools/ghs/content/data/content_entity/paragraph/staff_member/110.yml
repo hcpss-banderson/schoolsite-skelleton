@@ -1,0 +1,53 @@
+id:
+  -
+    value: 110
+uuid:
+  -
+    value: 6d248c68-0876-4968-8792-622eab01a191
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:31:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '19'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: bill_vanbuskirk@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher of the Visually Impaired'
+field_name:
+  -
+    value: 'Bill VanBuskirk'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '110'
+  uuid: 6d248c68-0876-4968-8792-622eab01a191
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

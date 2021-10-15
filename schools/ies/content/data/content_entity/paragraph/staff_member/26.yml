@@ -1,0 +1,53 @@
+id:
+  -
+    value: 26
+uuid:
+  -
+    value: 600f9646-8116-4b92-981d-8206893c7741
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:06:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: tisha_carroll@hcpss.org
+field_job_title:
+  -
+    value: 'PL Paraeducator'
+field_name:
+  -
+    value: 'Tisha Carroll'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '26'
+  uuid: 600f9646-8116-4b92-981d-8206893c7741
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

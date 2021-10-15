@@ -1,0 +1,53 @@
+id:
+  -
+    value: 105
+uuid:
+  -
+    value: 2205f728-7566-4285-ac15-d1c70a7cc3ef
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:53:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: zakia_smaw@hcpss.org
+field_job_title:
+  -
+    value: 'Reading Specialist'
+field_name:
+  -
+    value: 'Zakia Smaw'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '105'
+  uuid: 2205f728-7566-4285-ac15-d1c70a7cc3ef
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

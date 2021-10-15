@@ -1,0 +1,73 @@
+id:
+  -
+    value: 19
+uuid:
+  -
+    value: f7d1a2db-f0d3-4e92-a581-2b763b3166e0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:21:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: Cafeteria
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:21:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:21:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 81
+    target_type: paragraph
+  -
+    target_id: 82
+    target_type: paragraph
+  -
+    target_id: 83
+    target_type: paragraph
+  -
+    target_id: 84
+    target_type: paragraph
+  -
+    target_id: 85
+    target_type: paragraph
+  -
+    target_id: 86
+    target_type: paragraph
+  -
+    target_id: 87
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '19'
+  uuid: f7d1a2db-f0d3-4e92-a581-2b763b3166e0
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

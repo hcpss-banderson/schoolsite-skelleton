@@ -1,0 +1,53 @@
+id:
+  -
+    value: 14
+uuid:
+  -
+    value: 98072e2d-4f80-4c5f-ba5f-04de5126b63e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:06:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Tasneem_Pirbhai@hcpss.org
+field_job_title:
+  -
+    value: 'Pre-K Teacher'
+field_name:
+  -
+    value: 'Tasneem Pirbhai'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '14'
+  uuid: 98072e2d-4f80-4c5f-ba5f-04de5126b63e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

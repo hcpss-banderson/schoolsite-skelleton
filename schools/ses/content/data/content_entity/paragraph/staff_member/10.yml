@@ -1,0 +1,53 @@
+id:
+  -
+    value: 10
+uuid:
+  -
+    value: b7b9e05f-de3f-4e78-99c4-5e47d25ded36
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:18:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kristina_rainier@hcpss.org
+field_job_title:
+  -
+    value: 'School Counselor'
+field_name:
+  -
+    value: 'Kristina Rainier'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '10'
+  uuid: b7b9e05f-de3f-4e78-99c4-5e47d25ded36
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

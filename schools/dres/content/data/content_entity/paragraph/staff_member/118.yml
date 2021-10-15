@@ -1,0 +1,53 @@
+id:
+  -
+    value: 118
+uuid:
+  -
+    value: 76633387-0850-45d6-9cea-5f853db79449
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:57:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: morgan_gralla@hcpss.org
+field_job_title:
+  -
+    value: 'Occupational Therapist'
+field_name:
+  -
+    value: 'Morgan Gralla'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '118'
+  uuid: 76633387-0850-45d6-9cea-5f853db79449
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

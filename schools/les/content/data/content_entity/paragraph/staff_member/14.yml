@@ -1,0 +1,53 @@
+id:
+  -
+    value: 14
+uuid:
+  -
+    value: b73c4137-27d0-454f-8e3c-bb2b71e6bb0f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:08:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: mollie_thompson@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher/Instructional Team Leader'
+field_name:
+  -
+    value: 'Mollie Thompson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '14'
+  uuid: b73c4137-27d0-454f-8e3c-bb2b71e6bb0f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

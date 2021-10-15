@@ -1,0 +1,53 @@
+id:
+  -
+    value: 23
+uuid:
+  -
+    value: 731515ac-67d4-43c4-b3f9-0e07384c785d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:45:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: rhonda_mcdonnell@hcpss.org
+field_job_title:
+  -
+    value: 'Math 6'
+field_name:
+  -
+    value: 'Rhonda McDonnell'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '23'
+  uuid: 731515ac-67d4-43c4-b3f9-0e07384c785d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

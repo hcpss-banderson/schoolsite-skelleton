@@ -1,0 +1,53 @@
+id:
+  -
+    value: 47
+uuid:
+  -
+    value: 706db891-b828-4c76-b1d1-5b6e9a332587
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:34:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kimberly_Baum@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, CTE Instructional Team Leader'
+field_name:
+  -
+    value: 'Kimberly Baum'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '47'
+  uuid: 706db891-b828-4c76-b1d1-5b6e9a332587
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

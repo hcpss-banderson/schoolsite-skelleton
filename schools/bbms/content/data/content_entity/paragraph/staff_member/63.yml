@@ -1,0 +1,53 @@
+id:
+  -
+    value: 63
+uuid:
+  -
+    value: 45deb763-f58b-4d85-a391-cf162950b518
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:42:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: melinda_raglin@hcpss.org
+field_job_title:
+  -
+    value: 'Physical Education Teacher'
+field_name:
+  -
+    value: 'Melinda Raglin'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '63'
+  uuid: 45deb763-f58b-4d85-a391-cf162950b518
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

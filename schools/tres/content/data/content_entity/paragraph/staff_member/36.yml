@@ -1,0 +1,53 @@
+id:
+  -
+    value: 36
+uuid:
+  -
+    value: e5dd2d80-b86f-458f-83c5-6667f937bf10
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:22:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: carla_jefferson@hcpss.org
+field_job_title:
+  -
+    value: '.6 ESOL Teacher'
+field_name:
+  -
+    value: 'Carla Jefferson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '36'
+  uuid: e5dd2d80-b86f-458f-83c5-6667f937bf10
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

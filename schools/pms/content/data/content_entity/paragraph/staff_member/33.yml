@@ -1,0 +1,53 @@
+id:
+  -
+    value: 33
+uuid:
+  -
+    value: 1807275f-4391-4d4c-8615-ef8b0f5be940
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:00:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Matthew_Dymek@hcpss.org
+field_job_title:
+  -
+    value: 'Social Studies'
+field_name:
+  -
+    value: 'Matthew Dymek'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '33'
+  uuid: 1807275f-4391-4d4c-8615-ef8b0f5be940
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

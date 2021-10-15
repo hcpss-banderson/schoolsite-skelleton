@@ -1,0 +1,53 @@
+id:
+  -
+    value: 150
+uuid:
+  -
+    value: c3bc74ea-ba1b-4b7e-8b4d-67a01d31977d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '24'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Nina_Dix@hcpss.org
+field_job_title:
+  -
+    value: 'Student Services Data Clerk'
+field_name:
+  -
+    value: 'Nina Dix'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '150'
+  uuid: c3bc74ea-ba1b-4b7e-8b4d-67a01d31977d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

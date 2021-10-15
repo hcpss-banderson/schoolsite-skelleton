@@ -1,0 +1,53 @@
+id:
+  -
+    value: 54
+uuid:
+  -
+    value: 73db2209-2e6d-4472-aa90-96d90fc3d515
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:56:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: revaann_coleman@hcpss.org
+field_job_title:
+  -
+    value: 'Health Assistant'
+field_name:
+  -
+    value: 'Revaann Coleman'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '54'
+  uuid: 73db2209-2e6d-4472-aa90-96d90fc3d515
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

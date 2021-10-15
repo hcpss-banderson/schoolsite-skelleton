@@ -1,0 +1,53 @@
+id:
+  -
+    value: 41
+uuid:
+  -
+    value: da516a81-9740-42b5-8595-55f16ffb347e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:47:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: heidi_maciulla@hcpss.org
+field_job_title:
+  -
+    value: 'Reading Specialist | Instructional Team Leader (ITL)'
+field_name:
+  -
+    value: 'Heidi Maciulla'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '41'
+  uuid: da516a81-9740-42b5-8595-55f16ffb347e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 181
+uuid:
+  -
+    value: 911c108a-e1de-4f68-83eb-c7f6a9315306
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:35:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '28'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Ann_Johnston@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Ann Johnston'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '181'
+  uuid: 911c108a-e1de-4f68-83eb-c7f6a9315306
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

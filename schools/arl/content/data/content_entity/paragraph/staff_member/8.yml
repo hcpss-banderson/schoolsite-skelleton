@@ -1,0 +1,53 @@
+id:
+  -
+    value: 8
+uuid:
+  -
+    value: a9da76b3-d9eb-4a54-97df-3b049a8371b9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:41:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Josh_Burchett@hcpss.org
+field_job_title:
+  -
+    value: 'Media Specialist'
+field_name:
+  -
+    value: 'Josh Burchett'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '8'
+  uuid: a9da76b3-d9eb-4a54-97df-3b049a8371b9
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 27
+uuid:
+  -
+    value: 6bbaafe6-24ed-4981-9c06-0e2190a1743d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:42:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: elissa_schuyler@hcpss.org
+field_job_title:
+  -
+    value: 'Sixth and Seventh Grade Math Teacher'
+field_name:
+  -
+    value: 'Elissa Schuyler'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '27'
+  uuid: 6bbaafe6-24ed-4981-9c06-0e2190a1743d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

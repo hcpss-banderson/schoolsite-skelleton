@@ -1,0 +1,51 @@
+id:
+  -
+    value: 58
+uuid:
+  -
+    value: e31d911b-2a8b-4bc3-b59e-f8c94c9f4430
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:21:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: 'Paraeducator Resource'
+field_name:
+  -
+    value: 'Marlena Tyrell'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '58'
+  uuid: e31d911b-2a8b-4bc3-b59e-f8c94c9f4430
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

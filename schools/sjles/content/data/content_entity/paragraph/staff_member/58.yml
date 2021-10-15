@@ -1,0 +1,53 @@
+id:
+  -
+    value: 58
+uuid:
+  -
+    value: b8b2b009-cbce-4218-9519-bde0a0c1005b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:20:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jennifer_moon@hcpss.org
+field_job_title:
+  -
+    value: 'Art - .6'
+field_name:
+  -
+    value: 'Jennifer Moon'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '58'
+  uuid: b8b2b009-cbce-4218-9519-bde0a0c1005b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

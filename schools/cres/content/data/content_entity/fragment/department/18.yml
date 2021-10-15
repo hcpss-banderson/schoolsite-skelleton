@@ -1,0 +1,70 @@
+id:
+  -
+    value: 18
+uuid:
+  -
+    value: 6db5f1aa-ac88-4cbe-970a-702b061e4f7e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T15:54:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Building Maintenance'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:54:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T15:54:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 103
+    target_type: paragraph
+  -
+    target_id: 104
+    target_type: paragraph
+  -
+    target_id: 105
+    target_type: paragraph
+  -
+    target_id: 106
+    target_type: paragraph
+  -
+    target_id: 107
+    target_type: paragraph
+  -
+    target_id: 108
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '18'
+  uuid: 6db5f1aa-ac88-4cbe-970a-702b061e4f7e
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

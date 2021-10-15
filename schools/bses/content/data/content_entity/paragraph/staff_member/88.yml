@@ -1,0 +1,53 @@
+id:
+  -
+    value: 88
+uuid:
+  -
+    value: 29d38454-481b-4e5a-99f8-db39e4d7e0df
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:48:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: stephanie_wickstrom@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Stephanie Wickstrom'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '88'
+  uuid: 29d38454-481b-4e5a-99f8-db39e4d7e0df
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

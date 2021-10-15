@@ -1,0 +1,53 @@
+id:
+  -
+    value: 88
+uuid:
+  -
+    value: f7655584-1b4e-4161-ad12-1930ed119007
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:30:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: karen_simpson@hcpss.org
+field_job_title:
+  -
+    value: 'Student Assistant'
+field_name:
+  -
+    value: 'Karen Simpson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '88'
+  uuid: f7655584-1b4e-4161-ad12-1930ed119007
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

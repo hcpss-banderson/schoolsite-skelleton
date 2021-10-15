@@ -1,0 +1,53 @@
+id:
+  -
+    value: 96
+uuid:
+  -
+    value: 6bd9887a-eb91-45fc-86ae-b379d8af6c0d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:16:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Ingrid_Kleckner@hcpss.org
+field_job_title:
+  -
+    value: 'Social Worker'
+field_name:
+  -
+    value: 'Ingrid Kleckner'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '96'
+  uuid: 6bd9887a-eb91-45fc-86ae-b379d8af6c0d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

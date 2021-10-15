@@ -1,0 +1,53 @@
+id:
+  -
+    value: 63
+uuid:
+  -
+    value: 150e6764-6ca6-4a4f-b9cc-64dcea5bd6b8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:02:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: stephanie_shaughnessy@hcpss.org
+field_job_title:
+  -
+    value: 'Math Teacher/Interventionist and Title 1 Point of Contact'
+field_name:
+  -
+    value: 'Stephanie Shaughnessy'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '63'
+  uuid: 150e6764-6ca6-4a4f-b9cc-64dcea5bd6b8
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

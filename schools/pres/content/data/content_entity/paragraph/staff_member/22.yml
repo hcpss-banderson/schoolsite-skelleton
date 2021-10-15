@@ -1,0 +1,53 @@
+id:
+  -
+    value: 22
+uuid:
+  -
+    value: 5d72c61e-5d5c-4b21-a048-62b3282175b8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:15:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: shaundra_brown@hcpss.org
+field_job_title:
+  -
+    value: 'Second Grade Teacher'
+field_name:
+  -
+    value: 'Shaundra Brown'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '22'
+  uuid: 5d72c61e-5d5c-4b21-a048-62b3282175b8
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 4
+uuid:
+  -
+    value: ea46a91d-7121-4bee-929f-6a0f9dcd109c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:32:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Shannon_Reed@hcpss.org
+field_job_title:
+  -
+    value: 'Assistant Principal - Last names P - Z'
+field_name:
+  -
+    value: 'Shannon Reed'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '4'
+  uuid: ea46a91d-7121-4bee-929f-6a0f9dcd109c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

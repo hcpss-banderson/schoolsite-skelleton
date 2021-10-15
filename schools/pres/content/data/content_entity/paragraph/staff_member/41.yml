@@ -1,0 +1,53 @@
+id:
+  -
+    value: 41
+uuid:
+  -
+    value: fdafc85c-0bf2-47ea-8e80-e8114bcd18df
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:15:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jessica_brown@hcpss.org
+field_job_title:
+  -
+    value: 'GT Teacher'
+field_name:
+  -
+    value: 'Jessica Brown'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '41'
+  uuid: fdafc85c-0bf2-47ea-8e80-e8114bcd18df
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

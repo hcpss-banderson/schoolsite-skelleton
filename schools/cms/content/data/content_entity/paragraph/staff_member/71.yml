@@ -1,0 +1,53 @@
+id:
+  -
+    value: 71
+uuid:
+  -
+    value: 558994af-7267-4fde-a952-e93a3eec54a8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:44:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Julie_Prince@hcpss.org
+field_job_title:
+  -
+    value: 'School Counselor L-Z'
+field_name:
+  -
+    value: 'Julie Prince'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '71'
+  uuid: 558994af-7267-4fde-a952-e93a3eec54a8
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

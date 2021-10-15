@@ -1,0 +1,53 @@
+id:
+  -
+    value: 100
+uuid:
+  -
+    value: 4aa4383b-454a-477b-9708-e64b237c510c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:17:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '26'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Donna_Gregor@hcpss.org
+field_job_title:
+  -
+    value: 'Day Cheif'
+field_name:
+  -
+    value: 'Donna Gregor Donna Gregor'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '100'
+  uuid: 4aa4383b-454a-477b-9708-e64b237c510c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

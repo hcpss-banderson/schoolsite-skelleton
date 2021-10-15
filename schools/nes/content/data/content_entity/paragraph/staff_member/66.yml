@@ -1,0 +1,53 @@
+id:
+  -
+    value: 66
+uuid:
+  -
+    value: e983ff04-a8ce-4417-b6a9-5c5a8f28abda
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:12:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Mandy_Kramer@hcpss.org
+field_job_title:
+  -
+    value: 'Art Teacher'
+field_name:
+  -
+    value: 'Mandy Kramer'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '66'
+  uuid: e983ff04-a8ce-4417-b6a9-5c5a8f28abda
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

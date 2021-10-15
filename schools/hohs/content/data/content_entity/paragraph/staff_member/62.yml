@@ -1,0 +1,53 @@
+id:
+  -
+    value: 62
+uuid:
+  -
+    value: 49efc6f7-f7f8-4c10-a7b0-a946309e6ecc
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:33:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: linda_tsai@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Linda Tsai'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '62'
+  uuid: 49efc6f7-f7f8-4c10-a7b0-a946309e6ecc
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

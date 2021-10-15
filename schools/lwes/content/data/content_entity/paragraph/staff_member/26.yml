@@ -1,0 +1,53 @@
+id:
+  -
+    value: 26
+uuid:
+  -
+    value: 7aa7d16a-1a4b-4076-865c-76d3be47d29d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:10:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: catherine_justi@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Catherine Justi'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '26'
+  uuid: 7aa7d16a-1a4b-4076-865c-76d3be47d29d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

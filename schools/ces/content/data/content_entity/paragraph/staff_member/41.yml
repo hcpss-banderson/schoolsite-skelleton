@@ -1,0 +1,53 @@
+id:
+  -
+    value: 41
+uuid:
+  -
+    value: 2d9cf06c-c22b-4052-8d90-f1918507c717
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:52:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: benjamin_weiskind@hcpss.org
+field_job_title:
+  -
+    value: 'GT Teacher'
+field_name:
+  -
+    value: 'Ben Weiskind'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '41'
+  uuid: 2d9cf06c-c22b-4052-8d90-f1918507c717
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 77
+uuid:
+  -
+    value: 38a14f76-be4e-487f-946a-4b3ea8fd5060
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:48:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: stephanie_dapko@hcpss.org
+field_job_title:
+  -
+    value: 'Special Educator'
+field_name:
+  -
+    value: 'Ms. Dapko'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '77'
+  uuid: 38a14f76-be4e-487f-946a-4b3ea8fd5060
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

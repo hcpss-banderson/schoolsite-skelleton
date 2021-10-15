@@ -1,0 +1,53 @@
+id:
+  -
+    value: 32
+uuid:
+  -
+    value: 7ae08b2d-b31f-4611-97bb-0bef0480565f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:44:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Katherine_Schloss@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, Social Studies'
+field_name:
+  -
+    value: 'Katherine Schloss'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '32'
+  uuid: 7ae08b2d-b31f-4611-97bb-0bef0480565f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

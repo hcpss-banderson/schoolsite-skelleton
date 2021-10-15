@@ -1,0 +1,53 @@
+id:
+  -
+    value: 44
+uuid:
+  -
+    value: bc3e383c-cf37-4af3-8bff-7f48cd300bdb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:20:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Elizabeth_Taylor@hcpss.org
+field_job_title:
+  -
+    value: 'Reading Specialist'
+field_name:
+  -
+    value: 'Betsy Taylor'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '44'
+  uuid: bc3e383c-cf37-4af3-8bff-7f48cd300bdb
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

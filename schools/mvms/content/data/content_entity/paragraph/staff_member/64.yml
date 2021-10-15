@@ -1,0 +1,53 @@
+id:
+  -
+    value: 64
+uuid:
+  -
+    value: fd19e315-ab15-4520-97d7-0c418f3faf29
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:56:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: lindsey_metzler@hcpss.org
+field_job_title:
+  -
+    value: 'FACS and Modules'
+field_name:
+  -
+    value: 'Lindsey Metzler'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '64'
+  uuid: fd19e315-ab15-4520-97d7-0c418f3faf29
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

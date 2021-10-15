@@ -1,0 +1,53 @@
+id:
+  -
+    value: 49
+uuid:
+  -
+    value: c9afacad-d3b4-41f8-88e8-693dfdf4d281
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:30:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: hannah_elliott@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Hannah Elliott'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '49'
+  uuid: c9afacad-d3b4-41f8-88e8-693dfdf4d281
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

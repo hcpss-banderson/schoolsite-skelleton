@@ -1,0 +1,53 @@
+id:
+  -
+    value: 56
+uuid:
+  -
+    value: 29897435-1a37-41a3-983c-5f2e1321147b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:57:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: david_chiarella@hcpss.org
+field_job_title:
+  -
+    value: 'Physical Education'
+field_name:
+  -
+    value: 'Mr. Chiarella'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '56'
+  uuid: 29897435-1a37-41a3-983c-5f2e1321147b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

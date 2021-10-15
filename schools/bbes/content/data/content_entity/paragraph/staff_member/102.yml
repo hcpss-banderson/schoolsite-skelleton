@@ -1,0 +1,51 @@
+id:
+  -
+    value: 102
+uuid:
+  -
+    value: 9f9a820a-c384-4f6e-8c99-4c84402fee3a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '27'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: georgia_wright@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Georgia Wright'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '102'
+  uuid: 9f9a820a-c384-4f6e-8c99-4c84402fee3a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

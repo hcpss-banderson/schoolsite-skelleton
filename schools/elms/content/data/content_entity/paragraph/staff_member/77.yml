@@ -1,0 +1,53 @@
+id:
+  -
+    value: 77
+uuid:
+  -
+    value: 27a95c97-720f-4ceb-b28c-2e27144917dc
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:46:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: rachael_donati@hcpss.org
+field_job_title:
+  -
+    value: 'Math Teacher'
+field_name:
+  -
+    value: 'Rachael Donati'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '77'
+  uuid: 27a95c97-720f-4ceb-b28c-2e27144917dc
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

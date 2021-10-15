@@ -1,0 +1,53 @@
+id:
+  -
+    value: 23
+uuid:
+  -
+    value: 82b83bac-0ec2-4143-917e-bcb7e50fce64
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:26:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: christina_morest@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Christina Morest'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '23'
+  uuid: 82b83bac-0ec2-4143-917e-bcb7e50fce64
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

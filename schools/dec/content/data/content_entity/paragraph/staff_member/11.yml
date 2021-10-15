@@ -1,0 +1,53 @@
+id:
+  -
+    value: 11
+uuid:
+  -
+    value: 455fa361-14c1-47e8-9d56-bca7fdf75850
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:43:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: alexandra_landau@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Alexandra Landau'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '11'
+  uuid: 455fa361-14c1-47e8-9d56-bca7fdf75850
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

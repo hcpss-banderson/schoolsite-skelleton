@@ -1,0 +1,53 @@
+id:
+  -
+    value: 53
+uuid:
+  -
+    value: bda09db3-d008-423c-b930-22416aa71a5b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:56:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: paula_bonner@hcpss.org
+field_job_title:
+  -
+    value: 'English and Modules'
+field_name:
+  -
+    value: 'Paula Bonner'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '53'
+  uuid: bda09db3-d008-423c-b930-22416aa71a5b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

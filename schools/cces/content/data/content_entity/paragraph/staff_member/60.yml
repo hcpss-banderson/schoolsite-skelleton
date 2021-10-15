@@ -1,0 +1,51 @@
+id:
+  -
+    value: 60
+uuid:
+  -
+    value: a0e95ac6-ba49-465b-84ba-2e130269b162
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:51:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Colleen Weatherford'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '60'
+  uuid: a0e95ac6-ba49-465b-84ba-2e130269b162
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

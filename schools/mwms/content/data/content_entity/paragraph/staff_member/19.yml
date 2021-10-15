@@ -1,0 +1,53 @@
+id:
+  -
+    value: 19
+uuid:
+  -
+    value: fe8d002f-cb3b-467c-ab64-def2512c6979
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:57:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Andrea_Lang@hcpss.org
+field_job_title:
+  -
+    value: 'Math Instructional Support Teacher'
+field_name:
+  -
+    value: 'Mrs. Lang'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '19'
+  uuid: fe8d002f-cb3b-467c-ab64-def2512c6979
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,58 @@
+id:
+  -
+    value: 16
+uuid:
+  -
+    value: c0085a5e-8af3-4849-897e-296d02dc50fe
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:13:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Health Room'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:13:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:13:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 111
+    target_type: paragraph
+  -
+    target_id: 112
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '16'
+  uuid: c0085a5e-8af3-4849-897e-296d02dc50fe
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

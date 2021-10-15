@@ -1,0 +1,53 @@
+id:
+  -
+    value: 42
+uuid:
+  -
+    value: a72808cb-6299-469a-9076-0d46fcd83349
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:17:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kelsey_Blanch@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Kelsey Blanch'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '42'
+  uuid: a72808cb-6299-469a-9076-0d46fcd83349
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

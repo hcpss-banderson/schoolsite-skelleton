@@ -1,0 +1,53 @@
+id:
+  -
+    value: 90
+uuid:
+  -
+    value: 89cbc984-6ac8-46aa-b07f-56d615a8eeae
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:26:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: cwade@hcpss.org
+field_job_title:
+  -
+    value: 'Special Educator'
+field_name:
+  -
+    value: 'Cindy Wade'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '90'
+  uuid: 89cbc984-6ac8-46aa-b07f-56d615a8eeae
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

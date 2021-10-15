@@ -1,0 +1,53 @@
+id:
+  -
+    value: 67
+uuid:
+  -
+    value: 20a68b65-d97b-4fa7-89e4-7dc85a389d37
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:54:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jayvonna_Moore@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Jayvonna Moore'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '67'
+  uuid: 20a68b65-d97b-4fa7-89e4-7dc85a389d37
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

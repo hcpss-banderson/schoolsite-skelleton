@@ -1,0 +1,53 @@
+id:
+  -
+    value: 17
+uuid:
+  -
+    value: e532521d-cb0f-4857-91d7-a7711751252c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:19:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Stephanie_Gable@hcpss.org
+field_job_title:
+  -
+    value: 'First Grade Team Leader'
+field_name:
+  -
+    value: 'Stephanie Gable'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '17'
+  uuid: e532521d-cb0f-4857-91d7-a7711751252c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

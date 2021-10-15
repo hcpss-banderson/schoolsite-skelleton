@@ -1,0 +1,53 @@
+id:
+  -
+    value: 184
+uuid:
+  -
+    value: 5891f183-9e97-49ba-b247-709098b92c21
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:34:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '23'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: shonte_wicks@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Shonte Wicks'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '184'
+  uuid: 5891f183-9e97-49ba-b247-709098b92c21
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 40
+uuid:
+  -
+    value: 6db8f2e8-e47f-4e54-a2e6-88b1e0668f9c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:51:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: bailey_hutton@hcpss.org
+field_job_title:
+  -
+    value: 'Vocal Music Teacher (.4)'
+field_name:
+  -
+    value: 'Bailey Jo Oehler'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '40'
+  uuid: 6db8f2e8-e47f-4e54-a2e6-88b1e0668f9c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

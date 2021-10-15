@@ -1,0 +1,53 @@
+id:
+  -
+    value: 94
+uuid:
+  -
+    value: bccbbf1d-337a-43e3-a7c1-117e2948eb3e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:47:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: amber_burke@hcpss.org
+field_job_title:
+  -
+    value: Spanish
+field_name:
+  -
+    value: 'Amber Burke'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '94'
+  uuid: bccbbf1d-337a-43e3-a7c1-117e2948eb3e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

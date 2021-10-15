@@ -1,0 +1,53 @@
+id:
+  -
+    value: 73
+uuid:
+  -
+    value: 7e601880-2ac9-4b32-922a-2211e9092aad
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:44:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Danielle_Daughton@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Danielle Daughton'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '73'
+  uuid: 7e601880-2ac9-4b32-922a-2211e9092aad
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 99
+uuid:
+  -
+    value: 0cb671a7-1022-4f4f-938f-889fb0c8c374
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:54:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Tracey_Williams@hcpss.org
+field_job_title:
+  -
+    value: 'Pupil Personnel Worker'
+field_name:
+  -
+    value: 'Tracey Williams'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '99'
+  uuid: 0cb671a7-1022-4f4f-938f-889fb0c8c374
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 59
+uuid:
+  -
+    value: 8126a5ec-c894-48da-8ac6-8646e96e788a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:07:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Joseph_Taylor@hcpss.org
+field_job_title:
+  -
+    value: 'Night Custodian'
+field_name:
+  -
+    value: 'Joseph Taylor'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '59'
+  uuid: 8126a5ec-c894-48da-8ac6-8646e96e788a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

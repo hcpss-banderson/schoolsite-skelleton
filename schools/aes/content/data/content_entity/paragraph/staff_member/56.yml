@@ -1,0 +1,53 @@
+id:
+  -
+    value: 56
+uuid:
+  -
+    value: f393486b-d48f-43fd-9bc4-7fce00d1f2cd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:45:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: monica_zaleski@hcpss.org
+field_job_title:
+  -
+    value: 'ESOL Teacher, .5'
+field_name:
+  -
+    value: 'Monica Zaleski'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '56'
+  uuid: f393486b-d48f-43fd-9bc4-7fce00d1f2cd
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

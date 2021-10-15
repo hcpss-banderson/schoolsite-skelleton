@@ -1,0 +1,53 @@
+id:
+  -
+    value: 55
+uuid:
+  -
+    value: ee50b90e-b4e7-4bab-ac78-9a5cdf4a857c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:47:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: george_wood@hcpss.org
+field_job_title:
+  -
+    value: 'Technology Education / Foundations of Technology / 6th Grade Modules'
+field_name:
+  -
+    value: 'Dan Wood'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '55'
+  uuid: ee50b90e-b4e7-4bab-ac78-9a5cdf4a857c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

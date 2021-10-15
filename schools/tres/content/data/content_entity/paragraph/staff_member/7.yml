@@ -1,0 +1,53 @@
+id:
+  -
+    value: 7
+uuid:
+  -
+    value: 47ab5a7f-1af7-40a4-a505-3a4899f02fc4
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:22:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: denise_snider@hcpss.org
+field_job_title:
+  -
+    value: 'Teachers'' Secretary'
+field_name:
+  -
+    value: 'Denise Snider'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '7'
+  uuid: 47ab5a7f-1af7-40a4-a505-3a4899f02fc4
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

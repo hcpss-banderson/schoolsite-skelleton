@@ -1,0 +1,53 @@
+id:
+  -
+    value: 71
+uuid:
+  -
+    value: d1be2188-4c60-4b90-af43-22f39a72fb22
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:50:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Tamara_McCoy@hcpss.org
+field_job_title:
+  -
+    value: 'Reading Specialist'
+field_name:
+  -
+    value: 'Tamara McCoy'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '71'
+  uuid: d1be2188-4c60-4b90-af43-22f39a72fb22
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

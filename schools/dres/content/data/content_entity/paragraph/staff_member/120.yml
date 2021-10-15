@@ -1,0 +1,53 @@
+id:
+  -
+    value: 120
+uuid:
+  -
+    value: e7e480c2-c624-4b27-9483-61cb3254744c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:57:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Regina_Hufford@hcpss.org
+field_job_title:
+  -
+    value: 'Speech Language Pathologist'
+field_name:
+  -
+    value: 'Regina Hufford'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '120'
+  uuid: e7e480c2-c624-4b27-9483-61cb3254744c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

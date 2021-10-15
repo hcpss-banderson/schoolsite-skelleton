@@ -1,0 +1,53 @@
+id:
+  -
+    value: 93
+uuid:
+  -
+    value: 59f3ba5a-160b-4937-abdd-514c0ef1ea58
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:31:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '18'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: michelle_oland@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, Teacher Development Liaison'
+field_name:
+  -
+    value: 'Michelle Oland'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '93'
+  uuid: 59f3ba5a-160b-4937-abdd-514c0ef1ea58
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

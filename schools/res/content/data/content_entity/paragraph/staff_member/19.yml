@@ -1,0 +1,53 @@
+id:
+  -
+    value: 19
+uuid:
+  -
+    value: bb1cd5db-1b30-42b9-93e7-59fb777ebfc0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:17:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Gianna_Nierwinski@hcpss.org
+field_job_title:
+  -
+    value: 'MINC PS'
+field_name:
+  -
+    value: 'Gianna Nierwinski'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '19'
+  uuid: bb1cd5db-1b30-42b9-93e7-59fb777ebfc0
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

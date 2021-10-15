@@ -1,0 +1,53 @@
+id:
+  -
+    value: 5
+uuid:
+  -
+    value: 5065c111-c809-4cd7-bfff-c63e01d0be4d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: steven_fleming@hcpss.org
+field_job_title:
+  -
+    value: 'Assistant Principal (12th grade)'
+field_name:
+  -
+    value: 'Steven Fleming'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '5'
+  uuid: 5065c111-c809-4cd7-bfff-c63e01d0be4d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

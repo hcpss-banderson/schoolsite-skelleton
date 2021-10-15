@@ -1,0 +1,53 @@
+id:
+  -
+    value: 78
+uuid:
+  -
+    value: b57f1259-edfb-4e90-9234-603f7cd6f7b0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:32:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '18'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: alexander_kosisky@hcpss.org
+field_job_title:
+  -
+    value: 'ITL, School Counselor, A-Z, 9th grade,'
+field_name:
+  -
+    value: 'Alex Kosisky'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '78'
+  uuid: b57f1259-edfb-4e90-9234-603f7cd6f7b0
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

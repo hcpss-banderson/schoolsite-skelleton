@@ -1,0 +1,53 @@
+id:
+  -
+    value: 89
+uuid:
+  -
+    value: 5b531436-224e-4df4-b3a5-e788650ecef4
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:56:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: courtney_harris@hcpss.org
+field_job_title:
+  -
+    value: 'Grade One'
+field_name:
+  -
+    value: 'Courtney Harris'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '89'
+  uuid: 5b531436-224e-4df4-b3a5-e788650ecef4
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

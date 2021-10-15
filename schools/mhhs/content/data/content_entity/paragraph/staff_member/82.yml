@@ -1,0 +1,53 @@
+id:
+  -
+    value: 82
+uuid:
+  -
+    value: 913117a6-87e8-467c-a186-aa6cbdb9aed1
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:35:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jennifer_Johannes@hcpss.org
+field_job_title:
+  -
+    value: 'Art Teacher'
+field_name:
+  -
+    value: 'Jennifer Johannes'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '82'
+  uuid: 913117a6-87e8-467c-a186-aa6cbdb9aed1
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

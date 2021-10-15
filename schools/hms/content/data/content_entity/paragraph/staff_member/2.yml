@@ -1,0 +1,53 @@
+id:
+  -
+    value: 2
+uuid:
+  -
+    value: 128b6d73-cc49-472d-8c5d-8963bf31ed02
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:52:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: melissa_thompson@hcpss.org
+field_job_title:
+  -
+    value: 'Assistant Principal'
+field_name:
+  -
+    value: 'Melissa Thompson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '2'
+  uuid: 128b6d73-cc49-472d-8c5d-8963bf31ed02
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

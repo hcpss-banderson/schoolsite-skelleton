@@ -1,0 +1,53 @@
+id:
+  -
+    value: 117
+uuid:
+  -
+    value: 7a05638a-e8eb-44ae-b38f-3ff2f6f55e98
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:13:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '20'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: wayne_williams@hcpss.org
+field_job_title:
+  -
+    value: 'Night Lead'
+field_name:
+  -
+    value: 'Wayne Williams'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '117'
+  uuid: 7a05638a-e8eb-44ae-b38f-3ff2f6f55e98
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

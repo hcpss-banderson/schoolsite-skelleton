@@ -1,0 +1,53 @@
+id:
+  -
+    value: 48
+uuid:
+  -
+    value: c22a2e44-2e94-4af0-9890-13ff09c72858
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:15:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: melissa_fleck@hcpss.org
+field_job_title:
+  -
+    value: 'Art (.6)'
+field_name:
+  -
+    value: 'Melissa Fleck'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '48'
+  uuid: c22a2e44-2e94-4af0-9890-13ff09c72858
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 11
+uuid:
+  -
+    value: 2b401ded-99e7-4b36-8313-48d244688bf7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:42:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: lisa_miller@hcpss.org
+field_job_title:
+  -
+    value: 'Team Leader'
+field_name:
+  -
+    value: 'Lisa Miller'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '11'
+  uuid: 2b401ded-99e7-4b36-8313-48d244688bf7
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

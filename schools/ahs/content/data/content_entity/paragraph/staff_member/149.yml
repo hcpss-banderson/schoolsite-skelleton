@@ -1,0 +1,53 @@
+id:
+  -
+    value: 149
+uuid:
+  -
+    value: c981bee4-6dbc-412a-8f42-2537a9096cff
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '24'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Phillip_Cohen@hcpss.org
+field_job_title:
+  -
+    value: 'School Counselor, A-E (grade 10-12)'
+field_name:
+  -
+    value: 'Phillip Cohen'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '149'
+  uuid: c981bee4-6dbc-412a-8f42-2537a9096cff
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

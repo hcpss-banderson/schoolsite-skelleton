@@ -1,0 +1,53 @@
+id:
+  -
+    value: 70
+uuid:
+  -
+    value: 36d34f8a-6f49-4d19-9c16-bb906c732b35
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:56:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: susan_mako@hcpss.org
+field_job_title:
+  -
+    value: 'Gifted & Talented Resource Seminars'
+field_name:
+  -
+    value: 'Susan Mako'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '70'
+  uuid: 36d34f8a-6f49-4d19-9c16-bb906c732b35
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

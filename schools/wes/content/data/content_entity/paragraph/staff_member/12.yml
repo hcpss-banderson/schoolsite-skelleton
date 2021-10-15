@@ -1,0 +1,53 @@
+id:
+  -
+    value: 12
+uuid:
+  -
+    value: 87fc5a86-cf36-42aa-be49-efa180db5ddd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:27:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Hope_Duffy@hcpss.org
+field_job_title:
+  -
+    value: 'MINCPK Special Educator, Instructional Team Leader'
+field_name:
+  -
+    value: 'Hope Duffy'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '12'
+  uuid: 87fc5a86-cf36-42aa-be49-efa180db5ddd
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

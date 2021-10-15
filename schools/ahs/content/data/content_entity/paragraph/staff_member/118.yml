@@ -1,0 +1,53 @@
+id:
+  -
+    value: 118
+uuid:
+  -
+    value: 4429e928-4b00-46cd-b86f-4a3bf1ce6fed
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '23'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Rachel_Holtzman@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Rachel Holtzman'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '118'
+  uuid: 4429e928-4b00-46cd-b86f-4a3bf1ce6fed
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

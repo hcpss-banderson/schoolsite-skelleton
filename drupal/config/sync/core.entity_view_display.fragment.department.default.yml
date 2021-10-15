@@ -1,0 +1,95 @@
+uuid: 2b3b1fe5-0ca5-4eec-a9be-3b80310891ba
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.fragment.department.field_staff_members
+    - fragments.fragment_type.department
+  module:
+    - entity_reference_revisions
+    - field_layout
+    - layout_builder
+    - layout_discovery
+    - user
+third_party_settings:
+  field_layout:
+    id: layout_onecol
+    settings:
+      label: ''
+  layout_builder:
+    enabled: true
+    sections:
+      -
+        layout_id: layout_onecol
+        layout_settings:
+          label: ''
+        components:
+          e5977f69-168a-46ea-8fa9-160bd885dbc4:
+            uuid: e5977f69-168a-46ea-8fa9-160bd885dbc4
+            region: content
+            configuration:
+              id: 'field_block:fragment:department:title'
+              label: Title
+              provider: layout_builder
+              label_display: '0'
+              formatter:
+                label: hidden
+                type: string
+                settings:
+                  link_to_entity: false
+                third_party_settings: {  }
+              context_mapping:
+                entity: layout_builder.entity
+                view_mode: view_mode
+            additional: {  }
+            weight: 0
+          66edab9d-4f68-432c-9848-5ab3173cd995:
+            uuid: 66edab9d-4f68-432c-9848-5ab3173cd995
+            region: content
+            configuration:
+              id: 'field_block:fragment:department:field_staff_members'
+              label: 'Staff Members'
+              provider: layout_builder
+              label_display: '0'
+              formatter:
+                label: hidden
+                type: entity_reference_revisions_entity_view
+                settings:
+                  view_mode: abbreviated
+                third_party_settings: {  }
+              context_mapping:
+                entity: layout_builder.entity
+                view_mode: view_mode
+            additional: {  }
+            weight: 2
+        third_party_settings: {  }
+id: fragment.department.default
+targetEntityType: fragment
+bundle: department
+mode: default
+content:
+  field_staff_members:
+    type: entity_reference_revisions_entity_view
+    weight: 1
+    label: above
+    settings:
+      view_mode: default
+      link: ''
+    third_party_settings: {  }
+    region: content
+  title:
+    label: above
+    type: string
+    weight: -4
+    region: content
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+  user_id:
+    label: hidden
+    type: author
+    weight: 0
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden: {  }

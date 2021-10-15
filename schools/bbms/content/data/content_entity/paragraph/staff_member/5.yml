@@ -1,0 +1,53 @@
+id:
+  -
+    value: 5
+uuid:
+  -
+    value: 24ca15a3-0335-4e78-a7a0-2fcf4ce735c8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:42:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: paula_dise@hcpss.org
+field_job_title:
+  -
+    value: 'Middle School Data Clerk'
+field_name:
+  -
+    value: 'Paula Dise'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '5'
+  uuid: 24ca15a3-0335-4e78-a7a0-2fcf4ce735c8
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

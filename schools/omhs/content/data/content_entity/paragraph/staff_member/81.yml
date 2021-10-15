@@ -1,0 +1,51 @@
+id:
+  -
+    value: 81
+uuid:
+  -
+    value: 7a50ff4c-7cda-43d5-8e31-61350d1d333c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jynease_johnson@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Jynease Johnson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '81'
+  uuid: 7a50ff4c-7cda-43d5-8e31-61350d1d333c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

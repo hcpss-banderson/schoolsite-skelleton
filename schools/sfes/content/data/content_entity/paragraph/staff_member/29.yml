@@ -1,0 +1,53 @@
+id:
+  -
+    value: 29
+uuid:
+  -
+    value: ea23e68d-deef-4db7-94a6-106adaf2c44c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:19:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: marta_garcia@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Marta Garcia'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '29'
+  uuid: ea23e68d-deef-4db7-94a6-106adaf2c44c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

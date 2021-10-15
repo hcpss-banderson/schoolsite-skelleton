@@ -1,0 +1,53 @@
+id:
+  -
+    value: 75
+uuid:
+  -
+    value: 549a9d7d-73ee-4f6f-8a3d-07cf057244a2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:02:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: carolyn_mcqueen@hcpss.org
+field_job_title:
+  -
+    value: 'Night Chief'
+field_name:
+  -
+    value: 'Carolyn McQueen'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '75'
+  uuid: 549a9d7d-73ee-4f6f-8a3d-07cf057244a2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

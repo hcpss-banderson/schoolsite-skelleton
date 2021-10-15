@@ -1,0 +1,53 @@
+id:
+  -
+    value: 26
+uuid:
+  -
+    value: ab39195c-e0c8-4df9-beec-ac5f107aaf14
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:15:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: tara_coleman@hcpss.org
+field_job_title:
+  -
+    value: 'Third Grade Team Leader'
+field_name:
+  -
+    value: 'Tara Coleman'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '26'
+  uuid: ab39195c-e0c8-4df9-beec-ac5f107aaf14
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

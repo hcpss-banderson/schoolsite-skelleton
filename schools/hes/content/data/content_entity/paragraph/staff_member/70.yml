@@ -1,0 +1,53 @@
+id:
+  -
+    value: 70
+uuid:
+  -
+    value: 14066619-98b1-44e7-8268-b7de37906dd6
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:03:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: maria_rocco@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Paraeducator'
+field_name:
+  -
+    value: 'Maria Rocco'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '70'
+  uuid: 14066619-98b1-44e7-8268-b7de37906dd6
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

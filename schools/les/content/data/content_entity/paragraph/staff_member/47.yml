@@ -1,0 +1,53 @@
+id:
+  -
+    value: 47
+uuid:
+  -
+    value: 09b261b3-6ec9-43e0-b377-935306e3a8dc
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:08:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: amy_leatherman_cowell@hcpss.org
+field_job_title:
+  -
+    value: OT
+field_name:
+  -
+    value: 'Amy Leatherman Cowell'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '47'
+  uuid: 09b261b3-6ec9-43e0-b377-935306e3a8dc
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

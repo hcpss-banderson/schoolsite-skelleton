@@ -1,0 +1,53 @@
+id:
+  -
+    value: 54
+uuid:
+  -
+    value: e1fa5200-2771-48c1-98dc-d9e4f734adda
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:14:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: karen_bui-bates@hcpss.org
+field_job_title:
+  -
+    value: 'ESOL Coordinator'
+field_name:
+  -
+    value: 'Karen Bui-Bates'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '54'
+  uuid: e1fa5200-2771-48c1-98dc-d9e4f734adda
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

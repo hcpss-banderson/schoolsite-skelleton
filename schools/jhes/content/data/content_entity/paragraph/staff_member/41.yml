@@ -1,0 +1,53 @@
+id:
+  -
+    value: 41
+uuid:
+  -
+    value: 9e608852-8cf1-47f8-b75c-caebc41a83a7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:07:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Carolyn_Dozat@hcpss.org
+field_job_title:
+  -
+    value: 'ESOL Teacher'
+field_name:
+  -
+    value: 'Carolyn Dozat'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '41'
+  uuid: 9e608852-8cf1-47f8-b75c-caebc41a83a7
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

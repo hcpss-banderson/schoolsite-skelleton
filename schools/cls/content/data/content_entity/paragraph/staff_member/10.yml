@@ -1,0 +1,53 @@
+id:
+  -
+    value: 10
+uuid:
+  -
+    value: f3a77faa-f0dd-4436-88fa-d65e6c68ad2c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:42:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: michele_loving@hcpss.org
+field_job_title:
+  -
+    value: 'School Psychologist'
+field_name:
+  -
+    value: 'Michele Loving'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '10'
+  uuid: f3a77faa-f0dd-4436-88fa-d65e6c68ad2c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

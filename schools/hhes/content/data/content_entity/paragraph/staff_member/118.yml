@@ -1,0 +1,53 @@
+id:
+  -
+    value: 118
+uuid:
+  -
+    value: 9ebd4ecb-e672-47e2-b7f2-0697ab2f7e1b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:04:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: nena_hupp@hcpss.org
+field_job_title:
+  -
+    value: 'GT Resource Teacher'
+field_name:
+  -
+    value: 'Nena Hupp'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '118'
+  uuid: 9ebd4ecb-e672-47e2-b7f2-0697ab2f7e1b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

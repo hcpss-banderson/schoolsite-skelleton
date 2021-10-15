@@ -1,0 +1,53 @@
+id:
+  -
+    value: 90
+uuid:
+  -
+    value: a9b965db-6e90-4f1f-a659-c01c456654d6
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:46:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: elizabeth_becker@hcpss.org
+field_job_title:
+  -
+    value: 'Choral Director & Music Teacher'
+field_name:
+  -
+    value: 'Beth Becker'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '90'
+  uuid: a9b965db-6e90-4f1f-a659-c01c456654d6
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

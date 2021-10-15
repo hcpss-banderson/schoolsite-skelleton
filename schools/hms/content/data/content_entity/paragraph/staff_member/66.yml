@@ -1,0 +1,53 @@
+id:
+  -
+    value: 66
+uuid:
+  -
+    value: c82768f9-52fc-40ba-b4b6-f51c1ff37c57
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:52:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: rahimah_hall@hcpss.org
+field_job_title:
+  -
+    value: 'Cafeteria Manager'
+field_name:
+  -
+    value: 'Rahimah Hall'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '66'
+  uuid: c82768f9-52fc-40ba-b4b6-f51c1ff37c57
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

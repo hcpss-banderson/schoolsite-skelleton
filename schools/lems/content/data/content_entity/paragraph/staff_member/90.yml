@@ -1,0 +1,53 @@
+id:
+  -
+    value: 90
+uuid:
+  -
+    value: 55ca4213-3a7f-48c4-aea7-62a7ecbe430f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:53:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: carmen_sharpe@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Carmen Sharpe'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '90'
+  uuid: 55ca4213-3a7f-48c4-aea7-62a7ecbe430f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

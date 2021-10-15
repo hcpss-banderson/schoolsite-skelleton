@@ -1,0 +1,53 @@
+id:
+  -
+    value: 20
+uuid:
+  -
+    value: e0f4fbd8-f162-433d-a8f6-5590eb159e1b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:36:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: edward_krikorian@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, CTE'
+field_name:
+  -
+    value: 'Edward Krikorian'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '20'
+  uuid: e0f4fbd8-f162-433d-a8f6-5590eb159e1b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

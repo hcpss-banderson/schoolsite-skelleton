@@ -1,0 +1,53 @@
+id:
+  -
+    value: 19
+uuid:
+  -
+    value: 55c62db7-f418-483c-a481-c841ba59380e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:02:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: laurren_maynard@hcpss.org
+field_job_title:
+  -
+    value: 'Team Leader'
+field_name:
+  -
+    value: 'Laurren Maynard'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '19'
+  uuid: 55c62db7-f418-483c-a481-c841ba59380e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 98
+uuid:
+  -
+    value: 98a55d78-a0db-46e3-9996-42e218e51f5d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Pamela_Lapides@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, Instructional Team Leader (ITL)'
+field_name:
+  -
+    value: 'Pamela Lapides'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '98'
+  uuid: 98a55d78-a0db-46e3-9996-42e218e51f5d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

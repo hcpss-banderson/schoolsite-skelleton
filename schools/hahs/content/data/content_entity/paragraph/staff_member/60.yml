@@ -1,0 +1,53 @@
+id:
+  -
+    value: 60
+uuid:
+  -
+    value: 4af7678e-5846-4d28-9f2e-fa963163cdf9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:32:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Andrea_Dickie@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Andrea Dickie'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '60'
+  uuid: 4af7678e-5846-4d28-9f2e-fa963163cdf9
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

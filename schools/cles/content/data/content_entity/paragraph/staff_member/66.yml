@@ -1,0 +1,53 @@
+id:
+  -
+    value: 66
+uuid:
+  -
+    value: 18b54c33-13e7-4e13-8c5e-16adfa93ec80
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:12:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jaimie_shirokobrod@hcpss.org
+field_job_title:
+  -
+    value: 'Reading Specialist'
+field_name:
+  -
+    value: 'Jaimie Shirokobrod'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '66'
+  uuid: 18b54c33-13e7-4e13-8c5e-16adfa93ec80
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 51
+uuid:
+  -
+    value: 6eb7ea51-2ca8-4700-be7e-aecebff3cddd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Ekaterina_DiBenendetto@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Ekaterina DiBenendetto'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '51'
+  uuid: 6eb7ea51-2ca8-4700-be7e-aecebff3cddd
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

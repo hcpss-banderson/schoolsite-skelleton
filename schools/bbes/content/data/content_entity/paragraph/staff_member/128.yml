@@ -1,0 +1,51 @@
+id:
+  -
+    value: 128
+uuid:
+  -
+    value: f1904478-a98f-4f1d-a68e-cabf9645a3ca
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '32'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: TE
+field_name:
+  -
+    value: 'Tori Hughes'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '128'
+  uuid: f1904478-a98f-4f1d-a68e-cabf9645a3ca
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

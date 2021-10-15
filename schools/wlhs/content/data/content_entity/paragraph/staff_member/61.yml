@@ -1,0 +1,51 @@
+id:
+  -
+    value: 61
+uuid:
+  -
+    value: a9367ca1-61a0-458f-914e-5fbfdd351523
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:14:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: 'Food Services'
+field_name:
+  -
+    value: 'Shuchin Liu'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '61'
+  uuid: a9367ca1-61a0-458f-914e-5fbfdd351523
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

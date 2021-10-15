@@ -1,0 +1,53 @@
+id:
+  -
+    value: 56
+uuid:
+  -
+    value: 4be55e1f-9f2f-47b0-9807-feabf21e3b15
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:19:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kiran_Pedersen@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Kiran Pedersen'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '56'
+  uuid: 4be55e1f-9f2f-47b0-9807-feabf21e3b15
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

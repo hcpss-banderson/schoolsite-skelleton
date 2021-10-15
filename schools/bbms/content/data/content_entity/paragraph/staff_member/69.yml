@@ -1,0 +1,53 @@
+id:
+  -
+    value: 69
+uuid:
+  -
+    value: 1a5ee103-a630-4429-8b0c-d3c80021484c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:42:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: lesa_guth@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Teacher'
+field_name:
+  -
+    value: 'Lesa Guth'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '69'
+  uuid: 1a5ee103-a630-4429-8b0c-d3c80021484c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

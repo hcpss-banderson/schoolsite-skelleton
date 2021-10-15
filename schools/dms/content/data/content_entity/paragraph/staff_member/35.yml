@@ -1,0 +1,53 @@
+id:
+  -
+    value: 35
+uuid:
+  -
+    value: 72c859e7-4a3e-4fc6-9bc9-10eab5544f8f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:45:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: theresa_shamoo@hcpss.org
+field_job_title:
+  -
+    value: 'Social Studies 6 (Social Studies Team Leader)'
+field_name:
+  -
+    value: 'Theresa Shamoo'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '35'
+  uuid: 72c859e7-4a3e-4fc6-9bc9-10eab5544f8f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 5
+uuid:
+  -
+    value: b4907e26-fe75-46e0-bd39-545bdf8f4fec
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:07:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Arlene_Cabrera@hcpss.org
+field_job_title:
+  -
+    value: 'Teachers'' Secretary'
+field_name:
+  -
+    value: 'Arlene Cabrera'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '5'
+  uuid: b4907e26-fe75-46e0-bd39-545bdf8f4fec
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

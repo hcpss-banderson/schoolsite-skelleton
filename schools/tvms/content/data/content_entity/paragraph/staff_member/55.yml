@@ -1,0 +1,53 @@
+id:
+  -
+    value: 55
+uuid:
+  -
+    value: b3a716c4-8d33-44f4-9ef1-43162e6e28f3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:02:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jennifer_Eddy@hcpss.org
+field_job_title:
+  -
+    value: 'Science, Science Team Leader'
+field_name:
+  -
+    value: 'Jennifer Eddy'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '55'
+  uuid: b3a716c4-8d33-44f4-9ef1-43162e6e28f3
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

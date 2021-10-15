@@ -1,0 +1,53 @@
+id:
+  -
+    value: 21
+uuid:
+  -
+    value: 1a6df863-2dc9-4fff-84d8-2de99f595efe
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:55:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Emily_Egert@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Emily Egert'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '21'
+  uuid: 1a6df863-2dc9-4fff-84d8-2de99f595efe
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

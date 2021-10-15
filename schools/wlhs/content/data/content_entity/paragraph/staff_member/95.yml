@@ -1,0 +1,53 @@
+id:
+  -
+    value: 95
+uuid:
+  -
+    value: 87c80c69-d768-45b9-9b4c-6f0f88df88c4
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:14:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kathleen_palmateer@hcpss.org
+field_job_title:
+  -
+    value: 'Media Specialist'
+field_name:
+  -
+    value: 'Kathleen Palmateer'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '95'
+  uuid: 87c80c69-d768-45b9-9b4c-6f0f88df88c4
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

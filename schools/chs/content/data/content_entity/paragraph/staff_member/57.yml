@@ -1,0 +1,53 @@
+id:
+  -
+    value: 57
+uuid:
+  -
+    value: 1f6445c2-2daf-48cc-b8c9-2688b91af545
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:30:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: rebecca_clark@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher/Dance (ITL)'
+field_name:
+  -
+    value: 'Rebecca Clark'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '57'
+  uuid: 1f6445c2-2daf-48cc-b8c9-2688b91af545
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

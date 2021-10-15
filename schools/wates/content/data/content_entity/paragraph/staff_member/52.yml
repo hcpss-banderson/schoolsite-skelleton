@@ -1,0 +1,53 @@
+id:
+  -
+    value: 52
+uuid:
+  -
+    value: 0463f9dc-5cf5-48db-8e9f-1cf118f72a7b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:25:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Laura_Leahy@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Laura Leahy'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '52'
+  uuid: 0463f9dc-5cf5-48db-8e9f-1cf118f72a7b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

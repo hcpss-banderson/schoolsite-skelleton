@@ -1,0 +1,53 @@
+id:
+  -
+    value: 74
+uuid:
+  -
+    value: 1ec82a08-5271-4e01-905e-da7564528ce7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:34:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Beth_Myers@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Beth Myers'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '74'
+  uuid: 1ec82a08-5271-4e01-905e-da7564528ce7
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

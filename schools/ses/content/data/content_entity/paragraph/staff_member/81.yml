@@ -1,0 +1,51 @@
+id:
+  -
+    value: 81
+uuid:
+  -
+    value: 024f7465-abe3-472e-9aa6-039a40cc3b09
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:18:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jennifer_gillum@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Jennifer Gillum'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '81'
+  uuid: 024f7465-abe3-472e-9aa6-039a40cc3b09
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

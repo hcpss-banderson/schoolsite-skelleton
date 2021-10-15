@@ -1,0 +1,53 @@
+id:
+  -
+    value: 94
+uuid:
+  -
+    value: 4e4ea650-3e99-44be-b887-53141c7e893a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:13:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Samantha_King-Diener@hcpss.org
+field_job_title:
+  -
+    value: 'Speech Pathologist'
+field_name:
+  -
+    value: 'Samantha King-Diener'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '94'
+  uuid: 4e4ea650-3e99-44be-b887-53141c7e893a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

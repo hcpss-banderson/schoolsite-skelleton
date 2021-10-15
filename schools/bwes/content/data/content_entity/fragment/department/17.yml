@@ -1,0 +1,61 @@
+id:
+  -
+    value: 17
+uuid:
+  -
+    value: 472d30ad-7deb-4837-93c0-f2366275abdb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T15:50:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Lunch/Recess Monitor'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:50:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T15:50:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 91
+    target_type: paragraph
+  -
+    target_id: 92
+    target_type: paragraph
+  -
+    target_id: 93
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '17'
+  uuid: 472d30ad-7deb-4837-93c0-f2366275abdb
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

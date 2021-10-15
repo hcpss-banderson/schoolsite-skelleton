@@ -1,0 +1,91 @@
+id:
+  -
+    value: 14
+uuid:
+  -
+    value: fc6b0251-5968-450d-b0c0-96cb5649f171
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:36:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Student Services'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:36:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:36:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 128
+    target_type: paragraph
+  -
+    target_id: 129
+    target_type: paragraph
+  -
+    target_id: 130
+    target_type: paragraph
+  -
+    target_id: 131
+    target_type: paragraph
+  -
+    target_id: 132
+    target_type: paragraph
+  -
+    target_id: 133
+    target_type: paragraph
+  -
+    target_id: 134
+    target_type: paragraph
+  -
+    target_id: 135
+    target_type: paragraph
+  -
+    target_id: 136
+    target_type: paragraph
+  -
+    target_id: 137
+    target_type: paragraph
+  -
+    target_id: 138
+    target_type: paragraph
+  -
+    target_id: 139
+    target_type: paragraph
+  -
+    target_id: 140
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '14'
+  uuid: fc6b0251-5968-450d-b0c0-96cb5649f171
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

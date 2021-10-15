@@ -1,0 +1,53 @@
+id:
+  -
+    value: 33
+uuid:
+  -
+    value: 0776d497-9562-4466-9ca9-e8c6c2ae6ce7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: barbara_kronberger@hcpss.org
+field_job_title:
+  -
+    value: Pre-Kindergarten
+field_name:
+  -
+    value: 'Barbara Kronberger'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '33'
+  uuid: 0776d497-9562-4466-9ca9-e8c6c2ae6ce7
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

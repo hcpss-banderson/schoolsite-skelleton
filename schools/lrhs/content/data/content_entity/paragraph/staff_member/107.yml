@@ -1,0 +1,53 @@
+id:
+  -
+    value: 107
+uuid:
+  -
+    value: 3aebdb64-87a5-44be-b225-54c828d533a4
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:34:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jennifer_Hall@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Jennifer Hall'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '107'
+  uuid: 3aebdb64-87a5-44be-b225-54c828d533a4
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

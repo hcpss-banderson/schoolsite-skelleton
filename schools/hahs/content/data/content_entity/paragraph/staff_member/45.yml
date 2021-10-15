@@ -1,0 +1,53 @@
+id:
+  -
+    value: 45
+uuid:
+  -
+    value: 917d3a2d-25f5-4121-9d03-bc9963e00c9f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:32:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Katherine_McNamara@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Katie McNamara'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '45'
+  uuid: 917d3a2d-25f5-4121-9d03-bc9963e00c9f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

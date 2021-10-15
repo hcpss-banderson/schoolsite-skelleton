@@ -1,0 +1,53 @@
+id:
+  -
+    value: 44
+uuid:
+  -
+    value: 035e9468-a5db-4e8c-b49b-878367c3e5f6
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:06:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: erin_sears@hcpss.org
+field_job_title:
+  -
+    value: 'Instructional Team Leader'
+field_name:
+  -
+    value: 'Erin Sears'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '44'
+  uuid: 035e9468-a5db-4e8c-b49b-878367c3e5f6
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

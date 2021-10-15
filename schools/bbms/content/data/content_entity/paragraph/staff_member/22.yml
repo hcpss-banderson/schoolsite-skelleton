@@ -1,0 +1,53 @@
+id:
+  -
+    value: 22
+uuid:
+  -
+    value: 0718765a-4ea1-435c-be05-8908ebf0c88a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:42:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: todd_garner@hcpss.org
+field_job_title:
+  -
+    value: 'Sixth Grade Social Studies Teacher'
+field_name:
+  -
+    value: 'Todd Garner'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '22'
+  uuid: 0718765a-4ea1-435c-be05-8908ebf0c88a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

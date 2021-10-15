@@ -1,0 +1,53 @@
+id:
+  -
+    value: 24
+uuid:
+  -
+    value: 98c4cf53-22d2-4e30-b04f-871df37bae65
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:44:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kathleen_MacLaughlin@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, English/Reading'
+field_name:
+  -
+    value: 'Kathleen MacLaughlin'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '24'
+  uuid: 98c4cf53-22d2-4e30-b04f-871df37bae65
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

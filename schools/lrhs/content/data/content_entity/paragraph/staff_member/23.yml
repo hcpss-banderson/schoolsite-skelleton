@@ -1,0 +1,53 @@
+id:
+  -
+    value: 23
+uuid:
+  -
+    value: 8c97d6ed-af8e-41dc-b7ee-1e8ac7d907be
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:34:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: cyndy_mercado_garcia@hcpss.org
+field_job_title:
+  -
+    value: 'Hispanic Achievement Liaison'
+field_name:
+  -
+    value: 'Cyndy Mercado'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '23'
+  uuid: 8c97d6ed-af8e-41dc-b7ee-1e8ac7d907be
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

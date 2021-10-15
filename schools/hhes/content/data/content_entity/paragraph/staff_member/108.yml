@@ -1,0 +1,53 @@
+id:
+  -
+    value: 108
+uuid:
+  -
+    value: 415d9edb-3466-4866-a85a-f4650903fd06
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:04:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: lauren_farrelly@hcpss.org
+field_job_title:
+  -
+    value: 'Instructional Technology (0.5)/Media Specialist (0.5)'
+field_name:
+  -
+    value: 'Lauren Farrelly'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '108'
+  uuid: 415d9edb-3466-4866-a85a-f4650903fd06
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

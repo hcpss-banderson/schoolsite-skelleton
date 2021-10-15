@@ -1,0 +1,53 @@
+id:
+  -
+    value: 43
+uuid:
+  -
+    value: a9b3aaae-68c8-4eaa-8e51-e4c38e18a2fe
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:23:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: brian_holcombmcmahon@hcpss.org
+field_job_title:
+  -
+    value: 'GT Resource Teacher'
+field_name:
+  -
+    value: 'Brian Holcomb McMahon'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '43'
+  uuid: a9b3aaae-68c8-4eaa-8e51-e4c38e18a2fe
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

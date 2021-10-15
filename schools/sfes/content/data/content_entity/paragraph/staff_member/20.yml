@@ -1,0 +1,53 @@
+id:
+  -
+    value: 20
+uuid:
+  -
+    value: 2ddf9ee6-8bc0-45af-a471-eb30e0dc976d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:19:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Karen_Angelella@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Karen Angelella'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '20'
+  uuid: 2ddf9ee6-8bc0-45af-a471-eb30e0dc976d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

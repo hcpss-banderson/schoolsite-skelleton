@@ -1,0 +1,53 @@
+id:
+  -
+    value: 91
+uuid:
+  -
+    value: 5d1ef8ef-41ab-4fd1-9bff-5eca566b0f12
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:04:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Melva_Cole-Fleet@hcpss.org
+field_job_title:
+  -
+    value: 'BSAP Liaison'
+field_name:
+  -
+    value: 'Melvia Cole-Fleet'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '91'
+  uuid: 5d1ef8ef-41ab-4fd1-9bff-5eca566b0f12
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

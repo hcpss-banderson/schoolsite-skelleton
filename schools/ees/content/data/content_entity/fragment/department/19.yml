@@ -1,0 +1,61 @@
+id:
+  -
+    value: 19
+uuid:
+  -
+    value: 44fc5472-faea-4580-827b-60eb2d64ce3b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T15:58:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Reading Specialists'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:58:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T15:58:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 87
+    target_type: paragraph
+  -
+    target_id: 88
+    target_type: paragraph
+  -
+    target_id: 89
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '19'
+  uuid: 44fc5472-faea-4580-827b-60eb2d64ce3b
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

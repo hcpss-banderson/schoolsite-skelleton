@@ -1,0 +1,53 @@
+id:
+  -
+    value: 117
+uuid:
+  -
+    value: 4cc607cd-7c79-4aaa-96b1-45696f410b9c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:04:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kathleen_barbagallo@hcpss.org
+field_job_title:
+  -
+    value: 'GT Resource Teacher'
+field_name:
+  -
+    value: 'Kathleen Barbagallo'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '117'
+  uuid: 4cc607cd-7c79-4aaa-96b1-45696f410b9c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

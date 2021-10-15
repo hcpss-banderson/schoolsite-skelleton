@@ -1,0 +1,53 @@
+id:
+  -
+    value: 32
+uuid:
+  -
+    value: f8b307eb-34c3-4033-9ae5-16a15ea110a9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:47:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: makenzie_vasquez1_intern@hcpss.org
+field_job_title:
+  -
+    value: 'Intern Math'
+field_name:
+  -
+    value: 'Makenzie Intern - Vasquez'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '32'
+  uuid: f8b307eb-34c3-4033-9ae5-16a15ea110a9
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

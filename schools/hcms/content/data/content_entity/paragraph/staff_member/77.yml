@@ -1,0 +1,53 @@
+id:
+  -
+    value: 77
+uuid:
+  -
+    value: 7633f478-6338-4ae0-92b5-5ba5216e9240
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:50:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: lisa_gough@hcpss.org
+field_job_title:
+  -
+    value: 'Alternative Education Paraeducator'
+field_name:
+  -
+    value: 'Lisa Gough'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '77'
+  uuid: 7633f478-6338-4ae0-92b5-5ba5216e9240
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

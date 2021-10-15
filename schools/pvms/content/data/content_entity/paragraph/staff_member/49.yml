@@ -1,0 +1,53 @@
+id:
+  -
+    value: 49
+uuid:
+  -
+    value: 06fe710b-dac3-4086-98ca-adb3f145cc01
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: benjamin_goodwin@hcpss.org
+field_job_title:
+  -
+    value: 'Physical Education'
+field_name:
+  -
+    value: 'Benjamin Goodwin'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '49'
+  uuid: 06fe710b-dac3-4086-98ca-adb3f145cc01
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

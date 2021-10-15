@@ -1,0 +1,53 @@
+id:
+  -
+    value: 60
+uuid:
+  -
+    value: 2eaa4774-3ae7-446a-b0db-38864bfa5ea3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:47:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: nicole_krawczyk@hcpss.org
+field_job_title:
+  -
+    value: 'Science / 21st Century Learning'
+field_name:
+  -
+    value: 'Nicole Krawczyk'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '60'
+  uuid: 2eaa4774-3ae7-446a-b0db-38864bfa5ea3
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

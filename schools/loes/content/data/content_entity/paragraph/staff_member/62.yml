@@ -1,0 +1,53 @@
+id:
+  -
+    value: 62
+uuid:
+  -
+    value: de7597f9-6e64-49de-b8c7-b806c4fb2fe6
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:09:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: claudia_eckstrom@hcpss.org
+field_job_title:
+  -
+    value: 'Math Support Teacher'
+field_name:
+  -
+    value: 'Claudia Eckstrom'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '62'
+  uuid: de7597f9-6e64-49de-b8c7-b806c4fb2fe6
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 22
+uuid:
+  -
+    value: 59b241f7-1267-4078-82b8-43219b553da2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:47:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: stephanie_bruner@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Stephanie Bruner'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '22'
+  uuid: 59b241f7-1267-4078-82b8-43219b553da2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 38
+uuid:
+  -
+    value: fe5763d8-cafd-4a6c-a563-218ffbab8a09
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:06:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: tanisha_morgan@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Tanisha Morgan'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '38'
+  uuid: fe5763d8-cafd-4a6c-a563-218ffbab8a09
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

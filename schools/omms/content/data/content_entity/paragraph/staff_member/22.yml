@@ -1,0 +1,53 @@
+id:
+  -
+    value: 22
+uuid:
+  -
+    value: 6f7158bf-2b3c-44cd-bcc1-446a33de468d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:59:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: dorothy_demos@hcpss.org
+field_job_title:
+  -
+    value: 'English Language Arts/6th Grade/INI'
+field_name:
+  -
+    value: 'Dorothy Demos'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '22'
+  uuid: 6f7158bf-2b3c-44cd-bcc1-446a33de468d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

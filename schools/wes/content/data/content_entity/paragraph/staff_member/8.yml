@@ -1,0 +1,53 @@
+id:
+  -
+    value: 8
+uuid:
+  -
+    value: 35a14171-9d7f-45f3-84fb-d9b10d54d032
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:27:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: alisha_coleman@hcpss.org
+field_job_title:
+  -
+    value: 'Health Assistant'
+field_name:
+  -
+    value: 'Alisha Coleman'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '8'
+  uuid: 35a14171-9d7f-45f3-84fb-d9b10d54d032
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

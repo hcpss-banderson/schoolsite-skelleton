@@ -1,0 +1,53 @@
+id:
+  -
+    value: 99
+uuid:
+  -
+    value: 9bb2a639-f99d-416d-a9d7-2b5c53da2432
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:57:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Eddie_Carr@hcpss.org
+field_job_title:
+  -
+    value: 'Evening Custodial Supervisor'
+field_name:
+  -
+    value: 'Mr. Carr'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '99'
+  uuid: 9bb2a639-f99d-416d-a9d7-2b5c53da2432
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

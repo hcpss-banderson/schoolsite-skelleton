@@ -1,0 +1,53 @@
+id:
+  -
+    value: 75
+uuid:
+  -
+    value: ae95a62c-2e53-49c9-a1bd-5e7a38ca79ad
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:54:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: colleen_kraft@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Teacher'
+field_name:
+  -
+    value: 'Shannon Kraft'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '75'
+  uuid: ae95a62c-2e53-49c9-a1bd-5e7a38ca79ad
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

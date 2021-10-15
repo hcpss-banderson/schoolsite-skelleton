@@ -1,0 +1,53 @@
+id:
+  -
+    value: 18
+uuid:
+  -
+    value: 60ecc98f-1b70-484c-a673-218b3bbbd53c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:04:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Shakia_Fleming@hcpss.org
+field_job_title:
+  -
+    value: 'Science Teacher, 6th grade'
+field_name:
+  -
+    value: 'Shakia Fleming'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '18'
+  uuid: 60ecc98f-1b70-484c-a673-218b3bbbd53c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

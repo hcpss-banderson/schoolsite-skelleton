@@ -1,0 +1,53 @@
+id:
+  -
+    value: 27
+uuid:
+  -
+    value: 3bbedf3f-aaa5-4c1f-8dc7-f74dd9fa74fb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:12:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: emily_punt@hcpss.org
+field_job_title:
+  -
+    value: '4th Grade Teacher'
+field_name:
+  -
+    value: 'Emily Punt'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '27'
+  uuid: 3bbedf3f-aaa5-4c1f-8dc7-f74dd9fa74fb
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

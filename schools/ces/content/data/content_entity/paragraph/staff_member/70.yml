@@ -1,0 +1,53 @@
+id:
+  -
+    value: 70
+uuid:
+  -
+    value: 6f3007f4-fc6c-4830-a9af-37e50a2f4078
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:52:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Chaeyoung_Kim@hcpss.org
+field_job_title:
+  -
+    value: 'ALS Para Professional'
+field_name:
+  -
+    value: 'Chaerry Kim'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '70'
+  uuid: 6f3007f4-fc6c-4830-a9af-37e50a2f4078
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

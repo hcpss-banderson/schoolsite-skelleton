@@ -1,0 +1,53 @@
+id:
+  -
+    value: 33
+uuid:
+  -
+    value: cfbf28d4-9a6e-452a-bacc-3482a14201bf
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:52:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: craig_graf@hcpss.org
+field_job_title:
+  -
+    value: 'Social Studies 8/8th Grade TL'
+field_name:
+  -
+    value: 'Craig Graf'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '33'
+  uuid: cfbf28d4-9a6e-452a-bacc-3482a14201bf
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

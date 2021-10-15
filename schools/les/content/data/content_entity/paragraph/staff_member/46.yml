@@ -1,0 +1,53 @@
+id:
+  -
+    value: 46
+uuid:
+  -
+    value: 184d3ff4-9e2e-4b00-9672-0bfc5265a7e3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:08:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: helen_percy@hcpss.org
+field_job_title:
+  -
+    value: 'Speech-Language Pathologist (.4)'
+field_name:
+  -
+    value: 'Helen Percy'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '46'
+  uuid: 184d3ff4-9e2e-4b00-9672-0bfc5265a7e3
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

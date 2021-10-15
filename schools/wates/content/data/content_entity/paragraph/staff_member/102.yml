@@ -1,0 +1,53 @@
+id:
+  -
+    value: 102
+uuid:
+  -
+    value: 81ce5330-eef5-457a-a74f-013e25a89208
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:25:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Selina_Hill@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Para-Educator'
+field_name:
+  -
+    value: 'Selina Hill'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '102'
+  uuid: 81ce5330-eef5-457a-a74f-013e25a89208
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

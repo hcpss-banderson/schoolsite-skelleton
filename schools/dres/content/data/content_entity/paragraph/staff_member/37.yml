@@ -1,0 +1,53 @@
+id:
+  -
+    value: 37
+uuid:
+  -
+    value: 0f7b3e51-f15d-492c-9a16-4c3a8dc0e28e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:57:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kaitlyn_ogaitis@hcpss.org
+field_job_title:
+  -
+    value: 'Student Assistant'
+field_name:
+  -
+    value: 'Kaitlyn Ogaitis'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '37'
+  uuid: 0f7b3e51-f15d-492c-9a16-4c3a8dc0e28e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

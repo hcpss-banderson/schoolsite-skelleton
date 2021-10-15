@@ -1,0 +1,53 @@
+id:
+  -
+    value: 177
+uuid:
+  -
+    value: 8e4e40ad-4c4d-43d0-8991-82cd5d6bc0a1
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Linda_Szalkowski@hcpss.org
+field_job_title:
+  -
+    value: 'Food Service Worker'
+field_name:
+  -
+    value: 'Linda Szalkowski'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '177'
+  uuid: 8e4e40ad-4c4d-43d0-8991-82cd5d6bc0a1
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

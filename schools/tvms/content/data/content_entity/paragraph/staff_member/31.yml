@@ -1,0 +1,53 @@
+id:
+  -
+    value: 31
+uuid:
+  -
+    value: d6221ea3-a3a2-450b-bcf2-1b14cdfb3ea7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:02:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Nakia_Younger@hcpss.org
+field_job_title:
+  -
+    value: Math
+field_name:
+  -
+    value: 'Nakia Younger'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '31'
+  uuid: d6221ea3-a3a2-450b-bcf2-1b14cdfb3ea7
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 86
+uuid:
+  -
+    value: d9d74164-7dbf-4b22-92f6-2f934a536447
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:15:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: carol_heilveil@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Carol Heilveil'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '86'
+  uuid: d9d74164-7dbf-4b22-92f6-2f934a536447
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

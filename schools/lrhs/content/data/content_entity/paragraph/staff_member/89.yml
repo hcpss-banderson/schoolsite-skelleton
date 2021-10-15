@@ -1,0 +1,53 @@
+id:
+  -
+    value: 89
+uuid:
+  -
+    value: a28b8a5e-86e5-438b-b7e3-9a2d2e4a8839
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:34:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: john_horner@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, Boys Varsity Soccer'
+field_name:
+  -
+    value: 'John Horner'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '89'
+  uuid: a28b8a5e-86e5-438b-b7e3-9a2d2e4a8839
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

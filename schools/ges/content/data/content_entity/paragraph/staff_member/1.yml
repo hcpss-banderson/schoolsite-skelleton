@@ -1,0 +1,53 @@
+id:
+  -
+    value: 1
+uuid:
+  -
+    value: 2219de04-2f24-4de5-88e7-472e69490f84
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:02:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: trish_lannon@hcpss.org
+field_job_title:
+  -
+    value: Principal
+field_name:
+  -
+    value: 'Trish Lannon'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '1'
+  uuid: 2219de04-2f24-4de5-88e7-472e69490f84
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

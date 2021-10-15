@@ -1,0 +1,53 @@
+id:
+  -
+    value: 92
+uuid:
+  -
+    value: 1c1096a8-d4c3-4996-aa08-7cb8dd4216d0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:57:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: david_floyd@hcpss.org
+field_job_title:
+  -
+    value: Technology
+field_name:
+  -
+    value: 'Dave Floyd'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '92'
+  uuid: 1c1096a8-d4c3-4996-aa08-7cb8dd4216d0
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

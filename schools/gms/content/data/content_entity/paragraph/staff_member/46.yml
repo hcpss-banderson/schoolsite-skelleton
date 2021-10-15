@@ -1,0 +1,53 @@
+id:
+  -
+    value: 46
+uuid:
+  -
+    value: d9bbdbb9-1adc-4dc3-bb8f-6499d3fa780f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:49:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: susan_apple@hcpss.org
+field_job_title:
+  -
+    value: 'Social Studies (6,8)/Social Studies Team Leader'
+field_name:
+  -
+    value: 'Susan Apple'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '46'
+  uuid: d9bbdbb9-1adc-4dc3-bb8f-6499d3fa780f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

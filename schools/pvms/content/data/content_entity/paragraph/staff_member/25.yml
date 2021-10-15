@@ -1,0 +1,53 @@
+id:
+  -
+    value: 25
+uuid:
+  -
+    value: 17576ca3-c6fe-47e2-b72c-b215b0bdaed3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Christine_Hughes@hcpss.org
+field_job_title:
+  -
+    value: 'Social Studies'
+field_name:
+  -
+    value: 'Christine Hughes'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '25'
+  uuid: 17576ca3-c6fe-47e2-b72c-b215b0bdaed3
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 112
+uuid:
+  -
+    value: 98b63f6a-1a2f-490f-a9b1-2461d67da326
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:13:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: terese_syed@hcpss.org
+field_job_title:
+  -
+    value: 'Health Assistant'
+field_name:
+  -
+    value: 'Terese Syed'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '112'
+  uuid: 98b63f6a-1a2f-490f-a9b1-2461d67da326
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

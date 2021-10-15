@@ -1,0 +1,53 @@
+id:
+  -
+    value: 97
+uuid:
+  -
+    value: e6a9bdf0-51d8-4104-b6d6-a91b3e220525
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:31:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '18'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kathy_watson@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Kathy Watson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '97'
+  uuid: e6a9bdf0-51d8-4104-b6d6-a91b3e220525
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

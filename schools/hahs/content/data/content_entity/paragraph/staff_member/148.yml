@@ -1,0 +1,53 @@
+id:
+  -
+    value: 148
+uuid:
+  -
+    value: dec0bb06-976c-468c-926b-5dda3ae04cea
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:32:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '29'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Margaret_Shomali@hcpss.org
+field_job_title:
+  -
+    value: 'School Counselor, En - Lam, 10-12'
+field_name:
+  -
+    value: 'Margaret Shomali'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '148'
+  uuid: dec0bb06-976c-468c-926b-5dda3ae04cea
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

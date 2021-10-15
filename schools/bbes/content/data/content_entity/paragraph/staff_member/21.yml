@@ -1,0 +1,53 @@
+id:
+  -
+    value: 21
+uuid:
+  -
+    value: e7148a46-c3ee-4b3d-94a9-e7a3bac8f004
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: gifty_yeboah@hcpss.org
+field_job_title:
+  -
+    value: Custodian
+field_name:
+  -
+    value: 'Gifty Yeboah'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '21'
+  uuid: e7148a46-c3ee-4b3d-94a9-e7a3bac8f004
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

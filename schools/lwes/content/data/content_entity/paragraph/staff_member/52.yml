@@ -1,0 +1,53 @@
+id:
+  -
+    value: 52
+uuid:
+  -
+    value: 8b9d23e9-a0d9-48c2-a14e-39ea071c0cfb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:10:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: avery_mcclelland@hcpss.org
+field_job_title:
+  -
+    value: '.4 Art Teacher'
+field_name:
+  -
+    value: 'Avery McClelland'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '52'
+  uuid: 8b9d23e9-a0d9-48c2-a14e-39ea071c0cfb
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

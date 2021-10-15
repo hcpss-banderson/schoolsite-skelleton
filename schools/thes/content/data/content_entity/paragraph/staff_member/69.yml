@@ -1,0 +1,51 @@
+id:
+  -
+    value: 69
+uuid:
+  -
+    value: 1e7ef7da-fc48-4231-8ae5-b3517a1933a0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:21:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: '1:1 TE'
+field_name:
+  -
+    value: 'Jake Tetlow'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '69'
+  uuid: 1e7ef7da-fc48-4231-8ae5-b3517a1933a0
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

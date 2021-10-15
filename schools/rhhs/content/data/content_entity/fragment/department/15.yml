@@ -1,0 +1,76 @@
+id:
+  -
+    value: 15
+uuid:
+  -
+    value: a81d8ab7-95af-4f2c-9acb-2cc71e956fa0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: Custodial
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 129
+    target_type: paragraph
+  -
+    target_id: 130
+    target_type: paragraph
+  -
+    target_id: 131
+    target_type: paragraph
+  -
+    target_id: 132
+    target_type: paragraph
+  -
+    target_id: 133
+    target_type: paragraph
+  -
+    target_id: 134
+    target_type: paragraph
+  -
+    target_id: 135
+    target_type: paragraph
+  -
+    target_id: 136
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '15'
+  uuid: a81d8ab7-95af-4f2c-9acb-2cc71e956fa0
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

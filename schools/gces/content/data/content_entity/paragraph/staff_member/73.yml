@@ -1,0 +1,53 @@
+id:
+  -
+    value: 73
+uuid:
+  -
+    value: 58946b71-7e1c-40a8-b49f-34112a3b014a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:13:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: megan_cooke@hcpss.org
+field_job_title:
+  -
+    value: 'Resource Teacher/Instructional Team Leader'
+field_name:
+  -
+    value: 'Megan Cooke'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '73'
+  uuid: 58946b71-7e1c-40a8-b49f-34112a3b014a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

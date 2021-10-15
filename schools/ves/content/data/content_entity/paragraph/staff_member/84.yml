@@ -1,0 +1,53 @@
+id:
+  -
+    value: 84
+uuid:
+  -
+    value: fc16f671-2b76-430a-b44a-7b6a3c8f2bf8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:24:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jessica_s_jones@hcpss.org
+field_job_title:
+  -
+    value: 'Team Leader'
+field_name:
+  -
+    value: 'Jessica Jones'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '84'
+  uuid: fc16f671-2b76-430a-b44a-7b6a3c8f2bf8
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

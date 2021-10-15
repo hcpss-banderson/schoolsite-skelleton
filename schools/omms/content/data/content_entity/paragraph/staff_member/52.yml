@@ -1,0 +1,53 @@
+id:
+  -
+    value: 52
+uuid:
+  -
+    value: eeae8f2e-ea38-4e7b-ab73-69f750c4ed7a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:59:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jessica_dibenedetto@hcpss.org
+field_job_title:
+  -
+    value: 'Social Studies/6th Grade/Instructional Team Leader'
+field_name:
+  -
+    value: 'Jessica DiBenedetto'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '52'
+  uuid: eeae8f2e-ea38-4e7b-ab73-69f750c4ed7a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

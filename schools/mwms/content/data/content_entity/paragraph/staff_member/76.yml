@@ -1,0 +1,53 @@
+id:
+  -
+    value: 76
+uuid:
+  -
+    value: 47f936d9-851a-45bc-922d-795fb863cafc
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:57:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kimberly_Briscoe@hcpss.org
+field_job_title:
+  -
+    value: Pareducator
+field_name:
+  -
+    value: 'Mrs. Briscoe'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '76'
+  uuid: 47f936d9-851a-45bc-922d-795fb863cafc
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 70
+uuid:
+  -
+    value: e89a3154-2bed-49ba-98e3-ea2310278ace
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:24:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kristine_hahn@hcpss.org
+field_job_title:
+  -
+    value: 'Physical Education'
+field_name:
+  -
+    value: 'Kristine Hahn'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '70'
+  uuid: e89a3154-2bed-49ba-98e3-ea2310278ace
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

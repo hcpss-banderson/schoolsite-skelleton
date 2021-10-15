@@ -1,0 +1,53 @@
+id:
+  -
+    value: 65
+uuid:
+  -
+    value: e4b90d0b-1960-49d4-a71b-35c2c7390d7a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:49:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: crystal_wise@hcpss.org
+field_job_title:
+  -
+    value: 'Cafeteria Manager'
+field_name:
+  -
+    value: 'Crystal Wise'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '65'
+  uuid: e4b90d0b-1960-49d4-a71b-35c2c7390d7a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

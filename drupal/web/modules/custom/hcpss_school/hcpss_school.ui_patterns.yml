@@ -1,0 +1,48 @@
+blockquote:
+  label: Blockquote
+  description: Display a quote with attribution information.
+  variants:
+    default:
+      label: Default
+      description: An ordinary quote.
+    highlighted:
+      label: Highlighted
+      description: A special quote.
+  fields:
+    quote:
+      type: text
+      label: Quote
+      description: Quote text.
+      preview: Life is like riding a bicycle. To keep your balance, you must keep moving.
+    attribution:
+      type: text
+      label: Attribution
+      description: Quote attribution.
+      preview: Albert Einstein
+staff_member_abbreviated:
+  label: Abbreviated Staff Member
+  description: Simple staff member display
+  fields:
+    name:
+      type: text
+      label: Name
+      description: "Staff member's name."
+      preview: 'Brendan Anderson'
+    title:
+      type: text
+      label: Job Title
+      description: "Staff member's job title."
+      preview: 'Web Developer'
+    email:
+      type: text
+      label: Email
+      description: "Staff member's email."
+      preview: '<a href="mailto:brendan_anderson@hcpss.org">brendan_anderson@hcpss.org</a>'
+    website:
+      type: text
+      label: Website
+      description: "Staff member's website."
+      preview: '<a href="https://www.github.com/hcpss-banderson">Website</a>'
+  libraries:
+    - hcpss_school/staff_member_abbreviated
+  

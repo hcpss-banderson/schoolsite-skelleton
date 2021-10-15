@@ -1,0 +1,53 @@
+id:
+  -
+    value: 96
+uuid:
+  -
+    value: 6e86c2b8-9ba3-41a5-a392-b74d93b3c242
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:57:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Mindy_Quirus@hcpss.org
+field_job_title:
+  -
+    value: 'ESOL Teacher'
+field_name:
+  -
+    value: 'Ms. Quirus'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '96'
+  uuid: 6e86c2b8-9ba3-41a5-a392-b74d93b3c242
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

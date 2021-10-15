@@ -1,0 +1,53 @@
+id:
+  -
+    value: 92
+uuid:
+  -
+    value: 26881c46-6299-4fb2-92d0-00ac53b592b3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:57:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Stacie_Al-Mahrouq@hcpss.org
+field_job_title:
+  -
+    value: 'ESOL Paraeducator'
+field_name:
+  -
+    value: 'Mrs. Al-Mahrouq'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '92'
+  uuid: 26881c46-6299-4fb2-92d0-00ac53b592b3
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

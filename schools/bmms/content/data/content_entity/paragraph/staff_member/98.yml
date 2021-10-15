@@ -1,0 +1,53 @@
+id:
+  -
+    value: 98
+uuid:
+  -
+    value: ccd406c9-e62c-459d-8b9a-8ef84f859450
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:43:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: michele_pierantozzicassel@hcpss.org
+field_job_title:
+  -
+    value: '7th Grade English (7th Grade Team Leader)'
+field_name:
+  -
+    value: 'Michele Pierantozzi-Cassel'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '98'
+  uuid: ccd406c9-e62c-459d-8b9a-8ef84f859450
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

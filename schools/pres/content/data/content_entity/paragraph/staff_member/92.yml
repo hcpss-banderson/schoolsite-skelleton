@@ -1,0 +1,53 @@
+id:
+  -
+    value: 92
+uuid:
+  -
+    value: 818dced7-5a67-4c4d-a953-ea2776d55f11
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:15:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: melanie_matthews1@hcpss.org
+field_job_title:
+  -
+    value: 'Paraeducator (.5) pm'
+field_name:
+  -
+    value: 'Melanie Matthews'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '92'
+  uuid: 818dced7-5a67-4c4d-a953-ea2776d55f11
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

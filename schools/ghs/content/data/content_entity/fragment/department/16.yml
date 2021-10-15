@@ -1,0 +1,85 @@
+id:
+  -
+    value: 16
+uuid:
+  -
+    value: b80c7742-1aec-4a3f-92f8-603ce6107ea6
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:31:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: Science
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:31:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:31:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 75
+    target_type: paragraph
+  -
+    target_id: 76
+    target_type: paragraph
+  -
+    target_id: 77
+    target_type: paragraph
+  -
+    target_id: 78
+    target_type: paragraph
+  -
+    target_id: 79
+    target_type: paragraph
+  -
+    target_id: 80
+    target_type: paragraph
+  -
+    target_id: 81
+    target_type: paragraph
+  -
+    target_id: 82
+    target_type: paragraph
+  -
+    target_id: 83
+    target_type: paragraph
+  -
+    target_id: 84
+    target_type: paragraph
+  -
+    target_id: 85
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '16'
+  uuid: b80c7742-1aec-4a3f-92f8-603ce6107ea6
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

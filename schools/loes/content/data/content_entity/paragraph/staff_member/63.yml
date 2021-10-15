@@ -1,0 +1,53 @@
+id:
+  -
+    value: 63
+uuid:
+  -
+    value: c5ed3d18-d35b-45bf-be74-a546f7a3d542
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:09:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Andrea_Starr@hcpss.org
+field_job_title:
+  -
+    value: 'Reading Support Teacher'
+field_name:
+  -
+    value: 'Andrea Starr'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '63'
+  uuid: c5ed3d18-d35b-45bf-be74-a546f7a3d542
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

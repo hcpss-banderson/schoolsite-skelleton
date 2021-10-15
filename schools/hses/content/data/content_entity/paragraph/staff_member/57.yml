@@ -1,0 +1,53 @@
+id:
+  -
+    value: 57
+uuid:
+  -
+    value: 75b35b06-9ebf-4033-84a3-dd783f5da9ff
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:05:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Steven_Gangloff@hcpss.org
+field_job_title:
+  -
+    value: 'Gifted and Talented Resource Teacher'
+field_name:
+  -
+    value: 'Steve Gangloff'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '57'
+  uuid: 75b35b06-9ebf-4033-84a3-dd783f5da9ff
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

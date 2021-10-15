@@ -1,0 +1,53 @@
+id:
+  -
+    value: 54
+uuid:
+  -
+    value: 309cda5f-598d-4b7b-ad70-763a4fe3bb5f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: 'Colin_O''Bryan@hcpss.org'
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Colin O''Bryan'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '54'
+  uuid: 309cda5f-598d-4b7b-ad70-763a4fe3bb5f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 101
+uuid:
+  -
+    value: 7a033dc1-6602-46f5-b0d3-cbe5689a320f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:26:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: rwright@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Rachel Wright'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '101'
+  uuid: 7a033dc1-6602-46f5-b0d3-cbe5689a320f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

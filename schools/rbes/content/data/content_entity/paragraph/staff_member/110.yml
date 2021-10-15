@@ -1,0 +1,49 @@
+id:
+  -
+    value: 110
+uuid:
+  -
+    value: 8b6690cf-fad7-4e57-95fa-6b4fe2908f89
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:16:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title: {  }
+field_name:
+  -
+    value: 'Megan Hopkin'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '110'
+  uuid: 8b6690cf-fad7-4e57-95fa-6b4fe2908f89
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

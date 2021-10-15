@@ -1,0 +1,53 @@
+id:
+  -
+    value: 82
+uuid:
+  -
+    value: 646ecfd1-5217-44e8-8b46-d83a19915383
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:46:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: calvin_jackson1@hcpss.org
+field_job_title:
+  -
+    value: 'Math Teacher'
+field_name:
+  -
+    value: 'Calvin Jackson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '82'
+  uuid: 646ecfd1-5217-44e8-8b46-d83a19915383
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

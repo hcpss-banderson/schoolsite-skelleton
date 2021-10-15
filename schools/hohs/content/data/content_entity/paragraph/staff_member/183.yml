@@ -1,0 +1,51 @@
+id:
+  -
+    value: 183
+uuid:
+  -
+    value: 2733f96f-1981-4c23-a0e4-507c6b70d247
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:33:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '24'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: 'Day Chief Supervisor'
+field_name:
+  -
+    value: 'Jacqueline Coleman'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '183'
+  uuid: 2733f96f-1981-4c23-a0e4-507c6b70d247
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

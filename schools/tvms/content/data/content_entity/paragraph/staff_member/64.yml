@@ -1,0 +1,53 @@
+id:
+  -
+    value: 64
+uuid:
+  -
+    value: 29c67563-ec13-488a-9cfd-f49bfac4b96a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:02:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Lauren_Roberts@hcpss.org
+field_job_title:
+  -
+    value: 'Social Studies'
+field_name:
+  -
+    value: 'Lauren Roberts'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '64'
+  uuid: 29c67563-ec13-488a-9cfd-f49bfac4b96a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

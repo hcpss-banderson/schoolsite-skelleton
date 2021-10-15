@@ -1,0 +1,53 @@
+id:
+  -
+    value: 118
+uuid:
+  -
+    value: 1de1ffeb-4553-48d8-9705-7c9f7cef95df
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:56:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: caroline_scorpio@hcpss.org
+field_job_title:
+  -
+    value: 'Cafeteria Assistant'
+field_name:
+  -
+    value: 'Caroline Scorpio'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '118'
+  uuid: 1de1ffeb-4553-48d8-9705-7c9f7cef95df
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

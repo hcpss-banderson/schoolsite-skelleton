@@ -1,0 +1,53 @@
+id:
+  -
+    value: 32
+uuid:
+  -
+    value: e20cc77c-3c94-4fd9-9dae-fb3f1a1e25e6
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:52:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: samuel_cytroen@hcpss.org
+field_job_title:
+  -
+    value: 'Social Studies 7/8/Social Studies TL'
+field_name:
+  -
+    value: 'Sam Cytroen'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '32'
+  uuid: e20cc77c-3c94-4fd9-9dae-fb3f1a1e25e6
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

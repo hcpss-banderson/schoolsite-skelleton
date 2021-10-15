@@ -1,0 +1,53 @@
+id:
+  -
+    value: 75
+uuid:
+  -
+    value: 80f480f4-60ed-49a4-94da-258a7788b79e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:24:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kimmie_edwards@hcpss.org
+field_job_title:
+  -
+    value: 'Technology .5/Media Specialist .5'
+field_name:
+  -
+    value: 'Kimmie Edwards'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '75'
+  uuid: 80f480f4-60ed-49a4-94da-258a7788b79e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

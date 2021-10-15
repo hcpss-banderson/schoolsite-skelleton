@@ -1,0 +1,53 @@
+id:
+  -
+    value: 11
+uuid:
+  -
+    value: 68cef7d9-00e7-4f23-a6ff-1a7940dfb49f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:04:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: teresa_garcia@hcpss.org
+field_job_title:
+  -
+    value: 'PreK Teacher'
+field_name:
+  -
+    value: 'Teresa Garcia'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '11'
+  uuid: 68cef7d9-00e7-4f23-a6ff-1a7940dfb49f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 67
+uuid:
+  -
+    value: a98df75a-545d-4208-9f62-1a01351c6969
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:02:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Anita_Charlotte_ARCHER@hcpss.org
+field_job_title:
+  -
+    value: 'World Languages'
+field_name:
+  -
+    value: 'Anita Charlotte Archer'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '67'
+  uuid: a98df75a-545d-4208-9f62-1a01351c6969
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 6
+uuid:
+  -
+    value: 8f3f54bb-2689-48b0-a7bd-5b63b778a427
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:53:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: stacey_glenn@hcpss.org
+field_job_title:
+  -
+    value: 'Principal''s Secretary'
+field_name:
+  -
+    value: 'Stacey Glenn'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '6'
+  uuid: 8f3f54bb-2689-48b0-a7bd-5b63b778a427
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

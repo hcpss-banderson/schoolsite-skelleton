@@ -1,0 +1,53 @@
+id:
+  -
+    value: 8
+uuid:
+  -
+    value: eb8fe06b-8231-458d-a1c3-48f936cc99ae
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:18:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: tracey_ellerby@hcpss.org
+field_job_title:
+  -
+    value: 'Health Assistant'
+field_name:
+  -
+    value: 'Tracey Ellerby'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '8'
+  uuid: eb8fe06b-8231-458d-a1c3-48f936cc99ae
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

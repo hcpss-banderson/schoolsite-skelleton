@@ -1,0 +1,51 @@
+id:
+  -
+    value: 85
+uuid:
+  -
+    value: 15e6ec0a-0516-4bc4-af84-a8b91ffdcdce
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '25'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Melinda_Taylor@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Melinda Taylor'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '85'
+  uuid: 15e6ec0a-0516-4bc4-af84-a8b91ffdcdce
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

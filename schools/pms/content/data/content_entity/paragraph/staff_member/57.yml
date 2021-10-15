@@ -1,0 +1,53 @@
+id:
+  -
+    value: 57
+uuid:
+  -
+    value: 5e24abb3-b5d5-46f5-84eb-26dd8d38b7ad
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:00:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Patrick_Spliedt@hcpss.org
+field_job_title:
+  -
+    value: 'Physical Education/Health'
+field_name:
+  -
+    value: 'Patrick Spliedt'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '57'
+  uuid: 5e24abb3-b5d5-46f5-84eb-26dd8d38b7ad
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

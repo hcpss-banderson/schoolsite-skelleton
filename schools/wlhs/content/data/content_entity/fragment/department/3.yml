@@ -1,0 +1,73 @@
+id:
+  -
+    value: 3
+uuid:
+  -
+    value: 2bd0ba4a-bd2b-4f9e-aaa7-c59083416ab8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T17:14:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Career and Technology Education'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:14:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T17:14:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 23
+    target_type: paragraph
+  -
+    target_id: 24
+    target_type: paragraph
+  -
+    target_id: 25
+    target_type: paragraph
+  -
+    target_id: 26
+    target_type: paragraph
+  -
+    target_id: 27
+    target_type: paragraph
+  -
+    target_id: 28
+    target_type: paragraph
+  -
+    target_id: 29
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '3'
+  uuid: 2bd0ba4a-bd2b-4f9e-aaa7-c59083416ab8
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

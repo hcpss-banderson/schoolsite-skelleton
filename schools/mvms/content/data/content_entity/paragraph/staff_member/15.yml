@@ -1,0 +1,53 @@
+id:
+  -
+    value: 15
+uuid:
+  -
+    value: d0c5dc6b-9829-4e58-b8c3-573076a6cd72
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:56:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: octavia_cutsail@hcpss.org
+field_job_title:
+  -
+    value: 'Math, Sixth Grade Team Leader'
+field_name:
+  -
+    value: 'Octavia Cutsail'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '15'
+  uuid: d0c5dc6b-9829-4e58-b8c3-573076a6cd72
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 11
+uuid:
+  -
+    value: b4e7d568-3174-47b1-adb4-8a6063bcd8c0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:50:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: troy_evans@hcpss.org
+field_job_title:
+  -
+    value: 'School Counselor 8th grade, 7th grade A - L'
+field_name:
+  -
+    value: 'Troy Evans'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '11'
+  uuid: b4e7d568-3174-47b1-adb4-8a6063bcd8c0
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

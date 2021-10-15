@@ -1,0 +1,53 @@
+id:
+  -
+    value: 36
+uuid:
+  -
+    value: 1a3a4791-c53b-4117-89d6-5cd9f9f928aa
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:06:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: nicole_friedman@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Nicole Friedman-Scott'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '36'
+  uuid: 1a3a4791-c53b-4117-89d6-5cd9f9f928aa
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

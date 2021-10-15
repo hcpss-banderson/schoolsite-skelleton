@@ -1,0 +1,53 @@
+id:
+  -
+    value: 64
+uuid:
+  -
+    value: 8371f85f-c350-48e8-a163-5fce01b2e9ce
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:59:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: evan_gallena@hcpss.org
+field_job_title:
+  -
+    value: 'School Psychologist'
+field_name:
+  -
+    value: 'Mr. Gallena'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '64'
+  uuid: 8371f85f-c350-48e8-a163-5fce01b2e9ce
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 66
+uuid:
+  -
+    value: 45a81df4-468d-4e98-91be-cedc7367f021
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:28:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: terry_hamby@hcpss.org
+field_job_title:
+  -
+    value: 'Evening Building Supervisor'
+field_name:
+  -
+    value: 'Terry Hamby'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '66'
+  uuid: 45a81df4-468d-4e98-91be-cedc7367f021
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 125
+uuid:
+  -
+    value: 7e4bb7dc-4651-4009-8a99-ec7f53df38d3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:24:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: alisa_berzon@hcpss.org
+field_job_title:
+  -
+    value: 'Speech Language Pathologist'
+field_name:
+  -
+    value: 'Alisa Berzon'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '125'
+  uuid: 7e4bb7dc-4651-4009-8a99-ec7f53df38d3
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

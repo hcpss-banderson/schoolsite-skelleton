@@ -1,0 +1,53 @@
+id:
+  -
+    value: 48
+uuid:
+  -
+    value: bfb69d6c-00d7-4249-bbb2-03e7c9b02f4a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:56:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: anshu_randhawa@hcpss.org
+field_job_title:
+  -
+    value: Math
+field_name:
+  -
+    value: 'Anshu Randhawa'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '48'
+  uuid: bfb69d6c-00d7-4249-bbb2-03e7c9b02f4a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 26
+uuid:
+  -
+    value: 2d072a85-f24b-43ea-bd5f-39c8601dc429
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:43:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: brian_gossard@hcpss.org
+field_job_title:
+  -
+    value: 'Music Teacher K-6'
+field_name:
+  -
+    value: 'Brian Gossard'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '26'
+  uuid: 2d072a85-f24b-43ea-bd5f-39c8601dc429
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

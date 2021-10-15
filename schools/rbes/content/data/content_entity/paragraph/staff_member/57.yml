@@ -1,0 +1,53 @@
+id:
+  -
+    value: 57
+uuid:
+  -
+    value: d16c344b-8ca2-45e3-a49f-a1d33a2682be
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:16:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Lori_Fitzgerald@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Teacher'
+field_name:
+  -
+    value: 'Lori Fitzgerald'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '57'
+  uuid: d16c344b-8ca2-45e3-a49f-a1d33a2682be
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

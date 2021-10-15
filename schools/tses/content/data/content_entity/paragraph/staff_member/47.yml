@@ -1,0 +1,53 @@
+id:
+  -
+    value: 47
+uuid:
+  -
+    value: 30081f3e-f1f4-4a05-bcd0-445566d571b0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:23:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: ann_valuntis@hcpss.org
+field_job_title:
+  -
+    value: '.4 Art Teacher'
+field_name:
+  -
+    value: 'Ann Valuntis'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '47'
+  uuid: 30081f3e-f1f4-4a05-bcd0-445566d571b0
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

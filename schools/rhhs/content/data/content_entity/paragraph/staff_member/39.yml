@@ -1,0 +1,51 @@
+id:
+  -
+    value: 39
+uuid:
+  -
+    value: b96b9006-234f-4eb5-9454-7ca7d4704c1e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Rachael_Schultz@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Rachael Schultz'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '39'
+  uuid: b96b9006-234f-4eb5-9454-7ca7d4704c1e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 83
+uuid:
+  -
+    value: 70e01ec2-d07f-4e11-8f88-61873e5f29b2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:55:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: mark_dunbar@hcpss.org
+field_job_title:
+  -
+    value: 'GT Resource'
+field_name:
+  -
+    value: 'Mark Dunbar'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '83'
+  uuid: 70e01ec2-d07f-4e11-8f88-61873e5f29b2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

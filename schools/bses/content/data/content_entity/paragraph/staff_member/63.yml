@@ -1,0 +1,53 @@
+id:
+  -
+    value: 63
+uuid:
+  -
+    value: c0ca2d29-9786-453b-bf77-0f0ccf9aa17b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:48:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: elizabeth_schultz@hcpss.org
+field_job_title:
+  -
+    value: 'Physical Education'
+field_name:
+  -
+    value: 'Betsy Schultz'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '63'
+  uuid: c0ca2d29-9786-453b-bf77-0f0ccf9aa17b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

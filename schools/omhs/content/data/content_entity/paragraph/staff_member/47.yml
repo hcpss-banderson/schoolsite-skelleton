@@ -1,0 +1,53 @@
+id:
+  -
+    value: 47
+uuid:
+  -
+    value: 88e97538-a1e7-41ba-93d2-6ea49c81b463
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kristen_vance@hcpss.org
+field_job_title:
+  -
+    value: 'Reading Specialist'
+field_name:
+  -
+    value: 'Kristen Vance'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '47'
+  uuid: 88e97538-a1e7-41ba-93d2-6ea49c81b463
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 137
+uuid:
+  -
+    value: 13896953-e1b7-4555-9767-603fb1ab3fbf
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Brittney_Pugh@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Brittney Pugh'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '137'
+  uuid: 13896953-e1b7-4555-9767-603fb1ab3fbf
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

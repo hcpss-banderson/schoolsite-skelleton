@@ -1,0 +1,51 @@
+id:
+  -
+    value: 53
+uuid:
+  -
+    value: a437bba2-940f-4e28-8634-9e6db96baeef
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:22:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Hannah Scheer Naff'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '53'
+  uuid: a437bba2-940f-4e28-8634-9e6db96baeef
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

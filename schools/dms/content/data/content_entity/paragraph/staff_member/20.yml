@@ -1,0 +1,53 @@
+id:
+  -
+    value: 20
+uuid:
+  -
+    value: 6ee5a85f-62cb-4dcc-9f16-d465927946ca
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:45:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kathleen_goffaux@hcpss.org
+field_job_title:
+  -
+    value: 'Math 6 (6th Grade Team Leader)'
+field_name:
+  -
+    value: 'Kathleen Goffaux'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '20'
+  uuid: 6ee5a85f-62cb-4dcc-9f16-d465927946ca
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

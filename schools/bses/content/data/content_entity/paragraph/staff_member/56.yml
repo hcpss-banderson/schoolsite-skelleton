@@ -1,0 +1,53 @@
+id:
+  -
+    value: 56
+uuid:
+  -
+    value: 282f02c4-7165-4b26-8b51-06cbc55fde66
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:48:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: syne_bruton@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Syne Bruton'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '56'
+  uuid: 282f02c4-7165-4b26-8b51-06cbc55fde66
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

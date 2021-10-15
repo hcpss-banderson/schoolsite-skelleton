@@ -1,0 +1,53 @@
+id:
+  -
+    value: 21
+uuid:
+  -
+    value: 63795a8a-a160-4115-87ca-0e5314de80df
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:00:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Elizabeth_Shaw@hcpss.org
+field_job_title:
+  -
+    value: 'English/Language Arts'
+field_name:
+  -
+    value: 'Elizabeth Shaw'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '21'
+  uuid: 63795a8a-a160-4115-87ca-0e5314de80df
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

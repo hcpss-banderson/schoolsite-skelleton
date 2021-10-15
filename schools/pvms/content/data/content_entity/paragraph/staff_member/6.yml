@@ -1,0 +1,53 @@
+id:
+  -
+    value: 6
+uuid:
+  -
+    value: 9e4a2213-9976-4895-9e06-573a3aa93b9d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: patricia_minnick@hcpss.org
+field_job_title:
+  -
+    value: 'Teachers'' Secretary'
+field_name:
+  -
+    value: 'Patti Minnick'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '6'
+  uuid: 9e4a2213-9976-4895-9e06-573a3aa93b9d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

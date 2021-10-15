@@ -1,0 +1,53 @@
+id:
+  -
+    value: 13
+uuid:
+  -
+    value: 357c6a77-0b69-430c-bd37-d3406a91871c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:31:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: greg_english@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, Instructional Team Leader'
+field_name:
+  -
+    value: 'Greg English'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '13'
+  uuid: 357c6a77-0b69-430c-bd37-d3406a91871c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

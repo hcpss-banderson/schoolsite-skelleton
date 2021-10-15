@@ -1,0 +1,53 @@
+id:
+  -
+    value: 45
+uuid:
+  -
+    value: f0a9c825-2fde-49c4-b643-a7f9257c77ae
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '18'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Mollie_Baer@hcpss.org
+field_job_title:
+  -
+    value: 'Para Educator'
+field_name:
+  -
+    value: 'Mollie Baer'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '45'
+  uuid: f0a9c825-2fde-49c4-b643-a7f9257c77ae
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

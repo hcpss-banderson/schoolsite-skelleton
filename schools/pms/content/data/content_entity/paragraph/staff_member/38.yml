@@ -1,0 +1,53 @@
+id:
+  -
+    value: 38
+uuid:
+  -
+    value: 42f0eb16-f0d1-4bf9-b65e-375de3101dfd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:00:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Danielle_Stephenson@hcpss.org
+field_job_title:
+  -
+    value: Science
+field_name:
+  -
+    value: 'Danielle Stephenson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '38'
+  uuid: 42f0eb16-f0d1-4bf9-b65e-375de3101dfd
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

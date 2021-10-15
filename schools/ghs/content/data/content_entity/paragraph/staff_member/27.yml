@@ -1,0 +1,53 @@
+id:
+  -
+    value: 27
+uuid:
+  -
+    value: 5b0e2a27-f39b-40d6-96ce-13126c25e138
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:31:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: timothy_graham@hcpss.org
+field_job_title:
+  -
+    value: 'Day Supervisor'
+field_name:
+  -
+    value: 'Tim Graham'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '27'
+  uuid: 5b0e2a27-f39b-40d6-96ce-13126c25e138
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 160
+uuid:
+  -
+    value: 3d619aea-c8f5-4799-a0a6-a527110f421b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:32:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '32'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: alexandra_rodriguez@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Alexandra Rodriguez'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '160'
+  uuid: 3d619aea-c8f5-4799-a0a6-a527110f421b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

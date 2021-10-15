@@ -1,0 +1,53 @@
+id:
+  -
+    value: 25
+uuid:
+  -
+    value: 950dda94-fec4-4156-99df-6da61cd376bf
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:28:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kendra_albert_intern@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher Intern with Ms. Mathis'
+field_name:
+  -
+    value: 'Kendra Albert'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '25'
+  uuid: 950dda94-fec4-4156-99df-6da61cd376bf
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

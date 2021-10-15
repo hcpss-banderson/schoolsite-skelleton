@@ -1,0 +1,53 @@
+id:
+  -
+    value: 78
+uuid:
+  -
+    value: 97192d7a-502f-4b58-b084-378d9f50683d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:55:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: amy_williamson@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Paraeducator'
+field_name:
+  -
+    value: 'Amy Williamson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '78'
+  uuid: 97192d7a-502f-4b58-b084-378d9f50683d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

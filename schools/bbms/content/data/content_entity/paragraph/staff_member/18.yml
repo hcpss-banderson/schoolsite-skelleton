@@ -1,0 +1,53 @@
+id:
+  -
+    value: 18
+uuid:
+  -
+    value: da7b3294-dee9-407c-8c57-8c045852c0ce
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:42:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jocelyn_anthony-williams@hcpss.org
+field_job_title:
+  -
+    value: 'Sixth Grade ELA Teacher and Sixth Grade Team Leader'
+field_name:
+  -
+    value: 'Jocelyn Anthony-Williams'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '18'
+  uuid: da7b3294-dee9-407c-8c57-8c045852c0ce
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

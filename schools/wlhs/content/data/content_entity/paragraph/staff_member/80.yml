@@ -1,0 +1,53 @@
+id:
+  -
+    value: 80
+uuid:
+  -
+    value: 333b6e2d-7ccc-40fc-b076-7d03743f61c4
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:14:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: diane_caporaletti@hcpss.org
+field_job_title:
+  -
+    value: 'JRT Manager'
+field_name:
+  -
+    value: 'Diane Caporaletti'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '80'
+  uuid: 333b6e2d-7ccc-40fc-b076-7d03743f61c4
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 3
+uuid:
+  -
+    value: e16f8cd9-6e08-4345-9f48-0c941cfc55c9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:33:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: JenniferE_Patterson@hcpss.org
+field_job_title:
+  -
+    value: 'Assistant Principal, Students Last Name D-H'
+field_name:
+  -
+    value: 'Jennifer Patterson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '3'
+  uuid: e16f8cd9-6e08-4345-9f48-0c941cfc55c9
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

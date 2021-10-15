@@ -1,0 +1,53 @@
+id:
+  -
+    value: 31
+uuid:
+  -
+    value: 019ae32a-06ab-4c68-bdb2-ece1966c7a15
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:19:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jennifer_Kitchen@hcpss.org
+field_job_title:
+  -
+    value: 'Fifth Grade Team Leader'
+field_name:
+  -
+    value: 'Jennifer Kitchen'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '31'
+  uuid: 019ae32a-06ab-4c68-bdb2-ece1966c7a15
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

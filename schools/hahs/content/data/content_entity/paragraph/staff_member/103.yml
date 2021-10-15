@@ -1,0 +1,53 @@
+id:
+  -
+    value: 103
+uuid:
+  -
+    value: 222e063d-7ea3-4b7e-82ad-0d87b1f8fc5a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:32:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '25'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Ben_Grabenstein@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Ben Grabenstein'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '103'
+  uuid: 222e063d-7ea3-4b7e-82ad-0d87b1f8fc5a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

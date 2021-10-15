@@ -1,0 +1,53 @@
+id:
+  -
+    value: 74
+uuid:
+  -
+    value: 89894897-933d-4fc0-8d59-d1e7973db5b2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:42:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: laura_smith2@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Teacher and Eight Grade Team Leader'
+field_name:
+  -
+    value: 'Laura Smith'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '74'
+  uuid: 89894897-933d-4fc0-8d59-d1e7973db5b2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

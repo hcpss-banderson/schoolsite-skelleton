@@ -1,0 +1,53 @@
+id:
+  -
+    value: 19
+uuid:
+  -
+    value: d10a30ce-3d18-44f5-9ffe-2cca04305669
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:41:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: John_Cservek@hcpss.org
+field_job_title:
+  -
+    value: 'Animation & Interactive Media Teacher'
+field_name:
+  -
+    value: 'John Cservek'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '19'
+  uuid: d10a30ce-3d18-44f5-9ffe-2cca04305669
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

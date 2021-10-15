@@ -1,0 +1,53 @@
+id:
+  -
+    value: 43
+uuid:
+  -
+    value: 9a0ce839-0e73-44bf-8467-a55e18207dee
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:15:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: eric_jayne@hcpss.org
+field_job_title:
+  -
+    value: 'GT Teacher'
+field_name:
+  -
+    value: 'Eric Jayne'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '43'
+  uuid: 9a0ce839-0e73-44bf-8467-a55e18207dee
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

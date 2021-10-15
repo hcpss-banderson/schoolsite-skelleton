@@ -1,0 +1,139 @@
+id:
+  -
+    value: 12
+uuid:
+  -
+    value: f53d1c6d-70ea-4e58-9d83-984a8a80383d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Special Education'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 112
+    target_type: paragraph
+  -
+    target_id: 113
+    target_type: paragraph
+  -
+    target_id: 114
+    target_type: paragraph
+  -
+    target_id: 115
+    target_type: paragraph
+  -
+    target_id: 116
+    target_type: paragraph
+  -
+    target_id: 117
+    target_type: paragraph
+  -
+    target_id: 118
+    target_type: paragraph
+  -
+    target_id: 119
+    target_type: paragraph
+  -
+    target_id: 120
+    target_type: paragraph
+  -
+    target_id: 121
+    target_type: paragraph
+  -
+    target_id: 122
+    target_type: paragraph
+  -
+    target_id: 123
+    target_type: paragraph
+  -
+    target_id: 124
+    target_type: paragraph
+  -
+    target_id: 125
+    target_type: paragraph
+  -
+    target_id: 126
+    target_type: paragraph
+  -
+    target_id: 127
+    target_type: paragraph
+  -
+    target_id: 128
+    target_type: paragraph
+  -
+    target_id: 129
+    target_type: paragraph
+  -
+    target_id: 130
+    target_type: paragraph
+  -
+    target_id: 131
+    target_type: paragraph
+  -
+    target_id: 132
+    target_type: paragraph
+  -
+    target_id: 133
+    target_type: paragraph
+  -
+    target_id: 134
+    target_type: paragraph
+  -
+    target_id: 135
+    target_type: paragraph
+  -
+    target_id: 136
+    target_type: paragraph
+  -
+    target_id: 137
+    target_type: paragraph
+  -
+    target_id: 138
+    target_type: paragraph
+  -
+    target_id: 139
+    target_type: paragraph
+  -
+    target_id: 140
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '12'
+  uuid: f53d1c6d-70ea-4e58-9d83-984a8a80383d
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

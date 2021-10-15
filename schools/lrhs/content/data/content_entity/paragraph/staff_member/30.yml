@@ -1,0 +1,53 @@
+id:
+  -
+    value: 30
+uuid:
+  -
+    value: d91e3096-e163-41df-95ec-1a1a04b345c1
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:34:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: ming_sun@hcpss.org
+field_job_title:
+  -
+    value: 'International Achievement Liaison'
+field_name:
+  -
+    value: 'Ming Sun'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '30'
+  uuid: d91e3096-e163-41df-95ec-1a1a04b345c1
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

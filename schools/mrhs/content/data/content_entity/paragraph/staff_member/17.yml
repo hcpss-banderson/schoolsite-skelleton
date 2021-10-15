@@ -1,0 +1,53 @@
+id:
+  -
+    value: 17
+uuid:
+  -
+    value: 0b312108-13d1-4bbe-a084-01934eca388c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:36:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: emma_bullock@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, Culinary Science'
+field_name:
+  -
+    value: 'Emma Bullock'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '17'
+  uuid: 0b312108-13d1-4bbe-a084-01934eca388c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

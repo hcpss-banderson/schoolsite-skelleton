@@ -1,0 +1,53 @@
+id:
+  -
+    value: 194
+uuid:
+  -
+    value: 945aa97f-cd88-4a94-81ac-03c1886a2cc6
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:33:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '25'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: tammy_bell@hcpss.org
+field_job_title:
+  -
+    value: 'Food Service Worker'
+field_name:
+  -
+    value: 'Tammy Bell'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '194'
+  uuid: 945aa97f-cd88-4a94-81ac-03c1886a2cc6
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

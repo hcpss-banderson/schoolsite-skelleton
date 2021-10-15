@@ -1,0 +1,53 @@
+id:
+  -
+    value: 14
+uuid:
+  -
+    value: 83904310-2502-42d6-9f8e-ab0abcd314d9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:04:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: rachel_hamberger@hcpss.org
+field_job_title:
+  -
+    value: 'MINC Preschool Teacher'
+field_name:
+  -
+    value: 'Rachel Hamberger'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '14'
+  uuid: 83904310-2502-42d6-9f8e-ab0abcd314d9
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 26
+uuid:
+  -
+    value: 005aadf6-dac7-4d1e-abf9-097646f40935
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:54:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: tamara_cursey@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, Instructional Team Leader'
+field_name:
+  -
+    value: 'Tamara Cursey'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '26'
+  uuid: 005aadf6-dac7-4d1e-abf9-097646f40935
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

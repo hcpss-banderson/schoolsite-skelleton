@@ -1,0 +1,53 @@
+id:
+  -
+    value: 158
+uuid:
+  -
+    value: 20468eec-ac34-4c3f-98b4-ca0c95950d82
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Annette_Olney@hcpss.org
+field_job_title:
+  -
+    value: 'BSAP Achievement Liasion'
+field_name:
+  -
+    value: 'Annette Olney'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '158'
+  uuid: 20468eec-ac34-4c3f-98b4-ca0c95950d82
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

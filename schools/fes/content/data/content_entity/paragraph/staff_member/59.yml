@@ -1,0 +1,53 @@
+id:
+  -
+    value: 59
+uuid:
+  -
+    value: 980fcc4b-405f-4d26-ae34-10f68a452504
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:59:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Anna_Lipinski@hcpss.org
+field_job_title:
+  -
+    value: 'Art Teacher - Cedar Lane School (3rd & 5th Grade)'
+field_name:
+  -
+    value: 'Ms. Lipinski'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '59'
+  uuid: 980fcc4b-405f-4d26-ae34-10f68a452504
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

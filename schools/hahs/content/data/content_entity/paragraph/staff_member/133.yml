@@ -1,0 +1,53 @@
+id:
+  -
+    value: 133
+uuid:
+  -
+    value: aa07b9a2-3975-4405-a8c8-9826e8ef3bc5
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:32:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '27'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kraig_nussbaum@hcpss.org
+field_job_title:
+  -
+    value: 'ED Coordinator'
+field_name:
+  -
+    value: 'Kraig Nussbaum'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '133'
+  uuid: aa07b9a2-3975-4405-a8c8-9826e8ef3bc5
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

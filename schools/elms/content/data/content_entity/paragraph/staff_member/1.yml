@@ -1,0 +1,53 @@
+id:
+  -
+    value: 1
+uuid:
+  -
+    value: 12a86ab2-5d4c-4b99-ae35-ba6d9671464b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:46:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: david_strothers@hcpss.org
+field_job_title:
+  -
+    value: Principal
+field_name:
+  -
+    value: 'David Strothers'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '1'
+  uuid: 12a86ab2-5d4c-4b99-ae35-ba6d9671464b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

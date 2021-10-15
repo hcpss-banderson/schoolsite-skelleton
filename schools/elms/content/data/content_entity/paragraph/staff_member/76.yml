@@ -1,0 +1,53 @@
+id:
+  -
+    value: 76
+uuid:
+  -
+    value: 05e684c1-05dd-4801-b977-02a934e2e94d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:46:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: stacey_belsky@hcpss.org
+field_job_title:
+  -
+    value: 'Science Teacher'
+field_name:
+  -
+    value: 'Stacey Belsky'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '76'
+  uuid: 05e684c1-05dd-4801-b977-02a934e2e94d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

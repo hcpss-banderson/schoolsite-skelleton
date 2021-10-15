@@ -1,0 +1,53 @@
+id:
+  -
+    value: 16
+uuid:
+  -
+    value: c8cb24ab-98e8-4fab-8d00-dfd4c9825dcc
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:52:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: cecilia_haley@hcpss.org
+field_job_title:
+  -
+    value: 'English 8, English Team Leader'
+field_name:
+  -
+    value: 'Cecilia Haley'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '16'
+  uuid: c8cb24ab-98e8-4fab-8d00-dfd4c9825dcc
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

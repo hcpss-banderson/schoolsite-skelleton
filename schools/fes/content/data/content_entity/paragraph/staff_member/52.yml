@@ -1,0 +1,53 @@
+id:
+  -
+    value: 52
+uuid:
+  -
+    value: 37574a25-b915-48e5-b780-fbf6f047882c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:59:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Sharon_King@hcpss.org
+field_job_title:
+  -
+    value: 'PE Teacher'
+field_name:
+  -
+    value: 'Mrs. King'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '52'
+  uuid: 37574a25-b915-48e5-b780-fbf6f047882c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 41
+uuid:
+  -
+    value: 40e3b94e-3885-449a-a4b9-aaec7266d5cc
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:18:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kendra_Pastor@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Kendra Pastor'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '41'
+  uuid: 40e3b94e-3885-449a-a4b9-aaec7266d5cc
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

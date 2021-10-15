@@ -1,0 +1,51 @@
+id:
+  -
+    value: 44
+uuid:
+  -
+    value: d863ea4c-1f90-41d0-9af8-89021362f4d6
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:56:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: sonya_billey@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Sonya Billey'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '44'
+  uuid: d863ea4c-1f90-41d0-9af8-89021362f4d6
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

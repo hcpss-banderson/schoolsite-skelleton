@@ -1,0 +1,53 @@
+id:
+  -
+    value: 112
+uuid:
+  -
+    value: 63f0ec3d-f177-49c9-8041-c02253787152
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:44:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '20'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Christine_Trieschman@hcpss.org
+field_job_title:
+  -
+    value: 'Food Service Manager'
+field_name:
+  -
+    value: 'Christine Trieschman'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '112'
+  uuid: 63f0ec3d-f177-49c9-8041-c02253787152
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

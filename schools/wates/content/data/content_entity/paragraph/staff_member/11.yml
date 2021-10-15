@@ -1,0 +1,53 @@
+id:
+  -
+    value: 11
+uuid:
+  -
+    value: 40da3f03-1820-4f5d-8807-a40a6dc6418e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:25:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Randi_Clare@hcpss.org
+field_job_title:
+  -
+    value: 'MINC-P teacher'
+field_name:
+  -
+    value: 'Randi Clare'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '11'
+  uuid: 40da3f03-1820-4f5d-8807-a40a6dc6418e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 60
+uuid:
+  -
+    value: 6c6baeb7-652e-4daa-afc8-7cb44f98e1e2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:12:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: stephanie_kehres@hcpss.org
+field_job_title:
+  -
+    value: 'Speech Language Pathologist'
+field_name:
+  -
+    value: 'Stephanie Kehres'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '60'
+  uuid: 6c6baeb7-652e-4daa-afc8-7cb44f98e1e2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

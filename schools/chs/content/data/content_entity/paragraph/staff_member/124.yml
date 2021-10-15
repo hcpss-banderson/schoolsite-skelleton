@@ -1,0 +1,53 @@
+id:
+  -
+    value: 124
+uuid:
+  -
+    value: 0b8d54b8-0bd8-4767-a664-3f52a58ad5f2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:30:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '21'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: lawrence_steel@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Ted Steel'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '124'
+  uuid: 0b8d54b8-0bd8-4767-a664-3f52a58ad5f2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

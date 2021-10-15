@@ -1,0 +1,53 @@
+id:
+  -
+    value: 79
+uuid:
+  -
+    value: 9c0e8154-df34-46f8-b60c-335b66d251b5
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:33:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kyle_Janney@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Kyle Janney'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '79'
+  uuid: 9c0e8154-df34-46f8-b60c-335b66d251b5
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

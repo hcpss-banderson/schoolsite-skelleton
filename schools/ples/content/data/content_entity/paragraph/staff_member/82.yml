@@ -1,0 +1,53 @@
+id:
+  -
+    value: 82
+uuid:
+  -
+    value: 5cf1ec95-daad-4537-b502-3076152d94e2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:13:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: maxine_thompson-burroughs@hcpss.org
+field_job_title:
+  -
+    value: 'Family Involvement Contact'
+field_name:
+  -
+    value: 'Maxine Thompson-Burroughs'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '82'
+  uuid: 5cf1ec95-daad-4537-b502-3076152d94e2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

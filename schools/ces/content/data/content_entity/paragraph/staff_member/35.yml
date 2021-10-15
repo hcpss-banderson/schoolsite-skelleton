@@ -1,0 +1,53 @@
+id:
+  -
+    value: 35
+uuid:
+  -
+    value: 27052576-80de-4c03-8777-6bfc364f97db
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:52:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: gina_dignacco@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Gina Dignacco'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '35'
+  uuid: 27052576-80de-4c03-8777-6bfc364f97db
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

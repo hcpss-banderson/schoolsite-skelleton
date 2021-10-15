@@ -1,0 +1,53 @@
+id:
+  -
+    value: 109
+uuid:
+  -
+    value: 7adf98c8-0820-4176-a808-7721d9fee43d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:55:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '22'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: sarah_melvin@hcpss.org
+field_job_title:
+  -
+    value: 'Technology Teacher'
+field_name:
+  -
+    value: 'Sarah Melvin'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '109'
+  uuid: 7adf98c8-0820-4176-a808-7721d9fee43d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 49
+uuid:
+  -
+    value: 2b0e16ba-4055-4427-835e-49ee25bebaac
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:18:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: maimouna_diomande@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Maimouna Diomande'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '49'
+  uuid: 2b0e16ba-4055-4427-835e-49ee25bebaac
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 47
+uuid:
+  -
+    value: c862d0c4-ab2d-44dd-8581-e7a05e1f5d39
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:03:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: lang_wethington@hcpss.org
+field_job_title:
+  -
+    value: Art
+field_name:
+  -
+    value: 'Lang Wethington'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '47'
+  uuid: c862d0c4-ab2d-44dd-8581-e7a05e1f5d39
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

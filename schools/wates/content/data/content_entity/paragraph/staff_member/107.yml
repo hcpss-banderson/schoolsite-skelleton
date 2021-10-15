@@ -1,0 +1,53 @@
+id:
+  -
+    value: 107
+uuid:
+  -
+    value: 60a86df5-4f25-47ba-96df-c3ea559980aa
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:25:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Tia_Welker@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Student Assistant'
+field_name:
+  -
+    value: 'Tia Welker'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '107'
+  uuid: 60a86df5-4f25-47ba-96df-c3ea559980aa
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

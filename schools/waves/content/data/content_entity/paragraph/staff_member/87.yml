@@ -1,0 +1,53 @@
+id:
+  -
+    value: 87
+uuid:
+  -
+    value: 1edd465f-b2ec-4ade-b9ae-843a19c1283b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:26:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Emily_Jones@hcpss.org
+field_job_title:
+  -
+    value: EPL
+field_name:
+  -
+    value: 'Emily Jones'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '87'
+  uuid: 1edd465f-b2ec-4ade-b9ae-843a19c1283b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

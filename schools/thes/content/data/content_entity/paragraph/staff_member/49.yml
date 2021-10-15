@@ -1,0 +1,53 @@
+id:
+  -
+    value: 49
+uuid:
+  -
+    value: 1f1a1f3d-5789-4ab0-b2d2-2789184ac3ba
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:21:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Elizabeth_Cole@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Teacher'
+field_name:
+  -
+    value: 'Elizabeth Cole'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '49'
+  uuid: 1f1a1f3d-5789-4ab0-b2d2-2789184ac3ba
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

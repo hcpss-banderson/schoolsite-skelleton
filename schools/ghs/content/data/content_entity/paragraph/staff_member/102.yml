@@ -1,0 +1,53 @@
+id:
+  -
+    value: 102
+uuid:
+  -
+    value: d38ef260-1832-416b-be2c-b089a94e044b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:31:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '19'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: katherine_grebe@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Katherine Grebe'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '102'
+  uuid: d38ef260-1832-416b-be2c-b089a94e044b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

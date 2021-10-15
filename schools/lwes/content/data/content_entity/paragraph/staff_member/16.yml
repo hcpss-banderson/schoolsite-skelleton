@@ -1,0 +1,53 @@
+id:
+  -
+    value: 16
+uuid:
+  -
+    value: 6f33c81a-2d1e-4b8c-8bb6-61ce10264534
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:10:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: hayley_flynn@Hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Hayley Flynn'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '16'
+  uuid: 6f33c81a-2d1e-4b8c-8bb6-61ce10264534
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

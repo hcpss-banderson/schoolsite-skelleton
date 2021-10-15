@@ -1,0 +1,53 @@
+id:
+  -
+    value: 80
+uuid:
+  -
+    value: 6200ad7d-73b8-461a-b046-078b5775f9f9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:42:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: camille_schwan@hcpss.org
+field_job_title:
+  -
+    value: 'Spanish Teacher'
+field_name:
+  -
+    value: 'Camille Schwan'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '80'
+  uuid: 6200ad7d-73b8-461a-b046-078b5775f9f9
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

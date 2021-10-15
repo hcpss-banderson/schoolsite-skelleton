@@ -1,0 +1,73 @@
+id:
+  -
+    value: 7
+uuid:
+  -
+    value: af2553c1-373a-469f-a967-113627f5cdfe
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T15:47:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Fourth Grade'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:47:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T15:47:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 41
+    target_type: paragraph
+  -
+    target_id: 42
+    target_type: paragraph
+  -
+    target_id: 43
+    target_type: paragraph
+  -
+    target_id: 44
+    target_type: paragraph
+  -
+    target_id: 45
+    target_type: paragraph
+  -
+    target_id: 46
+    target_type: paragraph
+  -
+    target_id: 47
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '7'
+  uuid: af2553c1-373a-469f-a967-113627f5cdfe
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

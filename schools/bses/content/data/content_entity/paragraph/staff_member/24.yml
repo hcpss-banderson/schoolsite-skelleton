@@ -1,0 +1,53 @@
+id:
+  -
+    value: 24
+uuid:
+  -
+    value: d8d4fdd7-08ee-4e7d-9303-a8b2dc2f4dc0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:48:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Manina_MacAloney@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Manina MacAloney'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '24'
+  uuid: d8d4fdd7-08ee-4e7d-9303-a8b2dc2f4dc0
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

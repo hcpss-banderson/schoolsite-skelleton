@@ -1,0 +1,53 @@
+id:
+  -
+    value: 162
+uuid:
+  -
+    value: a7f89f92-9d68-4c84-ba33-e4c0eabf9c39
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Laura_Kelly@hcpss.org
+field_job_title:
+  -
+    value: 'Speech / Language Pathologist'
+field_name:
+  -
+    value: 'Laura Kelly'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '162'
+  uuid: a7f89f92-9d68-4c84-ba33-e4c0eabf9c39
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

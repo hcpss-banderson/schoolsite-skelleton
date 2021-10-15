@@ -1,0 +1,67 @@
+id:
+  -
+    value: 2
+uuid:
+  -
+    value: f25e00d3-2689-4784-a01a-fef8d3a55881
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T17:14:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Academic Support'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:14:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T17:14:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 18
+    target_type: paragraph
+  -
+    target_id: 19
+    target_type: paragraph
+  -
+    target_id: 20
+    target_type: paragraph
+  -
+    target_id: 21
+    target_type: paragraph
+  -
+    target_id: 22
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '2'
+  uuid: f25e00d3-2689-4784-a01a-fef8d3a55881
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

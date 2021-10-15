@@ -1,0 +1,53 @@
+id:
+  -
+    value: 71
+uuid:
+  -
+    value: 62e10420-2fbb-4e14-aa11-784197e3608f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:12:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: stephanie_stetz@hcpss.org
+field_job_title:
+  -
+    value: '.5 GT Teacher'
+field_name:
+  -
+    value: 'Stephanie Stetz'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '71'
+  uuid: 62e10420-2fbb-4e14-aa11-784197e3608f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

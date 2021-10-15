@@ -1,0 +1,53 @@
+id:
+  -
+    value: 24
+uuid:
+  -
+    value: a77a977e-483c-41b8-b8a0-24ec1c7f6c64
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:56:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: steven_lewis@hcpss.org
+field_job_title:
+  -
+    value: 'Social Studies and Modules'
+field_name:
+  -
+    value: 'Steve Lewis'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '24'
+  uuid: a77a977e-483c-41b8-b8a0-24ec1c7f6c64
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

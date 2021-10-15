@@ -1,0 +1,53 @@
+id:
+  -
+    value: 23
+uuid:
+  -
+    value: b3ffc4c7-393d-400c-84d0-28217cefc4b7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:28:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: morgan_pratt@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher/Team Leader'
+field_name:
+  -
+    value: 'Morgan Pratt'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '23'
+  uuid: b3ffc4c7-393d-400c-84d0-28217cefc4b7
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

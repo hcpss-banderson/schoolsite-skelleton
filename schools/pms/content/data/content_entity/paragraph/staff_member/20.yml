@@ -1,0 +1,53 @@
+id:
+  -
+    value: 20
+uuid:
+  -
+    value: 8c5d2fa3-abc8-4963-8185-2d78a58b077e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:00:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jennifer_Saks@hcpss.org
+field_job_title:
+  -
+    value: Math
+field_name:
+  -
+    value: 'Jennifer Saks'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '20'
+  uuid: 8c5d2fa3-abc8-4963-8185-2d78a58b077e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 55
+uuid:
+  -
+    value: d0b2769e-66a6-401b-9e1e-2333e2fb9e3a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:04:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: katherine_jacobs@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Katherine Jacobs'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '55'
+  uuid: d0b2769e-66a6-401b-9e1e-2333e2fb9e3a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

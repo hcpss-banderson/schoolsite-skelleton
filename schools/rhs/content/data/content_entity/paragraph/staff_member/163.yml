@@ -1,0 +1,53 @@
+id:
+  -
+    value: 163
+uuid:
+  -
+    value: dc258644-bff0-4409-83fe-a0639c7ccfcd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: donna_blackwell@hcpss.org
+field_job_title:
+  -
+    value: 'Pupil Personnel Worker'
+field_name:
+  -
+    value: 'Donna Blackwell'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '163'
+  uuid: dc258644-bff0-4409-83fe-a0639c7ccfcd
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 96
+uuid:
+  -
+    value: a09355a1-49f3-4cba-9d68-783b9168dacc
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:17:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '23'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: janelle_anderson@hcpss.org
+field_job_title:
+  -
+    value: 'School Health Assistant'
+field_name:
+  -
+    value: 'Janelle Anderson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '96'
+  uuid: a09355a1-49f3-4cba-9d68-783b9168dacc
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

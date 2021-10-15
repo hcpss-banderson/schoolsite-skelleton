@@ -1,0 +1,53 @@
+id:
+  -
+    value: 90
+uuid:
+  -
+    value: a689dff0-9b37-456c-9d25-c3b0335ff42c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:04:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Emily_Perry@hcpss.org
+field_job_title:
+  -
+    value: 'ESOL, Reading Teacher, 6th/7th grade'
+field_name:
+  -
+    value: 'Emily Perry'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '90'
+  uuid: a689dff0-9b37-456c-9d25-c3b0335ff42c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

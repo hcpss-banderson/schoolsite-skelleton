@@ -1,0 +1,58 @@
+id:
+  -
+    value: 25
+uuid:
+  -
+    value: 7c324ccf-1cb3-4337-8a90-fc33cb5055ef
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: Security
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 166
+    target_type: paragraph
+  -
+    target_id: 167
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '25'
+  uuid: 7c324ccf-1cb3-4337-8a90-fc33cb5055ef
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

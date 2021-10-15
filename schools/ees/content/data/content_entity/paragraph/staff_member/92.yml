@@ -1,0 +1,53 @@
+id:
+  -
+    value: 92
+uuid:
+  -
+    value: 1f4ac378-ced7-414e-b0e4-1dd2a461a565
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:58:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '20'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: angie_szalecki@hcpss.org
+field_job_title:
+  -
+    value: 'School Counselor Grades 2,5'
+field_name:
+  -
+    value: 'Angie Szalecki'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '92'
+  uuid: 1f4ac378-ced7-414e-b0e4-1dd2a461a565
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

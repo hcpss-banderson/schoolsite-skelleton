@@ -1,0 +1,91 @@
+id:
+  -
+    value: 22
+uuid:
+  -
+    value: efb409ba-f621-4fb9-ac7e-fe1908af76b8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:30:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Student Services (410-313-2857)'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:30:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:30:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 126
+    target_type: paragraph
+  -
+    target_id: 127
+    target_type: paragraph
+  -
+    target_id: 128
+    target_type: paragraph
+  -
+    target_id: 129
+    target_type: paragraph
+  -
+    target_id: 130
+    target_type: paragraph
+  -
+    target_id: 131
+    target_type: paragraph
+  -
+    target_id: 132
+    target_type: paragraph
+  -
+    target_id: 133
+    target_type: paragraph
+  -
+    target_id: 134
+    target_type: paragraph
+  -
+    target_id: 135
+    target_type: paragraph
+  -
+    target_id: 136
+    target_type: paragraph
+  -
+    target_id: 137
+    target_type: paragraph
+  -
+    target_id: 138
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '22'
+  uuid: efb409ba-f621-4fb9-ac7e-fe1908af76b8
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

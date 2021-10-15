@@ -1,0 +1,53 @@
+id:
+  -
+    value: 24
+uuid:
+  -
+    value: 958fa506-a5f1-4fb1-a772-5f7f4bb763e3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:18:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Aubrey_Phamdo@hcpss.org
+field_job_title:
+  -
+    value: 'First Grade Team Leader'
+field_name:
+  -
+    value: 'Aubrey Phamdo'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '24'
+  uuid: 958fa506-a5f1-4fb1-a772-5f7f4bb763e3
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

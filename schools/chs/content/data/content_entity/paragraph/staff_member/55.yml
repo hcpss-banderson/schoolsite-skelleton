@@ -1,0 +1,53 @@
+id:
+  -
+    value: 55
+uuid:
+  -
+    value: 7b15c8c6-cc36-4c42-baf9-9e95509c2286
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:30:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: toni_ireland@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher (ITL)'
+field_name:
+  -
+    value: 'Toni Ireland'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '55'
+  uuid: 7b15c8c6-cc36-4c42-baf9-9e95509c2286
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

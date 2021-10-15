@@ -1,0 +1,53 @@
+id:
+  -
+    value: 57
+uuid:
+  -
+    value: 936191cd-f0f3-4d13-ba42-87db0a19dfd2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:22:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: dorothy_adams@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Paraeducator'
+field_name:
+  -
+    value: 'Dottie Adams'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '57'
+  uuid: 936191cd-f0f3-4d13-ba42-87db0a19dfd2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

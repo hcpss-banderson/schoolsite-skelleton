@@ -1,0 +1,53 @@
+id:
+  -
+    value: 4
+uuid:
+  -
+    value: 60cc669a-0eb3-4532-98d5-81d45139e15b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: frank_white@hcpss.org
+field_job_title:
+  -
+    value: 'Assistant Principal (11th grade)'
+field_name:
+  -
+    value: 'Frank White, Jr.'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '4'
+  uuid: 60cc669a-0eb3-4532-98d5-81d45139e15b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

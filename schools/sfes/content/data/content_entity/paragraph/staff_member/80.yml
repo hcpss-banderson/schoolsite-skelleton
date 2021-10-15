@@ -1,0 +1,53 @@
+id:
+  -
+    value: 80
+uuid:
+  -
+    value: 8248c44f-f838-4b0f-9473-1dfaa9ac8936
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:19:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: sharon_mcdonald@hcpss.org
+field_job_title:
+  -
+    value: 'Cafeteria Manager'
+field_name:
+  -
+    value: 'Sharon McDonald'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '80'
+  uuid: 8248c44f-f838-4b0f-9473-1dfaa9ac8936
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

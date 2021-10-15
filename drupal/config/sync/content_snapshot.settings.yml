@@ -1,0 +1,12 @@
+snapshot_path: ../content/snapshot
+snapshot_streams:
+  -
+    scheme: public
+    path_exclude_pattern: ^js|^css|^simpletest|^styles|^php|^languages|^.htaccess
+  -
+    scheme: private
+    path_exclude_pattern: null
+    optional: true
+strict: 1
+_core:
+  default_config_hash: FjJCDRX4oNw1pxiEQGe8dWnMXmMLEFUKI9AmJNmocF4

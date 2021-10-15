@@ -1,0 +1,53 @@
+id:
+  -
+    value: 90
+uuid:
+  -
+    value: ca3216d3-6167-4638-a258-e830c10df51d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:32:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '24'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Maria_Ferraro@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, JV Softball'
+field_name:
+  -
+    value: 'Maria Ferraro'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '90'
+  uuid: ca3216d3-6167-4638-a258-e830c10df51d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

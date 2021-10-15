@@ -1,0 +1,53 @@
+id:
+  -
+    value: 36
+uuid:
+  -
+    value: f1291c55-1e56-4297-9273-b3c752abb8ff
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:15:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: beth_rosas@hcpss.org
+field_job_title:
+  -
+    value: 'Fifth Grade Team Leader'
+field_name:
+  -
+    value: 'Beth Rosas'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '36'
+  uuid: f1291c55-1e56-4297-9273-b3c752abb8ff
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

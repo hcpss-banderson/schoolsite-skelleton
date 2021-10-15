@@ -1,0 +1,53 @@
+id:
+  -
+    value: 16
+uuid:
+  -
+    value: 9d42d05d-d4b9-4314-8c9c-8a48e63f448d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: elizabeth_roush_contractor@hcpss.org
+field_job_title:
+  -
+    value: 'School Based Mental Health'
+field_name:
+  -
+    value: 'Betsy Roush'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '16'
+  uuid: 9d42d05d-d4b9-4314-8c9c-8a48e63f448d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

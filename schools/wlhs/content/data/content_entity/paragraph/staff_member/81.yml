@@ -1,0 +1,53 @@
+id:
+  -
+    value: 81
+uuid:
+  -
+    value: 9b752036-f1cc-41b9-8051-1019b8289aab
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:14:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jennieve_hill@hcpss.org
+field_job_title:
+  -
+    value: 'Instructional Team Leader'
+field_name:
+  -
+    value: 'Jennieve Hill'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '81'
+  uuid: 9b752036-f1cc-41b9-8051-1019b8289aab
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

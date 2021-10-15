@@ -1,0 +1,53 @@
+id:
+  -
+    value: 29
+uuid:
+  -
+    value: 2e1a76b2-9664-42a0-9485-cb244431c1a2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:00:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Edward_White@hcpss.org
+field_job_title:
+  -
+    value: 'Science, 7th Grade Team Leader'
+field_name:
+  -
+    value: 'Edward White'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '29'
+  uuid: 2e1a76b2-9664-42a0-9485-cb244431c1a2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

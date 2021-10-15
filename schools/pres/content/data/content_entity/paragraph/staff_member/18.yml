@@ -1,0 +1,53 @@
+id:
+  -
+    value: 18
+uuid:
+  -
+    value: d35fb92c-9ccb-4dde-9723-8fa819e2098f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:15:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: becky_fallon@hcpss.org
+field_job_title:
+  -
+    value: 'First Grade Teacher'
+field_name:
+  -
+    value: 'Becky Fallon'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '18'
+  uuid: d35fb92c-9ccb-4dde-9723-8fa819e2098f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 7
+uuid:
+  -
+    value: 80b61e22-f927-4ee9-b89e-5813b25d71ed
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:04:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: ivette_mercado@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher''s Secretary - Registrar'
+field_name:
+  -
+    value: 'Ivette Mercado'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '7'
+  uuid: 80b61e22-f927-4ee9-b89e-5813b25d71ed
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

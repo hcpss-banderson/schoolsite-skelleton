@@ -1,0 +1,53 @@
+id:
+  -
+    value: 77
+uuid:
+  -
+    value: 25ab1f67-9197-40af-b762-1c5e37fb10ae
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:35:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kathryn_Carlsen@hcpss.org
+field_job_title:
+  -
+    value: 'Drama Teacher/Instructional Team Leader'
+field_name:
+  -
+    value: 'Kathryn Carlsen'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '77'
+  uuid: 25ab1f67-9197-40af-b762-1c5e37fb10ae
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

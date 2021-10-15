@@ -1,0 +1,29 @@
+uuid: 96330766-0227-4af3-80bd-5e79b2a9e219
+langcode: en
+status: true
+dependencies:
+  config:
+    - entityqueue.entity_queue.staff_list
+id: entity_subqueue.staff_list.default
+targetEntityType: entity_subqueue
+bundle: staff_list
+mode: default
+content:
+  items:
+    label: hidden
+    type: entity_reference_entity_view
+    weight: 0
+    region: content
+    settings:
+      view_mode: default
+      link: false
+    third_party_settings: {  }
+  title:
+    label: hidden
+    type: string
+    weight: -10
+    region: content
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+hidden: {  }

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 25
+uuid:
+  -
+    value: fb86a3c5-799e-4c5c-b9d5-b5d9ff6e635d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:04:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: brittany_butler@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Brittany Butler'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '25'
+  uuid: fb86a3c5-799e-4c5c-b9d5-b5d9ff6e635d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

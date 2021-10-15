@@ -1,0 +1,53 @@
+id:
+  -
+    value: 28
+uuid:
+  -
+    value: 6d997225-973c-4266-b5fe-39c340ae50f9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:22:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kaitlyn_powell@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Kaitlyn Powell'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '28'
+  uuid: 6d997225-973c-4266-b5fe-39c340ae50f9
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

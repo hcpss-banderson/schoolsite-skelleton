@@ -1,0 +1,53 @@
+id:
+  -
+    value: 70
+uuid:
+  -
+    value: 6cefb183-eebe-4c14-82d4-48daa41064a9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:52:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: ernest_daniels@hcpss.org
+field_job_title:
+  -
+    value: 'Night Building Supervisor'
+field_name:
+  -
+    value: 'Ernest Daniels'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '70'
+  uuid: 6cefb183-eebe-4c14-82d4-48daa41064a9
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

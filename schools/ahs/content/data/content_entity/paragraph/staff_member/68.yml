@@ -1,0 +1,53 @@
+id:
+  -
+    value: 68
+uuid:
+  -
+    value: cbe51f35-1d59-4484-8285-c816699f2fdc
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Carolyn_Pilcher@hcpss.org
+field_job_title:
+  -
+    value: 'Media Specialist, Instructional Team Leader-CTE'
+field_name:
+  -
+    value: 'Carolyn Pilcher'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '68'
+  uuid: cbe51f35-1d59-4484-8285-c816699f2fdc
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

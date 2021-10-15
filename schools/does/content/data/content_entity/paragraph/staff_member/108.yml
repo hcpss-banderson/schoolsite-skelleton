@@ -1,0 +1,53 @@
+id:
+  -
+    value: 108
+uuid:
+  -
+    value: 8e1277ab-2306-4eae-8e69-d4b1142fa321
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:56:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: maritza_mercedes@hcpss.org
+field_job_title:
+  -
+    value: 'Student Assistant RECC MINC-EL'
+field_name:
+  -
+    value: 'Maritza Mercedes'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '108'
+  uuid: 8e1277ab-2306-4eae-8e69-d4b1142fa321
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 54
+uuid:
+  -
+    value: 7481616d-6dd7-4dcd-841d-9ac8dd62eeec
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:27:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: mary_northen@hcpss.org
+field_job_title:
+  -
+    value: 'Art Educator'
+field_name:
+  -
+    value: 'Mary Northen'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '54'
+  uuid: 7481616d-6dd7-4dcd-841d-9ac8dd62eeec
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

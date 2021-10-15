@@ -1,0 +1,53 @@
+id:
+  -
+    value: 2
+uuid:
+  -
+    value: 408fd573-6e84-4ca7-834e-4eefab6c0263
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:59:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: james_mcvey@hcpss.org
+field_job_title:
+  -
+    value: 'Assistant Principal I 6th Grade & 7th Grade A-K'
+field_name:
+  -
+    value: 'James McVey'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '2'
+  uuid: 408fd573-6e84-4ca7-834e-4eefab6c0263
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

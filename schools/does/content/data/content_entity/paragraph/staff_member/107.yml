@@ -1,0 +1,53 @@
+id:
+  -
+    value: 107
+uuid:
+  -
+    value: 523af9a5-81d7-4f90-95a2-a11944ff22f3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:56:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: marta_kim@hcpss.org
+field_job_title:
+  -
+    value: 'Student Assistant Special Education PL/UL'
+field_name:
+  -
+    value: 'Marta Kim'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '107'
+  uuid: 523af9a5-81d7-4f90-95a2-a11944ff22f3
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 174
+uuid:
+  -
+    value: 4882881e-8328-472f-b3d3-9ee7723f258d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:35:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '28'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kimberly_Durkan@hcpss.org
+field_job_title:
+  -
+    value: Interpreter
+field_name:
+  -
+    value: 'Kim Durkan'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '174'
+  uuid: 4882881e-8328-472f-b3d3-9ee7723f258d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 18
+uuid:
+  -
+    value: 38a3199d-32f6-4a06-9d02-45e9a928ffad
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:18:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jennifer_nania@hcpss.org
+field_job_title:
+  -
+    value: 'Kindergarten Team Leader'
+field_name:
+  -
+    value: 'Jennifer Nania'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '18'
+  uuid: 38a3199d-32f6-4a06-9d02-45e9a928ffad
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

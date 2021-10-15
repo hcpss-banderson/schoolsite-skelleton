@@ -1,0 +1,58 @@
+id:
+  -
+    value: 19
+uuid:
+  -
+    value: d235ed2b-3c9f-4eb3-b64b-fc4c9caf70d8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T15:57:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Cafeteria Staff'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:57:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T15:57:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 159
+    target_type: paragraph
+  -
+    target_id: 160
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '19'
+  uuid: d235ed2b-3c9f-4eb3-b64b-fc4c9caf70d8
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

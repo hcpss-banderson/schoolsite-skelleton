@@ -1,0 +1,53 @@
+id:
+  -
+    value: 26
+uuid:
+  -
+    value: 6fea8b8d-33ca-4e8f-a27b-734906989e4f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:08:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: laura_b_hook@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher/ Instructional Team Leader'
+field_name:
+  -
+    value: 'Laura Hook'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '26'
+  uuid: 6fea8b8d-33ca-4e8f-a27b-734906989e4f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

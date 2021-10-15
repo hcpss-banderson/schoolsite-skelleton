@@ -1,0 +1,53 @@
+id:
+  -
+    value: 101
+uuid:
+  -
+    value: b139d348-682e-43de-b149-5801973e5fae
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:16:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Sheila_Schlosser@hcpss.org
+field_job_title:
+  -
+    value: 'Early Intervention Specialist'
+field_name:
+  -
+    value: 'Shelia Schlosser'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '101'
+  uuid: b139d348-682e-43de-b149-5801973e5fae
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

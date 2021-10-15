@@ -1,0 +1,53 @@
+id:
+  -
+    value: 12
+uuid:
+  -
+    value: b52b1a7c-a6bd-4472-8254-f32ddd33b821
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:41:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: janet_bouland@hcpss.org
+field_job_title:
+  -
+    value: 'Health Professions and Clinical Research'
+field_name:
+  -
+    value: 'Janet Bouland'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '12'
+  uuid: b52b1a7c-a6bd-4472-8254-f32ddd33b821
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

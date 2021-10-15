@@ -1,0 +1,51 @@
+id:
+  -
+    value: 56
+uuid:
+  -
+    value: 06f07623-d5c5-44c8-98bc-758d23c28eb1
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Rhonda_De_La_Mar@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Rhonda De La Mar'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '56'
+  uuid: 06f07623-d5c5-44c8-98bc-758d23c28eb1
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 169
+uuid:
+  -
+    value: 3a9aaf57-03ce-4599-8fcd-073604c2e5dc
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:33:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '20'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jason_johnson1@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Jason Johnson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '169'
+  uuid: 3a9aaf57-03ce-4599-8fcd-073604c2e5dc
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

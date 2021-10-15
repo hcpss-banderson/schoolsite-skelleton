@@ -1,0 +1,53 @@
+id:
+  -
+    value: 41
+uuid:
+  -
+    value: 7d055f59-14aa-4816-9486-06ae8e84cdfa
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:59:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jennifer_neugebauer@hcpss.org
+field_job_title:
+  -
+    value: Health
+field_name:
+  -
+    value: 'Jennifer Neugebauer'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '41'
+  uuid: 7d055f59-14aa-4816-9486-06ae8e84cdfa
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

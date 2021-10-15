@@ -1,0 +1,53 @@
+id:
+  -
+    value: 30
+uuid:
+  -
+    value: 3a9e002e-3d61-4a47-9869-d232793b23c2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:59:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jennifer_marker@hcpss.org
+field_job_title:
+  -
+    value: 'Mathematics/7th & 8th/Algebra'
+field_name:
+  -
+    value: 'Jennifer Marker'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '30'
+  uuid: 3a9e002e-3d61-4a47-9869-d232793b23c2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 3
+uuid:
+  -
+    value: ba1ca467-c947-412e-8322-0167f54372b1
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:24:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jaime_gittleson@hcpss.org
+field_job_title:
+  -
+    value: 'Leadership Intern'
+field_name:
+  -
+    value: 'Jaime Gittleson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '3'
+  uuid: ba1ca467-c947-412e-8322-0167f54372b1
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

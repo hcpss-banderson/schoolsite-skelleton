@@ -1,0 +1,53 @@
+id:
+  -
+    value: 88
+uuid:
+  -
+    value: 33469c1b-a19b-4be9-8fd8-014f5cefb490
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:48:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: srividya_venkatrathinam@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Ms. Venkatrathinam'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '88'
+  uuid: 33469c1b-a19b-4be9-8fd8-014f5cefb490
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

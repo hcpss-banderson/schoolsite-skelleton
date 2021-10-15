@@ -1,0 +1,53 @@
+id:
+  -
+    value: 88
+uuid:
+  -
+    value: b6df7ef5-af07-4d13-ba3a-b5f337909c33
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:17:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '18'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Lucy_Hollis@hcpss.org
+field_job_title:
+  -
+    value: 'Pupil Personnel Worker'
+field_name:
+  -
+    value: 'Lucy Hollis'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '88'
+  uuid: b6df7ef5-af07-4d13-ba3a-b5f337909c33
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

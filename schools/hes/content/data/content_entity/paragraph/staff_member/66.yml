@@ -1,0 +1,53 @@
+id:
+  -
+    value: 66
+uuid:
+  -
+    value: 97f5d12b-d08c-4fc9-8409-089000177390
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:03:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kevin_lee@hcpss.org
+field_job_title:
+  -
+    value: 'Pupil Personnel Work'
+field_name:
+  -
+    value: 'Kevin Lee'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '66'
+  uuid: 97f5d12b-d08c-4fc9-8409-089000177390
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

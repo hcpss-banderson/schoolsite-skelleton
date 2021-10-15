@@ -1,0 +1,53 @@
+id:
+  -
+    value: 46
+uuid:
+  -
+    value: 34330902-d9f9-4885-8dfb-9093cd9435ca
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:19:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Nadege_Hopkins@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Teacher'
+field_name:
+  -
+    value: 'Nadege Hopkins'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '46'
+  uuid: 34330902-d9f9-4885-8dfb-9093cd9435ca
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

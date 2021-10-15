@@ -1,0 +1,53 @@
+id:
+  -
+    value: 21
+uuid:
+  -
+    value: 6af80382-5342-4a44-a7bc-672f7b25490c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:59:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: haley_carroll@hcpss.org
+field_job_title:
+  -
+    value: 'English Language Arts/6th Grade/6th Grade Team Lead'
+field_name:
+  -
+    value: 'Haley Carroll'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '21'
+  uuid: 6af80382-5342-4a44-a7bc-672f7b25490c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

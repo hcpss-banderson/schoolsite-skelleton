@@ -1,0 +1,49 @@
+id:
+  -
+    value: 77
+uuid:
+  -
+    value: c2447240-1eef-40dc-b53b-eb8f6675f1eb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:44:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title: {  }
+field_name:
+  -
+    value: 'Kevin Routh'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '77'
+  uuid: c2447240-1eef-40dc-b53b-eb8f6675f1eb
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

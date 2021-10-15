@@ -1,0 +1,53 @@
+id:
+  -
+    value: 50
+uuid:
+  -
+    value: 64416752-229e-4d2b-bd75-36a56ac79add
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:52:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: wesley_thompson@hcpss.org
+field_job_title:
+  -
+    value: 'Strings Teacher'
+field_name:
+  -
+    value: 'Wesley Thompson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '50'
+  uuid: 64416752-229e-4d2b-bd75-36a56ac79add
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

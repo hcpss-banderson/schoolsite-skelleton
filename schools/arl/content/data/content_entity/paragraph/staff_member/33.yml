@@ -1,0 +1,53 @@
+id:
+  -
+    value: 33
+uuid:
+  -
+    value: e4a02fde-9ec8-4bec-8fa5-708f3bee6c45
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:41:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jeffrey_Sharp@hcpss.org
+field_job_title:
+  -
+    value: 'Graphic Design Teacher'
+field_name:
+  -
+    value: 'Jeff Sharp'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '33'
+  uuid: e4a02fde-9ec8-4bec-8fa5-708f3bee6c45
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

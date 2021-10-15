@@ -1,0 +1,53 @@
+id:
+  -
+    value: 62
+uuid:
+  -
+    value: edbbe360-b584-40a5-9937-4124bfd3e42d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:59:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Elizabeth_Shields@hcpss.org
+field_job_title:
+  -
+    value: 'School Counselor (1st, 2nd, 3rd & 5th)'
+field_name:
+  -
+    value: 'Mrs. Shields'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '62'
+  uuid: edbbe360-b584-40a5-9937-4124bfd3e42d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

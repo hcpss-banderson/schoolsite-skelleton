@@ -1,0 +1,53 @@
+id:
+  -
+    value: 20
+uuid:
+  -
+    value: 65688ef0-42af-415f-8c4c-31a7e2daf839
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:57:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: robinson_giraldo_contractor@hcpss.org
+field_job_title:
+  -
+    value: 'Mental Health Provider'
+field_name:
+  -
+    value: 'Robinson Giraldo'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '20'
+  uuid: 65688ef0-42af-415f-8c4c-31a7e2daf839
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

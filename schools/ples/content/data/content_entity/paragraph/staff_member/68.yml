@@ -1,0 +1,53 @@
+id:
+  -
+    value: 68
+uuid:
+  -
+    value: c610ef87-3f28-4b98-b7d2-521d46916c12
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:13:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: pamela_brazis@hcpss.org
+field_job_title:
+  -
+    value: 'Reading Teacher'
+field_name:
+  -
+    value: 'Pamela Brazis'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '68'
+  uuid: c610ef87-3f28-4b98-b7d2-521d46916c12
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

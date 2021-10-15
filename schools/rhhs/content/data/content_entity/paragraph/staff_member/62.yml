@@ -1,0 +1,51 @@
+id:
+  -
+    value: 62
+uuid:
+  -
+    value: 5a4753fd-bfb9-41a5-b0c3-00421a994e99
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Brian_Vandeusen@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Brian Van Deusen'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '62'
+  uuid: 5a4753fd-bfb9-41a5-b0c3-00421a994e99
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

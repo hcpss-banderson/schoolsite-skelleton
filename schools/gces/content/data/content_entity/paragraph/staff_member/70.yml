@@ -1,0 +1,53 @@
+id:
+  -
+    value: 70
+uuid:
+  -
+    value: 63f1e4f0-4842-495b-a66a-7ca8b734823a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:13:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Maria_Hernandez@hcpss.org
+field_job_title:
+  -
+    value: 'Classroom Teacher'
+field_name:
+  -
+    value: 'Maria Hernandez'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '70'
+  uuid: 63f1e4f0-4842-495b-a66a-7ca8b734823a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

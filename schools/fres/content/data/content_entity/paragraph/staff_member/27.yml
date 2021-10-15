@@ -1,0 +1,53 @@
+id:
+  -
+    value: 27
+uuid:
+  -
+    value: 58dff4b3-3272-4c98-81cb-b988ff55530a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:00:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Donna_Tiffey@hcpss.org
+field_job_title:
+  -
+    value: 'Instructional Team Leader'
+field_name:
+  -
+    value: 'Donna Tiffey'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '27'
+  uuid: 58dff4b3-3272-4c98-81cb-b988ff55530a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

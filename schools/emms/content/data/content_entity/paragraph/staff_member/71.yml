@@ -1,0 +1,53 @@
+id:
+  -
+    value: 71
+uuid:
+  -
+    value: e39351ba-a17a-4137-9dce-5a5e651f25bf
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:47:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: chi_song@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education, Academic Life Skills (ALS)'
+field_name:
+  -
+    value: 'Chi Song'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '71'
+  uuid: e39351ba-a17a-4137-9dce-5a5e651f25bf
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 4
+uuid:
+  -
+    value: d296b2ce-c489-41d5-bf40-8fdd48183a90
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:58:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Keri_Ekert@hcpss.org
+field_job_title:
+  -
+    value: 'Principal''s Secretary'
+field_name:
+  -
+    value: 'Keri Ekert'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '4'
+  uuid: d296b2ce-c489-41d5-bf40-8fdd48183a90
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

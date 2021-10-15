@@ -1,0 +1,53 @@
+id:
+  -
+    value: 35
+uuid:
+  -
+    value: 0ccb18a9-3498-4941-9c05-902085b75add
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:17:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: susan_d_white@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Susan White'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '35'
+  uuid: 0ccb18a9-3498-4941-9c05-902085b75add
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

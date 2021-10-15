@@ -1,0 +1,53 @@
+id:
+  -
+    value: 54
+uuid:
+  -
+    value: b0b69806-e72e-4c3b-abad-d2c2922d2116
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:17:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kimberly_dean@hcpss.org
+field_job_title:
+  -
+    value: 'GT Resource Teacher'
+field_name:
+  -
+    value: 'Kim Dean'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '54'
+  uuid: b0b69806-e72e-4c3b-abad-d2c2922d2116
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

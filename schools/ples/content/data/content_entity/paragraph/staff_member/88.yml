@@ -1,0 +1,53 @@
+id:
+  -
+    value: 88
+uuid:
+  -
+    value: eb0a2fcb-7832-43a5-97f4-3e4cb56025ec
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:13:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Denise_DeFour@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Teacher'
+field_name:
+  -
+    value: 'Denise DeFour'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '88'
+  uuid: eb0a2fcb-7832-43a5-97f4-3e4cb56025ec
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

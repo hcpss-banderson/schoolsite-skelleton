@@ -1,0 +1,53 @@
+id:
+  -
+    value: 7
+uuid:
+  -
+    value: d9ae45c0-8049-46fd-b156-1c6f6bad44c0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:59:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Lisa_Castaneda@hcpss.org
+field_job_title:
+  -
+    value: 'Teachers'' Secretary'
+field_name:
+  -
+    value: 'Mrs. Lisa Castaneda'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '7'
+  uuid: d9ae45c0-8049-46fd-b156-1c6f6bad44c0
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

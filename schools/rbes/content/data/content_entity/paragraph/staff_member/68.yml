@@ -1,0 +1,51 @@
+id:
+  -
+    value: 68
+uuid:
+  -
+    value: 63b1b3f5-9408-41a7-95ce-2b7bf87c2a3d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:16:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: 'Special Education Paraeducator'
+field_name:
+  -
+    value: 'Ben Wallace'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '68'
+  uuid: 63b1b3f5-9408-41a7-95ce-2b7bf87c2a3d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

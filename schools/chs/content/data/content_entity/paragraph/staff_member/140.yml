@@ -1,0 +1,53 @@
+id:
+  -
+    value: 140
+uuid:
+  -
+    value: 9991744c-ea47-4815-a637-f2831cd21f4c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:30:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '23'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: daleth_sendin@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher/Tech Ed and PLTW'
+field_name:
+  -
+    value: 'Daleth Sendin'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '140'
+  uuid: 9991744c-ea47-4815-a637-f2831cd21f4c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

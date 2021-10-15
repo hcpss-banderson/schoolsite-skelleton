@@ -1,0 +1,53 @@
+id:
+  -
+    value: 8
+uuid:
+  -
+    value: 7aba9d2f-5132-434b-aac3-096c0703fc1f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:54:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: candace_beasley@hcpss.org
+field_job_title:
+  -
+    value: 'Pre- K Teacher'
+field_name:
+  -
+    value: 'Candace Beasley'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '8'
+  uuid: 7aba9d2f-5132-434b-aac3-096c0703fc1f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

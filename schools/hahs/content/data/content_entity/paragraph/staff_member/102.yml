@@ -1,0 +1,53 @@
+id:
+  -
+    value: 102
+uuid:
+  -
+    value: e0b5c0ec-7444-4daf-a038-8e813c41a9bd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:32:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '25'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Alexander_Livieratos@hcpss.org
+field_job_title:
+  -
+    value: 'ITL, Teacher'
+field_name:
+  -
+    value: 'Alec Livieratos'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '102'
+  uuid: e0b5c0ec-7444-4daf-a038-8e813c41a9bd
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

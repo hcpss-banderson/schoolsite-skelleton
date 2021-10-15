@@ -1,0 +1,53 @@
+id:
+  -
+    value: 107
+uuid:
+  -
+    value: a542d5ee-b523-4a35-af42-b665ef3d2292
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:13:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Cheryl_Keane@hcpss.org
+field_job_title:
+  -
+    value: '.5 Media Specialist/.5 Instructional Technology Teacher'
+field_name:
+  -
+    value: 'Cheryl Keane'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '107'
+  uuid: a542d5ee-b523-4a35-af42-b665ef3d2292
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

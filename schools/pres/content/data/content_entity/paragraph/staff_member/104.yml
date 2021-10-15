@@ -1,0 +1,53 @@
+id:
+  -
+    value: 104
+uuid:
+  -
+    value: 503c41cf-82fb-48f3-86e5-b6644ea315b6
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:15:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: benjamin_wade@hcpss.org
+field_job_title:
+  -
+    value: 'Pupil Personnel Worker'
+field_name:
+  -
+    value: 'Ben Wade'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '104'
+  uuid: 503c41cf-82fb-48f3-86e5-b6644ea315b6
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

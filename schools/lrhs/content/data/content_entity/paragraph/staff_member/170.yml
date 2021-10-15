@@ -1,0 +1,53 @@
+id:
+  -
+    value: 170
+uuid:
+  -
+    value: 2696d22b-53e4-4774-b17a-5f04c2278d26
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:34:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '23'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: gina_naimaster@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Gina Naimaster'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '170'
+  uuid: 2696d22b-53e4-4774-b17a-5f04c2278d26
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

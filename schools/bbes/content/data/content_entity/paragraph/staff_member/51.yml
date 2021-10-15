@@ -1,0 +1,51 @@
+id:
+  -
+    value: 51
+uuid:
+  -
+    value: 768d2d90-8e15-4991-bde2-c41c3b6b14e7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '19'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: SA
+field_name:
+  -
+    value: 'Danielle Agel'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '51'
+  uuid: 768d2d90-8e15-4991-bde2-c41c3b6b14e7
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

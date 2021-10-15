@@ -1,0 +1,53 @@
+id:
+  -
+    value: 52
+uuid:
+  -
+    value: 5933c5a7-4b56-49a5-9c27-5fe033b4de5d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:30:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: david_matchim@hcpss.org
+field_job_title:
+  -
+    value: Teacher/Band
+field_name:
+  -
+    value: 'David Matchim'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '52'
+  uuid: 5933c5a7-4b56-49a5-9c27-5fe033b4de5d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

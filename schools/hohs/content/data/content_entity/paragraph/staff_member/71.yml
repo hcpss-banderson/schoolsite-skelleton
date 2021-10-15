@@ -1,0 +1,53 @@
+id:
+  -
+    value: 71
+uuid:
+  -
+    value: defc07e4-ef67-4a4f-9418-a0c3192b7b92
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:33:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: greg_bulger@hcpss.org
+field_job_title:
+  -
+    value: 'Media Specialist'
+field_name:
+  -
+    value: 'Greg Bulger'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '71'
+  uuid: defc07e4-ef67-4a4f-9418-a0c3192b7b92
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

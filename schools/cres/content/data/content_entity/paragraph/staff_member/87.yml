@@ -1,0 +1,53 @@
+id:
+  -
+    value: 87
+uuid:
+  -
+    value: 1b68b06e-e60d-4bbd-ad12-3d523f8dc676
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:54:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Lynne_Thomas@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Lynne Thomas'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '87'
+  uuid: 1b68b06e-e60d-4bbd-ad12-3d523f8dc676
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

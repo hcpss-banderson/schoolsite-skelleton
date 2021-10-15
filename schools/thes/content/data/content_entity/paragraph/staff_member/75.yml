@@ -1,0 +1,53 @@
+id:
+  -
+    value: 75
+uuid:
+  -
+    value: 740a9ff9-5625-4085-912b-d7d44cc6fb27
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:21:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Joan_Chipman@hcpss.org
+field_job_title:
+  -
+    value: 'Occupational Therapist'
+field_name:
+  -
+    value: 'Joan Chipman'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '75'
+  uuid: 740a9ff9-5625-4085-912b-d7d44cc6fb27
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

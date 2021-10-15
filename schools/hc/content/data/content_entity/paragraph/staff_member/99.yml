@@ -1,0 +1,51 @@
+id:
+  -
+    value: 99
+uuid:
+  -
+    value: e124fe5d-26cc-4da8-839e-bc42d5e10b9e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:44:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '18'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Brian_Goffney@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Brian Goffney'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '99'
+  uuid: e124fe5d-26cc-4da8-839e-bc42d5e10b9e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 33
+uuid:
+  -
+    value: a0f0e407-c1a1-49b2-9b64-3cff3263bdbd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:50:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: joan_lasota@hcpss.org
+field_job_title:
+  -
+    value: 'Social Studies, 7th Grade Team Leader'
+field_name:
+  -
+    value: 'Joan Ellen LaSota'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '33'
+  uuid: a0f0e407-c1a1-49b2-9b64-3cff3263bdbd
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 84
+uuid:
+  -
+    value: 3370b68b-f8a7-4333-97d6-ad40efafc3bb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:47:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: deborah_eikenberg@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Paraeducator'
+field_name:
+  -
+    value: 'Deborah Eikenberg'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '84'
+  uuid: 3370b68b-f8a7-4333-97d6-ad40efafc3bb
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

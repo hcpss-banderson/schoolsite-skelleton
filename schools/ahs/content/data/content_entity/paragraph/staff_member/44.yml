@@ -1,0 +1,53 @@
+id:
+  -
+    value: 44
+uuid:
+  -
+    value: 557a1d7d-64b3-4748-85df-0ab8f08aa551
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Liela_Razik@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Liela Razik'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '44'
+  uuid: 557a1d7d-64b3-4748-85df-0ab8f08aa551
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 133
+uuid:
+  -
+    value: fd829b39-8530-4e85-bc62-63863cd6dd1e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:57:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '18'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: cheri_grant@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Cheri Grant'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '133'
+  uuid: fd829b39-8530-4e85-bc62-63863cd6dd1e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

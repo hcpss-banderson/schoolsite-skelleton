@@ -1,0 +1,53 @@
+id:
+  -
+    value: 27
+uuid:
+  -
+    value: 8e147960-d61b-487e-9133-506b6d6ba5e3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:52:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: natalie_albanesi@hcpss.org
+field_job_title:
+  -
+    value: 'Science 6/8'
+field_name:
+  -
+    value: 'Natalie Albanesi'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '27'
+  uuid: 8e147960-d61b-487e-9133-506b6d6ba5e3
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

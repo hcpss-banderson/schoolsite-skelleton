@@ -1,0 +1,53 @@
+id:
+  -
+    value: 89
+uuid:
+  -
+    value: 3db5a7d5-6e9c-41ad-b8da-73f4ec5cfea2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:57:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: dawn_yost@hcpss.org
+field_job_title:
+  -
+    value: 'Title I Interventionist'
+field_name:
+  -
+    value: 'Dawn Yost'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '89'
+  uuid: 3db5a7d5-6e9c-41ad-b8da-73f4ec5cfea2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

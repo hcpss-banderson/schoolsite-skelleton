@@ -1,0 +1,53 @@
+id:
+  -
+    value: 21
+uuid:
+  -
+    value: 135dea73-63f9-4b7a-9ba1-3e11dc47c68a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:17:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Tahina_Gupta@hcpss.org
+field_job_title:
+  -
+    value: 'Student Assistant'
+field_name:
+  -
+    value: 'Gupta Tuhina'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '21'
+  uuid: 135dea73-63f9-4b7a-9ba1-3e11dc47c68a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

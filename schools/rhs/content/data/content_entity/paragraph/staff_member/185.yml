@@ -1,0 +1,53 @@
+id:
+  -
+    value: 185
+uuid:
+  -
+    value: 75496c2f-4c03-4960-9c48-0172aea403b9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Anthony_Taylor@hcpss.org
+field_job_title:
+  -
+    value: Custodian
+field_name:
+  -
+    value: 'Anthony Taylor'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '185'
+  uuid: 75496c2f-4c03-4960-9c48-0172aea403b9
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

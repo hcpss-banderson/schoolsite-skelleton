@@ -1,0 +1,53 @@
+id:
+  -
+    value: 39
+uuid:
+  -
+    value: d2684bc5-c022-4b12-81d2-4e6502e4c04d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:57:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: meera_vithlani@hcpss.org
+field_job_title:
+  -
+    value: 'Student Assistant'
+field_name:
+  -
+    value: 'Meera Vithlani'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '39'
+  uuid: d2684bc5-c022-4b12-81d2-4e6502e4c04d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

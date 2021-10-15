@@ -1,0 +1,53 @@
+id:
+  -
+    value: 46
+uuid:
+  -
+    value: c22d2134-5c4f-45f1-9c71-5fc9aadb63a9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:36:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: laverne_miers-bond@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, Art'
+field_name:
+  -
+    value: 'Laverne Miers-Bond'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '46'
+  uuid: c22d2134-5c4f-45f1-9c71-5fc9aadb63a9
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 16
+uuid:
+  -
+    value: c8fdbb83-38a6-4d37-8130-1e1e3446c4cb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:18:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: allison_birmingham@hcpss.org
+field_job_title:
+  -
+    value: 'Pre-K Teacher'
+field_name:
+  -
+    value: 'Allison Birmingham'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '16'
+  uuid: c8fdbb83-38a6-4d37-8130-1e1e3446c4cb
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

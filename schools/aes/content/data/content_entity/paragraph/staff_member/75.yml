@@ -1,0 +1,53 @@
+id:
+  -
+    value: 75
+uuid:
+  -
+    value: cc8e54e7-e164-4f90-89d8-80281c75b90d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:45:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: roxanne_smith@hcpss.org
+field_job_title:
+  -
+    value: 'Building Supervisor'
+field_name:
+  -
+    value: 'Roxanne Smith'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '75'
+  uuid: cc8e54e7-e164-4f90-89d8-80281c75b90d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

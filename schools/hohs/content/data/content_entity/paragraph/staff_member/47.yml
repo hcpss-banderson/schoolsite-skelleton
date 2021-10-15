@@ -1,0 +1,53 @@
+id:
+  -
+    value: 47
+uuid:
+  -
+    value: 77c1c154-af51-48c7-9318-a564441fd03e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:33:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Erin_McArdle@hcpss.org
+field_job_title:
+  -
+    value: 'English ITL'
+field_name:
+  -
+    value: 'Erin McArdle'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '47'
+  uuid: 77c1c154-af51-48c7-9318-a564441fd03e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

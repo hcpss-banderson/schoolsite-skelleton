@@ -1,0 +1,51 @@
+id:
+  -
+    value: 120
+uuid:
+  -
+    value: 77fd668f-d08e-44b6-8652-a9d7d74c32d5
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:13:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '20'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: 'Night Custodian'
+field_name:
+  -
+    value: 'Craig Fowler'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '120'
+  uuid: 77fd668f-d08e-44b6-8652-a9d7d74c32d5
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

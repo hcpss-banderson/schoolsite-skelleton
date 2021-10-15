@@ -1,0 +1,53 @@
+id:
+  -
+    value: 150
+uuid:
+  -
+    value: 3488f66b-327b-4924-89c2-51a77152eaa3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Deborah_Merwitz@hcpss.org
+field_job_title:
+  -
+    value: Registrar
+field_name:
+  -
+    value: 'Deborah Merwitz'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '150'
+  uuid: 3488f66b-327b-4924-89c2-51a77152eaa3
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

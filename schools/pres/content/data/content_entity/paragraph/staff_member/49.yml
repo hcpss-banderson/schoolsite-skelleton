@@ -1,0 +1,53 @@
+id:
+  -
+    value: 49
+uuid:
+  -
+    value: d5587e97-fb80-4aa4-9e3b-f199658888eb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:15:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: lisa_huriaux@hcpss.org
+field_job_title:
+  -
+    value: Art
+field_name:
+  -
+    value: 'Lisa Huriaux'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '49'
+  uuid: d5587e97-fb80-4aa4-9e3b-f199658888eb
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

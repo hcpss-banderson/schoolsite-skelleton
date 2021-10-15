@@ -1,0 +1,53 @@
+id:
+  -
+    value: 44
+uuid:
+  -
+    value: 47028b67-0084-49c9-8a99-52e70e116b45
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:15:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: danielle_gwinn@hcpss.org
+field_job_title:
+  -
+    value: 'Reading Specialist'
+field_name:
+  -
+    value: 'Danielle Gwinn'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '44'
+  uuid: 47028b67-0084-49c9-8a99-52e70e116b45
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

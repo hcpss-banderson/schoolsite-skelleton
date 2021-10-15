@@ -1,0 +1,53 @@
+id:
+  -
+    value: 33
+uuid:
+  -
+    value: 9efd33ab-2cd2-43e2-9eae-ba065a419d11
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:54:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Cynthia_Clemens@hcpss.org
+field_job_title:
+  -
+    value: 'English Language Arts'
+field_name:
+  -
+    value: 'Cindy Clemens'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '33'
+  uuid: 9efd33ab-2cd2-43e2-9eae-ba065a419d11
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

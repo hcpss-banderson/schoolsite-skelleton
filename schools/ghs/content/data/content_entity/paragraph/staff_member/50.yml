@@ -1,0 +1,53 @@
+id:
+  -
+    value: 50
+uuid:
+  -
+    value: d1ddc614-bbf9-4972-b8fe-1561a3d647eb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:31:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kim_rullan@hcpss.org
+field_job_title:
+  -
+    value: 'Cluster Nurse'
+field_name:
+  -
+    value: 'Kim Rullan'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '50'
+  uuid: d1ddc614-bbf9-4972-b8fe-1561a3d647eb
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

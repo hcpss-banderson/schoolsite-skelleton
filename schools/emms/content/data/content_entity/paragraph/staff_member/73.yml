@@ -1,0 +1,53 @@
+id:
+  -
+    value: 73
+uuid:
+  -
+    value: 35840827-955f-431e-98e1-3c3a6fe47b09
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:47:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: nicole_jensen@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education, 6th Grade'
+field_name:
+  -
+    value: 'Nicole Jensen (effective August 19, 2021)'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '73'
+  uuid: 35840827-955f-431e-98e1-3c3a6fe47b09
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

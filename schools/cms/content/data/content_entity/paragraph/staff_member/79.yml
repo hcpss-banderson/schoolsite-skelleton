@@ -1,0 +1,53 @@
+id:
+  -
+    value: 79
+uuid:
+  -
+    value: a51074cc-2515-4276-aea2-8f2b85ec872a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:44:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: julia_savoy@hcpss.org
+field_job_title:
+  -
+    value: 'Night Chief'
+field_name:
+  -
+    value: 'Julia Savoy'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '79'
+  uuid: a51074cc-2515-4276-aea2-8f2b85ec872a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

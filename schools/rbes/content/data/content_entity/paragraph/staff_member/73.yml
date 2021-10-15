@@ -1,0 +1,53 @@
+id:
+  -
+    value: 73
+uuid:
+  -
+    value: c106f254-2890-4d1b-8d25-ff76b2995b2f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:16:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kimberly_Filler@hcpss.org
+field_job_title:
+  -
+    value: 'Title I Teacher'
+field_name:
+  -
+    value: 'Kim Filler'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '73'
+  uuid: c106f254-2890-4d1b-8d25-ff76b2995b2f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

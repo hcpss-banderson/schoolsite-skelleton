@@ -1,0 +1,51 @@
+id:
+  -
+    value: 132
+uuid:
+  -
+    value: 9f06f78e-b408-4915-aa1e-72d13b36fe16
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '32'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: TE
+field_name:
+  -
+    value: 'Ester Kouraogo'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '132'
+  uuid: 9f06f78e-b408-4915-aa1e-72d13b36fe16
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

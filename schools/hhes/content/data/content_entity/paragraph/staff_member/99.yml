@@ -1,0 +1,53 @@
+id:
+  -
+    value: 99
+uuid:
+  -
+    value: 3ab3cc61-2a33-48d2-9b2c-7faac95e9cee
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:04:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: cheryl_hurbon@hcpss.org
+field_job_title:
+  -
+    value: 'Pupil Personnel Worker'
+field_name:
+  -
+    value: 'Cheryl Hurbon'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '99'
+  uuid: 3ab3cc61-2a33-48d2-9b2c-7faac95e9cee
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

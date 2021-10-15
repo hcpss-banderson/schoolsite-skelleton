@@ -1,0 +1,53 @@
+id:
+  -
+    value: 67
+uuid:
+  -
+    value: c5cff99d-4d80-4212-9bf1-95d1f748300a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:47:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kathryn_hereth@hcpss.org
+field_job_title:
+  -
+    value: 'Speech/Language Pathologist / Instructional Team Leader'
+field_name:
+  -
+    value: 'Kathryn Hereth'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '67'
+  uuid: c5cff99d-4d80-4212-9bf1-95d1f748300a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 110
+uuid:
+  -
+    value: 9c77d2df-2ab7-45e9-9d80-a3a0987a3ddd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:15:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: margaret_sirois@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Margaret Sirois'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '110'
+  uuid: 9c77d2df-2ab7-45e9-9d80-a3a0987a3ddd
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

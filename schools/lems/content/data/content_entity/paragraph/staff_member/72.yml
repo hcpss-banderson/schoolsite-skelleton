@@ -1,0 +1,53 @@
+id:
+  -
+    value: 72
+uuid:
+  -
+    value: 9c375e99-0283-4eb2-bb99-0bf7e5394ab6
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:53:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: lataesha_jones@hcpss.org
+field_job_title:
+  -
+    value: 'Family and Consumer Sciences Teacher'
+field_name:
+  -
+    value: 'Lataesha Jones'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '72'
+  uuid: 9c375e99-0283-4eb2-bb99-0bf7e5394ab6
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

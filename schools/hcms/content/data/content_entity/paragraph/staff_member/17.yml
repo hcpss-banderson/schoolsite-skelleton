@@ -1,0 +1,53 @@
+id:
+  -
+    value: 17
+uuid:
+  -
+    value: c1fc9e6a-fe26-492a-a830-f64e312d7747
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:50:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: melynda_diehl@hcpss.org
+field_job_title:
+  -
+    value: 'Social Studies'
+field_name:
+  -
+    value: 'Melynda Diehl'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '17'
+  uuid: c1fc9e6a-fe26-492a-a830-f64e312d7747
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

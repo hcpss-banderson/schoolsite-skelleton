@@ -1,0 +1,53 @@
+id:
+  -
+    value: 58
+uuid:
+  -
+    value: 250bf3b4-0d2b-4040-a265-eefaf53914b8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:30:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: michael_bossom@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher/Physical Education'
+field_name:
+  -
+    value: 'Michael Bossom'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '58'
+  uuid: 250bf3b4-0d2b-4040-a265-eefaf53914b8
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

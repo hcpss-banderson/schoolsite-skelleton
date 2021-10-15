@@ -1,0 +1,53 @@
+id:
+  -
+    value: 23
+uuid:
+  -
+    value: 1f48debd-b5c9-42a1-b182-1fbb78a518b8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:55:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: erica_waters@hcpss.org
+field_job_title:
+  -
+    value: '6th Grade Team Leader - Geography & 6th Grade Boost the Brain'
+field_name:
+  -
+    value: 'Erica Waters'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '23'
+  uuid: 1f48debd-b5c9-42a1-b182-1fbb78a518b8
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

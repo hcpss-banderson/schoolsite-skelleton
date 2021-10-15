@@ -1,0 +1,53 @@
+id:
+  -
+    value: 85
+uuid:
+  -
+    value: 9d8f89e0-146e-492d-973a-7c81ea1218b3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:11:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: diana_pascoe@hcpss.org
+field_job_title:
+  -
+    value: 'Cafeteria Assistant'
+field_name:
+  -
+    value: 'Diana Pascoe'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '85'
+  uuid: 9d8f89e0-146e-492d-973a-7c81ea1218b3
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

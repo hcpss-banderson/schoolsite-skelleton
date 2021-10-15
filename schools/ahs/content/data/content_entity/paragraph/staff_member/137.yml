@@ -1,0 +1,53 @@
+id:
+  -
+    value: 137
+uuid:
+  -
+    value: 3c805734-bc75-49fb-944a-e1b848ce5edb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '23'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Georgette_Washington@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Georgette Washington'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '137'
+  uuid: 3c805734-bc75-49fb-944a-e1b848ce5edb
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

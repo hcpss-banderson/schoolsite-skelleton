@@ -1,0 +1,53 @@
+id:
+  -
+    value: 91
+uuid:
+  -
+    value: f22fd8a4-7a42-463f-b1d9-a1138ab5271e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:24:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kirsten_Jett@hcpss.org
+field_job_title:
+  -
+    value: 'MINC EL Teacher'
+field_name:
+  -
+    value: 'Kirsten Jett'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '91'
+  uuid: f22fd8a4-7a42-463f-b1d9-a1138ab5271e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

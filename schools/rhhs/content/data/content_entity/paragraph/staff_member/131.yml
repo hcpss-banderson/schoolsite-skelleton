@@ -1,0 +1,51 @@
+id:
+  -
+    value: 131
+uuid:
+  -
+    value: cf54e11a-535d-4f37-9ea1-abf91f290708
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: Custodian
+field_name:
+  -
+    value: 'Edward Collins'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '131'
+  uuid: cf54e11a-535d-4f37-9ea1-abf91f290708
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

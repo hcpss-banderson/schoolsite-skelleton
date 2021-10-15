@@ -1,0 +1,53 @@
+id:
+  -
+    value: 13
+uuid:
+  -
+    value: 013dd99c-91dd-4ad0-9b7c-fa820e19df0e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:24:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: dulce_boyer@hcpss.org
+field_job_title:
+  -
+    value: 'P.M. .5 Teacher''s Secretary'
+field_name:
+  -
+    value: 'Dulce Boyer'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '13'
+  uuid: 013dd99c-91dd-4ad0-9b7c-fa820e19df0e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

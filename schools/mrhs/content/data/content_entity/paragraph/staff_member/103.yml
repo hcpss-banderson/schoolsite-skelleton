@@ -1,0 +1,53 @@
+id:
+  -
+    value: 103
+uuid:
+  -
+    value: 97068c44-37f9-48ee-b9be-510547814f22
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:36:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: thea_baker@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Thea Baker'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '103'
+  uuid: 97068c44-37f9-48ee-b9be-510547814f22
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

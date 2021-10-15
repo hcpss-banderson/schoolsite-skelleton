@@ -1,0 +1,53 @@
+id:
+  -
+    value: 59
+uuid:
+  -
+    value: 6bacb02d-fc50-465b-af31-15595d2ae11f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:00:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Rajinie_Dixit1@hcpss.org
+field_job_title:
+  -
+    value: 'Speech Language Pathologist'
+field_name:
+  -
+    value: 'Rajinie Dixit'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '59'
+  uuid: 6bacb02d-fc50-465b-af31-15595d2ae11f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 64
+uuid:
+  -
+    value: b73a4db3-41bc-4ba3-aa9d-af4523347cb1
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:57:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Cathleen_LeBrun@hcpss.org
+field_job_title:
+  -
+    value: 'Family and Consumer Science'
+field_name:
+  -
+    value: 'Mrs. LeBrun'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '64'
+  uuid: b73a4db3-41bc-4ba3-aa9d-af4523347cb1
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

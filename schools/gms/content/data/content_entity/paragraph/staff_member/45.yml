@@ -1,0 +1,53 @@
+id:
+  -
+    value: 45
+uuid:
+  -
+    value: 4382daf7-9447-452e-b9b1-7bbb326e2b61
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:49:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: julie_robertson@hcpss.org
+field_job_title:
+  -
+    value: Math
+field_name:
+  -
+    value: 'Julie Robertson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '45'
+  uuid: 4382daf7-9447-452e-b9b1-7bbb326e2b61
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

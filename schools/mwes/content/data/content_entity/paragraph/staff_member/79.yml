@@ -1,0 +1,53 @@
+id:
+  -
+    value: 79
+uuid:
+  -
+    value: a0b8860d-5262-43cc-ab35-d46da6394256
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:11:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Allison_Holocker@hcpss.org
+field_job_title:
+  -
+    value: 'Physical Education'
+field_name:
+  -
+    value: 'Allison Holocker'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '79'
+  uuid: a0b8860d-5262-43cc-ab35-d46da6394256
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

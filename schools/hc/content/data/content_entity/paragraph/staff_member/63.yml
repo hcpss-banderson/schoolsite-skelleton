@@ -1,0 +1,53 @@
+id:
+  -
+    value: 63
+uuid:
+  -
+    value: e2f3d544-f3bc-404a-8427-71ef2a90e8d7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:44:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Cathy_Garris@hcpss.org
+field_job_title:
+  -
+    value: 'Credit Recovery'
+field_name:
+  -
+    value: 'Catherine Garris'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '63'
+  uuid: e2f3d544-f3bc-404a-8427-71ef2a90e8d7
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

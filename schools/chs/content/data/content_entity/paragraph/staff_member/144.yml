@@ -1,0 +1,53 @@
+id:
+  -
+    value: 144
+uuid:
+  -
+    value: 2cf91cb6-2ed4-41cf-9fc6-05168d8f9694
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:30:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '24'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: stephen_doff@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher/Spanish and French'
+field_name:
+  -
+    value: 'Stephen Doff'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '144'
+  uuid: 2cf91cb6-2ed4-41cf-9fc6-05168d8f9694
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

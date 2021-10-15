@@ -1,0 +1,53 @@
+id:
+  -
+    value: 70
+uuid:
+  -
+    value: 6835472e-74a5-4f86-ac12-b16cd232ffae
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:42:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: alison_kaplan@hcpss.org
+field_job_title:
+  -
+    value: 'Speech and Language Pathologist'
+field_name:
+  -
+    value: 'Alison Kaplan'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '70'
+  uuid: 6835472e-74a5-4f86-ac12-b16cd232ffae
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

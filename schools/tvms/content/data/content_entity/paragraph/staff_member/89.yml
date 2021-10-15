@@ -1,0 +1,53 @@
+id:
+  -
+    value: 89
+uuid:
+  -
+    value: ccda0e25-e0b3-4ecf-917d-315f03b08c21
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:02:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: June_Kauffman@hcpss.org
+field_job_title:
+  -
+    value: ESOL
+field_name:
+  -
+    value: 'June Kauffman'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '89'
+  uuid: ccda0e25-e0b3-4ecf-917d-315f03b08c21
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

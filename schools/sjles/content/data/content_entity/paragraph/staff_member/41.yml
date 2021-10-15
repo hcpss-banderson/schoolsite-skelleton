@@ -1,0 +1,53 @@
+id:
+  -
+    value: 41
+uuid:
+  -
+    value: a64a0ae9-7a7e-4bdf-847e-a20d03e18119
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:20:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: grace_cintron@hcpss.org
+field_job_title:
+  -
+    value: 'GT Teacher'
+field_name:
+  -
+    value: 'Grace Cintron'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '41'
+  uuid: a64a0ae9-7a7e-4bdf-847e-a20d03e18119
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

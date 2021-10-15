@@ -1,0 +1,53 @@
+id:
+  -
+    value: 12
+uuid:
+  -
+    value: dc6c0a3f-b85a-4de7-8b59-75dc493535a5
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:49:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: denie_gorbey-creese@hcpss.org
+field_job_title:
+  -
+    value: 'Cluster Nurse'
+field_name:
+  -
+    value: 'Denie Gorbey-Creese'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '12'
+  uuid: dc6c0a3f-b85a-4de7-8b59-75dc493535a5
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

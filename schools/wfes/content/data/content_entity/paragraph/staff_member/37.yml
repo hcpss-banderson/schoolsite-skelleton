@@ -1,0 +1,53 @@
+id:
+  -
+    value: 37
+uuid:
+  -
+    value: ce233dae-8141-4d19-9320-5dceea2af0d7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:28:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kirstin_williams@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Paraeducator (K/1/2)'
+field_name:
+  -
+    value: 'Kirstin Williams'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '37'
+  uuid: ce233dae-8141-4d19-9320-5dceea2af0d7
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

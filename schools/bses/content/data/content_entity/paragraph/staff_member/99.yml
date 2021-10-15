@@ -1,0 +1,53 @@
+id:
+  -
+    value: 99
+uuid:
+  -
+    value: 0206a723-9261-4050-914d-6552f79a336e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:48:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Angie_Szalecki@hcpss.org
+field_job_title:
+  -
+    value: '0.5 School Guidance Counselor'
+field_name:
+  -
+    value: 'Angie Szalecki'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '99'
+  uuid: 0206a723-9261-4050-914d-6552f79a336e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

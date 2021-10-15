@@ -1,0 +1,58 @@
+id:
+  -
+    value: 14
+uuid:
+  -
+    value: 59599ada-7879-4dc9-a9af-adf86740cff4
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:25:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Reading Support Services'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:25:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:25:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 83
+    target_type: paragraph
+  -
+    target_id: 84
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '14'
+  uuid: 59599ada-7879-4dc9-a9af-adf86740cff4
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 4
+uuid:
+  -
+    value: b6ead114-be03-4018-8b4d-563b276f1c48
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:34:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: rita_curry@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher''s Secretary'
+field_name:
+  -
+    value: 'Karen Curry'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '4'
+  uuid: b6ead114-be03-4018-8b4d-563b276f1c48
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

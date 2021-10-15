@@ -1,0 +1,53 @@
+id:
+  -
+    value: 50
+uuid:
+  -
+    value: 18b0fc51-5a0a-4233-ad77-0e470ce27c69
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:23:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Elizabeth_Stover@hcpss.org
+field_job_title:
+  -
+    value: 'Instructional Technology'
+field_name:
+  -
+    value: 'Elizabeth Stover'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '50'
+  uuid: 18b0fc51-5a0a-4233-ad77-0e470ce27c69
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

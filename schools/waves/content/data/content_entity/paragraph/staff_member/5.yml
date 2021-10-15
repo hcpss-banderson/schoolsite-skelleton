@@ -1,0 +1,53 @@
+id:
+  -
+    value: 5
+uuid:
+  -
+    value: e7ad03c8-9a91-4bb9-8ca5-b4ef25c3753c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:26:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: deena_bryant@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher''s Secratary'
+field_name:
+  -
+    value: 'Deena Cate Bryant'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '5'
+  uuid: e7ad03c8-9a91-4bb9-8ca5-b4ef25c3753c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

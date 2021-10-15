@@ -1,0 +1,53 @@
+id:
+  -
+    value: 76
+uuid:
+  -
+    value: 67540b53-211b-425b-9a85-21db0d197343
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:47:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: bridget_richardson@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education, 6th Grade Regional Lead'
+field_name:
+  -
+    value: 'Bridget Richardson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '76'
+  uuid: 67540b53-211b-425b-9a85-21db0d197343
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

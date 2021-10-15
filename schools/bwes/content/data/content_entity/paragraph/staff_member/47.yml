@@ -1,0 +1,53 @@
+id:
+  -
+    value: 47
+uuid:
+  -
+    value: d6c09d15-18e4-4747-ae9b-4f491462312c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:50:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Karen_Zepp@hcpss.org
+field_job_title:
+  -
+    value: 'Band and Strings Teacher'
+field_name:
+  -
+    value: 'Karen Zepp'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '47'
+  uuid: d6c09d15-18e4-4747-ae9b-4f491462312c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,82 @@
+id:
+  -
+    value: 2
+uuid:
+  -
+    value: c4af5ec5-4edf-473d-9c54-c48b1d9a775d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T15:47:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Office Team'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:47:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T15:47:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 3
+    target_type: paragraph
+  -
+    target_id: 4
+    target_type: paragraph
+  -
+    target_id: 5
+    target_type: paragraph
+  -
+    target_id: 6
+    target_type: paragraph
+  -
+    target_id: 7
+    target_type: paragraph
+  -
+    target_id: 8
+    target_type: paragraph
+  -
+    target_id: 9
+    target_type: paragraph
+  -
+    target_id: 10
+    target_type: paragraph
+  -
+    target_id: 11
+    target_type: paragraph
+  -
+    target_id: 12
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '2'
+  uuid: c4af5ec5-4edf-473d-9c54-c48b1d9a775d
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 26
+uuid:
+  -
+    value: 792f9c3b-451c-4495-9435-f8c06370f74e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:44:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Megan_Brennan@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, English'
+field_name:
+  -
+    value: 'Megan Brennan'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '26'
+  uuid: 792f9c3b-451c-4495-9435-f8c06370f74e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

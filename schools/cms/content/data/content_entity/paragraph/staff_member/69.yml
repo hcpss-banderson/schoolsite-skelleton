@@ -1,0 +1,53 @@
+id:
+  -
+    value: 69
+uuid:
+  -
+    value: f9a775fa-3b70-47c2-993c-8d2cf6b8648c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:44:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: amanda_channel@hcpss.org
+field_job_title:
+  -
+    value: 'School Psychologist'
+field_name:
+  -
+    value: 'Amanda Channel'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '69'
+  uuid: f9a775fa-3b70-47c2-993c-8d2cf6b8648c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

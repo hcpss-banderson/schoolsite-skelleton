@@ -1,0 +1,53 @@
+id:
+  -
+    value: 37
+uuid:
+  -
+    value: ec082929-d8ae-4282-9f56-bbb992ec8d8b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:34:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Richard_Lee@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Rich Lee'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '37'
+  uuid: ec082929-d8ae-4282-9f56-bbb992ec8d8b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 81
+uuid:
+  -
+    value: b363a927-5a51-4602-8f7e-c7a3a02596e9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:36:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kristine_hwang@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Kristine Hwang'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '81'
+  uuid: b363a927-5a51-4602-8f7e-c7a3a02596e9
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

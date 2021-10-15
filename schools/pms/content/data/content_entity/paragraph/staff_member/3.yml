@@ -1,0 +1,53 @@
+id:
+  -
+    value: 3
+uuid:
+  -
+    value: b935ecb9-20ad-4373-ac89-f4f2313accdb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:00:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Sherry_Brengle@hcpss.org
+field_job_title:
+  -
+    value: 'Principal''s Secretary'
+field_name:
+  -
+    value: 'Sherry Brengle'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '3'
+  uuid: b935ecb9-20ad-4373-ac89-f4f2313accdb
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

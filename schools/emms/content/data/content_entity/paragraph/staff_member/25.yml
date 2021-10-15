@@ -1,0 +1,53 @@
+id:
+  -
+    value: 25
+uuid:
+  -
+    value: 05f4920e-b89b-46f6-b636-d9e33d0630e2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:47:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: lauren_hughes@hcpss.org
+field_job_title:
+  -
+    value: 'English | Diversity, Equity, and Inclusion Liaison (DEIL)'
+field_name:
+  -
+    value: 'Lauren Hughes'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '25'
+  uuid: 05f4920e-b89b-46f6-b636-d9e33d0630e2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

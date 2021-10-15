@@ -1,0 +1,53 @@
+id:
+  -
+    value: 41
+uuid:
+  -
+    value: 183db867-ee8a-4a07-b1dc-403aba4bc6be
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:50:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: dava_smith@hcpss.org
+field_job_title:
+  -
+    value: 'English Language Arts'
+field_name:
+  -
+    value: 'Dava Smith'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '41'
+  uuid: 183db867-ee8a-4a07-b1dc-403aba4bc6be
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

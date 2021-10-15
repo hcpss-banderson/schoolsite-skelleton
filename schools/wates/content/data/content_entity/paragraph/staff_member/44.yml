@@ -1,0 +1,53 @@
+id:
+  -
+    value: 44
+uuid:
+  -
+    value: 6e7d8fca-9ec6-4e8a-9539-08ee05b4c41b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:25:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Neelufar_Khanam@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Para-Educator'
+field_name:
+  -
+    value: 'Neelufar Khanam'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '44'
+  uuid: 6e7d8fca-9ec6-4e8a-9539-08ee05b4c41b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

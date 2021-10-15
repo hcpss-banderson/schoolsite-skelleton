@@ -1,0 +1,53 @@
+id:
+  -
+    value: 38
+uuid:
+  -
+    value: fca31945-df94-4cfb-bc88-bed621e6041e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:43:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jamie_wagner@hcpss.org
+field_job_title:
+  -
+    value: '7th Grade Social Studies'
+field_name:
+  -
+    value: 'James Wagner'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '38'
+  uuid: fca31945-df94-4cfb-bc88-bed621e6041e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

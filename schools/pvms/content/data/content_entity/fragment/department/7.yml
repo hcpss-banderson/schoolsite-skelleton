@@ -1,0 +1,64 @@
+id:
+  -
+    value: 7
+uuid:
+  -
+    value: abcb62b9-a192-48d4-9c07-b6a4d593d6ff
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Performing Arts'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 55
+    target_type: paragraph
+  -
+    target_id: 56
+    target_type: paragraph
+  -
+    target_id: 57
+    target_type: paragraph
+  -
+    target_id: 58
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '7'
+  uuid: abcb62b9-a192-48d4-9c07-b6a4d593d6ff
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

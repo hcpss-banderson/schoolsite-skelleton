@@ -1,0 +1,53 @@
+id:
+  -
+    value: 26
+uuid:
+  -
+    value: cae78d6e-bd9d-43ca-82fd-1b41b6038739
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:05:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kelley_Hatcher@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher/Instructional Team Leader'
+field_name:
+  -
+    value: 'Kelley Hatcher'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '26'
+  uuid: cae78d6e-bd9d-43ca-82fd-1b41b6038739
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 147
+uuid:
+  -
+    value: 886b851f-ed74-43b9-a2eb-6096174513f3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:35:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '25'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Joanne_Mcgarry@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Joanne McGarry'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '147'
+  uuid: 886b851f-ed74-43b9-a2eb-6096174513f3
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

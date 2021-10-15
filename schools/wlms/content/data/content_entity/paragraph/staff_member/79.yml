@@ -1,0 +1,53 @@
+id:
+  -
+    value: 79
+uuid:
+  -
+    value: 5b273990-1c60-4162-90f4-8c21db7fdeea
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:04:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Rebecca_Delaney@hcpss.org
+field_job_title:
+  -
+    value: 'Academic Life Skills Regional Teacher'
+field_name:
+  -
+    value: 'Rebecca Delaney'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '79'
+  uuid: 5b273990-1c60-4162-90f4-8c21db7fdeea
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

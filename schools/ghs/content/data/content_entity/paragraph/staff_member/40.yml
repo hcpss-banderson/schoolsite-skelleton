@@ -1,0 +1,53 @@
+id:
+  -
+    value: 40
+uuid:
+  -
+    value: 31dfb54b-0d0e-4386-bf7f-45ac5a07f675
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:31:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jonathan_illuzzi@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Jonathan Illuzzi'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '40'
+  uuid: 31dfb54b-0d0e-4386-bf7f-45ac5a07f675
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

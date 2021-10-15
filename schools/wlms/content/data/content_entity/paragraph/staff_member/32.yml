@@ -1,0 +1,53 @@
+id:
+  -
+    value: 32
+uuid:
+  -
+    value: a6cb1506-308f-4dba-89ae-f873032330a1
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:04:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Madison_Dahle@hcpss.org
+field_job_title:
+  -
+    value: 'Science Teacher, 6th/7th grade'
+field_name:
+  -
+    value: 'Madison Dahle'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '32'
+  uuid: a6cb1506-308f-4dba-89ae-f873032330a1
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

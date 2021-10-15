@@ -1,0 +1,53 @@
+id:
+  -
+    value: 13
+uuid:
+  -
+    value: 0b50fa41-8ef4-46ae-b87d-0a85d3645085
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:04:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Thomasena_Brown@hcpss.org
+field_job_title:
+  -
+    value: 'Health Assistant'
+field_name:
+  -
+    value: 'Thomasena Brown'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '13'
+  uuid: 0b50fa41-8ef4-46ae-b87d-0a85d3645085
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

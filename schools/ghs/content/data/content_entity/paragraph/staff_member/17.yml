@@ -1,0 +1,53 @@
+id:
+  -
+    value: 17
+uuid:
+  -
+    value: df1027b1-4c19-4603-b3a0-85221a9dbe83
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:31:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: donna_evans@hcpss.org
+field_job_title:
+  -
+    value: 'Food Service Worker'
+field_name:
+  -
+    value: 'Donna Evans'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '17'
+  uuid: df1027b1-4c19-4603-b3a0-85221a9dbe83
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

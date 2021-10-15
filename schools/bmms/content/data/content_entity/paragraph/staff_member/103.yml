@@ -1,0 +1,53 @@
+id:
+  -
+    value: 103
+uuid:
+  -
+    value: 488583c1-374a-431c-9536-ef9eb7323bb9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:43:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: maria_gwengi@hcpss.org
+field_job_title:
+  -
+    value: '7th & 8th Grade Math'
+field_name:
+  -
+    value: 'Maria Gwengi'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '103'
+  uuid: 488583c1-374a-431c-9536-ef9eb7323bb9
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

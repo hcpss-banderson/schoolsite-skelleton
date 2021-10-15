@@ -1,0 +1,51 @@
+id:
+  -
+    value: 141
+uuid:
+  -
+    value: e50a666d-4681-496e-a4e7-11ff4084956d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:52:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id: {  }
+parent_type: {  }
+parent_field_name: {  }
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: lBdQNngA@example.com
+field_job_title:
+  -
+    value: vishahoshubruwrecrecasumufrachospawechodajeuushoshutriswukeshiduspispacetholidriweslaswipadracutatushuthudepratumageswitospibiwrubruwuwroproprivatuswiswigophichochechipredehuhothuvecuwiwrowrophogeslicresluj
+field_name:
+  -
+    value: tospireproswogichiti
+field_website:
+  -
+    uri: 'http://www.wrupofrabra.net'
+    title: 'Eum refoveo sed. Dolor exerci immitto saluto si typicus.'
+    options: {  }
+_content_snapshot_metadata:
+  id: '141'
+  uuid: e50a666d-4681-496e-a4e7-11ff4084956d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

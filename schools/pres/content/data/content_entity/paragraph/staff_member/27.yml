@@ -1,0 +1,53 @@
+id:
+  -
+    value: 27
+uuid:
+  -
+    value: 5259c846-cdb2-4f8a-bf76-9e69be90795e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:15:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: christopher_brown@hcpss.org
+field_job_title:
+  -
+    value: 'Third Grade Teacher'
+field_name:
+  -
+    value: 'Chris Brown'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '27'
+  uuid: 5259c846-cdb2-4f8a-bf76-9e69be90795e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 3
+uuid:
+  -
+    value: 7be6458b-c7b8-4fb9-8ea0-11f9d4f3d89b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:52:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: julia_blalock@hcpss.org
+field_job_title:
+  -
+    value: 'Principal''s Secretary'
+field_name:
+  -
+    value: 'Julia Blalock'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '3'
+  uuid: 7be6458b-c7b8-4fb9-8ea0-11f9d4f3d89b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

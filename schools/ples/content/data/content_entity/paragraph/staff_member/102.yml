@@ -1,0 +1,53 @@
+id:
+  -
+    value: 102
+uuid:
+  -
+    value: 0199c926-165b-4937-9a29-8d43ee2a351b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:13:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: justin_holdefer@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Justin Holdefer'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '102'
+  uuid: 0199c926-165b-4937-9a29-8d43ee2a351b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

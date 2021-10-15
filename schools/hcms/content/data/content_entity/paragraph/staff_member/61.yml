@@ -1,0 +1,53 @@
+id:
+  -
+    value: 61
+uuid:
+  -
+    value: 7e1b0cde-3ba1-4cf1-9fd2-7523b961ad54
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:50:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: julie_barrick@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Teacher'
+field_name:
+  -
+    value: 'Julie Meadows'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '61'
+  uuid: 7e1b0cde-3ba1-4cf1-9fd2-7523b961ad54
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 34
+uuid:
+  -
+    value: 558e1a87-6e9d-4fc6-9723-1085f07b482f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Bailey_Shagogue@hcpss.org
+field_job_title:
+  -
+    value: 'Reading Specialist'
+field_name:
+  -
+    value: 'Bailey Shagogue'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '34'
+  uuid: 558e1a87-6e9d-4fc6-9723-1085f07b482f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

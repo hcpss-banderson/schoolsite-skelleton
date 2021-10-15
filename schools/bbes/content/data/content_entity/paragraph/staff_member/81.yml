@@ -1,0 +1,53 @@
+id:
+  -
+    value: 81
+uuid:
+  -
+    value: 57f81715-180f-4379-95f5-553ac4ea1293
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '25'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: olivia_geiger@hcpss.org
+field_job_title:
+  -
+    value: ITL
+field_name:
+  -
+    value: 'Olivia Geiger'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '81'
+  uuid: 57f81715-180f-4379-95f5-553ac4ea1293
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

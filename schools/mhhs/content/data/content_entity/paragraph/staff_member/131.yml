@@ -1,0 +1,53 @@
+id:
+  -
+    value: 131
+uuid:
+  -
+    value: 968f7f43-8943-4854-b23b-9607470e13a1
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:35:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '22'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Michelle_Saunders@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Mitzie Saunders'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '131'
+  uuid: 968f7f43-8943-4854-b23b-9607470e13a1
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

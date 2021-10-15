@@ -1,0 +1,53 @@
+id:
+  -
+    value: 98
+uuid:
+  -
+    value: 5c292a28-d4d8-4eb2-9a29-4d6d4b2c3f92
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: maria_moravec@hcpss.org
+field_job_title:
+  -
+    value: 'Science Department Assistant'
+field_name:
+  -
+    value: 'Maria Moravec'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '98'
+  uuid: 5c292a28-d4d8-4eb2-9a29-4d6d4b2c3f92
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

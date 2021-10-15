@@ -1,0 +1,51 @@
+id:
+  -
+    value: 146
+uuid:
+  -
+    value: 7f9670e7-53f9-4ec0-846b-74504dd90a4a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '22'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: ashleigh_magrin@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Ashleigh Magrin'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '146'
+  uuid: 7f9670e7-53f9-4ec0-846b-74504dd90a4a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

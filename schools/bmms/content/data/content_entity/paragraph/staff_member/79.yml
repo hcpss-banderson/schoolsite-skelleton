@@ -1,0 +1,53 @@
+id:
+  -
+    value: 79
+uuid:
+  -
+    value: 3624de37-a926-48d3-a253-a9353752ce6f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:43:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kimberley_Williams@hcpss.org
+field_job_title:
+  -
+    value: '6th & 7th Grade Special Educator'
+field_name:
+  -
+    value: 'Kimberley Williams'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '79'
+  uuid: 3624de37-a926-48d3-a253-a9353752ce6f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

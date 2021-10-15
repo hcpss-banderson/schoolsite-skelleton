@@ -1,0 +1,53 @@
+id:
+  -
+    value: 96
+uuid:
+  -
+    value: ee837fbd-4fb4-4457-a02d-9e0543188e0a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:43:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: justin_jones@hcpss.org
+field_job_title:
+  -
+    value: '6th & 7th Grade English'
+field_name:
+  -
+    value: 'Justin Jones'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '96'
+  uuid: ee837fbd-4fb4-4457-a02d-9e0543188e0a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

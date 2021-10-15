@@ -1,0 +1,53 @@
+id:
+  -
+    value: 103
+uuid:
+  -
+    value: 3b655660-6cbe-4459-a38f-549cf2598abb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:10:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jessica_layman@hcpss.org
+field_job_title:
+  -
+    value: 'Reading Specialist'
+field_name:
+  -
+    value: 'Jessica Layman'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '103'
+  uuid: 3b655660-6cbe-4459-a38f-549cf2598abb
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

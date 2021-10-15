@@ -1,0 +1,53 @@
+id:
+  -
+    value: 64
+uuid:
+  -
+    value: 753bedc3-850a-4592-986c-e9fa390fe030
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:42:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: terry_rainey@hcpss.org
+field_job_title:
+  -
+    value: 'Music and Seventh and Eighth Theatre Arts Teacher'
+field_name:
+  -
+    value: 'Terry Rainey'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '64'
+  uuid: 753bedc3-850a-4592-986c-e9fa390fe030
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

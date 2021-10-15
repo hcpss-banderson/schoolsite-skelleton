@@ -1,0 +1,53 @@
+id:
+  -
+    value: 23
+uuid:
+  -
+    value: f6260170-ea63-49d3-a2a8-e2a42dcea612
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:36:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: cara_moulds@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, CRD'
+field_name:
+  -
+    value: 'Cara Moulds'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '23'
+  uuid: f6260170-ea63-49d3-a2a8-e2a42dcea612
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

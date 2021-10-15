@@ -1,0 +1,51 @@
+id:
+  -
+    value: 125
+uuid:
+  -
+    value: c448fdbe-954c-449d-9127-7465a6bbeddc
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:13:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '20'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: 'Lunch/Recess Monitor'
+field_name:
+  -
+    value: 'Malathy Gupta'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '125'
+  uuid: c448fdbe-954c-449d-9127-7465a6bbeddc
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

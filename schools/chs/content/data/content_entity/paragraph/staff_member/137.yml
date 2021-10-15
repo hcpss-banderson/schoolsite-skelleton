@@ -1,0 +1,53 @@
+id:
+  -
+    value: 137
+uuid:
+  -
+    value: ecdfc50d-e9cd-41cb-bc26-812aa4183ad4
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:30:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '22'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: soyoun_choi@hcpss.org
+field_job_title:
+  -
+    value: 'International Achievement Liaison'
+field_name:
+  -
+    value: 'Soyoun Choi'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '137'
+  uuid: ecdfc50d-e9cd-41cb-bc26-812aa4183ad4
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,51 @@
+id:
+  -
+    value: 93
+uuid:
+  -
+    value: 4912d96f-8071-4b92-85dd-7511546bc30c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:05:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: 'Temporary Employee'
+field_name:
+  -
+    value: 'Erin Neville'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '93'
+  uuid: 4912d96f-8071-4b92-85dd-7511546bc30c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 95
+uuid:
+  -
+    value: 29b1ff08-5862-42f6-a099-34245d9f6a82
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:46:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kristine_deluca@hcpss.org
+field_job_title:
+  -
+    value: 'Health/Theatre/Reading Modules Teacher'
+field_name:
+  -
+    value: 'Kristine DeLuca'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '95'
+  uuid: 29b1ff08-5862-42f6-a099-34245d9f6a82
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,58 @@
+id:
+  -
+    value: 14
+uuid:
+  -
+    value: 9412de26-50e7-4d17-b608-067a9ea108e9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T15:41:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Cybersecurity Networking Academy'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:41:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T15:41:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 30
+    target_type: paragraph
+  -
+    target_id: 31
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '14'
+  uuid: 9412de26-50e7-4d17-b608-067a9ea108e9
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

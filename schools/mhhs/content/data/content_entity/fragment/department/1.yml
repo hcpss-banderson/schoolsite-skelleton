@@ -1,0 +1,73 @@
+id:
+  -
+    value: 1
+uuid:
+  -
+    value: 9a91b752-3914-4ed7-a6f5-4aeceda41b9b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:35:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Administration (410-313-2880)'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:35:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:35:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 1
+    target_type: paragraph
+  -
+    target_id: 2
+    target_type: paragraph
+  -
+    target_id: 3
+    target_type: paragraph
+  -
+    target_id: 4
+    target_type: paragraph
+  -
+    target_id: 5
+    target_type: paragraph
+  -
+    target_id: 6
+    target_type: paragraph
+  -
+    target_id: 7
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '1'
+  uuid: 9a91b752-3914-4ed7-a6f5-4aeceda41b9b
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

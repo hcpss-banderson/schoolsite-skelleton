@@ -1,0 +1,53 @@
+id:
+  -
+    value: 78
+uuid:
+  -
+    value: 2177d903-680b-4a74-bbee-340ed5975c68
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:46:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: amy_fantz@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Teacher'
+field_name:
+  -
+    value: 'Amy Fantz'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '78'
+  uuid: 2177d903-680b-4a74-bbee-340ed5975c68
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 24
+uuid:
+  -
+    value: 46849077-d50d-4f63-8a80-355832d31644
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:23:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kimberly_west@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher ITL'
+field_name:
+  -
+    value: 'Kimberly West'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '24'
+  uuid: 46849077-d50d-4f63-8a80-355832d31644
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

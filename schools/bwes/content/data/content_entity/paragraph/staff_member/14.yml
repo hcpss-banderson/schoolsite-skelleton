@@ -1,0 +1,53 @@
+id:
+  -
+    value: 14
+uuid:
+  -
+    value: 1d4e2e62-0f39-4458-aaa6-736e7e80bde1
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:50:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kayleigh_Shaul@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Kayleigh Shaul'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '14'
+  uuid: 1d4e2e62-0f39-4458-aaa6-736e7e80bde1
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

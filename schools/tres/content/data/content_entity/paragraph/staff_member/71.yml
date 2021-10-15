@@ -1,0 +1,53 @@
+id:
+  -
+    value: 71
+uuid:
+  -
+    value: 31655c9b-2850-46e8-9c14-9fcf9f85f70a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:22:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: karalynn_watts@hcpss.org
+field_job_title:
+  -
+    value: 'Paraeducator Grades 1-5'
+field_name:
+  -
+    value: 'Kara Watts'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '71'
+  uuid: 31655c9b-2850-46e8-9c14-9fcf9f85f70a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 72
+uuid:
+  -
+    value: 00b5d7c9-6be5-4a55-98ea-f4dc608198a8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:33:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kerianne_allen@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Kerianne Allen'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '72'
+  uuid: 00b5d7c9-6be5-4a55-98ea-f4dc608198a8
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

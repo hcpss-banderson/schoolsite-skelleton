@@ -1,0 +1,51 @@
+id:
+  -
+    value: 39
+uuid:
+  -
+    value: 8984efea-845e-455b-8a0f-1ba0df26e6d0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:56:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: julie_ackerman@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Julie Ackerman'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '39'
+  uuid: 8984efea-845e-455b-8a0f-1ba0df26e6d0
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

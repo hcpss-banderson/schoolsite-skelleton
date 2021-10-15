@@ -1,0 +1,53 @@
+id:
+  -
+    value: 38
+uuid:
+  -
+    value: b3422fba-7d39-4827-b6c6-c360e45add60
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:33:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: justin_carey@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Justin Carey'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '38'
+  uuid: b3422fba-7d39-4827-b6c6-c360e45add60
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

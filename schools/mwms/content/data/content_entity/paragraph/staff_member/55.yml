@@ -1,0 +1,53 @@
+id:
+  -
+    value: 55
+uuid:
+  -
+    value: 1140942e-5580-46ae-9d0e-f0c8d2aa40cf
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:57:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jonathan_Chandler@hcpss.org
+field_job_title:
+  -
+    value: Strings
+field_name:
+  -
+    value: 'Mr. Chandler'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '55'
+  uuid: 1140942e-5580-46ae-9d0e-f0c8d2aa40cf
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

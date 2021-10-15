@@ -1,0 +1,53 @@
+id:
+  -
+    value: 167
+uuid:
+  -
+    value: 01196c85-8255-4b8b-a7d9-f74bcc4d6164
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '25'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: thomas_claxton@hcpss.org
+field_job_title:
+  -
+    value: 'Security Assistant'
+field_name:
+  -
+    value: 'Tom Claxton'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '167'
+  uuid: 01196c85-8255-4b8b-a7d9-f74bcc4d6164
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

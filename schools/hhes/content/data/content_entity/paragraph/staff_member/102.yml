@@ -1,0 +1,53 @@
+id:
+  -
+    value: 102
+uuid:
+  -
+    value: 526d3887-8b2d-4f2b-8930-f8022a232e26
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:04:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: bcni_tial@hcpss.org
+field_job_title:
+  -
+    value: 'International Achievement Liaison'
+field_name:
+  -
+    value: 'B C Ni Tial'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '102'
+  uuid: 526d3887-8b2d-4f2b-8930-f8022a232e26
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

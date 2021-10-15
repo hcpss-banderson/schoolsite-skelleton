@@ -1,0 +1,53 @@
+id:
+  -
+    value: 66
+uuid:
+  -
+    value: dbe797e0-dacb-4a64-b7d8-d9d9d48dc48b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:02:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Patrick_Mitton@hcpss.org
+field_job_title:
+  -
+    value: 'Tech Ed, Related Arts Team Leader'
+field_name:
+  -
+    value: 'Patrick Mitton'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '66'
+  uuid: dbe797e0-dacb-4a64-b7d8-d9d9d48dc48b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

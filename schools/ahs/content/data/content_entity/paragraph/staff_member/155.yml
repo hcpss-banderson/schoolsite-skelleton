@@ -1,0 +1,53 @@
+id:
+  -
+    value: 155
+uuid:
+  -
+    value: 34140e63-6368-4546-bb19-97a7be273c52
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '24'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kim_Wade@hcpss.org
+field_job_title:
+  -
+    value: 'School Counselor (Grade 9)'
+field_name:
+  -
+    value: 'Kim Wade'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '155'
+  uuid: 34140e63-6368-4546-bb19-97a7be273c52
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

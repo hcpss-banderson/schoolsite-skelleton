@@ -1,0 +1,53 @@
+id:
+  -
+    value: 65
+uuid:
+  -
+    value: 14741e77-3192-4793-83b8-786e9bbdd987
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:47:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jennifer_cherry@hcpss.org
+field_job_title:
+  -
+    value: 'Band Teacher'
+field_name:
+  -
+    value: 'Jen Cherry'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '65'
+  uuid: 14741e77-3192-4793-83b8-786e9bbdd987
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 101
+uuid:
+  -
+    value: 0711d32b-b474-41f1-9793-a7fda51b1c28
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:59:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '20'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Sarah_Leisawitz@hcpss.org
+field_job_title:
+  -
+    value: 'Speech Language Pathologist'
+field_name:
+  -
+    value: 'Mrs. Leisawitz'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '101'
+  uuid: 0711d32b-b474-41f1-9793-a7fda51b1c28
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

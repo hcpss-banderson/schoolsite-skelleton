@@ -1,0 +1,53 @@
+id:
+  -
+    value: 111
+uuid:
+  -
+    value: 212d84a8-6353-44c0-bbe3-66fb3a6c0939
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:43:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jimmy_gallman@hcpss.org
+field_job_title:
+  -
+    value: '8th Grade Science'
+field_name:
+  -
+    value: 'Jimmy Gallman'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '111'
+  uuid: 212d84a8-6353-44c0-bbe3-66fb3a6c0939
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

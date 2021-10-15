@@ -1,0 +1,53 @@
+id:
+  -
+    value: 12
+uuid:
+  -
+    value: 892051c0-6b6f-4242-b9c1-00f60e6b0992
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jessie_Moore@hcpss.org
+field_job_title:
+  -
+    value: 'Alternative Education'
+field_name:
+  -
+    value: 'Jessie Moore'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '12'
+  uuid: 892051c0-6b6f-4242-b9c1-00f60e6b0992
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 115
+uuid:
+  -
+    value: 89c83b8b-c7f2-459d-af13-4af9a890eb6f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:31:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '19'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: sarah_fortin@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Sarah Floyd'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '115'
+  uuid: 89c83b8b-c7f2-459d-af13-4af9a890eb6f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

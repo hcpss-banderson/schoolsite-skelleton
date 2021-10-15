@@ -1,0 +1,53 @@
+id:
+  -
+    value: 66
+uuid:
+  -
+    value: 97a6f4bc-197a-4417-bd18-3b0d2d0e463a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: ariana_kruzic@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education - ALS'
+field_name:
+  -
+    value: 'Ariana Kruzic'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '66'
+  uuid: 97a6f4bc-197a-4417-bd18-3b0d2d0e463a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

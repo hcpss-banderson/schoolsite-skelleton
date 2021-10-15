@@ -1,0 +1,51 @@
+id:
+  -
+    value: 30
+uuid:
+  -
+    value: e935fd4d-d624-4ba1-8b74-29af953cd489
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: sean_farley@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Sean Farley'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '30'
+  uuid: e935fd4d-d624-4ba1-8b74-29af953cd489
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

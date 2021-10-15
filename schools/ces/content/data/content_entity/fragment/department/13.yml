@@ -1,0 +1,115 @@
+id:
+  -
+    value: 13
+uuid:
+  -
+    value: 1b4d5ef4-fc13-4725-95f3-2aa776dbd463
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T15:52:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Special Education'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:52:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T15:52:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 56
+    target_type: paragraph
+  -
+    target_id: 57
+    target_type: paragraph
+  -
+    target_id: 58
+    target_type: paragraph
+  -
+    target_id: 59
+    target_type: paragraph
+  -
+    target_id: 60
+    target_type: paragraph
+  -
+    target_id: 61
+    target_type: paragraph
+  -
+    target_id: 62
+    target_type: paragraph
+  -
+    target_id: 63
+    target_type: paragraph
+  -
+    target_id: 64
+    target_type: paragraph
+  -
+    target_id: 65
+    target_type: paragraph
+  -
+    target_id: 66
+    target_type: paragraph
+  -
+    target_id: 67
+    target_type: paragraph
+  -
+    target_id: 68
+    target_type: paragraph
+  -
+    target_id: 69
+    target_type: paragraph
+  -
+    target_id: 70
+    target_type: paragraph
+  -
+    target_id: 71
+    target_type: paragraph
+  -
+    target_id: 72
+    target_type: paragraph
+  -
+    target_id: 73
+    target_type: paragraph
+  -
+    target_id: 74
+    target_type: paragraph
+  -
+    target_id: 75
+    target_type: paragraph
+  -
+    target_id: 76
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '13'
+  uuid: 1b4d5ef4-fc13-4725-95f3-2aa776dbd463
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 73
+uuid:
+  -
+    value: fa9b5f65-c1d1-4b36-8e3e-89e9c10a547f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:46:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: lauren_richman@hcpss.org
+field_job_title:
+  -
+    value: 'Math Teacher, Math Team Leader'
+field_name:
+  -
+    value: 'Lauren Stair'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '73'
+  uuid: fa9b5f65-c1d1-4b36-8e3e-89e9c10a547f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

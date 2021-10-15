@@ -1,0 +1,53 @@
+id:
+  -
+    value: 128
+uuid:
+  -
+    value: 8e493952-8a0a-46ec-9b29-88bd9d3ad4b2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:30:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '22'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jaehi_hebler@hcpss.org
+field_job_title:
+  -
+    value: 'School Counselor (I-Mc)'
+field_name:
+  -
+    value: 'JaeHi Hebler'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '128'
+  uuid: 8e493952-8a0a-46ec-9b29-88bd9d3ad4b2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

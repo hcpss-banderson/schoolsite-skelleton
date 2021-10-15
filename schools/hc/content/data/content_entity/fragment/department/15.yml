@@ -1,0 +1,103 @@
+id:
+  -
+    value: 15
+uuid:
+  -
+    value: 7e5ca381-ba7e-407d-a120-76e9ea5a977a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T15:44:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: Paraeducators
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:44:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T15:44:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 69
+    target_type: paragraph
+  -
+    target_id: 70
+    target_type: paragraph
+  -
+    target_id: 71
+    target_type: paragraph
+  -
+    target_id: 72
+    target_type: paragraph
+  -
+    target_id: 73
+    target_type: paragraph
+  -
+    target_id: 74
+    target_type: paragraph
+  -
+    target_id: 75
+    target_type: paragraph
+  -
+    target_id: 76
+    target_type: paragraph
+  -
+    target_id: 77
+    target_type: paragraph
+  -
+    target_id: 78
+    target_type: paragraph
+  -
+    target_id: 79
+    target_type: paragraph
+  -
+    target_id: 80
+    target_type: paragraph
+  -
+    target_id: 81
+    target_type: paragraph
+  -
+    target_id: 82
+    target_type: paragraph
+  -
+    target_id: 83
+    target_type: paragraph
+  -
+    target_id: 84
+    target_type: paragraph
+  -
+    target_id: 85
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '15'
+  uuid: 7e5ca381-ba7e-407d-a120-76e9ea5a977a
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

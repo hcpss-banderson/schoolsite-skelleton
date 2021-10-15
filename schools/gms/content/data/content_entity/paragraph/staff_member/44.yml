@@ -1,0 +1,53 @@
+id:
+  -
+    value: 44
+uuid:
+  -
+    value: cd5db2b8-a581-4a71-9f8b-c72194437297
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:49:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Chong_Na@hcpss.org
+field_job_title:
+  -
+    value: Math/Science
+field_name:
+  -
+    value: 'Chong Na'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '44'
+  uuid: cd5db2b8-a581-4a71-9f8b-c72194437297
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

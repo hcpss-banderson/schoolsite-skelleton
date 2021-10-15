@@ -1,0 +1,53 @@
+id:
+  -
+    value: 92
+uuid:
+  -
+    value: 8b5efa86-189d-4a5b-b417-6c3628e39a70
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:47:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: anthony_committe@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Student Assistant'
+field_name:
+  -
+    value: 'Anthony Committe'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '92'
+  uuid: 8b5efa86-189d-4a5b-b417-6c3628e39a70
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

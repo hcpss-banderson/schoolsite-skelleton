@@ -1,0 +1,53 @@
+id:
+  -
+    value: 91
+uuid:
+  -
+    value: c53085b2-3456-4fcd-a92b-fb6f345d073b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:48:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: dahlia_minor@hcpss.org
+field_job_title:
+  -
+    value: 'Cafeteria Manager'
+field_name:
+  -
+    value: 'Ms. Minor'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '91'
+  uuid: c53085b2-3456-4fcd-a92b-fb6f345d073b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

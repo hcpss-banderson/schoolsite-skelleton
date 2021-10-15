@@ -1,0 +1,53 @@
+id:
+  -
+    value: 73
+uuid:
+  -
+    value: f5e0ee74-d726-410d-a60c-232c59beb85e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:05:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Tammy_Sczepanski@hcpss.org
+field_job_title:
+  -
+    value: 'Library Media Specialist'
+field_name:
+  -
+    value: 'Tammy Sczepanski'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '73'
+  uuid: f5e0ee74-d726-410d-a60c-232c59beb85e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

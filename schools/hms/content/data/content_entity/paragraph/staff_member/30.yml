@@ -1,0 +1,53 @@
+id:
+  -
+    value: 30
+uuid:
+  -
+    value: c849c710-c05f-4770-9885-d7ece98204ba
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:52:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: katie_jennifer@hcpss.org
+field_job_title:
+  -
+    value: 'Science 6'
+field_name:
+  -
+    value: 'Katie Jennifer'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '30'
+  uuid: c849c710-c05f-4770-9885-d7ece98204ba
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

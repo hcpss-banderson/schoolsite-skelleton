@@ -1,0 +1,53 @@
+id:
+  -
+    value: 106
+uuid:
+  -
+    value: aa2572ba-d7c1-4f48-883e-06bd7d274e88
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:54:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '18'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Nira_McKenney@hcpss.org
+field_job_title:
+  -
+    value: Custodian
+field_name:
+  -
+    value: 'Nira McKenney'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '106'
+  uuid: aa2572ba-d7c1-4f48-883e-06bd7d274e88
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

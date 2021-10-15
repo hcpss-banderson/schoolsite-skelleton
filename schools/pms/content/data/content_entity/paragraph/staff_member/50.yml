@@ -1,0 +1,53 @@
+id:
+  -
+    value: 50
+uuid:
+  -
+    value: 67c06707-2127-445f-80d9-e65a3dfdab2b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:00:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Nancy_Mitchell@hcpss.org
+field_job_title:
+  -
+    value: Art
+field_name:
+  -
+    value: 'Nancy Mitchell'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '50'
+  uuid: 67c06707-2127-445f-80d9-e65a3dfdab2b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

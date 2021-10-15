@@ -1,0 +1,53 @@
+id:
+  -
+    value: 36
+uuid:
+  -
+    value: 195ce297-f142-4158-9ef6-9747f95741a1
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:17:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Meagan_Huyett@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Meagan Huyett'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '36'
+  uuid: 195ce297-f142-4158-9ef6-9747f95741a1
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

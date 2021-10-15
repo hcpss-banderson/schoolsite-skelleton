@@ -1,0 +1,53 @@
+id:
+  -
+    value: 82
+uuid:
+  -
+    value: c27a4492-44b7-483d-a464-8a1f0855bd01
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:17:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Karen_Beuchel@hcpss.org
+field_job_title:
+  -
+    value: 'Physical Therapist'
+field_name:
+  -
+    value: 'Karen Beuchel'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '82'
+  uuid: c27a4492-44b7-483d-a464-8a1f0855bd01
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

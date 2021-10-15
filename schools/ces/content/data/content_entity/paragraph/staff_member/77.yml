@@ -1,0 +1,53 @@
+id:
+  -
+    value: 77
+uuid:
+  -
+    value: 3a3f3d05-da4f-461a-b646-94184a4c4e19
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:52:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jacqueline_west@hcpss.org
+field_job_title:
+  -
+    value: 'Day Chief Custodian'
+field_name:
+  -
+    value: 'Jacqueline West'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '77'
+  uuid: 3a3f3d05-da4f-461a-b646-94184a4c4e19
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

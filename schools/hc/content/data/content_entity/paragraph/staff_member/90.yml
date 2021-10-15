@@ -1,0 +1,53 @@
+id:
+  -
+    value: 90
+uuid:
+  -
+    value: 8365f13b-830b-4046-9634-8a57112a30ac
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:44:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: George_Brown@hcpss.org
+field_job_title:
+  -
+    value: 'Mental Health Tech'
+field_name:
+  -
+    value: 'George Brown'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '90'
+  uuid: 8365f13b-830b-4046-9634-8a57112a30ac
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

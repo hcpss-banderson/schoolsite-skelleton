@@ -1,0 +1,53 @@
+id:
+  -
+    value: 24
+uuid:
+  -
+    value: dcb91f6a-a5da-4ebb-a0a8-7675064ba201
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:42:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: elizabeth_hubbard@hcpss.org
+field_job_title:
+  -
+    value: Speech
+field_name:
+  -
+    value: 'Elizabeth Hubbard'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '24'
+  uuid: dcb91f6a-a5da-4ebb-a0a8-7675064ba201
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

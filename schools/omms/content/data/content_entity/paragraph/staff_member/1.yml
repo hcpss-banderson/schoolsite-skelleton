@@ -1,0 +1,53 @@
+id:
+  -
+    value: 1
+uuid:
+  -
+    value: 5f94b7ea-db1c-4de4-b117-11e13859a220
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:59:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: regina_coleman@hcpss.org
+field_job_title:
+  -
+    value: Principal
+field_name:
+  -
+    value: 'Regina Coleman'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '1'
+  uuid: 5f94b7ea-db1c-4de4-b117-11e13859a220
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

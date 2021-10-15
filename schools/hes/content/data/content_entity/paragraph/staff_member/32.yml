@@ -1,0 +1,53 @@
+id:
+  -
+    value: 32
+uuid:
+  -
+    value: 7ad5648e-9382-4c87-b26b-a913ee906bca
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:03:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: stefanie_baird@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Stefanie Baird'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '32'
+  uuid: 7ad5648e-9382-4c87-b26b-a913ee906bca
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

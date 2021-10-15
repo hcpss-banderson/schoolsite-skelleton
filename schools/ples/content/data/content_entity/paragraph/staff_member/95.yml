@@ -1,0 +1,53 @@
+id:
+  -
+    value: 95
+uuid:
+  -
+    value: 7fd840d7-a9d2-4644-a2a6-d058c82c7b85
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:13:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: askinker@hcpss.org
+field_job_title:
+  -
+    value: '.6 Speech Language Pathologist'
+field_name:
+  -
+    value: 'Annamarie Skinker'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '95'
+  uuid: 7fd840d7-a9d2-4644-a2a6-d058c82c7b85
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

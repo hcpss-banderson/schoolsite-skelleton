@@ -1,0 +1,73 @@
+id:
+  -
+    value: 21
+uuid:
+  -
+    value: 92f73012-e15f-4d7e-ac7a-776077f867dd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:31:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'World Languages'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:31:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:31:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 133
+    target_type: paragraph
+  -
+    target_id: 134
+    target_type: paragraph
+  -
+    target_id: 135
+    target_type: paragraph
+  -
+    target_id: 136
+    target_type: paragraph
+  -
+    target_id: 137
+    target_type: paragraph
+  -
+    target_id: 138
+    target_type: paragraph
+  -
+    target_id: 139
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '21'
+  uuid: 92f73012-e15f-4d7e-ac7a-776077f867dd
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

@@ -1,0 +1,67 @@
+id:
+  -
+    value: 5
+uuid:
+  -
+    value: b2f21d45-8c29-493f-a5a3-e56b13988d0b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:19:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: Kindergarten
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:19:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:19:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 12
+    target_type: paragraph
+  -
+    target_id: 13
+    target_type: paragraph
+  -
+    target_id: 14
+    target_type: paragraph
+  -
+    target_id: 15
+    target_type: paragraph
+  -
+    target_id: 16
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '5'
+  uuid: b2f21d45-8c29-493f-a5a3-e56b13988d0b
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

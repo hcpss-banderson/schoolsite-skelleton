@@ -1,0 +1,53 @@
+id:
+  -
+    value: 173
+uuid:
+  -
+    value: ec829ff2-65e0-408c-9eca-f8d3a38ae6b2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '27'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Amy_Klolisak@hcpss.org
+field_job_title:
+  -
+    value: 'Cafeteria Manager'
+field_name:
+  -
+    value: 'Amy Klolisak'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '173'
+  uuid: ec829ff2-65e0-408c-9eca-f8d3a38ae6b2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

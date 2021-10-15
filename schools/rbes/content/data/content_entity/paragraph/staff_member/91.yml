@@ -1,0 +1,53 @@
+id:
+  -
+    value: 91
+uuid:
+  -
+    value: 38b0d8bf-3887-46de-b864-498217bf006e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:16:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Maureen_Adams@hcpss.org
+field_job_title:
+  -
+    value: 'Occupational Therapist'
+field_name:
+  -
+    value: 'Maureen Adams'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '91'
+  uuid: 38b0d8bf-3887-46de-b864-498217bf006e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

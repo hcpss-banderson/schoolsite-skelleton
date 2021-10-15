@@ -1,0 +1,53 @@
+id:
+  -
+    value: 169
+uuid:
+  -
+    value: 970c5dd1-ebb0-4158-a1cf-6d0afc3e7f2b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Matthew_Harper@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Matthew Harper'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '169'
+  uuid: 970c5dd1-ebb0-4158-a1cf-6d0afc3e7f2b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

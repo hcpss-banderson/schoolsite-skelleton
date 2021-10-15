@@ -1,0 +1,51 @@
+id:
+  -
+    value: 32
+uuid:
+  -
+    value: 0018f56e-98a2-4d92-a8f0-f4822e0a626a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jonathan_browne@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Jonathan Browne'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '32'
+  uuid: 0018f56e-98a2-4d92-a8f0-f4822e0a626a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

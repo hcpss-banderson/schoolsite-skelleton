@@ -1,0 +1,88 @@
+id:
+  -
+    value: 20
+uuid:
+  -
+    value: 0d48fd27-db04-43c2-97de-bbcaaa27ebf3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:30:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Social Studies'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:30:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:30:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 103
+    target_type: paragraph
+  -
+    target_id: 104
+    target_type: paragraph
+  -
+    target_id: 105
+    target_type: paragraph
+  -
+    target_id: 106
+    target_type: paragraph
+  -
+    target_id: 107
+    target_type: paragraph
+  -
+    target_id: 108
+    target_type: paragraph
+  -
+    target_id: 109
+    target_type: paragraph
+  -
+    target_id: 110
+    target_type: paragraph
+  -
+    target_id: 111
+    target_type: paragraph
+  -
+    target_id: 112
+    target_type: paragraph
+  -
+    target_id: 113
+    target_type: paragraph
+  -
+    target_id: 114
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '20'
+  uuid: 0d48fd27-db04-43c2-97de-bbcaaa27ebf3
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

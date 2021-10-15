@@ -1,0 +1,53 @@
+id:
+  -
+    value: 29
+uuid:
+  -
+    value: 600488a2-5a0b-4eeb-9907-f77030695fe5
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: matthew_kreitzer@hcpss.org
+field_job_title:
+  -
+    value: 'English Language Arts'
+field_name:
+  -
+    value: 'Matthew Kreitzer'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '29'
+  uuid: 600488a2-5a0b-4eeb-9907-f77030695fe5
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

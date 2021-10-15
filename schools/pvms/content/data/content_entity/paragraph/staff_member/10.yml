@@ -1,0 +1,53 @@
+id:
+  -
+    value: 10
+uuid:
+  -
+    value: 8e64eff9-12fd-4179-96cb-5d29e9d701b7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jennifer_lage@hcpss.org
+field_job_title:
+  -
+    value: 'School Psychologist'
+field_name:
+  -
+    value: 'Jennifer Lage'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '10'
+  uuid: 8e64eff9-12fd-4179-96cb-5d29e9d701b7
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

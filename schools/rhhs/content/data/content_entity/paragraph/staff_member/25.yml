@@ -1,0 +1,51 @@
+id:
+  -
+    value: 25
+uuid:
+  -
+    value: 6a2c4379-5465-4c58-b7af-87fb893337f2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Katie_Noecker@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Katie Noecker'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '25'
+  uuid: 6a2c4379-5465-4c58-b7af-87fb893337f2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

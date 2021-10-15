@@ -1,0 +1,53 @@
+id:
+  -
+    value: 76
+uuid:
+  -
+    value: b3d604c6-4553-41b1-88b5-ac670a0dc431
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:12:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: keith_barnes@hcpss.org
+field_job_title:
+  -
+    value: 'Night Chief'
+field_name:
+  -
+    value: 'Keith Barnes'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '76'
+  uuid: b3d604c6-4553-41b1-88b5-ac670a0dc431
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

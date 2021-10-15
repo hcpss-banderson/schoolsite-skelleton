@@ -1,0 +1,53 @@
+id:
+  -
+    value: 85
+uuid:
+  -
+    value: febb7a3a-7204-436c-a8dc-159d10b6f486
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:50:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Melissa_Grady@hcpss.org
+field_job_title:
+  -
+    value: PPW
+field_name:
+  -
+    value: 'Melissa Grady'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '85'
+  uuid: febb7a3a-7204-436c-a8dc-159d10b6f486
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

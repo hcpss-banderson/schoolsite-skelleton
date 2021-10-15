@@ -1,0 +1,53 @@
+id:
+  -
+    value: 92
+uuid:
+  -
+    value: ac2cd1ef-51de-4862-8c53-e98e6a06c4b3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:56:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: nange_lu@hcpss.org
+field_job_title:
+  -
+    value: ESOL
+field_name:
+  -
+    value: 'Nange Lu'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '92'
+  uuid: ac2cd1ef-51de-4862-8c53-e98e6a06c4b3
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

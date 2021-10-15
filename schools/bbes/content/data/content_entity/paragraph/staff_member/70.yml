@@ -1,0 +1,53 @@
+id:
+  -
+    value: 70
+uuid:
+  -
+    value: 25c3dbd9-c021-4466-8b3a-e4896dffc5dc
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '22'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Amie_Sorber@hcpss.org
+field_job_title:
+  -
+    value: Para
+field_name:
+  -
+    value: 'Amie Sorber'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '70'
+  uuid: 25c3dbd9-c021-4466-8b3a-e4896dffc5dc
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

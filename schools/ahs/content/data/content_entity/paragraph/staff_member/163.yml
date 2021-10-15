@@ -1,0 +1,53 @@
+id:
+  -
+    value: 163
+uuid:
+  -
+    value: a1e9b666-4a05-4ed1-8d11-b61d92a8c155
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '26'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Laura_Cassard@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Laura Cassard'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '163'
+  uuid: a1e9b666-4a05-4ed1-8d11-b61d92a8c155
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

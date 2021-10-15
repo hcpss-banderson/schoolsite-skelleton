@@ -1,0 +1,53 @@
+id:
+  -
+    value: 55
+uuid:
+  -
+    value: 58e59a32-bf35-4894-9b7a-f9b7fb592730
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:05:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Timothy_Bayne@hcpss.org
+field_job_title:
+  -
+    value: 'Gifted and Talented Teacher / Instructional Team Leader'
+field_name:
+  -
+    value: 'Tim Bayne'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '55'
+  uuid: 58e59a32-bf35-4894-9b7a-f9b7fb592730
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 14
+uuid:
+  -
+    value: 7b139a8b-02d5-401f-a1c9-64fab23fe190
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:44:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: ann_mulhollen@hcpss.org
+field_job_title:
+  -
+    value: 'Reading Modules'
+field_name:
+  -
+    value: 'Ann Mulhollen'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '14'
+  uuid: 7b139a8b-02d5-401f-a1c9-64fab23fe190
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

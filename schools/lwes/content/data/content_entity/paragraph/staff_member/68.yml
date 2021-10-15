@@ -1,0 +1,53 @@
+id:
+  -
+    value: 68
+uuid:
+  -
+    value: d9f52746-0a97-48a4-b6f3-f48fd61d1b86
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:10:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: amanda_green@hcpss.org
+field_job_title:
+  -
+    value: 'PreK Instructional Team Leader'
+field_name:
+  -
+    value: 'Amanda Green'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '68'
+  uuid: d9f52746-0a97-48a4-b6f3-f48fd61d1b86
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 34
+uuid:
+  -
+    value: 96062f33-2a33-4b7c-825f-f9daf7d04805
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:43:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jungin_song@hcpss.org
+field_job_title:
+  -
+    value: 'Art 6th'
+field_name:
+  -
+    value: 'Jungin Song'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '34'
+  uuid: 96062f33-2a33-4b7c-825f-f9daf7d04805
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

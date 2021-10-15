@@ -1,0 +1,53 @@
+id:
+  -
+    value: 38
+uuid:
+  -
+    value: 4b3452ef-4ad7-486e-ae85-e1928c2e1731
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:52:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: gary_furr@hcpss.org
+field_job_title:
+  -
+    value: 'Physical Education'
+field_name:
+  -
+    value: 'Gary Furr'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '38'
+  uuid: 4b3452ef-4ad7-486e-ae85-e1928c2e1731
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

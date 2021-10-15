@@ -1,0 +1,53 @@
+id:
+  -
+    value: 32
+uuid:
+  -
+    value: cefe8fbf-d037-4b3e-b512-0e74d559297b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:50:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jerome_Pickens@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher ITL'
+field_name:
+  -
+    value: 'Jerome Pickens'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '32'
+  uuid: cefe8fbf-d037-4b3e-b512-0e74d559297b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

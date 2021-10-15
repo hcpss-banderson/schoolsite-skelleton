@@ -1,0 +1,51 @@
+id:
+  -
+    value: 69
+uuid:
+  -
+    value: 241b6cbc-bbd6-4c3d-a957-de029f65fe12
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:49:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: steven_armstrong@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Steve Armstrong'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '69'
+  uuid: 241b6cbc-bbd6-4c3d-a957-de029f65fe12
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

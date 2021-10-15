@@ -1,0 +1,6 @@
+services:
+  hcpss_school.event_subscriber:
+    class: Drupal\hcpss_school\EventSubscriber\HcpssSchoolSubscriber
+    arguments: ['@config.storage.sync']
+    tags:
+      - { name: event_subscriber }

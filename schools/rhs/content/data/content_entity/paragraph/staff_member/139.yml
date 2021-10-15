@@ -1,0 +1,53 @@
+id:
+  -
+    value: 139
+uuid:
+  -
+    value: 85a187f1-7323-4a4e-99f4-d6fa0eb318cd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Susan_Scheer@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Susan Scheer'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '139'
+  uuid: 85a187f1-7323-4a4e-99f4-d6fa0eb318cd
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

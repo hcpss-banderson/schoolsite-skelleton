@@ -1,0 +1,51 @@
+id:
+  -
+    value: 134
+uuid:
+  -
+    value: 112cc978-2747-4f19-b6bb-b1b5fe3975ab
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '33'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: debra_george@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Debbie George'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '134'
+  uuid: 112cc978-2747-4f19-b6bb-b1b5fe3975ab
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

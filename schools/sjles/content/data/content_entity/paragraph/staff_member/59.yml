@@ -1,0 +1,53 @@
+id:
+  -
+    value: 59
+uuid:
+  -
+    value: 9f755f24-77b2-45d4-956f-2cd34c0a5968
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:20:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: lisa_martinez@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Instructional Team Leader'
+field_name:
+  -
+    value: 'Lisa Martinez'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '59'
+  uuid: 9f755f24-77b2-45d4-956f-2cd34c0a5968
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

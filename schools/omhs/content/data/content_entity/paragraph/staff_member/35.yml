@@ -1,0 +1,51 @@
+id:
+  -
+    value: 35
+uuid:
+  -
+    value: a44bc508-fc5e-4410-b3d8-ab0aa41ca839
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: michael_mosier@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Michael Mosier'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '35'
+  uuid: a44bc508-fc5e-4410-b3d8-ab0aa41ca839
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

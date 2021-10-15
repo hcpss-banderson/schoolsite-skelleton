@@ -1,0 +1,53 @@
+id:
+  -
+    value: 11
+uuid:
+  -
+    value: f5db1963-4a4c-475e-9066-76b58fa1af51
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:26:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jennifer_jones@hcpss.org
+field_job_title:
+  -
+    value: MINC-P
+field_name:
+  -
+    value: 'Jennifer Jones'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '11'
+  uuid: f5db1963-4a4c-475e-9066-76b58fa1af51
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

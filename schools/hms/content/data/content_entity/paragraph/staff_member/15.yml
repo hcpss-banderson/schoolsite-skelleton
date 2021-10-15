@@ -1,0 +1,53 @@
+id:
+  -
+    value: 15
+uuid:
+  -
+    value: 54d8b2b5-d1ec-49e1-81f6-b385960ecd2f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:52:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: gwendolyn_everett@hcpss.org
+field_job_title:
+  -
+    value: 'English 8, Theater 6'
+field_name:
+  -
+    value: 'Gwendolyn Everett'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '15'
+  uuid: 54d8b2b5-d1ec-49e1-81f6-b385960ecd2f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

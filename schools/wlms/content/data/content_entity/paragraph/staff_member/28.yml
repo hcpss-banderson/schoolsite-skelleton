@@ -1,0 +1,53 @@
+id:
+  -
+    value: 28
+uuid:
+  -
+    value: c2405af8-1d72-4f8e-957b-8b0a8e3b9482
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:04:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Nicole_Simon@hcpss.org
+field_job_title:
+  -
+    value: 'Math Teacher 6th/7th grade, 7th grade ITL'
+field_name:
+  -
+    value: 'Nicole Simon'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '28'
+  uuid: c2405af8-1d72-4f8e-957b-8b0a8e3b9482
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

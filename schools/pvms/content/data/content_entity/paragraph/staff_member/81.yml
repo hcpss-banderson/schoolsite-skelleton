@@ -1,0 +1,53 @@
+id:
+  -
+    value: 81
+uuid:
+  -
+    value: d47a5f1b-e3f9-427d-91f8-721681df3d5e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: mary_shih@hcpss.org
+field_job_title:
+  -
+    value: 'Reading Specialist'
+field_name:
+  -
+    value: 'Mary Shih'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '81'
+  uuid: d47a5f1b-e3f9-427d-91f8-721681df3d5e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

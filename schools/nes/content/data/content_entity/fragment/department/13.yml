@@ -1,0 +1,64 @@
+id:
+  -
+    value: 13
+uuid:
+  -
+    value: 42f52b67-1710-4760-8fa1-2b36a571798d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:12:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: ESOL
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:12:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:12:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 56
+    target_type: paragraph
+  -
+    target_id: 57
+    target_type: paragraph
+  -
+    target_id: 58
+    target_type: paragraph
+  -
+    target_id: 59
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '13'
+  uuid: 42f52b67-1710-4760-8fa1-2b36a571798d
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

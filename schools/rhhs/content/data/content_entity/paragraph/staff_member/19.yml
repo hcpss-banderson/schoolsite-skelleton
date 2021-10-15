@@ -1,0 +1,53 @@
+id:
+  -
+    value: 19
+uuid:
+  -
+    value: 41ae08dd-b76a-4bd4-9afb-a3696c196801
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Teresa_Waters@hcpss.org
+field_job_title:
+  -
+    value: ITL
+field_name:
+  -
+    value: 'Teresa Waters'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '19'
+  uuid: 41ae08dd-b76a-4bd4-9afb-a3696c196801
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

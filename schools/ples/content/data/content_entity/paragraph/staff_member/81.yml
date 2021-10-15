@@ -1,0 +1,53 @@
+id:
+  -
+    value: 81
+uuid:
+  -
+    value: b809b71d-49f6-450f-95de-66681a17685f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:13:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: pamela_soto@hcpss.org
+field_job_title:
+  -
+    value: 'ESOL Paraeducator'
+field_name:
+  -
+    value: 'Pamela Soto'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '81'
+  uuid: b809b71d-49f6-450f-95de-66681a17685f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

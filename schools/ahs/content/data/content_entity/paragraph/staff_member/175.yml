@@ -1,0 +1,51 @@
+id:
+  -
+    value: 175
+uuid:
+  -
+    value: 199d4a5d-5602-4d26-893f-d14f90207561
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '28'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Philip_Bonsu@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Philip Bonsu'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '175'
+  uuid: 199d4a5d-5602-4d26-893f-d14f90207561
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

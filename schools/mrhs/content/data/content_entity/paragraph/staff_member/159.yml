@@ -1,0 +1,53 @@
+id:
+  -
+    value: 159
+uuid:
+  -
+    value: 753645a6-52e2-47b4-915a-e55a71048153
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:36:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jerry_evans@hcpss.org
+field_job_title:
+  -
+    value: 'Night Building Supervisor'
+field_name:
+  -
+    value: 'Jerry Evans'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '159'
+  uuid: 753645a6-52e2-47b4-915a-e55a71048153
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

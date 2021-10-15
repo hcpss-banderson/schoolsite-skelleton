@@ -1,0 +1,53 @@
+id:
+  -
+    value: 163
+uuid:
+  -
+    value: 58f92c02-a404-414a-8c50-2dd266a45ece
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:14:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: natalia_yi@hcpss.org
+field_job_title:
+  -
+    value: 'Registrar, PT'
+field_name:
+  -
+    value: 'Natalia Yi'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '163'
+  uuid: 58f92c02-a404-414a-8c50-2dd266a45ece
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

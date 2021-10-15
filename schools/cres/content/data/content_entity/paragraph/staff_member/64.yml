@@ -1,0 +1,53 @@
+id:
+  -
+    value: 64
+uuid:
+  -
+    value: b3bb2074-6db5-4ef8-9ba8-35d5941ae92a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:54:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Maggie_Mellott@hcpss.org
+field_job_title:
+  -
+    value: 'Music Teacher .4'
+field_name:
+  -
+    value: 'Maggie Mellott'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '64'
+  uuid: b3bb2074-6db5-4ef8-9ba8-35d5941ae92a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

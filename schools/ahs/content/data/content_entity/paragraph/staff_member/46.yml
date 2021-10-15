@@ -1,0 +1,53 @@
+id:
+  -
+    value: 46
+uuid:
+  -
+    value: 4ec6dc7b-9739-434f-b5e9-66f4c1654dae
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: lynette_burns@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Lynette Burns'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '46'
+  uuid: 4ec6dc7b-9739-434f-b5e9-66f4c1654dae
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

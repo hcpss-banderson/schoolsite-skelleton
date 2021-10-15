@@ -1,0 +1,53 @@
+id:
+  -
+    value: 105
+uuid:
+  -
+    value: d970fd20-e542-40d6-9680-961ba6794121
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:54:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '18'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Benjamin_Butler@hcpss.org
+field_job_title:
+  -
+    value: Custodian
+field_name:
+  -
+    value: 'Benjamin Butler'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '105'
+  uuid: d970fd20-e542-40d6-9680-961ba6794121
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

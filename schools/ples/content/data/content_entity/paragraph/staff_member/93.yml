@@ -1,0 +1,53 @@
+id:
+  -
+    value: 93
+uuid:
+  -
+    value: c0e12457-1d40-43ba-bab1-11632f21f3c9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:13:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: amy_mcmillion@hcpss.org
+field_job_title:
+  -
+    value: 'School Psychologist'
+field_name:
+  -
+    value: 'Amy McMillion'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '93'
+  uuid: c0e12457-1d40-43ba-bab1-11632f21f3c9
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

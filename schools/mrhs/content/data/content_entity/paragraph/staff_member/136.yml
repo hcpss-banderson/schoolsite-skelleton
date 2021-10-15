@@ -1,0 +1,53 @@
+id:
+  -
+    value: 136
+uuid:
+  -
+    value: c12ef310-1432-4aa5-9890-e9565cda80f4
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:36:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jennifer_mckechnie@hcpss.org
+field_job_title:
+  -
+    value: 'School Counselor Oe-Shi'
+field_name:
+  -
+    value: 'Jenn McKechnie-Howe'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '136'
+  uuid: c12ef310-1432-4aa5-9890-e9565cda80f4
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

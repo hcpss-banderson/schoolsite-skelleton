@@ -1,0 +1,53 @@
+id:
+  -
+    value: 54
+uuid:
+  -
+    value: 8dcb1452-5c88-43d3-8570-d69fded23f1c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:16:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Nicole_Wolf@hpcss.org
+field_job_title:
+  -
+    value: 'Media Paraeducator'
+field_name:
+  -
+    value: 'Nicole Wolf'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '54'
+  uuid: 8dcb1452-5c88-43d3-8570-d69fded23f1c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

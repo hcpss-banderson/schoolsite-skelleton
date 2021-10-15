@@ -1,0 +1,53 @@
+id:
+  -
+    value: 106
+uuid:
+  -
+    value: adb28f2a-abee-4006-b155-4311d318b65e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:56:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: eun_jung_jung@hcpss.org
+field_job_title:
+  -
+    value: 'Student Assistant Special Education PL/UL'
+field_name:
+  -
+    value: 'Eun Jung Jung'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '106'
+  uuid: adb28f2a-abee-4006-b155-4311d318b65e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

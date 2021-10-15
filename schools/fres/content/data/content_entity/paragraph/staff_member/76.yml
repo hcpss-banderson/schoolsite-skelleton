@@ -1,0 +1,53 @@
+id:
+  -
+    value: 76
+uuid:
+  -
+    value: 9f2f5c31-8a64-4fb4-a794-94c12d4f272f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:00:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Charlene_King@hcpss.org
+field_job_title:
+  -
+    value: 'Reading Specialist 0.5'
+field_name:
+  -
+    value: 'Charlene King'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '76'
+  uuid: 9f2f5c31-8a64-4fb4-a794-94c12d4f272f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

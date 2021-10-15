@@ -1,0 +1,53 @@
+id:
+  -
+    value: 161
+uuid:
+  -
+    value: cf3fe526-e9a0-4f20-a561-da3def9d90ad
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:32:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '32'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: oscar_ulloa@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Oscar Ulloa'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '161'
+  uuid: cf3fe526-e9a0-4f20-a561-da3def9d90ad
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

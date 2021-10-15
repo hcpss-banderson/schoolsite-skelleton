@@ -1,0 +1,51 @@
+id:
+  -
+    value: 81
+uuid:
+  -
+    value: 2e216b1d-2063-4fc5-a5db-eec4b3a53cd0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:06:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: TE
+field_name:
+  -
+    value: 'Fatima Dykema'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '81'
+  uuid: 2e216b1d-2063-4fc5-a5db-eec4b3a53cd0
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

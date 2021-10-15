@@ -1,0 +1,53 @@
+id:
+  -
+    value: 147
+uuid:
+  -
+    value: d31af1e8-c95f-4e7f-a206-71dd39ea3e94
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:32:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '29'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: terrel_moss@hcpss.org
+field_job_title:
+  -
+    value: 'School Counselor, Lan - P, 10-12'
+field_name:
+  -
+    value: 'Terrel Moss'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '147'
+  uuid: d31af1e8-c95f-4e7f-a206-71dd39ea3e94
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

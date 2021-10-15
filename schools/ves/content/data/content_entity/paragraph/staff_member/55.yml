@@ -1,0 +1,53 @@
+id:
+  -
+    value: 55
+uuid:
+  -
+    value: c223f62b-e09b-4033-a4c2-e3ec47a11330
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:24:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kevin_callaghan@hcpss.org
+field_job_title:
+  -
+    value: 'Team Leader'
+field_name:
+  -
+    value: 'Kevin Callaghan'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '55'
+  uuid: c223f62b-e09b-4033-a4c2-e3ec47a11330
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

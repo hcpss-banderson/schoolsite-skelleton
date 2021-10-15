@@ -1,0 +1,53 @@
+id:
+  -
+    value: 154
+uuid:
+  -
+    value: 18b23d23-a94f-434c-b3b4-65439f6e2abf
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:32:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '30'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Lauren_Tobiason@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Lauren Tobiason'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '154'
+  uuid: 18b23d23-a94f-434c-b3b4-65439f6e2abf
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

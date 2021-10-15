@@ -1,0 +1,53 @@
+id:
+  -
+    value: 63
+uuid:
+  -
+    value: 38a5f20d-ac94-46cb-90ee-ef65c89aa74d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:49:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: rachel_ludlow@hcpss.org
+field_job_title:
+  -
+    value: Art
+field_name:
+  -
+    value: 'Rachel Ludlow'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '63'
+  uuid: 38a5f20d-ac94-46cb-90ee-ef65c89aa74d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

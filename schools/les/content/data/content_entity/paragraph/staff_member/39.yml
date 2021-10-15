@@ -1,0 +1,53 @@
+id:
+  -
+    value: 39
+uuid:
+  -
+    value: 07394d3d-e373-4427-95b5-e6d751a2f70b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:08:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kimberly_gjerde@hcpss.org
+field_job_title:
+  -
+    value: 'ESOL Teacher (.6)'
+field_name:
+  -
+    value: 'Kim Gjerde'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '39'
+  uuid: 07394d3d-e373-4427-95b5-e6d751a2f70b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

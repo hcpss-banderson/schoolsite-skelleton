@@ -1,0 +1,53 @@
+id:
+  -
+    value: 4
+uuid:
+  -
+    value: dac9420e-e2f0-4a96-8823-78113e2b8cf7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:21:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Lisa_Watt@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher Secretary .5 Position'
+field_name:
+  -
+    value: 'Lisa Watt'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '4'
+  uuid: dac9420e-e2f0-4a96-8823-78113e2b8cf7
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

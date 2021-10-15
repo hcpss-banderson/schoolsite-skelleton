@@ -1,0 +1,53 @@
+id:
+  -
+    value: 103
+uuid:
+  -
+    value: daadd300-bfbb-4642-bc88-3a7f41af20c3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:47:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jennifer_harrison@hcpss.org
+field_job_title:
+  -
+    value: 'Night Custodian'
+field_name:
+  -
+    value: 'Jennifer Harrison'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '103'
+  uuid: daadd300-bfbb-4642-bc88-3a7f41af20c3
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

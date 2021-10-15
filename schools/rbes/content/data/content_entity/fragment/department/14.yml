@@ -1,0 +1,91 @@
+id:
+  -
+    value: 14
+uuid:
+  -
+    value: 8d3e4142-a22d-4a74-9000-2e0cb3d3659e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:16:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Infant & Toddlers Program'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:16:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:16:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 90
+    target_type: paragraph
+  -
+    target_id: 91
+    target_type: paragraph
+  -
+    target_id: 92
+    target_type: paragraph
+  -
+    target_id: 93
+    target_type: paragraph
+  -
+    target_id: 94
+    target_type: paragraph
+  -
+    target_id: 95
+    target_type: paragraph
+  -
+    target_id: 96
+    target_type: paragraph
+  -
+    target_id: 97
+    target_type: paragraph
+  -
+    target_id: 98
+    target_type: paragraph
+  -
+    target_id: 99
+    target_type: paragraph
+  -
+    target_id: 100
+    target_type: paragraph
+  -
+    target_id: 101
+    target_type: paragraph
+  -
+    target_id: 102
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '14'
+  uuid: 8d3e4142-a22d-4a74-9000-2e0cb3d3659e
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

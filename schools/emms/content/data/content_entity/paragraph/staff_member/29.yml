@@ -1,0 +1,53 @@
+id:
+  -
+    value: 29
+uuid:
+  -
+    value: de6e7d6c-fb64-46a2-b9c2-b168d1554fea
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:47:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: betsy_adelman@hcpss.org
+field_job_title:
+  -
+    value: 'GT Resource Teacher'
+field_name:
+  -
+    value: 'Betsy Adelman'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '29'
+  uuid: de6e7d6c-fb64-46a2-b9c2-b168d1554fea
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

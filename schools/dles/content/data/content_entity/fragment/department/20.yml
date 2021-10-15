@@ -1,0 +1,61 @@
+id:
+  -
+    value: 20
+uuid:
+  -
+    value: 760fb91b-31d2-4e44-8796-f1334eaab2c4
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T15:55:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: Music
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:55:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T15:55:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 104
+    target_type: paragraph
+  -
+    target_id: 105
+    target_type: paragraph
+  -
+    target_id: 106
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '20'
+  uuid: 760fb91b-31d2-4e44-8796-f1334eaab2c4
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

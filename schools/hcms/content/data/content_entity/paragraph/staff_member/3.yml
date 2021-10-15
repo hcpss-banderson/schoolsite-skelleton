@@ -1,0 +1,53 @@
+id:
+  -
+    value: 3
+uuid:
+  -
+    value: f9de2aa3-90a1-4a78-934a-b28450b12a35
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:50:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: trumaine_mccaskill@hcpss.org
+field_job_title:
+  -
+    value: 'Assistant Principal'
+field_name:
+  -
+    value: 'Trumaine McCaskill'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '3'
+  uuid: f9de2aa3-90a1-4a78-934a-b28450b12a35
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

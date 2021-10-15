@@ -1,0 +1,53 @@
+id:
+  -
+    value: 39
+uuid:
+  -
+    value: 94cfd65a-49b7-46c1-9a78-3ce338e05f0d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:19:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kristen_bacon@hcpss.org
+field_job_title:
+  -
+    value: 'Band/Strings Instructor'
+field_name:
+  -
+    value: 'Kristen Bacon'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '39'
+  uuid: 94cfd65a-49b7-46c1-9a78-3ce338e05f0d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

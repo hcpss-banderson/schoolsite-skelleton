@@ -1,0 +1,53 @@
+id:
+  -
+    value: 18
+uuid:
+  -
+    value: d8b7fcbc-bc59-4ee4-b1bd-bedf65d01d8a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:13:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Carly_Norris@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher & ITL'
+field_name:
+  -
+    value: 'Carly Norris'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '18'
+  uuid: d8b7fcbc-bc59-4ee4-b1bd-bedf65d01d8a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 174
+uuid:
+  -
+    value: e4d3e6b7-6fd1-4fba-a9cd-b73ce1e471f9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: heidi_warthen@hcpss.org
+field_job_title:
+  -
+    value: 'Food Service Manager'
+field_name:
+  -
+    value: 'Heidi Warthen'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '174'
+  uuid: e4d3e6b7-6fd1-4fba-a9cd-b73ce1e471f9
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

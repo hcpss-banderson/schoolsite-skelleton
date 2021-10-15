@@ -1,0 +1,53 @@
+id:
+  -
+    value: 58
+uuid:
+  -
+    value: 90185a9b-06b8-40e2-9f86-6be7f87a8667
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:07:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: James_Parker@hcpss.org
+field_job_title:
+  -
+    value: 'Night Building Supervisor'
+field_name:
+  -
+    value: 'James Parker'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '58'
+  uuid: 90185a9b-06b8-40e2-9f86-6be7f87a8667
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

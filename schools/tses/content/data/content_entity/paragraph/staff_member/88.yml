@@ -1,0 +1,53 @@
+id:
+  -
+    value: 88
+uuid:
+  -
+    value: 5f363a58-5825-4530-b180-07a6ec3371f9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:23:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '20'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: mindy_gaines@hcpss.org
+field_job_title:
+  -
+    value: Monitor
+field_name:
+  -
+    value: 'Mindy Gaines'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '88'
+  uuid: 5f363a58-5825-4530-b180-07a6ec3371f9
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 119
+uuid:
+  -
+    value: 1119864d-cc8f-49ec-ba9e-37c84ec115a7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:33:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jon_Hollander@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Jon Hollander'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '119'
+  uuid: 1119864d-cc8f-49ec-ba9e-37c84ec115a7
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

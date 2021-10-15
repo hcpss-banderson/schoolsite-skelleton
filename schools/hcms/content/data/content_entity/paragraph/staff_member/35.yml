@@ -1,0 +1,53 @@
+id:
+  -
+    value: 35
+uuid:
+  -
+    value: b88b38f0-24ee-4a75-82cf-060510f4faac
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:50:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: renee_suttner@hcpss.org
+field_job_title:
+  -
+    value: 'Math, Math Team Leader'
+field_name:
+  -
+    value: 'Renee Suttner'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '35'
+  uuid: b88b38f0-24ee-4a75-82cf-060510f4faac
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

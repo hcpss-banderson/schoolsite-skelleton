@@ -1,0 +1,53 @@
+id:
+  -
+    value: 28
+uuid:
+  -
+    value: fdacd30e-0125-48cb-8742-2d5cec5fb1f7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:06:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: ryan_brown@hcpss.org
+field_job_title:
+  -
+    value: 'UL Paraeducator'
+field_name:
+  -
+    value: 'Ryan Brown'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '28'
+  uuid: fdacd30e-0125-48cb-8742-2d5cec5fb1f7
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

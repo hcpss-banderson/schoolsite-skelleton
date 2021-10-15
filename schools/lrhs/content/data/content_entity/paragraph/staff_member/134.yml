@@ -1,0 +1,53 @@
+id:
+  -
+    value: 134
+uuid:
+  -
+    value: 0379c4a0-96f0-4a3d-b230-1862a86be013
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:34:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '21'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Laura_Herbers_van_Zutphen@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, Science Instructional Team Leader'
+field_name:
+  -
+    value: 'Laura Herbers van Zutphen'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '134'
+  uuid: 0379c4a0-96f0-4a3d-b230-1862a86be013
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

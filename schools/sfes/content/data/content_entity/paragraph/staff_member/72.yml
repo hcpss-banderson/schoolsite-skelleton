@@ -1,0 +1,53 @@
+id:
+  -
+    value: 72
+uuid:
+  -
+    value: db792d2f-1dc1-4624-abb8-6dd72cebf888
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:19:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Ronda_Lennon@hcpss.org
+field_job_title:
+  -
+    value: 'Pupil Personel Worker'
+field_name:
+  -
+    value: 'Ronda Lennon'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '72'
+  uuid: db792d2f-1dc1-4624-abb8-6dd72cebf888
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

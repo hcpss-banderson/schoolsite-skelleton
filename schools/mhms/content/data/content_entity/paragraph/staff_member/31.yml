@@ -1,0 +1,53 @@
+id:
+  -
+    value: 31
+uuid:
+  -
+    value: 4e57678e-eb7a-439b-8aac-24bc15805748
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:55:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kristin_parrish@hcpss.org
+field_job_title:
+  -
+    value: 'Science & 7/8 Theatre'
+field_name:
+  -
+    value: 'Kristin Parrish'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '31'
+  uuid: 4e57678e-eb7a-439b-8aac-24bc15805748
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

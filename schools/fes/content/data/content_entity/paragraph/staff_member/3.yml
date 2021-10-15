@@ -1,0 +1,53 @@
+id:
+  -
+    value: 3
+uuid:
+  -
+    value: 3ee819a9-b48e-44ac-96c8-a385ed9e8cde
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:59:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: leslie_brickner@hcpss.org
+field_job_title:
+  -
+    value: 'Assistant Principal'
+field_name:
+  -
+    value: 'Mrs. Brickner'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '3'
+  uuid: 3ee819a9-b48e-44ac-96c8-a385ed9e8cde
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

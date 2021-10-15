@@ -1,0 +1,53 @@
+id:
+  -
+    value: 49
+uuid:
+  -
+    value: 07f9e69a-67d1-4ba4-9d5f-20e23c1a93b4
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:45:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: lois_han@hcpss.org
+field_job_title:
+  -
+    value: 'Gifted and Talented Resource Teacher'
+field_name:
+  -
+    value: 'Lois Han'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '49'
+  uuid: 07f9e69a-67d1-4ba4-9d5f-20e23c1a93b4
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

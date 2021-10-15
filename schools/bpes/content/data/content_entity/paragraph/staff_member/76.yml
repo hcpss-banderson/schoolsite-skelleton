@@ -1,0 +1,53 @@
+id:
+  -
+    value: 76
+uuid:
+  -
+    value: d7a1a3c7-704f-409b-98bc-c8eab9fb7222
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:47:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: heather_fast@hcpss.org
+field_job_title:
+  -
+    value: 'MINC Paraeducator'
+field_name:
+  -
+    value: 'Heather Fast'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '76'
+  uuid: d7a1a3c7-704f-409b-98bc-c8eab9fb7222
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

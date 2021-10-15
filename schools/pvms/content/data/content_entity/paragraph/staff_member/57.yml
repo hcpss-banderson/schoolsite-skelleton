@@ -1,0 +1,53 @@
+id:
+  -
+    value: 57
+uuid:
+  -
+    value: 2c782c00-f2fa-427e-b2a7-27beb196f070
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: cara_tracy@hcpss.org
+field_job_title:
+  -
+    value: Band
+field_name:
+  -
+    value: 'Cara Tracy'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '57'
+  uuid: 2c782c00-f2fa-427e-b2a7-27beb196f070
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

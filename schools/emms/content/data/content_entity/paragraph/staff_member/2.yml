@@ -1,0 +1,53 @@
+id:
+  -
+    value: 2
+uuid:
+  -
+    value: 23b55d24-5fc9-47f8-b155-2d6f7ad6d5c5
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:47:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: peter_gaylord@hcpss.org
+field_job_title:
+  -
+    value: Principal
+field_name:
+  -
+    value: 'Peter Gaylord'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '2'
+  uuid: 23b55d24-5fc9-47f8-b155-2d6f7ad6d5c5
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

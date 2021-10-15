@@ -1,0 +1,53 @@
+id:
+  -
+    value: 7
+uuid:
+  -
+    value: 5d3dee85-fb58-46f6-9e41-9071cff97c03
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:56:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: denise_adams@hcpss.org
+field_job_title:
+  -
+    value: 'School Counselor G6'
+field_name:
+  -
+    value: 'Denise Adams'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '7'
+  uuid: 5d3dee85-fb58-46f6-9e41-9071cff97c03
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

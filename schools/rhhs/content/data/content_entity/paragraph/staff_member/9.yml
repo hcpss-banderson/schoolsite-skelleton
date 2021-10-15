@@ -1,0 +1,53 @@
+id:
+  -
+    value: 9
+uuid:
+  -
+    value: 8e22f430-300c-4925-aa32-8f22a5fa9cf5
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: AnneMarie_Key@hcpss.org
+field_job_title:
+  -
+    value: 'Attendance Secretary'
+field_name:
+  -
+    value: 'Anne Marie Key'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '9'
+  uuid: 8e22f430-300c-4925-aa32-8f22a5fa9cf5
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

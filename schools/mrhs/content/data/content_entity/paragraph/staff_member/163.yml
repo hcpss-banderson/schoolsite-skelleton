@@ -1,0 +1,53 @@
+id:
+  -
+    value: 163
+uuid:
+  -
+    value: a4f489a6-ffd5-4b0d-a000-e0e6205b6bc9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:36:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: charles_powell@hcpss.org
+field_job_title:
+  -
+    value: Custodian
+field_name:
+  -
+    value: 'Charles Powell'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '163'
+  uuid: a4f489a6-ffd5-4b0d-a000-e0e6205b6bc9
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

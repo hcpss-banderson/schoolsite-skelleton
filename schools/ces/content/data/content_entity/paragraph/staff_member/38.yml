@@ -1,0 +1,53 @@
+id:
+  -
+    value: 38
+uuid:
+  -
+    value: 55d41bcf-5b31-47a4-8ec2-5bb04b559357
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:52:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kathleen_watson@hcpss.org
+field_job_title:
+  -
+    value: 'Para Professional'
+field_name:
+  -
+    value: 'Kathy Watson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '38'
+  uuid: 55d41bcf-5b31-47a4-8ec2-5bb04b559357
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

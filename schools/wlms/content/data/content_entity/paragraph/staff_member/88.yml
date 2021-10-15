@@ -1,0 +1,53 @@
+id:
+  -
+    value: 88
+uuid:
+  -
+    value: 14e0d40e-b7fe-4337-a21e-c1f1ff41c4dd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:04:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kathy_Corbett@hcpss.org
+field_job_title:
+  -
+    value: 'Alternative Education Teacher'
+field_name:
+  -
+    value: 'Kathy Corbett'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '88'
+  uuid: 14e0d40e-b7fe-4337-a21e-c1f1ff41c4dd
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

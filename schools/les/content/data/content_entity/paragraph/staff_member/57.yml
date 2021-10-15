@@ -1,0 +1,53 @@
+id:
+  -
+    value: 57
+uuid:
+  -
+    value: 0e314e8d-6d4d-4807-ad83-ba1c4f04e2bf
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:08:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: dorothy_smith@hcpss.org
+field_job_title:
+  -
+    value: 'Building Supervisor (Day)'
+field_name:
+  -
+    value: 'Dottie Smith'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '57'
+  uuid: 0e314e8d-6d4d-4807-ad83-ba1c4f04e2bf
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

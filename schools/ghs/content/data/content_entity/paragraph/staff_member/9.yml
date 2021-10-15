@@ -1,0 +1,53 @@
+id:
+  -
+    value: 9
+uuid:
+  -
+    value: cbb7dd9b-4f5e-4e46-9fa4-bc0f636e67cd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:31:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: alicia_bauer@hcpss.org
+field_job_title:
+  -
+    value: 'Data Clerk'
+field_name:
+  -
+    value: 'Alicia Bauer'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '9'
+  uuid: cbb7dd9b-4f5e-4e46-9fa4-bc0f636e67cd
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

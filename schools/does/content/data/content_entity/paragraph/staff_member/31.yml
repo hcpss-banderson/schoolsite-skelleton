@@ -1,0 +1,51 @@
+id:
+  -
+    value: 31
+uuid:
+  -
+    value: 388f4059-add9-48db-a28f-6e2b1c0c8edf
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:56:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: fara_kidwell@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Fara Kidwell'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '31'
+  uuid: 388f4059-add9-48db-a28f-6e2b1c0c8edf
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

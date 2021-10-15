@@ -1,0 +1,53 @@
+id:
+  -
+    value: 11
+uuid:
+  -
+    value: a97c0ffd-559a-49cc-87e9-1eb887766ca1
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jennifer_mcqueeney@hcpss.org
+field_job_title:
+  -
+    value: Bookkeeper
+field_name:
+  -
+    value: 'Jennifer McQueeney'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '11'
+  uuid: a97c0ffd-559a-49cc-87e9-1eb887766ca1
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 83
+uuid:
+  -
+    value: 1d62b4d8-a37a-4351-bc80-c67cbb905618
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:59:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: amanda_reitz@hcpss.org
+field_job_title:
+  -
+    value: 'RECC Student Assistant'
+field_name:
+  -
+    value: 'Ms. Reitz'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '83'
+  uuid: 1d62b4d8-a37a-4351-bc80-c67cbb905618
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

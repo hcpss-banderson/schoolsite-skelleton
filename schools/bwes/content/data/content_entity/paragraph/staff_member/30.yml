@@ -1,0 +1,53 @@
+id:
+  -
+    value: 30
+uuid:
+  -
+    value: c3ab85c2-da9e-48a5-a1d2-99db4e49bcad
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:50:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Esther_Chon@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Esther Chon'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '30'
+  uuid: c3ab85c2-da9e-48a5-a1d2-99db4e49bcad
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

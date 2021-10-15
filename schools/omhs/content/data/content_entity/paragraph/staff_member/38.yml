@@ -1,0 +1,51 @@
+id:
+  -
+    value: 38
+uuid:
+  -
+    value: e0545eeb-45a4-42d9-91a0-f6edf0542300
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: amy_brooks@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Amy Brooks'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '38'
+  uuid: e0545eeb-45a4-42d9-91a0-f6edf0542300
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

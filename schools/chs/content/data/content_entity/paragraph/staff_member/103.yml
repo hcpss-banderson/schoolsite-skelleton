@@ -1,0 +1,53 @@
+id:
+  -
+    value: 103
+uuid:
+  -
+    value: 77a5aa29-65b5-4f73-825f-a4b10f835053
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:30:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '20'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: patricia_reese@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher (ITL)'
+field_name:
+  -
+    value: 'P. Kayleen Reese'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '103'
+  uuid: 77a5aa29-65b5-4f73-825f-a4b10f835053
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

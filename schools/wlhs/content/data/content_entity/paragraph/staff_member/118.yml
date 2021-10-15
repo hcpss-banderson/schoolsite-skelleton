@@ -1,0 +1,53 @@
+id:
+  -
+    value: 118
+uuid:
+  -
+    value: 9d6f5b6e-6c75-48b4-bcba-52abf2152bf2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:14:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: celeste_stroup@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Celeste Stroup'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '118'
+  uuid: 9d6f5b6e-6c75-48b4-bcba-52abf2152bf2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

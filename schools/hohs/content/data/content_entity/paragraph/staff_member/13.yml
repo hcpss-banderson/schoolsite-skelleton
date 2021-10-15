@@ -1,0 +1,53 @@
+id:
+  -
+    value: 13
+uuid:
+  -
+    value: 77707d96-83b4-4f39-8af5-434460140f4b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:33:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: isabel_delarosa@hcpss.org
+field_job_title:
+  -
+    value: 'HCPSS Connect Point of Contact'
+field_name:
+  -
+    value: 'Isabel De La Rosa'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '13'
+  uuid: 77707d96-83b4-4f39-8af5-434460140f4b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

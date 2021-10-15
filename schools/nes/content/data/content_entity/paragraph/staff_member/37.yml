@@ -1,0 +1,53 @@
+id:
+  -
+    value: 37
+uuid:
+  -
+    value: b33bbbf1-d2bb-47a9-8d6d-860a5760b441
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:12:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Faith_Lewis@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Faith Lewis'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '37'
+  uuid: b33bbbf1-d2bb-47a9-8d6d-860a5760b441
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

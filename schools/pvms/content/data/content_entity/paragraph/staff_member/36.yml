@@ -1,0 +1,53 @@
+id:
+  -
+    value: 36
+uuid:
+  -
+    value: 60eeac26-e1b9-45df-b539-e1965355b1d5
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: amanda_roberge@hcpss.org
+field_job_title:
+  -
+    value: 'English Language Arts, 8th Grade Team Leader'
+field_name:
+  -
+    value: 'Amanda Roberge'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '36'
+  uuid: 60eeac26-e1b9-45df-b539-e1965355b1d5
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

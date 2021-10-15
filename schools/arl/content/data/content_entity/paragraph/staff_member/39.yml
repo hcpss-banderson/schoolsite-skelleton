@@ -1,0 +1,51 @@
+id:
+  -
+    value: 39
+uuid:
+  -
+    value: b27b3119-8b09-4e9d-874d-ad8a353db121
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:41:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '19'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Andrea Yacobucci'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '39'
+  uuid: b27b3119-8b09-4e9d-874d-ad8a353db121
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,64 @@
+id:
+  -
+    value: 14
+uuid:
+  -
+    value: 91d8d177-7840-46f4-9c39-b7aa70f9f94a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:13:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Custodial Staff'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:13:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:13:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 104
+    target_type: paragraph
+  -
+    target_id: 105
+    target_type: paragraph
+  -
+    target_id: 106
+    target_type: paragraph
+  -
+    target_id: 107
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '14'
+  uuid: 91d8d177-7840-46f4-9c39-b7aa70f9f94a
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

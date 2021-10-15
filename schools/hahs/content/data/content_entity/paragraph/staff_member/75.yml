@@ -1,0 +1,53 @@
+id:
+  -
+    value: 75
+uuid:
+  -
+    value: 1e4c5bbb-742b-4557-b9b5-17f86ec22e71
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:32:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Stephen_Dunlap@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, Band Director'
+field_name:
+  -
+    value: 'Stephen Dunlap'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '75'
+  uuid: 1e4c5bbb-742b-4557-b9b5-17f86ec22e71
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

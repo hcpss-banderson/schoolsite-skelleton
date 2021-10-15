@@ -1,0 +1,53 @@
+id:
+  -
+    value: 81
+uuid:
+  -
+    value: 1a95b880-01c1-407a-8f68-05203f41e15b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:56:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: margaret_bueno_lagera@hcpss.org
+field_job_title:
+  -
+    value: 'Grade Four/Five'
+field_name:
+  -
+    value: 'Margaret Bueno-Lagera'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '81'
+  uuid: 1a95b880-01c1-407a-8f68-05203f41e15b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

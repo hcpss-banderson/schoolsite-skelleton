@@ -1,0 +1,51 @@
+id:
+  -
+    value: 29
+uuid:
+  -
+    value: 7031d4b8-2611-44ee-b11e-d05c8ed11e3d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:41:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Robert_Leiby@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Robert Leiby'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '29'
+  uuid: 7031d4b8-2611-44ee-b11e-d05c8ed11e3d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

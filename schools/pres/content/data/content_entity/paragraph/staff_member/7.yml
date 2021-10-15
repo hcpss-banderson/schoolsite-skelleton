@@ -1,0 +1,53 @@
+id:
+  -
+    value: 7
+uuid:
+  -
+    value: b1c304c4-cd91-4564-be3e-b864af33dd46
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:15:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: elizabeth_shuman@hcpss.org
+field_job_title:
+  -
+    value: 'Kindergarten Team Leader'
+field_name:
+  -
+    value: 'Beth Shuman'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '7'
+  uuid: b1c304c4-cd91-4564-be3e-b864af33dd46
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

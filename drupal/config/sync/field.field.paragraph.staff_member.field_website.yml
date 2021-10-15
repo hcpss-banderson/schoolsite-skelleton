@@ -1,0 +1,23 @@
+uuid: be73069f-237a-4a99-a6c8-c588ee1ba9ff
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_website
+    - paragraphs.paragraphs_type.staff_member
+  module:
+    - link
+id: paragraph.staff_member.field_website
+field_name: field_website
+entity_type: paragraph
+bundle: staff_member
+label: Website
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  link_type: 16
+  title: 2
+field_type: link

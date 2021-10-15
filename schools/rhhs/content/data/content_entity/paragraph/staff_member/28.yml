@@ -1,0 +1,51 @@
+id:
+  -
+    value: 28
+uuid:
+  -
+    value: 5610e989-3cba-4992-8801-b43e2d871edf
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Anthony_Cipro@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Anthony Cipro'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '28'
+  uuid: 5610e989-3cba-4992-8801-b43e2d871edf
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

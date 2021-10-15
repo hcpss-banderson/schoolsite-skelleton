@@ -1,0 +1,53 @@
+id:
+  -
+    value: 64
+uuid:
+  -
+    value: 8b0a0bf3-6d52-46cd-b726-ba7bc06d998d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:56:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Deborah_Vo@hcpss.org
+field_job_title:
+  -
+    value: OT
+field_name:
+  -
+    value: 'Debbie Vo'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '64'
+  uuid: 8b0a0bf3-6d52-46cd-b726-ba7bc06d998d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

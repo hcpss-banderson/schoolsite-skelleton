@@ -1,0 +1,53 @@
+id:
+  -
+    value: 3
+uuid:
+  -
+    value: 28ce49d2-56d6-4297-afa6-a186494b43e2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:48:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: karen_lightfield@hcpss.org
+field_job_title:
+  -
+    value: 'Team Leader'
+field_name:
+  -
+    value: 'Karen Lightfield'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '3'
+  uuid: 28ce49d2-56d6-4297-afa6-a186494b43e2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

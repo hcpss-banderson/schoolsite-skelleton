@@ -1,0 +1,53 @@
+id:
+  -
+    value: 101
+uuid:
+  -
+    value: 639d34f6-eca1-47e1-8ece-c39ac00ae3cc
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:13:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: rachael_wood@hcpss.org
+field_job_title:
+  -
+    value: 'GT Resource Teacher'
+field_name:
+  -
+    value: 'Rachael Wood'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '101'
+  uuid: 639d34f6-eca1-47e1-8ece-c39ac00ae3cc
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

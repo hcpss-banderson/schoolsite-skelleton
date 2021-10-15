@@ -1,0 +1,53 @@
+id:
+  -
+    value: 144
+uuid:
+  -
+    value: decb7a8a-8b48-4228-90fe-e93f3d4b6106
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '23'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Penny_Luu@hcpss.org
+field_job_title:
+  -
+    value: 'Student Assistant'
+field_name:
+  -
+    value: 'Penny Luu'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '144'
+  uuid: decb7a8a-8b48-4228-90fe-e93f3d4b6106
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

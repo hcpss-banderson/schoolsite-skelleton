@@ -1,0 +1,53 @@
+id:
+  -
+    value: 67
+uuid:
+  -
+    value: 1d67355e-5eb4-482c-9845-9c0add2a4629
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:44:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Margaret_Brothman@hcpss.org
+field_job_title:
+  -
+    value: 'GT Research'
+field_name:
+  -
+    value: 'Margaret Brothman'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '67'
+  uuid: 1d67355e-5eb4-482c-9845-9c0add2a4629
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

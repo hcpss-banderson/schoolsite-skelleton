@@ -1,0 +1,53 @@
+id:
+  -
+    value: 117
+uuid:
+  -
+    value: b4df09c9-8bc2-4c68-a0d8-a947c76b2dbe
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Austin_Donmoyer@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Austin Donmoyer'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '117'
+  uuid: b4df09c9-8bc2-4c68-a0d8-a947c76b2dbe
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

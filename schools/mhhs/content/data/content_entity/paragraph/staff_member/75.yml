@@ -1,0 +1,53 @@
+id:
+  -
+    value: 75
+uuid:
+  -
+    value: 8fe2f689-1506-4417-beaf-2f29e93ca7cb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:35:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Teyarnte_Carter@hcpss.org
+field_job_title:
+  -
+    value: Coach
+field_name:
+  -
+    value: 'Teyarnte Carter'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '75'
+  uuid: 8fe2f689-1506-4417-beaf-2f29e93ca7cb
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

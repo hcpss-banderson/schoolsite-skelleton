@@ -1,0 +1,53 @@
+id:
+  -
+    value: 128
+uuid:
+  -
+    value: 5ad7fc18-a3bb-477c-b0b6-41242e086d29
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:04:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '18'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: javon_couser@hcpss.org
+field_job_title:
+  -
+    value: 'Day Chief Custodian'
+field_name:
+  -
+    value: 'Mike Couser'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '128'
+  uuid: 5ad7fc18-a3bb-477c-b0b6-41242e086d29
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

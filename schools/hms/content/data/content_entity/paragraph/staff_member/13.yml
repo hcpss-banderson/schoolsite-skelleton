@@ -1,0 +1,53 @@
+id:
+  -
+    value: 13
+uuid:
+  -
+    value: a382c1c2-3d97-4f7b-aeba-d14b3ff938ed
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:52:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: mirande_bissell@hcpss.org
+field_job_title:
+  -
+    value: 'English 7'
+field_name:
+  -
+    value: 'Mirande Bissell'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '13'
+  uuid: a382c1c2-3d97-4f7b-aeba-d14b3ff938ed
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

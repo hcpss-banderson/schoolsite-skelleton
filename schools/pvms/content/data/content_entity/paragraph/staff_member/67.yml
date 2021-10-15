@@ -1,0 +1,53 @@
+id:
+  -
+    value: 67
+uuid:
+  -
+    value: 2555e1ef-7e99-4bfd-a82e-d573ac26fff3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: eleanor_robbins@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education'
+field_name:
+  -
+    value: 'Eleanor Robbins'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '67'
+  uuid: 2555e1ef-7e99-4bfd-a82e-d573ac26fff3
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

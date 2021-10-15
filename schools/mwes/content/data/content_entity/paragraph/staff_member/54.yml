@@ -1,0 +1,53 @@
+id:
+  -
+    value: 54
+uuid:
+  -
+    value: 7f4864d6-368d-4aaa-a179-8af45ac458cd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:11:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: denise_stillings@hcpss.org
+field_job_title:
+  -
+    value: 'Infants & Toddlers Cluster Secretary'
+field_name:
+  -
+    value: 'Denise Stillings'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '54'
+  uuid: 7f4864d6-368d-4aaa-a179-8af45ac458cd
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

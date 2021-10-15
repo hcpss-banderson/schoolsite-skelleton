@@ -1,0 +1,53 @@
+id:
+  -
+    value: 145
+uuid:
+  -
+    value: 8e9cae58-762a-4915-afcb-71dbc821364f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:24:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jessica_wilson@hcpss.org
+field_job_title:
+  -
+    value: 'School Counselor .5'
+field_name:
+  -
+    value: 'Jessica Wilson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '145'
+  uuid: 8e9cae58-762a-4915-afcb-71dbc821364f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

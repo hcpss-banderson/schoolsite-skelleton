@@ -1,0 +1,53 @@
+id:
+  -
+    value: 101
+uuid:
+  -
+    value: 6274d868-8e2d-457a-8178-03529751bece
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:34:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jillian_allen@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, JV Girls Basketball'
+field_name:
+  -
+    value: 'Jillian Allen'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '101'
+  uuid: 6274d868-8e2d-457a-8178-03529751bece
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

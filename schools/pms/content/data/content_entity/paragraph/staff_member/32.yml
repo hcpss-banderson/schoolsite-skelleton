@@ -1,0 +1,53 @@
+id:
+  -
+    value: 32
+uuid:
+  -
+    value: 597ed488-9c16-492e-8f4e-13bd9dcc316c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:00:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Therese_Cozzo@hcpss.org
+field_job_title:
+  -
+    value: Math
+field_name:
+  -
+    value: 'Therese Cozzo'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '32'
+  uuid: 597ed488-9c16-492e-8f4e-13bd9dcc316c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

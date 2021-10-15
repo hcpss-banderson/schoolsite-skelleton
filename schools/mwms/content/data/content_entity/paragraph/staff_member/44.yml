@@ -1,0 +1,53 @@
+id:
+  -
+    value: 44
+uuid:
+  -
+    value: 11d6db3c-2e79-4f63-bd10-0e057d410cda
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:57:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Nancy_Cohen@hcpss.org
+field_job_title:
+  -
+    value: 'Social Studies/Modules'
+field_name:
+  -
+    value: 'Ms. N. Cohen'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '44'
+  uuid: 11d6db3c-2e79-4f63-bd10-0e057d410cda
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

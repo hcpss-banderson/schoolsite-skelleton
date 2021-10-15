@@ -1,0 +1,53 @@
+id:
+  -
+    value: 93
+uuid:
+  -
+    value: 9976421b-f69c-4133-9a60-34922ee06327
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:48:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: tamara_jones@hcpss.org
+field_job_title:
+  -
+    value: Speech
+field_name:
+  -
+    value: 'Tamara Jones'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '93'
+  uuid: 9976421b-f69c-4133-9a60-34922ee06327
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 67
+uuid:
+  -
+    value: 717d6637-11b1-4edb-a523-1188f2c0f2fe
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:06:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: megan_ruffner@hcpss.org
+field_job_title:
+  -
+    value: 'Occupational Therapist'
+field_name:
+  -
+    value: 'Megan Ruffner'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '67'
+  uuid: 717d6637-11b1-4edb-a523-1188f2c0f2fe
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

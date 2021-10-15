@@ -1,0 +1,53 @@
+id:
+  -
+    value: 89
+uuid:
+  -
+    value: 2f4a9649-05a2-449d-91eb-42ba21b3ee1a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:13:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: sejal_desai@hcpss.org
+field_job_title:
+  -
+    value: 'Student Assistant'
+field_name:
+  -
+    value: 'Sejal Desai'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '89'
+  uuid: 2f4a9649-05a2-449d-91eb-42ba21b3ee1a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

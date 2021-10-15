@@ -1,0 +1,53 @@
+id:
+  -
+    value: 29
+uuid:
+  -
+    value: ad8aad2b-fdfd-4b2f-8eb9-36fce8fad87d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:46:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Anglise_Strull@hcpss.org
+field_job_title:
+  -
+    value: 'Cafeteria Manager'
+field_name:
+  -
+    value: 'Anglise Strull'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '29'
+  uuid: ad8aad2b-fdfd-4b2f-8eb9-36fce8fad87d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

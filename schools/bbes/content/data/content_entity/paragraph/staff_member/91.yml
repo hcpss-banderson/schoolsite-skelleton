@@ -1,0 +1,53 @@
+id:
+  -
+    value: 91
+uuid:
+  -
+    value: 28213277-7388-4658-98b6-a6f59e5b658e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '26'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: deborah_polan@hcpss.org
+field_job_title:
+  -
+    value: 'Media Para Educator'
+field_name:
+  -
+    value: 'Deb Polan'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '91'
+  uuid: 28213277-7388-4658-98b6-a6f59e5b658e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 149
+uuid:
+  -
+    value: e3483dbc-4515-4c56-bebf-9a49746426e6
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:24:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '19'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: samer_adnan@hcpss.org
+field_job_title:
+  -
+    value: 'Lunch/Recess Monitor'
+field_name:
+  -
+    value: 'Samer Adnan'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '149'
+  uuid: e3483dbc-4515-4c56-bebf-9a49746426e6
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

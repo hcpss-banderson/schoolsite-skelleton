@@ -1,0 +1,53 @@
+id:
+  -
+    value: 21
+uuid:
+  -
+    value: e2f60d6d-3eec-4236-8be9-adb57e76e9b4
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:52:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: tina_kingren@hcpss.org
+field_job_title:
+  -
+    value: 'Math 7/7th Grade TL'
+field_name:
+  -
+    value: 'Tina Kingren'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '21'
+  uuid: e2f60d6d-3eec-4236-8be9-adb57e76e9b4
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

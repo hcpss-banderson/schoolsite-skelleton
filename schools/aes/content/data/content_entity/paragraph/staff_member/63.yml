@@ -1,0 +1,53 @@
+id:
+  -
+    value: 63
+uuid:
+  -
+    value: 6ce06c6a-35f9-4244-894b-61e16ff68029
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:45:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: carolyn_smalls@hcpss.org
+field_job_title:
+  -
+    value: PE
+field_name:
+  -
+    value: 'Carolyn Smalls'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '63'
+  uuid: 6ce06c6a-35f9-4244-894b-61e16ff68029
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

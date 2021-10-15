@@ -1,0 +1,142 @@
+id:
+  -
+    value: 12
+uuid:
+  -
+    value: 56fa0b91-ebf9-468f-a19e-465c13861005
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:15:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Special Education'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:15:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:15:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 70
+    target_type: paragraph
+  -
+    target_id: 71
+    target_type: paragraph
+  -
+    target_id: 72
+    target_type: paragraph
+  -
+    target_id: 73
+    target_type: paragraph
+  -
+    target_id: 74
+    target_type: paragraph
+  -
+    target_id: 75
+    target_type: paragraph
+  -
+    target_id: 76
+    target_type: paragraph
+  -
+    target_id: 77
+    target_type: paragraph
+  -
+    target_id: 78
+    target_type: paragraph
+  -
+    target_id: 79
+    target_type: paragraph
+  -
+    target_id: 80
+    target_type: paragraph
+  -
+    target_id: 81
+    target_type: paragraph
+  -
+    target_id: 82
+    target_type: paragraph
+  -
+    target_id: 83
+    target_type: paragraph
+  -
+    target_id: 84
+    target_type: paragraph
+  -
+    target_id: 85
+    target_type: paragraph
+  -
+    target_id: 86
+    target_type: paragraph
+  -
+    target_id: 87
+    target_type: paragraph
+  -
+    target_id: 88
+    target_type: paragraph
+  -
+    target_id: 89
+    target_type: paragraph
+  -
+    target_id: 90
+    target_type: paragraph
+  -
+    target_id: 91
+    target_type: paragraph
+  -
+    target_id: 92
+    target_type: paragraph
+  -
+    target_id: 93
+    target_type: paragraph
+  -
+    target_id: 94
+    target_type: paragraph
+  -
+    target_id: 95
+    target_type: paragraph
+  -
+    target_id: 96
+    target_type: paragraph
+  -
+    target_id: 97
+    target_type: paragraph
+  -
+    target_id: 98
+    target_type: paragraph
+  -
+    target_id: 99
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '12'
+  uuid: 56fa0b91-ebf9-468f-a19e-465c13861005
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

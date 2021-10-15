@@ -1,0 +1,53 @@
+id:
+  -
+    value: 27
+uuid:
+  -
+    value: 8f99674e-39d1-456d-a5b1-4e522d180d0a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:50:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: towaya_brown@hcpss.org
+field_job_title:
+  -
+    value: Science
+field_name:
+  -
+    value: 'Towaya Brown'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '27'
+  uuid: 8f99674e-39d1-456d-a5b1-4e522d180d0a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

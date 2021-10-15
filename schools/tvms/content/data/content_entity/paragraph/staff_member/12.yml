@@ -1,0 +1,53 @@
+id:
+  -
+    value: 12
+uuid:
+  -
+    value: 77871a3c-46ed-44aa-8aee-4a4717e53b4b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:02:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Cheryl_Hurbon@hcpss.org
+field_job_title:
+  -
+    value: PPW
+field_name:
+  -
+    value: 'Cheryl Hurbon'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '12'
+  uuid: 77871a3c-46ed-44aa-8aee-4a4717e53b4b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

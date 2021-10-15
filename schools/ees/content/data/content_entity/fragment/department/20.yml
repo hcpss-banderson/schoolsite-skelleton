@@ -1,0 +1,64 @@
+id:
+  -
+    value: 20
+uuid:
+  -
+    value: 70fec810-ceb9-4ca1-9a7d-6ed83b1e6706
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T15:58:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'School Support Team'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:58:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T15:58:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 90
+    target_type: paragraph
+  -
+    target_id: 91
+    target_type: paragraph
+  -
+    target_id: 92
+    target_type: paragraph
+  -
+    target_id: 93
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '20'
+  uuid: 70fec810-ceb9-4ca1-9a7d-6ed83b1e6706
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

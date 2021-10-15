@@ -1,0 +1,53 @@
+id:
+  -
+    value: 14
+uuid:
+  -
+    value: 07f1596d-04af-40f4-86d1-6a10df531e9b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:16:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Lisa_Goldberg@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher (Instructional Team Leader)'
+field_name:
+  -
+    value: 'Lisa Goldberg'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '14'
+  uuid: 07f1596d-04af-40f4-86d1-6a10df531e9b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 12
+uuid:
+  -
+    value: d85c6a36-8da6-4a11-99b1-38e5eb9f1f9a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: diane_cavuoti@hcpss.org
+field_job_title:
+  -
+    value: 'School Counseling Secretary'
+field_name:
+  -
+    value: 'Diane Cavuoti'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '12'
+  uuid: d85c6a36-8da6-4a11-99b1-38e5eb9f1f9a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

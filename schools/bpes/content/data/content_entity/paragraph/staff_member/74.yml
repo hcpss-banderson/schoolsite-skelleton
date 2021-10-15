@@ -1,0 +1,53 @@
+id:
+  -
+    value: 74
+uuid:
+  -
+    value: 3b3814c3-1fbe-47b6-9719-5823cd1c9c3d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:47:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: sharon_upchurch@hcpss.org
+field_job_title:
+  -
+    value: 'RECC Paraeducator'
+field_name:
+  -
+    value: 'Sharon Upchurch'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '74'
+  uuid: 3b3814c3-1fbe-47b6-9719-5823cd1c9c3d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

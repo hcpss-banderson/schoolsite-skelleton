@@ -1,0 +1,124 @@
+id:
+  -
+    value: 15
+uuid:
+  -
+    value: 33c9a527-8ef7-40e0-87b4-02d6cb46234b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:25:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Special Education'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:25:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:25:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 85
+    target_type: paragraph
+  -
+    target_id: 86
+    target_type: paragraph
+  -
+    target_id: 87
+    target_type: paragraph
+  -
+    target_id: 88
+    target_type: paragraph
+  -
+    target_id: 89
+    target_type: paragraph
+  -
+    target_id: 90
+    target_type: paragraph
+  -
+    target_id: 91
+    target_type: paragraph
+  -
+    target_id: 92
+    target_type: paragraph
+  -
+    target_id: 93
+    target_type: paragraph
+  -
+    target_id: 94
+    target_type: paragraph
+  -
+    target_id: 95
+    target_type: paragraph
+  -
+    target_id: 96
+    target_type: paragraph
+  -
+    target_id: 97
+    target_type: paragraph
+  -
+    target_id: 98
+    target_type: paragraph
+  -
+    target_id: 99
+    target_type: paragraph
+  -
+    target_id: 100
+    target_type: paragraph
+  -
+    target_id: 101
+    target_type: paragraph
+  -
+    target_id: 102
+    target_type: paragraph
+  -
+    target_id: 103
+    target_type: paragraph
+  -
+    target_id: 104
+    target_type: paragraph
+  -
+    target_id: 105
+    target_type: paragraph
+  -
+    target_id: 106
+    target_type: paragraph
+  -
+    target_id: 107
+    target_type: paragraph
+  -
+    target_id: 108
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '15'
+  uuid: 33c9a527-8ef7-40e0-87b4-02d6cb46234b
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

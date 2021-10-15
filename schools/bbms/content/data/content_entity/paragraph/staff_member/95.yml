@@ -1,0 +1,53 @@
+id:
+  -
+    value: 95
+uuid:
+  -
+    value: 03a80ad2-2a61-4a0e-91d4-2f287b41f878
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:42:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: anthony_fulmore@hcpss.org
+field_job_title:
+  -
+    value: 'Chief Custodian'
+field_name:
+  -
+    value: 'Anthony Fulmore'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '95'
+  uuid: 03a80ad2-2a61-4a0e-91d4-2f287b41f878
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

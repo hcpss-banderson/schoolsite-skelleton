@@ -1,0 +1,53 @@
+id:
+  -
+    value: 60
+uuid:
+  -
+    value: 29f525da-1f69-44af-b7f1-0f40239ee96b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:52:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: alison_hughes@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Teacher'
+field_name:
+  -
+    value: 'Alison Hughes'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '60'
+  uuid: 29f525da-1f69-44af-b7f1-0f40239ee96b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

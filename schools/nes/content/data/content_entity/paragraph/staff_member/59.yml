@@ -1,0 +1,53 @@
+id:
+  -
+    value: 59
+uuid:
+  -
+    value: df038601-1aa2-4f2d-bee1-9a8b481ccc97
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:12:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jingdong_Hou@hcpss.org
+field_job_title:
+  -
+    value: 'International Achievement Liaison (NES & BSES)'
+field_name:
+  -
+    value: 'Ade, Jingdong Hou'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '59'
+  uuid: df038601-1aa2-4f2d-bee1-9a8b481ccc97
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

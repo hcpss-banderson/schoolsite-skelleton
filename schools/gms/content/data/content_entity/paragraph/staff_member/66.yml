@@ -1,0 +1,51 @@
+id:
+  -
+    value: 66
+uuid:
+  -
+    value: 83c8dd5a-2164-4c47-8b7a-ae308ebe6bef
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:49:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: denise_ervin@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Denise Ervin'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '66'
+  uuid: 83c8dd5a-2164-4c47-8b7a-ae308ebe6bef
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

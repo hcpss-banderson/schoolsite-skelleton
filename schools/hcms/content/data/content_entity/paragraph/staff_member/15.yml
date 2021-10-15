@@ -1,0 +1,53 @@
+id:
+  -
+    value: 15
+uuid:
+  -
+    value: 6427ac03-ba59-4f63-bbdb-579601836c42
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:50:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: charles_tate@hcpss.org
+field_job_title:
+  -
+    value: 'BSAP Liaison'
+field_name:
+  -
+    value: 'Charles Tate'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '15'
+  uuid: 6427ac03-ba59-4f63-bbdb-579601836c42
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

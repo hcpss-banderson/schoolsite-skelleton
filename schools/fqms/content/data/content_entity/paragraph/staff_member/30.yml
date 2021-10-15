@@ -1,0 +1,53 @@
+id:
+  -
+    value: 30
+uuid:
+  -
+    value: 014c0cf1-22f5-4b2c-8325-cca4239e1d7b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:48:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jennifer_speace@hcpss.org
+field_job_title:
+  -
+    value: 'English Language Arts Teacher & 6th Grade Team Leader'
+field_name:
+  -
+    value: 'Mrs. Speace'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '30'
+  uuid: 014c0cf1-22f5-4b2c-8325-cca4239e1d7b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,138 @@
+uuid: f89ea7e1-fa7b-423e-98fd-70951beab414
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.staff_member.field_email
+    - field.field.paragraph.staff_member.field_job_title
+    - field.field.paragraph.staff_member.field_name
+    - field.field.paragraph.staff_member.field_website
+    - paragraphs.paragraphs_type.staff_member
+  module:
+    - field_layout
+    - layout_builder
+    - layout_discovery
+    - link
+third_party_settings:
+  field_layout:
+    id: layout_onecol
+    settings:
+      label: ''
+  layout_builder:
+    enabled: true
+    allow_custom: false
+    sections:
+      -
+        layout_id: layout_onecol
+        layout_settings:
+          label: ''
+        components:
+          57b187bd-1052-4e52-b4d2-e2bd4c91d7f5:
+            uuid: 57b187bd-1052-4e52-b4d2-e2bd4c91d7f5
+            region: content
+            configuration:
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              id: 'field_block:paragraph:staff_member:field_name'
+              formatter:
+                label: above
+                settings:
+                  link_to_entity: false
+                third_party_settings: {  }
+                type: string
+            additional: {  }
+            weight: 0
+          3ecea690-b5eb-47d7-806a-de983dc65f72:
+            uuid: 3ecea690-b5eb-47d7-806a-de983dc65f72
+            region: content
+            configuration:
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              id: 'field_block:paragraph:staff_member:field_job_title'
+              formatter:
+                label: above
+                settings:
+                  link_to_entity: false
+                third_party_settings: {  }
+                type: string
+            additional: {  }
+            weight: 1
+          592e5222-6d3e-41c2-8955-41001dc72ba6:
+            uuid: 592e5222-6d3e-41c2-8955-41001dc72ba6
+            region: content
+            configuration:
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              id: 'field_block:paragraph:staff_member:field_email'
+              formatter:
+                label: above
+                settings: {  }
+                third_party_settings: {  }
+                type: basic_string
+            additional: {  }
+            weight: 2
+          3d654136-bad8-47aa-a9a7-10f9361ac7f1:
+            uuid: 3d654136-bad8-47aa-a9a7-10f9361ac7f1
+            region: content
+            configuration:
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              id: 'field_block:paragraph:staff_member:field_website'
+              formatter:
+                label: above
+                settings:
+                  trim_length: 80
+                  url_only: false
+                  url_plain: false
+                  rel: ''
+                  target: ''
+                third_party_settings: {  }
+                type: link
+            additional: {  }
+            weight: 3
+        third_party_settings: {  }
+id: paragraph.staff_member.default
+targetEntityType: paragraph
+bundle: staff_member
+mode: default
+content:
+  field_email:
+    weight: 2
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: basic_string
+    region: content
+  field_job_title:
+    weight: 1
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    type: string
+    region: content
+  field_name:
+    weight: 0
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    type: string
+    region: content
+  field_website:
+    weight: 3
+    label: above
+    settings:
+      trim_length: 80
+      url_only: false
+      url_plain: false
+      rel: ''
+      target: ''
+    third_party_settings: {  }
+    type: link
+    region: content
+hidden: {  }

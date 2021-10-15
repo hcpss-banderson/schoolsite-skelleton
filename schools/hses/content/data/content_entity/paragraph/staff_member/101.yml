@@ -1,0 +1,53 @@
+id:
+  -
+    value: 101
+uuid:
+  -
+    value: 5e7dd446-842f-4d29-8830-5725a4ae18e1
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:05:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: James_Tomlin@hcpss.org
+field_job_title:
+  -
+    value: 'Building Supervisor'
+field_name:
+  -
+    value: 'James Tomlin'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '101'
+  uuid: 5e7dd446-842f-4d29-8830-5725a4ae18e1
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

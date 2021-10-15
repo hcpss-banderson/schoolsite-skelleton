@@ -1,0 +1,53 @@
+id:
+  -
+    value: 1
+uuid:
+  -
+    value: d5b14cf0-5f9b-47f4-b168-63684be9c951
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:04:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Christopher_Rattay@hcpss.org
+field_job_title:
+  -
+    value: Principal
+field_name:
+  -
+    value: 'Christopher Rattay'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '1'
+  uuid: d5b14cf0-5f9b-47f4-b168-63684be9c951
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

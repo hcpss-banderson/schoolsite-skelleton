@@ -1,0 +1,51 @@
+id:
+  -
+    value: 61
+uuid:
+  -
+    value: 4ad89f03-615d-4baa-b225-708670f0d50d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:09:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: 'Occupational Therapist'
+field_name:
+  -
+    value: 'First Last'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '61'
+  uuid: 4ad89f03-615d-4baa-b225-708670f0d50d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

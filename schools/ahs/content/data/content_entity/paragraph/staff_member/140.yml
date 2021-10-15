@@ -1,0 +1,53 @@
+id:
+  -
+    value: 140
+uuid:
+  -
+    value: a63a4f56-cd28-41d6-b895-099016385b65
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '23'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Nasreen_Aslam@hcpss.org
+field_job_title:
+  -
+    value: 'Student Assistant'
+field_name:
+  -
+    value: 'Nasreen Aslam'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '140'
+  uuid: a63a4f56-cd28-41d6-b895-099016385b65
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

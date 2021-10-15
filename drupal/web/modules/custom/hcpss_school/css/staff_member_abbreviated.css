@@ -1,0 +1,5 @@
+.staff-member-abbreviated .block-layout-builder,
+.staff-member-abbreviated .block-layout-builder .content,
+.staff-member-abbreviated .block-layout-builder .content .field {
+	display: inline;
+}	

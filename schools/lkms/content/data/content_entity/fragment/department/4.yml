@@ -1,0 +1,58 @@
+id:
+  -
+    value: 4
+uuid:
+  -
+    value: 51f3181e-80dd-4ab1-b18e-7e489fe2320d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:54:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Health Services'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:54:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:54:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 12
+    target_type: paragraph
+  -
+    target_id: 13
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '4'
+  uuid: 51f3181e-80dd-4ab1-b18e-7e489fe2320d
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

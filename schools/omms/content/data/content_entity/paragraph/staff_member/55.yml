@@ -1,0 +1,53 @@
+id:
+  -
+    value: 55
+uuid:
+  -
+    value: ab27519f-3964-4e1a-9ca5-2fb3fadd0838
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:59:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: robert_schmidt@hcpss.org
+field_job_title:
+  -
+    value: 'Social Studies/8th Grade'
+field_name:
+  -
+    value: 'Robert Schmidt'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '55'
+  uuid: ab27519f-3964-4e1a-9ca5-2fb3fadd0838
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

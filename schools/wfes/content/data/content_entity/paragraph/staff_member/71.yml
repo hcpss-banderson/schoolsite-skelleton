@@ -1,0 +1,53 @@
+id:
+  -
+    value: 71
+uuid:
+  -
+    value: b0c4c473-d56d-4919-bcb7-a03e3007f5a8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:28:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: maria_cabrera@hcpss.org
+field_job_title:
+  -
+    value: 'Lunch/Recess Monitor'
+field_name:
+  -
+    value: 'Maria Cabrera'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '71'
+  uuid: b0c4c473-d56d-4919-bcb7-a03e3007f5a8
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

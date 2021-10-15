@@ -1,0 +1,53 @@
+id:
+  -
+    value: 59
+uuid:
+  -
+    value: a1660f64-ec62-4e30-b51e-790882c89e12
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:17:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Mark_Hahn@hcpss.org
+field_job_title:
+  -
+    value: 'Adaptive PE'
+field_name:
+  -
+    value: 'Mark Hahn'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '59'
+  uuid: a1660f64-ec62-4e30-b51e-790882c89e12
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

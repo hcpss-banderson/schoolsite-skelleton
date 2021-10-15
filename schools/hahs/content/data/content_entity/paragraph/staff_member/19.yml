@@ -1,0 +1,53 @@
+id:
+  -
+    value: 19
+uuid:
+  -
+    value: e11b2ba7-917e-4c12-a69a-64d4d7dfe609
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:32:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: earin_saunders@hcpss.org
+field_job_title:
+  -
+    value: Coordinator
+field_name:
+  -
+    value: 'Earin Saunders'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '19'
+  uuid: e11b2ba7-917e-4c12-a69a-64d4d7dfe609
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 158
+uuid:
+  -
+    value: 0e5ff6b2-9861-4e24-b985-6ae05f3a5202
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '24'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Maurislyn_Green@hcpss.org
+field_job_title:
+  -
+    value: BSAP
+field_name:
+  -
+    value: 'Maurislyn Green'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '158'
+  uuid: 0e5ff6b2-9861-4e24-b985-6ae05f3a5202
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

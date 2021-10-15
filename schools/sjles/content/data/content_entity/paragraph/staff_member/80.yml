@@ -1,0 +1,51 @@
+id:
+  -
+    value: 80
+uuid:
+  -
+    value: 7a3f2f9d-42d7-4f9e-9725-2357b1d1c8ea
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:20:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: 'Evening Custodian'
+field_name:
+  -
+    value: 'Sullivan Lannon'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '80'
+  uuid: 7a3f2f9d-42d7-4f9e-9725-2357b1d1c8ea
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

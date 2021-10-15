@@ -1,0 +1,53 @@
+id:
+  -
+    value: 72
+uuid:
+  -
+    value: 589e8fdf-1289-47ee-b52c-a3fe275903a0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:46:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: linda_scrivener@hcpss.org
+field_job_title:
+  -
+    value: 'Social Studies Teacher'
+field_name:
+  -
+    value: 'Linda Scrivener'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '72'
+  uuid: 589e8fdf-1289-47ee-b52c-a3fe275903a0
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

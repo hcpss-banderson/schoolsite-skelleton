@@ -1,0 +1,61 @@
+uid:
+  -
+    value: 1
+uuid:
+  -
+    value: c04dc166-1354-4193-a16b-323314a56a93
+langcode:
+  -
+    value: en
+preferred_langcode:
+  -
+    value: en
+preferred_admin_langcode: {  }
+name:
+  -
+    value: admin
+pass:
+  -
+    value: $S$Eq9rdyD.M45uOsgT310eLxyULZvM07bpYUdSD2/cSStscn/0jij5
+    pre_hashed: true
+mail:
+  -
+    value: admin@example.com
+timezone:
+  -
+    value: UTC
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:46:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:46:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+access:
+  -
+    value: '1970-01-01T00:00:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+login:
+  -
+    value: '1970-01-01T00:00:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+init:
+  -
+    value: admin@example.com
+roles: {  }
+default_langcode:
+  -
+    value: true
+user_picture: {  }
+_content_snapshot_metadata:
+  id: '1'
+  uuid: c04dc166-1354-4193-a16b-323314a56a93
+  type: content_entity
+  additional:
+    entity_type: user
+    bundle: user
+    is_translatable: false

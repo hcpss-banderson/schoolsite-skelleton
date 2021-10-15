@@ -1,0 +1,73 @@
+id:
+  -
+    value: 5
+uuid:
+  -
+    value: 9ccc1f70-0c54-4ba8-9772-b2590a5c0a28
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Eighth Grade'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 36
+    target_type: paragraph
+  -
+    target_id: 37
+    target_type: paragraph
+  -
+    target_id: 38
+    target_type: paragraph
+  -
+    target_id: 39
+    target_type: paragraph
+  -
+    target_id: 40
+    target_type: paragraph
+  -
+    target_id: 41
+    target_type: paragraph
+  -
+    target_id: 42
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '5'
+  uuid: 9ccc1f70-0c54-4ba8-9772-b2590a5c0a28
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

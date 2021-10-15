@@ -1,0 +1,53 @@
+id:
+  -
+    value: 70
+uuid:
+  -
+    value: fef18730-a077-4454-acf9-d71186622214
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:06:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: ellen_smith@hcpss.org
+field_job_title:
+  -
+    value: 'Speech/Language Pathologist'
+field_name:
+  -
+    value: 'Ellen Smith'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '70'
+  uuid: fef18730-a077-4454-acf9-d71186622214
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

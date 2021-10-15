@@ -1,0 +1,53 @@
+id:
+  -
+    value: 122
+uuid:
+  -
+    value: b317a1e3-744d-45d2-a4d0-c4ca640bf144
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:34:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: June_Pompei@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'June Pompei'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '122'
+  uuid: b317a1e3-744d-45d2-a4d0-c4ca640bf144
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

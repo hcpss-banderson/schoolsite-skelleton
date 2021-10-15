@@ -1,0 +1,53 @@
+id:
+  -
+    value: 99
+uuid:
+  -
+    value: 60874285-3a99-4bc2-941a-912337071831
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:56:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: mona_dewey@hcpss.org
+field_job_title:
+  -
+    value: 'Food Server'
+field_name:
+  -
+    value: 'Mona Dewey'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '99'
+  uuid: 60874285-3a99-4bc2-941a-912337071831
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

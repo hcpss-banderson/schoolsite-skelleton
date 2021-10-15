@@ -1,0 +1,53 @@
+id:
+  -
+    value: 5
+uuid:
+  -
+    value: ab0327e4-376a-4a60-9ce5-119951095749
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:33:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: napoleon_saunders@hcpss.org
+field_job_title:
+  -
+    value: 'Assistant Principal, Students Last Name H-Mil'
+field_name:
+  -
+    value: 'Napoleon Saunders II'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '5'
+  uuid: ab0327e4-376a-4a60-9ce5-119951095749
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

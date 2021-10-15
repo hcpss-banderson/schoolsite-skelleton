@@ -1,0 +1,53 @@
+id:
+  -
+    value: 49
+uuid:
+  -
+    value: d9492eb1-eca5-4ef6-9cc8-54bff5d97ece
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:00:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Elizabeth_Yeager@hcpss.org
+field_job_title:
+  -
+    value: 'Band Director 0.5'
+field_name:
+  -
+    value: 'Elizabeth Yeager'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '49'
+  uuid: d9492eb1-eca5-4ef6-9cc8-54bff5d97ece
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

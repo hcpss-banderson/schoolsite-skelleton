@@ -1,0 +1,53 @@
+id:
+  -
+    value: 9
+uuid:
+  -
+    value: 0d3b41a9-e58c-4e5c-b343-efca54dd7d04
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:52:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: lisa_carter@hcpss.org
+field_job_title:
+  -
+    value: 'School Psychologist'
+field_name:
+  -
+    value: 'Lisa Carter'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '9'
+  uuid: 0d3b41a9-e58c-4e5c-b343-efca54dd7d04
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

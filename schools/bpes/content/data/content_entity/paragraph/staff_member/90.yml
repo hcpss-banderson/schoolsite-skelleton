@@ -1,0 +1,53 @@
+id:
+  -
+    value: 90
+uuid:
+  -
+    value: e7c5f0fa-5300-4350-9f32-9e751fe3f419
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:47:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: heidi_shoemaker-burnett@hcpss.org
+field_job_title:
+  -
+    value: 'Co-Instructional Team Leader'
+field_name:
+  -
+    value: 'Heidi Shoemaker-Burnett'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '90'
+  uuid: e7c5f0fa-5300-4350-9f32-9e751fe3f419
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

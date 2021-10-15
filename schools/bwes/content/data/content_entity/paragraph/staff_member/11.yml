@@ -1,0 +1,53 @@
+id:
+  -
+    value: 11
+uuid:
+  -
+    value: 43478b12-6b3d-4607-9a5c-7005b62560b3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:50:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jessica_Hennessey@hcpss.org
+field_job_title:
+  -
+    value: '.5 RECC / .5 K Paraeducator'
+field_name:
+  -
+    value: 'Jessica Hennessey'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '11'
+  uuid: 43478b12-6b3d-4607-9a5c-7005b62560b3
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

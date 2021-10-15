@@ -1,0 +1,53 @@
+id:
+  -
+    value: 79
+uuid:
+  -
+    value: a747cc1d-9f6a-43fa-bd12-4505464caad2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:13:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kimberly_vonstein@hcpss.org
+field_job_title:
+  -
+    value: 'Reading Teacher'
+field_name:
+  -
+    value: 'Kim Von Stein'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '79'
+  uuid: a747cc1d-9f6a-43fa-bd12-4505464caad2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

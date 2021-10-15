@@ -1,0 +1,53 @@
+id:
+  -
+    value: 56
+uuid:
+  -
+    value: 68ce3eff-e639-4af3-a5ac-5a5bcda9f9ef
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:13:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Lucy_Mendez@hcpss.org
+field_job_title:
+  -
+    value: 'Classroom Teacher'
+field_name:
+  -
+    value: 'Lucy Mendez'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '56'
+  uuid: 68ce3eff-e639-4af3-a5ac-5a5bcda9f9ef
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

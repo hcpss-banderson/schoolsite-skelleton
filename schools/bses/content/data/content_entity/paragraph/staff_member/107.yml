@@ -1,0 +1,53 @@
+id:
+  -
+    value: 107
+uuid:
+  -
+    value: 29c5fc65-6e59-4024-8145-74e44a4bd1c2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:48:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: ginny_olson@hcpss.org
+field_job_title:
+  -
+    value: '.5 ESOL'
+field_name:
+  -
+    value: 'Ginny Olson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '107'
+  uuid: 29c5fc65-6e59-4024-8145-74e44a4bd1c2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

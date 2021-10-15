@@ -1,0 +1,53 @@
+id:
+  -
+    value: 173
+uuid:
+  -
+    value: 714d83e5-f690-4a86-8280-0a972511a1cd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:35:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '28'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Laurie_Daman@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher for the Deaf/Hard of Hearing'
+field_name:
+  -
+    value: 'Laurie Daman'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '173'
+  uuid: 714d83e5-f690-4a86-8280-0a972511a1cd
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 114
+uuid:
+  -
+    value: 607a707f-9b42-401f-8043-4f2be602223c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '31'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Tatiana_Pham@hcpss.org
+field_job_title:
+  -
+    value: 'Hispanic Achievement Liaison'
+field_name:
+  -
+    value: 'Tatiana Pham'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '114'
+  uuid: 607a707f-9b42-401f-8043-4f2be602223c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

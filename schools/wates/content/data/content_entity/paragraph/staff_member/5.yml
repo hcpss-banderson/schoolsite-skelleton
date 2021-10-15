@@ -1,0 +1,53 @@
+id:
+  -
+    value: 5
+uuid:
+  -
+    value: 59bd5d8e-fb78-48e8-8609-be39df2a81b0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:25:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Karen_Visco@hcpss.org
+field_job_title:
+  -
+    value: 'Principal Secretary'
+field_name:
+  -
+    value: 'Karen Visco'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '5'
+  uuid: 59bd5d8e-fb78-48e8-8609-be39df2a81b0
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

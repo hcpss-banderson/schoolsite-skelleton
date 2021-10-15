@@ -1,0 +1,53 @@
+id:
+  -
+    value: 56
+uuid:
+  -
+    value: 220634c1-4a6b-4ab3-b3f4-77a21ad82fcc
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:59:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Amy_Ciliberti@hcpss.org
+field_job_title:
+  -
+    value: 'Technology Resource Teacher'
+field_name:
+  -
+    value: 'Mrs. Ciliberti'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '56'
+  uuid: 220634c1-4a6b-4ab3-b3f4-77a21ad82fcc
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

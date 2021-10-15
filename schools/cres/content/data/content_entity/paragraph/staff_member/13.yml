@@ -1,0 +1,53 @@
+id:
+  -
+    value: 13
+uuid:
+  -
+    value: ee9f0b8b-3043-4287-856d-2604f56d6058
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:54:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: denetta_quintin@hcpss.org
+field_job_title:
+  -
+    value: '.5 Pre-K Paraeducator'
+field_name:
+  -
+    value: 'Denetta Quintin'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '13'
+  uuid: ee9f0b8b-3043-4287-856d-2604f56d6058
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

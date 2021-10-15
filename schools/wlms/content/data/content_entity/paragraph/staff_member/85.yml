@@ -1,0 +1,53 @@
+id:
+  -
+    value: 85
+uuid:
+  -
+    value: 41396578-c70c-4264-8ccf-ab8b0838f7e8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:04:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kathleen_newberry1@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Kathleen Newberry'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '85'
+  uuid: 41396578-c70c-4264-8ccf-ab8b0838f7e8
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

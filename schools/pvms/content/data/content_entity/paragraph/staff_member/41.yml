@@ -1,0 +1,53 @@
+id:
+  -
+    value: 41
+uuid:
+  -
+    value: a70e9dfe-7ecb-4865-b8be-d794c4ca5b81
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: rudy_thompson@hcpss.org
+field_job_title:
+  -
+    value: Mathematics
+field_name:
+  -
+    value: 'Rudy Thompson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '41'
+  uuid: a70e9dfe-7ecb-4865-b8be-d794c4ca5b81
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

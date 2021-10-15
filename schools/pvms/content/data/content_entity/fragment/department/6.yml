@@ -1,0 +1,88 @@
+id:
+  -
+    value: 6
+uuid:
+  -
+    value: 49c63d2e-b2d6-4499-9e76-0f3bb3d815f6
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Applied Academics Team'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 43
+    target_type: paragraph
+  -
+    target_id: 44
+    target_type: paragraph
+  -
+    target_id: 45
+    target_type: paragraph
+  -
+    target_id: 46
+    target_type: paragraph
+  -
+    target_id: 47
+    target_type: paragraph
+  -
+    target_id: 48
+    target_type: paragraph
+  -
+    target_id: 49
+    target_type: paragraph
+  -
+    target_id: 50
+    target_type: paragraph
+  -
+    target_id: 51
+    target_type: paragraph
+  -
+    target_id: 52
+    target_type: paragraph
+  -
+    target_id: 53
+    target_type: paragraph
+  -
+    target_id: 54
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '6'
+  uuid: 49c63d2e-b2d6-4499-9e76-0f3bb3d815f6
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

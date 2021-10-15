@@ -1,0 +1,53 @@
+id:
+  -
+    value: 106
+uuid:
+  -
+    value: 17c0c8c1-cdf4-4523-a4d1-6c5db384c642
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:02:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Sheila_Jones-Wagner@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Paraeducator'
+field_name:
+  -
+    value: 'Sheila Jones-Wagner'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '106'
+  uuid: 17c0c8c1-cdf4-4523-a4d1-6c5db384c642
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

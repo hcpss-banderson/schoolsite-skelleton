@@ -1,0 +1,53 @@
+id:
+  -
+    value: 5
+uuid:
+  -
+    value: 5bb1875d-ab5a-4187-bdfb-b55723e41098
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:50:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jomika_Tatum@hcpss.org
+field_job_title:
+  -
+    value: '.5 Secretary'
+field_name:
+  -
+    value: 'Jomika Tatum'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '5'
+  uuid: 5bb1875d-ab5a-4187-bdfb-b55723e41098
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

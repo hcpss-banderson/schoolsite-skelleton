@@ -1,0 +1,51 @@
+id:
+  -
+    value: 104
+uuid:
+  -
+    value: a5bb20d2-ee65-4c72-8a23-de571824bafb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:16:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Vivian_Schafer@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Vivian Schafer'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '104'
+  uuid: a5bb20d2-ee65-4c72-8a23-de571824bafb
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 150
+uuid:
+  -
+    value: 1741f9f1-27a9-4b16-8959-15fdfe6618aa
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '23'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: laura_holderman@hcpss.org
+field_job_title:
+  -
+    value: 'Food Service Manager'
+field_name:
+  -
+    value: 'Laura Holderman'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '150'
+  uuid: 1741f9f1-27a9-4b16-8959-15fdfe6618aa
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 17
+uuid:
+  -
+    value: 026ea475-af23-4bfc-b31a-731e212f8e7f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:00:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jennifer_Meikrantz@hcpss.org
+field_job_title:
+  -
+    value: 'Math, 6th Grade Team Leader'
+field_name:
+  -
+    value: 'Jennifer Meikrantz'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '17'
+  uuid: 026ea475-af23-4bfc-b31a-731e212f8e7f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

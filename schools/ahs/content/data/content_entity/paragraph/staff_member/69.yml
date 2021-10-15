@@ -1,0 +1,53 @@
+id:
+  -
+    value: 69
+uuid:
+  -
+    value: 082ffb3f-5e92-451d-9460-23508b3dc02b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Monique_Gillis@hcpss.org
+field_job_title:
+  -
+    value: 'Media Specialist'
+field_name:
+  -
+    value: 'Monique Gillis'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '69'
+  uuid: 082ffb3f-5e92-451d-9460-23508b3dc02b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 31
+uuid:
+  -
+    value: fcddfcff-0de4-4e4c-877a-6c8360335f0e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: emily_johnson@hcpss.org
+field_job_title:
+  -
+    value: 'Special Educator'
+field_name:
+  -
+    value: 'Emily Johnson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '31'
+  uuid: fcddfcff-0de4-4e4c-877a-6c8360335f0e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,51 @@
+id:
+  -
+    value: 27
+uuid:
+  -
+    value: 85e905f7-d0a8-4c5c-86a2-6b501d59bedd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:42:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: 'Day Supervisor'
+field_name:
+  -
+    value: 'Derrick Burks'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '27'
+  uuid: 85e905f7-d0a8-4c5c-86a2-6b501d59bedd
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

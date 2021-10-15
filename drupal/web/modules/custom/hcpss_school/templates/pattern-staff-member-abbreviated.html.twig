@@ -1,0 +1,12 @@
+<div class="staff-member-abbreviated">
+  {{ name }} 
+  {% if title|first['content']|field_value %}
+    | {{ title }}
+  {% endif %}
+  {% if email|first['content']|field_value %}
+    | <a href="mailto:{{ email|first['content']|field_value }}">{{ email|first['content']|field_value }}</a>
+  {% endif %}
+  {% if website|first['content']|field_value %}
+    | {{ website }}
+  {% endif %}
+</div>

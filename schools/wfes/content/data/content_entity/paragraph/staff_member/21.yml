@@ -1,0 +1,53 @@
+id:
+  -
+    value: 21
+uuid:
+  -
+    value: c6a4ce96-9ad4-407a-b331-2a06f9ba34ae
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:28:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: katherine_baur@hcpss.org
+field_job_title:
+  -
+    value: 'Paraeducator (Grades 1 & 2)'
+field_name:
+  -
+    value: 'Kathy Baur'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '21'
+  uuid: c6a4ce96-9ad4-407a-b331-2a06f9ba34ae
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

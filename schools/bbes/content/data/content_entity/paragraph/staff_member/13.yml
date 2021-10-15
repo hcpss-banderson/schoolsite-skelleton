@@ -1,0 +1,53 @@
+id:
+  -
+    value: 13
+uuid:
+  -
+    value: d271c4be-3b73-43c5-9c75-cc65b8baeb26
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: luz_del_valle_sanchez@hcpss.org
+field_job_title:
+  -
+    value: 'Cluster Nurse'
+field_name:
+  -
+    value: 'Luz del Valle Sanchez'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '13'
+  uuid: d271c4be-3b73-43c5-9c75-cc65b8baeb26
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

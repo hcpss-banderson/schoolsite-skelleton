@@ -1,0 +1,103 @@
+id:
+  -
+    value: 10
+uuid:
+  -
+    value: 61843e2a-8a23-4d8a-9a19-0ba00c29a0e3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: English
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 25
+    target_type: paragraph
+  -
+    target_id: 26
+    target_type: paragraph
+  -
+    target_id: 27
+    target_type: paragraph
+  -
+    target_id: 28
+    target_type: paragraph
+  -
+    target_id: 29
+    target_type: paragraph
+  -
+    target_id: 30
+    target_type: paragraph
+  -
+    target_id: 31
+    target_type: paragraph
+  -
+    target_id: 32
+    target_type: paragraph
+  -
+    target_id: 33
+    target_type: paragraph
+  -
+    target_id: 34
+    target_type: paragraph
+  -
+    target_id: 35
+    target_type: paragraph
+  -
+    target_id: 36
+    target_type: paragraph
+  -
+    target_id: 37
+    target_type: paragraph
+  -
+    target_id: 38
+    target_type: paragraph
+  -
+    target_id: 39
+    target_type: paragraph
+  -
+    target_id: 40
+    target_type: paragraph
+  -
+    target_id: 41
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '10'
+  uuid: 61843e2a-8a23-4d8a-9a19-0ba00c29a0e3
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

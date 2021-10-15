@@ -1,0 +1,53 @@
+id:
+  -
+    value: 77
+uuid:
+  -
+    value: 083f416e-c032-4c83-a2f3-fc89cd3661be
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:09:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Yon_Berezin@hcpss.org
+field_job_title:
+  -
+    value: 'Alternative Education'
+field_name:
+  -
+    value: 'Yon Berezin'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '77'
+  uuid: 083f416e-c032-4c83-a2f3-fc89cd3661be
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

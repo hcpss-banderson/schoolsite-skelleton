@@ -1,0 +1,53 @@
+id:
+  -
+    value: 69
+uuid:
+  -
+    value: 1e671a75-db63-4789-a290-c349ed73b7d8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:13:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: isaac_clark@hcpss.org
+field_job_title:
+  -
+    value: 'Title I Point of Contact'
+field_name:
+  -
+    value: 'Isaac Clark'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '69'
+  uuid: 1e671a75-db63-4789-a290-c349ed73b7d8
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

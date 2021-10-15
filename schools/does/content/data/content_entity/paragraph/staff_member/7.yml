@@ -1,0 +1,53 @@
+id:
+  -
+    value: 7
+uuid:
+  -
+    value: 9eb25d82-16c2-42c6-a4da-a71d0d5445fc
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:56:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: christina_borgfeld@hcpss.org
+field_job_title:
+  -
+    value: 'MINC PK'
+field_name:
+  -
+    value: 'Christina Borgfeld'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '7'
+  uuid: 9eb25d82-16c2-42c6-a4da-a71d0d5445fc
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

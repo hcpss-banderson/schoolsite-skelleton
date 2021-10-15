@@ -1,0 +1,53 @@
+id:
+  -
+    value: 109
+uuid:
+  -
+    value: af47ac62-b7a6-481d-9fbb-39c15e0ca7f0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:33:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Erika_Wunderlich-Hite@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Erika Wunderlich-Hite'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '109'
+  uuid: af47ac62-b7a6-481d-9fbb-39c15e0ca7f0
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

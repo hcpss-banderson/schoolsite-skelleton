@@ -1,0 +1,53 @@
+id:
+  -
+    value: 60
+uuid:
+  -
+    value: 1312d9ae-cfb6-45ec-a19b-d86d0bc8d06c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:02:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Katie_Herbst@hcpss.org
+field_job_title:
+  -
+    value: Math
+field_name:
+  -
+    value: 'Katie Herbst'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '60'
+  uuid: 1312d9ae-cfb6-45ec-a19b-d86d0bc8d06c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

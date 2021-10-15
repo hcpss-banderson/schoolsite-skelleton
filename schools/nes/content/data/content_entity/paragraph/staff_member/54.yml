@@ -1,0 +1,53 @@
+id:
+  -
+    value: 54
+uuid:
+  -
+    value: cc13a198-133b-4ca9-b08a-05a301fe4f0d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:12:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Yaw_Wiafe@hcpss.org
+field_job_title:
+  -
+    value: 'Evening Custodian'
+field_name:
+  -
+    value: 'Yaw Wiafe'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '54'
+  uuid: cc13a198-133b-4ca9-b08a-05a301fe4f0d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

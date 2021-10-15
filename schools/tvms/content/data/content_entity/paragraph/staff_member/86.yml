@@ -1,0 +1,53 @@
+id:
+  -
+    value: 86
+uuid:
+  -
+    value: 3fb6fa8b-e27f-40e3-82a2-c85452835657
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:02:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Caitlin_Burns@hcpss.org
+field_job_title:
+  -
+    value: 'Reading Specialist, Modules'
+field_name:
+  -
+    value: 'Caitlin Burns'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '86'
+  uuid: 3fb6fa8b-e27f-40e3-82a2-c85452835657
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

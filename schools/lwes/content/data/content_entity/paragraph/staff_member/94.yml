@@ -1,0 +1,53 @@
+id:
+  -
+    value: 94
+uuid:
+  -
+    value: 3e879a55-d264-4770-8ace-379ce4cb2f5a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:10:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: lisa_bennett@hcpss.org
+field_job_title:
+  -
+    value: 'Physical Therapist'
+field_name:
+  -
+    value: 'Lisa Bennett'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '94'
+  uuid: 3e879a55-d264-4770-8ace-379ce4cb2f5a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 102
+uuid:
+  -
+    value: cd4a92bf-a9cf-4260-951d-b156fa63ca4b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:44:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '18'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kisha_Parris_Jacques@hcpss.org
+field_job_title:
+  -
+    value: 'School Mental Health Therapist'
+field_name:
+  -
+    value: 'Kisha Parris'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '102'
+  uuid: cd4a92bf-a9cf-4260-951d-b156fa63ca4b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

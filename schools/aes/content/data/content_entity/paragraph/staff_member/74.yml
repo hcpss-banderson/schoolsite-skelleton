@@ -1,0 +1,53 @@
+id:
+  -
+    value: 74
+uuid:
+  -
+    value: e5fd45f9-cdf6-42f3-b5ac-56603e96917f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:45:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: chemere_thompson@hcpss.org
+field_job_title:
+  -
+    value: 'Paraeducator Media'
+field_name:
+  -
+    value: 'Chemere Thompson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '74'
+  uuid: e5fd45f9-cdf6-42f3-b5ac-56603e96917f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

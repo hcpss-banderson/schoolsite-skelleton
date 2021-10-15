@@ -1,0 +1,53 @@
+id:
+  -
+    value: 20
+uuid:
+  -
+    value: f11d9854-afc6-4dd1-a99b-71107f6d3612
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:02:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jessica_Bronson@hcpss.org
+field_job_title:
+  -
+    value: Math/Science
+field_name:
+  -
+    value: 'Jessica Bronson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '20'
+  uuid: f11d9854-afc6-4dd1-a99b-71107f6d3612
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

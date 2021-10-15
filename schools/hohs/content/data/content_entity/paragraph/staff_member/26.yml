@@ -1,0 +1,53 @@
+id:
+  -
+    value: 26
+uuid:
+  -
+    value: 9405c6ab-8701-4bd5-80d3-184aa9242b2d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:33:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: heather_mccann@hcpss.org
+field_job_title:
+  -
+    value: 'Registrar Serving students with last name L-Z'
+field_name:
+  -
+    value: 'Heather McCann'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '26'
+  uuid: 9405c6ab-8701-4bd5-80d3-184aa9242b2d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

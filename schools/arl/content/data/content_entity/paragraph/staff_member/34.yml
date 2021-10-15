@@ -1,0 +1,53 @@
+id:
+  -
+    value: 34
+uuid:
+  -
+    value: 296f3ef5-46a8-4214-b750-3c6db36a3b1d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:41:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: keith_artley@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Keith Artley'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '34'
+  uuid: 296f3ef5-46a8-4214-b750-3c6db36a3b1d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

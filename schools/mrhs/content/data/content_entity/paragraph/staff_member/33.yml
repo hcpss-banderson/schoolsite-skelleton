@@ -1,0 +1,51 @@
+id:
+  -
+    value: 33
+uuid:
+  -
+    value: 9a4d3fcb-c887-4f4a-86e9-d4ca6f1d080d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:36:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jennifer_majewski@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Jennifer Majewski'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '33'
+  uuid: 9a4d3fcb-c887-4f4a-86e9-d4ca6f1d080d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

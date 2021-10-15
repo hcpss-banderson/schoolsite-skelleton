@@ -1,0 +1,53 @@
+id:
+  -
+    value: 27
+uuid:
+  -
+    value: 842c59b6-96fc-4a89-88be-a733470d9361
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:45:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: daniel_blue@hcpss.org
+field_job_title:
+  -
+    value: 'Science 7,8'
+field_name:
+  -
+    value: 'Dan Blue'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '27'
+  uuid: 842c59b6-96fc-4a89-88be-a733470d9361
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

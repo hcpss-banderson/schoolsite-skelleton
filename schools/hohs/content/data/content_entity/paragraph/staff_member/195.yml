@@ -1,0 +1,53 @@
+id:
+  -
+    value: 195
+uuid:
+  -
+    value: f50cbb8d-5b94-45f3-ad38-cd4b8dcaea85
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:33:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '25'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Yvonne_Reichlin@hcpss.org
+field_job_title:
+  -
+    value: 'Food Service Worker'
+field_name:
+  -
+    value: 'Yvonne Reichlin'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '195'
+  uuid: f50cbb8d-5b94-45f3-ad38-cd4b8dcaea85
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

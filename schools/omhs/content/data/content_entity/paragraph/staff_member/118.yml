@@ -1,0 +1,51 @@
+id:
+  -
+    value: 118
+uuid:
+  -
+    value: 605862c6-0fe9-452d-beb5-94669e95676b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '19'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: paula_murphy@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Paula Murphy'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '118'
+  uuid: 605862c6-0fe9-452d-beb5-94669e95676b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

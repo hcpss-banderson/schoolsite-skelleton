@@ -1,0 +1,53 @@
+id:
+  -
+    value: 45
+uuid:
+  -
+    value: 4e74017a-5cdc-44d1-936d-a58ce4c411d9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:02:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Robert_Stimmel@hcpss.org
+field_job_title:
+  -
+    value: Science
+field_name:
+  -
+    value: 'Robert Stimmel'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '45'
+  uuid: 4e74017a-5cdc-44d1-936d-a58ce4c411d9
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

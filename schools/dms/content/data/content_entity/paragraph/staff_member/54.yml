@@ -1,0 +1,53 @@
+id:
+  -
+    value: 54
+uuid:
+  -
+    value: 4a49b375-474b-4db9-ba3b-1e37561ef3ef
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:45:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: rachel_brewer@hcpss.org
+field_job_title:
+  -
+    value: 'ALS Teacher'
+field_name:
+  -
+    value: 'Rachel Brewer'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '54'
+  uuid: 4a49b375-474b-4db9-ba3b-1e37561ef3ef
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

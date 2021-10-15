@@ -1,0 +1,53 @@
+id:
+  -
+    value: 61
+uuid:
+  -
+    value: 1a837d64-c0dd-4a3e-9656-24a6a6865b9c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:36:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jennifer_clarkin@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, Instructional Team Leader'
+field_name:
+  -
+    value: 'Jennifer Clarkin'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '61'
+  uuid: 1a837d64-c0dd-4a3e-9656-24a6a6865b9c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

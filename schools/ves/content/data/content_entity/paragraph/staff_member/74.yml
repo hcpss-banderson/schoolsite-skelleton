@@ -1,0 +1,53 @@
+id:
+  -
+    value: 74
+uuid:
+  -
+    value: 5009e1ba-fdbb-45b0-b088-0ba1fb5b8e76
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:24:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: carolee_kinloch@hcpss.org
+field_job_title:
+  -
+    value: 'Media Specialist'
+field_name:
+  -
+    value: 'Carolee Kinloch'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '74'
+  uuid: 5009e1ba-fdbb-45b0-b088-0ba1fb5b8e76
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

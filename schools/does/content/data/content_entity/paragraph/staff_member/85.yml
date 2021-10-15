@@ -1,0 +1,53 @@
+id:
+  -
+    value: 85
+uuid:
+  -
+    value: e8b4e46a-753b-4551-8339-c8500ed8f659
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:56:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Debra_dickstein@hcpss.org
+field_job_title:
+  -
+    value: 'Grade Three'
+field_name:
+  -
+    value: 'Debby Dickstein'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '85'
+  uuid: e8b4e46a-753b-4551-8339-c8500ed8f659
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

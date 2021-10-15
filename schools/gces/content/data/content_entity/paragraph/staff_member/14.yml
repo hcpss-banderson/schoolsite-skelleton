@@ -1,0 +1,53 @@
+id:
+  -
+    value: 14
+uuid:
+  -
+    value: a36bfdc3-5e27-428f-b51a-9d62bfaedf8b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:13:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: paula_livingston@hcpss.org
+field_job_title:
+  -
+    value: 'Early Intervention Specialist'
+field_name:
+  -
+    value: 'Paula Livingston'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '14'
+  uuid: a36bfdc3-5e27-428f-b51a-9d62bfaedf8b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

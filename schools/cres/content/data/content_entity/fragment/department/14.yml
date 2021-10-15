@@ -1,0 +1,61 @@
+id:
+  -
+    value: 14
+uuid:
+  -
+    value: fa980b52-359c-436b-8ca7-2079fa995247
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T15:54:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Reading Support'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:54:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T15:54:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 58
+    target_type: paragraph
+  -
+    target_id: 59
+    target_type: paragraph
+  -
+    target_id: 60
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '14'
+  uuid: fa980b52-359c-436b-8ca7-2079fa995247
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

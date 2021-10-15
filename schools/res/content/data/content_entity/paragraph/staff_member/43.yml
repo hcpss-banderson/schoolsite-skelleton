@@ -1,0 +1,53 @@
+id:
+  -
+    value: 43
+uuid:
+  -
+    value: 339ad52c-68b5-4b0e-a9c0-b400578b6c45
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:17:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Sara_Weiser@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher - Team Leader'
+field_name:
+  -
+    value: 'Ms. Weiser'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '43'
+  uuid: 339ad52c-68b5-4b0e-a9c0-b400578b6c45
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

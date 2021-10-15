@@ -1,0 +1,53 @@
+id:
+  -
+    value: 21
+uuid:
+  -
+    value: e34d4610-9c05-4c45-bfcc-2c446ce14840
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:54:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Michael_Baird@hcpss.org
+field_job_title:
+  -
+    value: 'English Language Arts'
+field_name:
+  -
+    value: 'Michael Baird'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '21'
+  uuid: e34d4610-9c05-4c45-bfcc-2c446ce14840
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

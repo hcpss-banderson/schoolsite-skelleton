@@ -1,0 +1,53 @@
+id:
+  -
+    value: 105
+uuid:
+  -
+    value: 06ec9ef1-245b-4b6e-a6af-4a4ad7baffd7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:55:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '20'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Christopher_Wagner@hcpss.org
+field_job_title:
+  -
+    value: 'General Music Teacher'
+field_name:
+  -
+    value: 'Christopher (Han) Wagner'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '105'
+  uuid: 06ec9ef1-245b-4b6e-a6af-4a4ad7baffd7
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

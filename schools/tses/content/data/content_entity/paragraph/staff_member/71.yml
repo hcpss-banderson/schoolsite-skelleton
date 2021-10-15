@@ -1,0 +1,53 @@
+id:
+  -
+    value: 71
+uuid:
+  -
+    value: 9b07f9ac-2e9c-429e-856a-dcbf2c68c897
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:23:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: rosheeda_brooks-samuel@hcpss.org
+field_job_title:
+  -
+    value: 'Math Specialist'
+field_name:
+  -
+    value: 'Rosheeda Brooks-Samuel'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '71'
+  uuid: 9b07f9ac-2e9c-429e-856a-dcbf2c68c897
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

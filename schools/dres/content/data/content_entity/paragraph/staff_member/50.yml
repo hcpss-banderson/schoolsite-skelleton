@@ -1,0 +1,53 @@
+id:
+  -
+    value: 50
+uuid:
+  -
+    value: 8f1c8070-1170-4792-b8f2-4e7ef8147f04
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:57:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kelly_granata@hcpss.org
+field_job_title:
+  -
+    value: '1st Grade Teacher'
+field_name:
+  -
+    value: 'Kelly Granata'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '50'
+  uuid: 8f1c8070-1170-4792-b8f2-4e7ef8147f04
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

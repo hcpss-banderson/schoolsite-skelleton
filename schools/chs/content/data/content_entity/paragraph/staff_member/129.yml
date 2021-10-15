@@ -1,0 +1,53 @@
+id:
+  -
+    value: 129
+uuid:
+  -
+    value: b2708c71-fe9f-40bf-8340-a32ce55918aa
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:30:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '22'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: irene_khaksari@hcpss.org
+field_job_title:
+  -
+    value: 'School Counselor, (Sh-Z)'
+field_name:
+  -
+    value: 'Irene Khaksari'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '129'
+  uuid: b2708c71-fe9f-40bf-8340-a32ce55918aa
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

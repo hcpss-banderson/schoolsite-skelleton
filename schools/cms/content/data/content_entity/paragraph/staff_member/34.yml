@@ -1,0 +1,53 @@
+id:
+  -
+    value: 34
+uuid:
+  -
+    value: 74e0fb6e-9a5a-4bd6-9f52-a9ba17101d0c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:44:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: catherine_mcnees@hcpss.org
+field_job_title:
+  -
+    value: ELA
+field_name:
+  -
+    value: 'Cathi McNees'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '34'
+  uuid: 74e0fb6e-9a5a-4bd6-9f52-a9ba17101d0c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

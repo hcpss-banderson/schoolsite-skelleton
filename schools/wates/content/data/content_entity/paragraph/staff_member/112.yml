@@ -1,0 +1,51 @@
+id:
+  -
+    value: 112
+uuid:
+  -
+    value: ff5bfabd-6e59-4cf3-a1bf-72d79e4b0343
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:25:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: 'Night Supervisor'
+field_name:
+  -
+    value: 'Theo Manukure'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '112'
+  uuid: ff5bfabd-6e59-4cf3-a1bf-72d79e4b0343
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

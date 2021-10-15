@@ -1,0 +1,51 @@
+id:
+  -
+    value: 81
+uuid:
+  -
+    value: 1b0d0c0e-c1e2-43bf-81a6-c2ad3c33fa51
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kelly_Wester@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Kelly Wester'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '81'
+  uuid: 1b0d0c0e-c1e2-43bf-81a6-c2ad3c33fa51
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

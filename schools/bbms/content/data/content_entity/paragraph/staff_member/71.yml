@@ -1,0 +1,53 @@
+id:
+  -
+    value: 71
+uuid:
+  -
+    value: e55fedaf-31f5-41c4-96ae-d12959fb5506
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:42:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: hannah_kaufman@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Team Leader'
+field_name:
+  -
+    value: 'Hannah Kaufman'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '71'
+  uuid: e55fedaf-31f5-41c4-96ae-d12959fb5506
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

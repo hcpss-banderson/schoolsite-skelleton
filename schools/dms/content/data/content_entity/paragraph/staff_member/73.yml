@@ -1,0 +1,53 @@
+id:
+  -
+    value: 73
+uuid:
+  -
+    value: fe360de0-b485-429b-91a8-b47ced871677
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:45:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: mikhled_alabbadi@hcpss.org
+field_job_title:
+  -
+    value: Cafeteria
+field_name:
+  -
+    value: 'Mikhled Alabbadi'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '73'
+  uuid: fe360de0-b485-429b-91a8-b47ced871677
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

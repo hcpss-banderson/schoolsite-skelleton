@@ -1,0 +1,53 @@
+id:
+  -
+    value: 34
+uuid:
+  -
+    value: d5cd8286-eace-45ee-a1aa-e185c98824fa
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:56:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: nicole_fernandes@hcpss.org
+field_job_title:
+  -
+    value: English
+field_name:
+  -
+    value: 'Nicole Fernandes'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '34'
+  uuid: d5cd8286-eace-45ee-a1aa-e185c98824fa
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

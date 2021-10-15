@@ -1,0 +1,53 @@
+id:
+  -
+    value: 74
+uuid:
+  -
+    value: e09a5dba-9885-40e4-901c-bf0e3f2bb5ae
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:53:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jeremy_rea@hcpss.org
+field_job_title:
+  -
+    value: 'Choral and General Music Teacher'
+field_name:
+  -
+    value: 'Jeremy Rea'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '74'
+  uuid: e09a5dba-9885-40e4-901c-bf0e3f2bb5ae
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

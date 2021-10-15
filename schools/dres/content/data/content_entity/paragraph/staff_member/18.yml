@@ -1,0 +1,53 @@
+id:
+  -
+    value: 18
+uuid:
+  -
+    value: 46e41eef-3428-4949-8c31-84fe3bff9645
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:57:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Glenna_Deekle@hcpss.org
+field_job_title:
+  -
+    value: 'Family Involvement Contact'
+field_name:
+  -
+    value: 'Glenna Deekle'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '18'
+  uuid: 46e41eef-3428-4949-8c31-84fe3bff9645
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

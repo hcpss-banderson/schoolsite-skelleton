@@ -1,0 +1,53 @@
+id:
+  -
+    value: 41
+uuid:
+  -
+    value: 92160537-1817-47c6-9f48-f5a4c59068e1
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:42:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: nancy_duke@hcpss.org
+field_job_title:
+  -
+    value: 'Seventh and Eighth Grade ELA Teacher, English Team Leader'
+field_name:
+  -
+    value: 'Nancy Duke'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '41'
+  uuid: 92160537-1817-47c6-9f48-f5a4c59068e1
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 98
+uuid:
+  -
+    value: 2410081f-a114-439d-aaee-0b54f2ecd91b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:56:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: laurie_metzler@hcpss.org
+field_job_title:
+  -
+    value: 'Cafeteria Manager'
+field_name:
+  -
+    value: 'Laurie Metzler'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '98'
+  uuid: 2410081f-a114-439d-aaee-0b54f2ecd91b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

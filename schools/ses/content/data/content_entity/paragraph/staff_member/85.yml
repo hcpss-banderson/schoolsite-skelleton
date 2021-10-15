@@ -1,0 +1,53 @@
+id:
+  -
+    value: 85
+uuid:
+  -
+    value: f20a9953-dc35-45b8-b0be-c346f560b452
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:18:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: robert_nyorkor@hcpss.org
+field_job_title:
+  -
+    value: 'Night Custodian'
+field_name:
+  -
+    value: 'Robert Nyorkor'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '85'
+  uuid: f20a9953-dc35-45b8-b0be-c346f560b452
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

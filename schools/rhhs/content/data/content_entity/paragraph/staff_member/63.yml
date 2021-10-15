@@ -1,0 +1,51 @@
+id:
+  -
+    value: 63
+uuid:
+  -
+    value: 79c78e8e-b639-43d2-bff8-1e0b2e655c03
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Sarah_Walker@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Sarah Walker'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '63'
+  uuid: 79c78e8e-b639-43d2-bff8-1e0b2e655c03
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

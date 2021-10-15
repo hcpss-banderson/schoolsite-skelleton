@@ -1,0 +1,12 @@
+uuid: b39eeb57-4868-4d12-a726-bc61a07d4e52
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'file:file:7108d337-d1a8-4b5e-8daf-89a58236fb6d'
+id: staff_member
+label: 'Staff Member'
+icon_uuid: 7108d337-d1a8-4b5e-8daf-89a58236fb6d
+icon_default: 'data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgZmlsbD0iY3VycmVudENvbG9yIiBjbGFzcz0iYmkgYmktcGVyc29uIiB2aWV3Qm94PSIwIDAgMTYgMTYiPgogIDxwYXRoIGQ9Ik04IDhhMyAzIDAgMSAwIDAtNiAzIDMgMCAwIDAgMCA2em0yLTNhMiAyIDAgMSAxLTQgMCAyIDIgMCAwIDEgNCAwem00IDhjMCAxLTEgMS0xIDFIM3MtMSAwLTEtMSAxLTQgNi00IDYgMyA2IDR6bS0xLS4wMDRjLS4wMDEtLjI0Ni0uMTU0LS45ODYtLjgzMi0xLjY2NEMxMS41MTYgMTAuNjggMTAuMjg5IDEwIDggMTBjLTIuMjkgMC0zLjUxNi42OC00LjE2OCAxLjMzMi0uNjc4LjY3OC0uODMgMS40MTgtLjgzMiAxLjY2NGgxMHoiLz4KPC9zdmc+'
+description: ''
+behavior_plugins: {  }

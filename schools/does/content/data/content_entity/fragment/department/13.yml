@@ -1,0 +1,124 @@
+id:
+  -
+    value: 13
+uuid:
+  -
+    value: 6a040bcd-478a-43c0-b874-084ae4f0b5c5
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T15:56:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: Paraeducators
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:56:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T15:56:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 78
+    target_type: paragraph
+  -
+    target_id: 79
+    target_type: paragraph
+  -
+    target_id: 80
+    target_type: paragraph
+  -
+    target_id: 81
+    target_type: paragraph
+  -
+    target_id: 82
+    target_type: paragraph
+  -
+    target_id: 83
+    target_type: paragraph
+  -
+    target_id: 84
+    target_type: paragraph
+  -
+    target_id: 85
+    target_type: paragraph
+  -
+    target_id: 86
+    target_type: paragraph
+  -
+    target_id: 87
+    target_type: paragraph
+  -
+    target_id: 88
+    target_type: paragraph
+  -
+    target_id: 89
+    target_type: paragraph
+  -
+    target_id: 90
+    target_type: paragraph
+  -
+    target_id: 91
+    target_type: paragraph
+  -
+    target_id: 92
+    target_type: paragraph
+  -
+    target_id: 93
+    target_type: paragraph
+  -
+    target_id: 94
+    target_type: paragraph
+  -
+    target_id: 95
+    target_type: paragraph
+  -
+    target_id: 96
+    target_type: paragraph
+  -
+    target_id: 97
+    target_type: paragraph
+  -
+    target_id: 98
+    target_type: paragraph
+  -
+    target_id: 99
+    target_type: paragraph
+  -
+    target_id: 100
+    target_type: paragraph
+  -
+    target_id: 101
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '13'
+  uuid: 6a040bcd-478a-43c0-b874-084ae4f0b5c5
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

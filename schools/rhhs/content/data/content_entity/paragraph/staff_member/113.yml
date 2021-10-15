@@ -1,0 +1,53 @@
+id:
+  -
+    value: 113
+uuid:
+  -
+    value: 665afc96-6640-4532-ab54-5208bf6df78d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Danny_Ives@hcpss.org
+field_job_title:
+  -
+    value: 'School Counselor, Last Names A-Da'
+field_name:
+  -
+    value: 'Danny Ives'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '113'
+  uuid: 665afc96-6640-4532-ab54-5208bf6df78d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

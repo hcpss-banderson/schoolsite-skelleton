@@ -1,0 +1,53 @@
+id:
+  -
+    value: 100
+uuid:
+  -
+    value: c24fbcd1-9a60-4b03-81fe-0b4820b98632
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:13:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jennifer_majka@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Jennifer Majka'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '100'
+  uuid: c24fbcd1-9a60-4b03-81fe-0b4820b98632
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

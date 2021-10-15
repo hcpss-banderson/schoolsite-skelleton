@@ -1,0 +1,51 @@
+id:
+  -
+    value: 43
+uuid:
+  -
+    value: 9969a766-03c8-48e4-9829-522caaab443c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:35:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: 'Black Student Achievement Liaison'
+field_name:
+  -
+    value: 'OPEN POSITION'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '43'
+  uuid: 9969a766-03c8-48e4-9829-522caaab443c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

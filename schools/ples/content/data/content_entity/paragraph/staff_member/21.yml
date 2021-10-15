@@ -1,0 +1,53 @@
+id:
+  -
+    value: 21
+uuid:
+  -
+    value: b345c2f5-af26-4058-a269-1e3ce92b2569
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:13:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Elizabeth_Kimes@hcpss.org
+field_job_title:
+  -
+    value: 'PK SE Paraeducator'
+field_name:
+  -
+    value: 'Elizabeth Kimes'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '21'
+  uuid: b345c2f5-af26-4058-a269-1e3ce92b2569
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

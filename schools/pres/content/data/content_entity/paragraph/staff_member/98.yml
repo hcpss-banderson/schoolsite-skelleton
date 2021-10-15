@@ -1,0 +1,53 @@
+id:
+  -
+    value: 98
+uuid:
+  -
+    value: f52979c5-f990-4de6-881d-3c6476857946
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:15:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Amy_Soobitksy@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator/EPL
+field_name:
+  -
+    value: 'Amy Soobitsky'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '98'
+  uuid: f52979c5-f990-4de6-881d-3c6476857946
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

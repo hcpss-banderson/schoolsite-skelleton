@@ -1,0 +1,53 @@
+id:
+  -
+    value: 64
+uuid:
+  -
+    value: e7b5c659-2c44-49e9-86f2-193278978cae
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:10:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: martha_benitez@hcpss.org
+field_job_title:
+  -
+    value: 'ESOL Paraeducator'
+field_name:
+  -
+    value: 'Martha Benitez'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '64'
+  uuid: e7b5c659-2c44-49e9-86f2-193278978cae
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

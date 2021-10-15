@@ -1,0 +1,53 @@
+id:
+  -
+    value: 58
+uuid:
+  -
+    value: f2a02943-cc32-4c27-9fc5-0786639e33c6
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:10:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: matthew_hay@hcpss.org
+field_job_title:
+  -
+    value: '.4 Music and Chorus Teacher'
+field_name:
+  -
+    value: 'Matthew Hay'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '58'
+  uuid: f2a02943-cc32-4c27-9fc5-0786639e33c6
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

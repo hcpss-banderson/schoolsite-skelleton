@@ -1,0 +1,49 @@
+id:
+  -
+    value: 54
+uuid:
+  -
+    value: e61d7122-2f96-433b-9f2d-6f08ab84cc78
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '20'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title: {  }
+field_name:
+  -
+    value: 'Kara Jacobs'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '54'
+  uuid: e61d7122-2f96-433b-9f2d-6f08ab84cc78
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

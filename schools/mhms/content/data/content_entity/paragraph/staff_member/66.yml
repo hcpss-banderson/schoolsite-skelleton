@@ -1,0 +1,53 @@
+id:
+  -
+    value: 66
+uuid:
+  -
+    value: 8bd32f4a-3420-4d50-b55c-0b412a2fe7be
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:55:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: barry_blumenstock@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education - Student Assistant'
+field_name:
+  -
+    value: 'Barry Blumenstock'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '66'
+  uuid: 8bd32f4a-3420-4d50-b55c-0b412a2fe7be
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

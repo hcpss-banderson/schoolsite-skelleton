@@ -1,0 +1,53 @@
+id:
+  -
+    value: 44
+uuid:
+  -
+    value: cfe0fcb5-f3cc-47cf-b283-0cd27be9e5fb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:12:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: seth_long@hcpss.org
+field_job_title:
+  -
+    value: 'Music Teacher'
+field_name:
+  -
+    value: 'Seth Long'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '44'
+  uuid: cfe0fcb5-f3cc-47cf-b283-0cd27be9e5fb
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

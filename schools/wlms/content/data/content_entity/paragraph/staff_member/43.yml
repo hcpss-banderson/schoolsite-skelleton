@@ -1,0 +1,53 @@
+id:
+  -
+    value: 43
+uuid:
+  -
+    value: 36fcc197-d966-4505-98f4-301128582e2b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:04:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Damisha_Drakes@hcpss.org
+field_job_title:
+  -
+    value: 'Science Teacher, 8th grade, 8th grade ITL'
+field_name:
+  -
+    value: 'Damisha Drakes'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '43'
+  uuid: 36fcc197-d966-4505-98f4-301128582e2b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

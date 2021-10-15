@@ -1,0 +1,53 @@
+id:
+  -
+    value: 118
+uuid:
+  -
+    value: 94185a98-814b-4902-980c-a3814757f2ca
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '32'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: alyssa_litchfield@hcpss.org
+field_job_title:
+  -
+    value: 'Special Educator'
+field_name:
+  -
+    value: 'Alyssa Litchfield'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '118'
+  uuid: 94185a98-814b-4902-980c-a3814757f2ca
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

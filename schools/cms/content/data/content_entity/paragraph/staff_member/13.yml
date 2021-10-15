@@ -1,0 +1,53 @@
+id:
+  -
+    value: 13
+uuid:
+  -
+    value: 8ecfad3e-ce26-4b6c-ae81-05710849a2da
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:44:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: william_moffitt@hcpss.org
+field_job_title:
+  -
+    value: Science
+field_name:
+  -
+    value: 'Bill Moffitt'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '13'
+  uuid: 8ecfad3e-ce26-4b6c-ae81-05710849a2da
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 63
+uuid:
+  -
+    value: a5de70dc-8eb3-4f1d-986a-33b74a823f3f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:54:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Eric_Piccirelli@hcpss.org
+field_job_title:
+  -
+    value: 'Orchestra .5'
+field_name:
+  -
+    value: 'Eric Piccirelli'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '63'
+  uuid: a5de70dc-8eb3-4f1d-986a-33b74a823f3f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

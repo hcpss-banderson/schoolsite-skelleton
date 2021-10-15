@@ -1,0 +1,53 @@
+id:
+  -
+    value: 81
+uuid:
+  -
+    value: 9de8079a-2b05-4410-8a21-58186a9f6d3d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:26:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: susan_oh@hcpss.org
+field_job_title:
+  -
+    value: 'ESOL Teacher'
+field_name:
+  -
+    value: 'Susan Oh'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '81'
+  uuid: 9de8079a-2b05-4410-8a21-58186a9f6d3d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

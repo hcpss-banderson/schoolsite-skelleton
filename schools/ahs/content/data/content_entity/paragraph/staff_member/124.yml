@@ -1,0 +1,53 @@
+id:
+  -
+    value: 124
+uuid:
+  -
+    value: b590f842-172d-4989-a4b7-0f01700b1ffd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '23'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Barbara_Lokitis@hcpss.org
+field_job_title:
+  -
+    value: 'Occupational Therapist'
+field_name:
+  -
+    value: 'Barbara Lokitis'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '124'
+  uuid: b590f842-172d-4989-a4b7-0f01700b1ffd
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 12
+uuid:
+  -
+    value: f53d19c9-3904-412f-84e0-b69ea2408570
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:42:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: crystal_hood@hcpss.org
+field_job_title:
+  -
+    value: 'Alternative Education'
+field_name:
+  -
+    value: 'Crystal Hood'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '12'
+  uuid: f53d19c9-3904-412f-84e0-b69ea2408570
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

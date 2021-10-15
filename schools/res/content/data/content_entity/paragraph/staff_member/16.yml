@@ -1,0 +1,53 @@
+id:
+  -
+    value: 16
+uuid:
+  -
+    value: 0cb58157-f4af-4f30-90fe-4b6c2df81e6b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:17:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: amanda_meister@hcpss.org
+field_job_title:
+  -
+    value: 'MINC PK Student Assistant'
+field_name:
+  -
+    value: 'Amanda Meister'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '16'
+  uuid: 0cb58157-f4af-4f30-90fe-4b6c2df81e6b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

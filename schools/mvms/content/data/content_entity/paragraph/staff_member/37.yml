@@ -1,0 +1,53 @@
+id:
+  -
+    value: 37
+uuid:
+  -
+    value: 3ca79fb3-896d-48ff-98f1-3ca07f3a4a67
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:56:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kelly_marquart@hcpss.org
+field_job_title:
+  -
+    value: Science
+field_name:
+  -
+    value: 'Kelly Marquart'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '37'
+  uuid: 3ca79fb3-896d-48ff-98f1-3ca07f3a4a67
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

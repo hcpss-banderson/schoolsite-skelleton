@@ -1,0 +1,53 @@
+id:
+  -
+    value: 38
+uuid:
+  -
+    value: 0ded544b-b729-469e-8b4d-1b1097d642be
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:49:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kathleen_mehalko@hcpss.org
+field_job_title:
+  -
+    value: Reading
+field_name:
+  -
+    value: 'Kathy Mehalko'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '38'
+  uuid: 0ded544b-b729-469e-8b4d-1b1097d642be
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

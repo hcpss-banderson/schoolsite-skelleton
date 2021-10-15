@@ -1,0 +1,51 @@
+id:
+  -
+    value: 45
+uuid:
+  -
+    value: 32dae1a1-4a50-4002-b2c0-62f65b0b7e84
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:52:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: 'Art Teacher'
+field_name:
+  -
+    value: 'Megan Riley'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '45'
+  uuid: 32dae1a1-4a50-4002-b2c0-62f65b0b7e84
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

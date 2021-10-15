@@ -1,0 +1,53 @@
+id:
+  -
+    value: 28
+uuid:
+  -
+    value: 035e514b-c987-4fe7-83ba-5eaacd615c46
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:52:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: christopher_doody@hcpss.org
+field_job_title:
+  -
+    value: 'Science 8'
+field_name:
+  -
+    value: 'Chris Doody'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '28'
+  uuid: 035e514b-c987-4fe7-83ba-5eaacd615c46
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

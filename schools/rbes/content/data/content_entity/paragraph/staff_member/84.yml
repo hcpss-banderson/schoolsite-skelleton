@@ -1,0 +1,53 @@
+id:
+  -
+    value: 84
+uuid:
+  -
+    value: 33c9da14-2485-472f-834d-7b4f87d7d18e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:16:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Charles_Sicotte@hcpss.org
+field_job_title:
+  -
+    value: 'School Psychologist'
+field_name:
+  -
+    value: 'Dr. Charles Sicotte'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '84'
+  uuid: 33c9da14-2485-472f-834d-7b4f87d7d18e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

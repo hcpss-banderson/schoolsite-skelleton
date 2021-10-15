@@ -1,0 +1,53 @@
+id:
+  -
+    value: 168
+uuid:
+  -
+    value: 98ca0a6f-48dd-434f-8e2c-7c455f601c41
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Keith_Enriquez@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Keith Enriquez'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '168'
+  uuid: 98ca0a6f-48dd-434f-8e2c-7c455f601c41
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

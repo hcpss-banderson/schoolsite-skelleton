@@ -1,0 +1,53 @@
+id:
+  -
+    value: 122
+uuid:
+  -
+    value: 740adee8-8567-407f-a9f5-985c27ca119c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:57:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: ashley_fetzer_contractor@hcpss.org
+field_job_title:
+  -
+    value: 'Speech Langauge Pathologist (.2)'
+field_name:
+  -
+    value: 'Ashley Fetzer'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '122'
+  uuid: 740adee8-8567-407f-a9f5-985c27ca119c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

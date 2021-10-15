@@ -1,0 +1,53 @@
+id:
+  -
+    value: 88
+uuid:
+  -
+    value: 1d8e437f-ec47-415d-8a5f-9bc8a3969dce
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Karla_Dwyer@hcpss.org
+field_job_title:
+  -
+    value: 'Science Assistant'
+field_name:
+  -
+    value: 'Karla Dwyer'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '88'
+  uuid: 1d8e437f-ec47-415d-8a5f-9bc8a3969dce
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

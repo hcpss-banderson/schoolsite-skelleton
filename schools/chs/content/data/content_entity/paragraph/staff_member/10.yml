@@ -1,0 +1,53 @@
+id:
+  -
+    value: 10
+uuid:
+  -
+    value: c85451a4-45b6-4ff1-9015-d6b3da92c2e8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:30:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: cheryl_beall@hcpss.org
+field_job_title:
+  -
+    value: Bookkeeper
+field_name:
+  -
+    value: 'Cheryl Beall'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '10'
+  uuid: c85451a4-45b6-4ff1-9015-d6b3da92c2e8
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

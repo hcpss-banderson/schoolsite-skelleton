@@ -1,0 +1,53 @@
+id:
+  -
+    value: 103
+uuid:
+  -
+    value: cc4071f1-02e6-4b26-95ba-5feaba3a6f58
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:15:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: ann-marie_kasuda@hcpss.org
+field_job_title:
+  -
+    value: 'School Psychologist (.2)'
+field_name:
+  -
+    value: 'AnnMarie Kasuda'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '103'
+  uuid: cc4071f1-02e6-4b26-95ba-5feaba3a6f58
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

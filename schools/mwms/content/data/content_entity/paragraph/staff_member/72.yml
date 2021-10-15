@@ -1,0 +1,53 @@
+id:
+  -
+    value: 72
+uuid:
+  -
+    value: a36e3a31-2fc4-43a2-9169-0450e721511f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:57:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Judy_Wasserman@hcpss.org
+field_job_title:
+  -
+    value: 'I & I modules'
+field_name:
+  -
+    value: 'Mrs. Wasserman'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '72'
+  uuid: a36e3a31-2fc4-43a2-9169-0450e721511f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,70 @@
+id:
+  -
+    value: 30
+uuid:
+  -
+    value: d1f6a589-f0af-405a-884b-afd6217de89f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: Interventionist
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 108
+    target_type: paragraph
+  -
+    target_id: 109
+    target_type: paragraph
+  -
+    target_id: 110
+    target_type: paragraph
+  -
+    target_id: 111
+    target_type: paragraph
+  -
+    target_id: 112
+    target_type: paragraph
+  -
+    target_id: 113
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '30'
+  uuid: d1f6a589-f0af-405a-884b-afd6217de89f
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

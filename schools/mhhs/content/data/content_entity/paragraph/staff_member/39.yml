@@ -1,0 +1,53 @@
+id:
+  -
+    value: 39
+uuid:
+  -
+    value: b5718f88-7751-4319-a706-19a06811c8d0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:35:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Marianne_Pizzo@hcpss.org
+field_job_title:
+  -
+    value: 'School Counselor (Che-G)'
+field_name:
+  -
+    value: 'Marianne Pizzo'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '39'
+  uuid: b5718f88-7751-4319-a706-19a06811c8d0
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

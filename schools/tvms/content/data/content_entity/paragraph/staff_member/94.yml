@@ -1,0 +1,53 @@
+id:
+  -
+    value: 94
+uuid:
+  -
+    value: 900e53b8-78f9-4b6e-8468-10cd3789c12d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:02:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Melissa_Robertson@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Team Leader'
+field_name:
+  -
+    value: 'Melissa Robertson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '94'
+  uuid: 900e53b8-78f9-4b6e-8468-10cd3789c12d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

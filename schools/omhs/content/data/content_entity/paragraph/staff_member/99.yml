@@ -1,0 +1,51 @@
+id:
+  -
+    value: 99
+uuid:
+  -
+    value: 4fd31c34-037e-429b-bc46-edffcd4d9dfd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '18'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kristin_anderson-little@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Kristin Anderson-Little'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '99'
+  uuid: 4fd31c34-037e-429b-bc46-edffcd4d9dfd
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

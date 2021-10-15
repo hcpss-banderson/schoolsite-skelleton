@@ -1,0 +1,49 @@
+id:
+  -
+    value: 138
+uuid:
+  -
+    value: d76c4f62-3a14-4195-85fa-ccea1e8e4bf9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '35'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title: {  }
+field_name:
+  -
+    value: 'Maria Irizarry'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '138'
+  uuid: d76c4f62-3a14-4195-85fa-ccea1e8e4bf9
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

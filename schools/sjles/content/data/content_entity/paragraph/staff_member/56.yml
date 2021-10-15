@@ -1,0 +1,53 @@
+id:
+  -
+    value: 56
+uuid:
+  -
+    value: f851a064-4d8b-4015-b9c6-299cc4b5a5ae
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:20:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: alexis_kalivretenos@hcpss.org
+field_job_title:
+  -
+    value: 'Band and Orchestra'
+field_name:
+  -
+    value: 'Alexis Kalivretenos'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '56'
+  uuid: f851a064-4d8b-4015-b9c6-299cc4b5a5ae
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

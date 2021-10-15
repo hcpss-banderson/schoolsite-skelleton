@@ -1,0 +1,51 @@
+id:
+  -
+    value: 113
+uuid:
+  -
+    value: b6436d5d-12fb-43c5-a861-dc9c52a72942
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:55:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '24'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: 'Night Building Supervisor'
+field_name:
+  -
+    value: 'Joseph Onofrio'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '113'
+  uuid: b6436d5d-12fb-43c5-a861-dc9c52a72942
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

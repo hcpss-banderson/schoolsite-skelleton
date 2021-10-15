@@ -1,0 +1,53 @@
+id:
+  -
+    value: 48
+uuid:
+  -
+    value: 0cb41283-ad90-431b-b3bf-4e4e3f481190
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:30:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: nan_collins@hcpss.org
+field_job_title:
+  -
+    value: Teacher/Art
+field_name:
+  -
+    value: 'Nan Collins'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '48'
+  uuid: 0cb41283-ad90-431b-b3bf-4e4e3f481190
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 46
+uuid:
+  -
+    value: d6cd3fad-06f2-4fda-a4d0-22afec3099dd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:47:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: melissa_kleinberger@hcpss.org
+field_job_title:
+  -
+    value: Art
+field_name:
+  -
+    value: 'Melissa Kleinberger'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '46'
+  uuid: d6cd3fad-06f2-4fda-a4d0-22afec3099dd
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

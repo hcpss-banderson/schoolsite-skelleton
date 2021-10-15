@@ -1,0 +1,53 @@
+id:
+  -
+    value: 48
+uuid:
+  -
+    value: c9a53b7d-9636-4ff0-96da-e3e06c731eda
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:52:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: elaine_thomas@hcpss.org
+field_job_title:
+  -
+    value: 'Media Para Professional'
+field_name:
+  -
+    value: 'Elaine Thomas'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '48'
+  uuid: c9a53b7d-9636-4ff0-96da-e3e06c731eda
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

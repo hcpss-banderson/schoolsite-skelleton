@@ -1,0 +1,53 @@
+id:
+  -
+    value: 53
+uuid:
+  -
+    value: f7e89654-7661-4372-9db5-0881adbbffe3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:59:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: dana_mazer@hcpss.org
+field_job_title:
+  -
+    value: 'Social Studies/6th & 7th Grade'
+field_name:
+  -
+    value: 'Dana Mazer'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '53'
+  uuid: f7e89654-7661-4372-9db5-0881adbbffe3
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

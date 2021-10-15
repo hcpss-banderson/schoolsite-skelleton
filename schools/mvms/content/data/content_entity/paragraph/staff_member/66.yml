@@ -1,0 +1,53 @@
+id:
+  -
+    value: 66
+uuid:
+  -
+    value: 75080db7-9205-4e22-a7ef-a62c32aef732
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:56:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: nicole_parson@hcpss.org
+field_job_title:
+  -
+    value: 'Health Education / Related Arts Team Leader'
+field_name:
+  -
+    value: 'Nicole Parson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '66'
+  uuid: 75080db7-9205-4e22-a7ef-a62c32aef732
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

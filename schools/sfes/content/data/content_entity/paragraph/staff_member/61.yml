@@ -1,0 +1,53 @@
+id:
+  -
+    value: 61
+uuid:
+  -
+    value: ad8211c5-0446-4702-aab6-27f3c9164954
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:19:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: beth_gargano@hcpss.org
+field_job_title:
+  -
+    value: 'Title I Point of Contact'
+field_name:
+  -
+    value: 'Beth Gargano'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '61'
+  uuid: ad8211c5-0446-4702-aab6-27f3c9164954
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

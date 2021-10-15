@@ -1,0 +1,53 @@
+id:
+  -
+    value: 104
+uuid:
+  -
+    value: 845fbfbd-4936-45fb-af68-e52bc6459da7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:53:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: ji_ryu@hcpss.org
+field_job_title:
+  -
+    value: 'ESOL Teacher'
+field_name:
+  -
+    value: 'Ji Hyun Ryu'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '104'
+  uuid: 845fbfbd-4936-45fb-af68-e52bc6459da7
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

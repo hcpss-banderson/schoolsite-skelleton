@@ -1,0 +1,53 @@
+id:
+  -
+    value: 27
+uuid:
+  -
+    value: 0ca56673-4031-4875-84ad-7af903a60603
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:51:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: eileen_billingsley@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher and Instructional Team Leader'
+field_name:
+  -
+    value: 'Eileen Billingsley'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '27'
+  uuid: 0ca56673-4031-4875-84ad-7af903a60603
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

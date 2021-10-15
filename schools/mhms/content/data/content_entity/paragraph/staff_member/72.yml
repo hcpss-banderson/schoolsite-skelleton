@@ -1,0 +1,53 @@
+id:
+  -
+    value: 72
+uuid:
+  -
+    value: 3f06fda2-0615-42bb-803f-b5a835e79c63
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:55:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: breyona_milam@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Paraeducator - Regional Program'
+field_name:
+  -
+    value: 'Breyona Milam'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '72'
+  uuid: 3f06fda2-0615-42bb-803f-b5a835e79c63
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 40
+uuid:
+  -
+    value: 3b768bb7-0129-4710-9c00-0de31d8353aa
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:57:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Stacey_Petry@hcpss.org
+field_job_title:
+  -
+    value: Math
+field_name:
+  -
+    value: 'Mrs. Petry'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '40'
+  uuid: 3b768bb7-0129-4710-9c00-0de31d8353aa
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

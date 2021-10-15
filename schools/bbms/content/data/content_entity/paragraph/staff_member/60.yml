@@ -1,0 +1,53 @@
+id:
+  -
+    value: 60
+uuid:
+  -
+    value: f0e583dd-5161-4c7f-ad7c-d4b116e8f52b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:42:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: elizabeth_haight@hcpss.org
+field_job_title:
+  -
+    value: 'Orchestra Teacher'
+field_name:
+  -
+    value: 'Elizabeth Haight'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '60'
+  uuid: f0e583dd-5161-4c7f-ad7c-d4b116e8f52b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

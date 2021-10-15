@@ -1,0 +1,53 @@
+id:
+  -
+    value: 9
+uuid:
+  -
+    value: 83cc5e87-7fcd-48d1-9d81-b677cfa2dba5
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:18:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: alesia_richter@hcpss.org
+field_job_title:
+  -
+    value: 'School Counselor'
+field_name:
+  -
+    value: 'Alesia Richter'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '9'
+  uuid: 83cc5e87-7fcd-48d1-9d81-b677cfa2dba5
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 75
+uuid:
+  -
+    value: 2c9e2e5c-69c0-46ab-b655-f449f547d82a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:12:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: howard_moore@hcpss.org
+field_job_title:
+  -
+    value: 'Day Chief'
+field_name:
+  -
+    value: 'Howard Moore'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '75'
+  uuid: 2c9e2e5c-69c0-46ab-b655-f449f547d82a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 93
+uuid:
+  -
+    value: 0b026883-ce3f-4758-8a49-413dad74f743
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:57:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: maggie_mellott@hcpss.org
+field_job_title:
+  -
+    value: 'Vocal Music (.6)'
+field_name:
+  -
+    value: 'Maggie Mellott'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '93'
+  uuid: 0b026883-ce3f-4758-8a49-413dad74f743
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

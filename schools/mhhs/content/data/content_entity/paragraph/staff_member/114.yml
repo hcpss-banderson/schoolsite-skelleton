@@ -1,0 +1,53 @@
+id:
+  -
+    value: 114
+uuid:
+  -
+    value: dd5cb794-d58b-4378-82fc-0e582691c192
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:35:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '20'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: David_Shumway@hcpss.org
+field_job_title:
+  -
+    value: 'Music Teacher/Strings'
+field_name:
+  -
+    value: 'David Shumway'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '114'
+  uuid: dd5cb794-d58b-4378-82fc-0e582691c192
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

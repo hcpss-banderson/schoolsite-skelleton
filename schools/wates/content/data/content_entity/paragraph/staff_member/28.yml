@@ -1,0 +1,53 @@
+id:
+  -
+    value: 28
+uuid:
+  -
+    value: 7934bc4a-78ac-47d2-a545-06825b0e7a82
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:25:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Morgan_Dailey@hcpss.org
+field_job_title:
+  -
+    value: Para-Educator
+field_name:
+  -
+    value: 'Morgan Dailey'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '28'
+  uuid: 7934bc4a-78ac-47d2-a545-06825b0e7a82
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

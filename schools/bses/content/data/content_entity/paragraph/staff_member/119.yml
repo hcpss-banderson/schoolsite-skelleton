@@ -1,0 +1,53 @@
+id:
+  -
+    value: 119
+uuid:
+  -
+    value: 1143254e-724b-4f0f-9e3a-2fd595d8362f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:48:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: valerie_thompson@hcpss.org
+field_job_title:
+  -
+    value: 'Gifted and Talented Teacher'
+field_name:
+  -
+    value: 'Valerie Thompson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '119'
+  uuid: 1143254e-724b-4f0f-9e3a-2fd595d8362f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

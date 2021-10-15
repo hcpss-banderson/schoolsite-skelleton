@@ -1,0 +1,53 @@
+id:
+  -
+    value: 101
+uuid:
+  -
+    value: b852a7f3-bcc4-4394-b64e-c7825f200399
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:30:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '19'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: marc_carneal@hcpss.org
+field_job_title:
+  -
+    value: 'Student Resource Officer'
+field_name:
+  -
+    value: 'Officer Marc Carneal'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '101'
+  uuid: b852a7f3-bcc4-4394-b64e-c7825f200399
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

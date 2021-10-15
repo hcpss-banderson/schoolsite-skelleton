@@ -1,0 +1,51 @@
+id:
+  -
+    value: 159
+uuid:
+  -
+    value: 7476bcd7-1d4a-43a2-a718-0516905d8a2b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '24'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: hawthorne_byrd@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Hawthorne Byrd'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '159'
+  uuid: 7476bcd7-1d4a-43a2-a718-0516905d8a2b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

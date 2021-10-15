@@ -1,0 +1,53 @@
+id:
+  -
+    value: 69
+uuid:
+  -
+    value: eb31ff55-8f5d-4d2f-9f44-38d1204f7a4d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:43:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: amanda_aristidou@hcpss.org
+field_job_title:
+  -
+    value: '6th Grade Special Educator'
+field_name:
+  -
+    value: 'Amanda Aristidou'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '69'
+  uuid: eb31ff55-8f5d-4d2f-9f44-38d1204f7a4d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

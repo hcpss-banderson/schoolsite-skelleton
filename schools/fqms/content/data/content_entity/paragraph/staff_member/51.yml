@@ -1,0 +1,53 @@
+id:
+  -
+    value: 51
+uuid:
+  -
+    value: f61d2ba5-b437-4fad-a7ec-629876af8744
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:48:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: joellen_fusco@hcpss.org
+field_job_title:
+  -
+    value: 'PE & Health Teacher'
+field_name:
+  -
+    value: 'Ms. Fusco'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '51'
+  uuid: f61d2ba5-b437-4fad-a7ec-629876af8744
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

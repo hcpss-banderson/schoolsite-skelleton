@@ -1,0 +1,53 @@
+id:
+  -
+    value: 27
+uuid:
+  -
+    value: 365e6907-348f-4485-aafd-b80b9eaf312d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:49:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kathleen_shields@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Teacher/Special Education Team Leader'
+field_name:
+  -
+    value: 'Kathleen Shields'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '27'
+  uuid: 365e6907-348f-4485-aafd-b80b9eaf312d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

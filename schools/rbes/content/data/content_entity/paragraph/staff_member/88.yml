@@ -1,0 +1,53 @@
+id:
+  -
+    value: 88
+uuid:
+  -
+    value: cb6a3841-9d27-486e-8b9a-a5d82e939245
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:16:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jane_Hartlove@hcpss.org
+field_job_title:
+  -
+    value: 'Parent Liaison'
+field_name:
+  -
+    value: 'Jane Hartlove'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '88'
+  uuid: cb6a3841-9d27-486e-8b9a-a5d82e939245
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

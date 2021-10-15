@@ -1,0 +1,53 @@
+id:
+  -
+    value: 39
+uuid:
+  -
+    value: d0adc294-cc47-4fa2-8168-d4949269d4a9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:42:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: nancy_barnes@hcpss.org
+field_job_title:
+  -
+    value: 'Eighth Grade Social Studies and Seventh and Eighth Grade Theatre Arts Teacher'
+field_name:
+  -
+    value: 'Nancy Barnes'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '39'
+  uuid: d0adc294-cc47-4fa2-8168-d4949269d4a9
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

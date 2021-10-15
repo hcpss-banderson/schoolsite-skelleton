@@ -1,0 +1,53 @@
+id:
+  -
+    value: 76
+uuid:
+  -
+    value: 301ae733-fa2d-48cb-b442-3014e7be012b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:24:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Ava_Greene@hcpss.org
+field_job_title:
+  -
+    value: 'Media Paraeducator'
+field_name:
+  -
+    value: 'Ava Greene'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '76'
+  uuid: 301ae733-fa2d-48cb-b442-3014e7be012b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

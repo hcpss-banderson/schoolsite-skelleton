@@ -1,0 +1,53 @@
+id:
+  -
+    value: 52
+uuid:
+  -
+    value: 33a7811a-5b66-490c-86c7-0235c15776ea
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:54:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Aaron_Rosenthal@hcpss.org
+field_job_title:
+  -
+    value: 'Adaptive PE'
+field_name:
+  -
+    value: 'Aaron Rosenthal'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '52'
+  uuid: 33a7811a-5b66-490c-86c7-0235c15776ea
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 134
+uuid:
+  -
+    value: fae9300b-c0f2-4de7-bb44-8efa465fa244
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Shari_Meyer@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Shari Meyer'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '134'
+  uuid: fae9300b-c0f2-4de7-bb44-8efa465fa244
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

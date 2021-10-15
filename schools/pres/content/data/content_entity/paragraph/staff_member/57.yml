@@ -1,0 +1,53 @@
+id:
+  -
+    value: 57
+uuid:
+  -
+    value: 62c37b92-86c3-4266-b483-27674b49c658
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:15:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Andrea_Aldrich@hcpss.org
+field_job_title:
+  -
+    value: 'String Teacher (.8)'
+field_name:
+  -
+    value: 'Andrea Aldrich'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '57'
+  uuid: 62c37b92-86c3-4266-b483-27674b49c658
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

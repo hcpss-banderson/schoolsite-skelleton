@@ -1,0 +1,53 @@
+id:
+  -
+    value: 160
+uuid:
+  -
+    value: 3485e0a2-88c1-4e30-a2f5-ca66e51132ac
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '25'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jean_Fregeau@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Jean Fregeau'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '160'
+  uuid: 3485e0a2-88c1-4e30-a2f5-ca66e51132ac
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

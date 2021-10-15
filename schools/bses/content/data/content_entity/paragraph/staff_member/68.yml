@@ -1,0 +1,53 @@
+id:
+  -
+    value: 68
+uuid:
+  -
+    value: 65cb9ed2-87d1-4a4e-818e-6d085c2bed9c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:48:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kelly_groves@hcpss.org
+field_job_title:
+  -
+    value: 'Media Paraeducator'
+field_name:
+  -
+    value: 'Kelly Groves'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '68'
+  uuid: 65cb9ed2-87d1-4a4e-818e-6d085c2bed9c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

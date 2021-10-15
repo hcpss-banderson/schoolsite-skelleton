@@ -1,0 +1,53 @@
+id:
+  -
+    value: 61
+uuid:
+  -
+    value: d2f787dc-f3b7-4b7e-9d79-523d8695ebe1
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:17:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Anna_Breon@hcpss.org
+field_job_title:
+  -
+    value: 'Art Teacher'
+field_name:
+  -
+    value: 'Anna Moss'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '61'
+  uuid: d2f787dc-f3b7-4b7e-9d79-523d8695ebe1
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 150
+uuid:
+  -
+    value: f633ed8a-fb52-40c4-b392-614fd0ec2078
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:32:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '29'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: megan_burleson@hcpss.org
+field_job_title:
+  -
+    value: 'School Psychologist'
+field_name:
+  -
+    value: 'Megan Burleson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '150'
+  uuid: f633ed8a-fb52-40c4-b392-614fd0ec2078
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

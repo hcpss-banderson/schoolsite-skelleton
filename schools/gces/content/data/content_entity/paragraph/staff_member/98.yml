@@ -1,0 +1,53 @@
+id:
+  -
+    value: 98
+uuid:
+  -
+    value: 65a4ab96-4b60-40c6-b7ca-ecfe6d4a8bad
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:13:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Elise_Sookram@hcpss.org
+field_job_title:
+  -
+    value: 'ELL Teacher'
+field_name:
+  -
+    value: 'Elise Sookram'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '98'
+  uuid: 65a4ab96-4b60-40c6-b7ca-ecfe6d4a8bad
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 73
+uuid:
+  -
+    value: 9670ef5d-8fa9-4961-a455-463da38e7881
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:52:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Katherine_Urie@hcpss.org
+field_job_title:
+  -
+    value: 'ALS Para Professional'
+field_name:
+  -
+    value: 'Katherine Urie'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '73'
+  uuid: 9670ef5d-8fa9-4961-a455-463da38e7881
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

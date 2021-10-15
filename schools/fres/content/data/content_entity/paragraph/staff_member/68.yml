@@ -1,0 +1,53 @@
+id:
+  -
+    value: 68
+uuid:
+  -
+    value: aabc2bd2-612b-41c5-9712-8ed296958bd1
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:00:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Alyssa_Norris@hcpss.org
+field_job_title:
+  -
+    value: 'School Counselor'
+field_name:
+  -
+    value: 'Alyssa (Schuck) Norris'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '68'
+  uuid: aabc2bd2-612b-41c5-9712-8ed296958bd1
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

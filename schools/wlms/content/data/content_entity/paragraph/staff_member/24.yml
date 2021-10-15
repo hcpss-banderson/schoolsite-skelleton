@@ -1,0 +1,53 @@
+id:
+  -
+    value: 24
+uuid:
+  -
+    value: 81b498de-cc64-4444-93a3-ceb191571b16
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:04:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Savana_Pitney@hcpss.org
+field_job_title:
+  -
+    value: 'Math Teacher, 6th grade'
+field_name:
+  -
+    value: 'Savana Pitney'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '24'
+  uuid: 81b498de-cc64-4444-93a3-ceb191571b16
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 86
+uuid:
+  -
+    value: b9b83a5d-b974-4322-ad62-7ecb8c0c94fb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:46:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: 'felicia_o''meara@hcpss.org'
+field_job_title:
+  -
+    value: 'Social Studies Teacher, Social Studies Team Leader'
+field_name:
+  -
+    value: 'Felicia O''Meara'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '86'
+  uuid: b9b83a5d-b974-4322-ad62-7ecb8c0c94fb
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

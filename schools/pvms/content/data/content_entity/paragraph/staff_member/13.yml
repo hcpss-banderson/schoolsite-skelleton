@@ -1,0 +1,53 @@
+id:
+  -
+    value: 13
+uuid:
+  -
+    value: 5f52671c-13ce-4438-8036-a1e107574b0d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: anisha_thompson@hcpss.org
+field_job_title:
+  -
+    value: 'Black Student Achievement Liaison'
+field_name:
+  -
+    value: 'Anisha Thompson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '13'
+  uuid: 5f52671c-13ce-4438-8036-a1e107574b0d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

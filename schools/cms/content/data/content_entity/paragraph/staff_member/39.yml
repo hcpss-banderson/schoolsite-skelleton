@@ -1,0 +1,53 @@
+id:
+  -
+    value: 39
+uuid:
+  -
+    value: 162b4216-d2f2-4085-945f-a2f3f29ce900
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:44:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: ariston_de_leon@hcpss.org
+field_job_title:
+  -
+    value: 'Technology Education'
+field_name:
+  -
+    value: 'Ariston DeLeon'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '39'
+  uuid: 162b4216-d2f2-4085-945f-a2f3f29ce900
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

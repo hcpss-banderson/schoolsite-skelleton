@@ -1,0 +1,53 @@
+id:
+  -
+    value: 57
+uuid:
+  -
+    value: 82af141f-4209-4fc3-8f85-686a67cdd763
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:59:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Liz_Cerand@hcpss.org
+field_job_title:
+  -
+    value: 'Library Media Specialist, Team Leader'
+field_name:
+  -
+    value: 'Mrs. Cerand'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '57'
+  uuid: 82af141f-4209-4fc3-8f85-686a67cdd763
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

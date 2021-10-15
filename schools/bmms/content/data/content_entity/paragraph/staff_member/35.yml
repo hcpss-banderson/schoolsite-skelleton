@@ -1,0 +1,53 @@
+id:
+  -
+    value: 35
+uuid:
+  -
+    value: 36142f47-be3a-44b5-a3e5-a0342515222b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:43:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: geordie_paulus@hcpss.org
+field_job_title:
+  -
+    value: '7th Grade Social Studies'
+field_name:
+  -
+    value: 'Geordie Paulus'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '35'
+  uuid: 36142f47-be3a-44b5-a3e5-a0342515222b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

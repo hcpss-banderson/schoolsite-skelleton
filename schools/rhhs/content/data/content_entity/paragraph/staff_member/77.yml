@@ -1,0 +1,51 @@
+id:
+  -
+    value: 77
+uuid:
+  -
+    value: 17d02215-2056-4fd4-b1ea-dcad1e66a84a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Regina_Hobbs@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Regina Hobbs'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '77'
+  uuid: 17d02215-2056-4fd4-b1ea-dcad1e66a84a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

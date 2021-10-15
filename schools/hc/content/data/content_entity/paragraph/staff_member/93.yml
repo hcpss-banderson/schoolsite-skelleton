@@ -1,0 +1,53 @@
+id:
+  -
+    value: 93
+uuid:
+  -
+    value: 8dfcfd6e-7797-4224-ada5-0ace0fd33804
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:44:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jhondis_Latta@hcpss.org
+field_job_title:
+  -
+    value: 'School Mental Health Technician, Gateway'
+field_name:
+  -
+    value: 'Jhondis Latta'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '93'
+  uuid: 8dfcfd6e-7797-4224-ada5-0ace0fd33804
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

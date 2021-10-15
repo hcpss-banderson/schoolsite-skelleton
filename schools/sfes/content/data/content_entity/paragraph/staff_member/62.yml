@@ -1,0 +1,53 @@
+id:
+  -
+    value: 62
+uuid:
+  -
+    value: 74c90de3-49ae-4c36-9568-7aee06954f47
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:19:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Dietra_TylerJohn@hcpss.org
+field_job_title:
+  -
+    value: 'Title I Point of Contact'
+field_name:
+  -
+    value: 'Dee Tyler-John'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '62'
+  uuid: 74c90de3-49ae-4c36-9568-7aee06954f47
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

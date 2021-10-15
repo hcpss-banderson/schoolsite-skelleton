@@ -1,0 +1,53 @@
+id:
+  -
+    value: 28
+uuid:
+  -
+    value: 7ea512ce-a714-4e7b-bb50-91572531085c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:55:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: matthew_hartman@hcpss.org
+field_job_title:
+  -
+    value: 'Social Studies & 6th Grade Brain Boost'
+field_name:
+  -
+    value: 'Matthew Hartman'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '28'
+  uuid: 7ea512ce-a714-4e7b-bb50-91572531085c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

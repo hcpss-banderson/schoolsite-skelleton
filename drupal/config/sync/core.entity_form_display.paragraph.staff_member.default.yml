@@ -1,0 +1,59 @@
+uuid: 9d1a945e-5fbf-4b87-8e11-5721c8e7e8c6
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.staff_member.field_email
+    - field.field.paragraph.staff_member.field_job_title
+    - field.field.paragraph.staff_member.field_name
+    - field.field.paragraph.staff_member.field_website
+    - paragraphs.paragraphs_type.staff_member
+  module:
+    - field_layout
+    - layout_discovery
+    - link
+third_party_settings:
+  field_layout:
+    id: layout_onecol
+    settings:
+      label: ''
+id: paragraph.staff_member.default
+targetEntityType: paragraph
+bundle: staff_member
+mode: default
+content:
+  field_email:
+    weight: 2
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: email_default
+    region: content
+  field_job_title:
+    weight: 1
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: string_textfield
+    region: content
+  field_name:
+    weight: 0
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: string_textfield
+    region: content
+  field_website:
+    weight: 3
+    settings:
+      placeholder_url: ''
+      placeholder_title: ''
+    third_party_settings: {  }
+    type: link_default
+    region: content
+hidden:
+  created: true
+  status: true

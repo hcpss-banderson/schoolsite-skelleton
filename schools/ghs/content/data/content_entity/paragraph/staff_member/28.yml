@@ -1,0 +1,51 @@
+id:
+  -
+    value: 28
+uuid:
+  -
+    value: 59aeacbc-efbe-4b00-9ccc-00806f4e3c52
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:31:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: 'Night Supervisor'
+field_name:
+  -
+    value: 'Daryl Batty'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '28'
+  uuid: 59aeacbc-efbe-4b00-9ccc-00806f4e3c52
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

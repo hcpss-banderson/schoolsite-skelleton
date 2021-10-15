@@ -1,0 +1,53 @@
+id:
+  -
+    value: 156
+uuid:
+  -
+    value: 1e529780-9566-4b41-89ee-29aaf897f39e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Vanessa_Morales@hcpss.org
+field_job_title:
+  -
+    value: 'Hispanic Achievement Liaison'
+field_name:
+  -
+    value: 'Vanessa Morales'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '156'
+  uuid: 1e529780-9566-4b41-89ee-29aaf897f39e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 74
+uuid:
+  -
+    value: 2c95b41c-29a2-4677-b37f-1970fbe889bc
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:47:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: elizabeth_redington@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education, 8th Grade'
+field_name:
+  -
+    value: 'Elizabeth Redington'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '74'
+  uuid: 2c95b41c-29a2-4677-b37f-1970fbe889bc
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

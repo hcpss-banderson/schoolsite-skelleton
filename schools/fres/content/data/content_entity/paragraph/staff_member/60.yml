@@ -1,0 +1,53 @@
+id:
+  -
+    value: 60
+uuid:
+  -
+    value: ded053c6-5658-4ec4-a898-ecd1483e5e9b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:00:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: MaryBeth_Rees@hcpss.org
+field_job_title:
+  -
+    value: 'Speech Language Pathologist 0.4'
+field_name:
+  -
+    value: 'MaryBeth Rees'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '60'
+  uuid: ded053c6-5658-4ec4-a898-ecd1483e5e9b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

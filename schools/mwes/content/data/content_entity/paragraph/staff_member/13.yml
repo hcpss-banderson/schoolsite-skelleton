@@ -1,0 +1,51 @@
+id:
+  -
+    value: 13
+uuid:
+  -
+    value: c294b7af-5983-4d9a-9364-86fcd93b5eb2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:11:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: 'Itinerant Assistant'
+field_name:
+  -
+    value: 'Helen Blair'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '13'
+  uuid: c294b7af-5983-4d9a-9364-86fcd93b5eb2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

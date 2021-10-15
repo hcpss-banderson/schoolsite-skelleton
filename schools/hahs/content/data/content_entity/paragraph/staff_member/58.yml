@@ -1,0 +1,53 @@
+id:
+  -
+    value: 58
+uuid:
+  -
+    value: 6f6a944e-7526-40f4-bcc4-f251443f1ff2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:32:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Anne_Corey@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher - Mathematics, Varsity Volleyball Coach'
+field_name:
+  -
+    value: 'Anne Corey'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '58'
+  uuid: 6f6a944e-7526-40f4-bcc4-f251443f1ff2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

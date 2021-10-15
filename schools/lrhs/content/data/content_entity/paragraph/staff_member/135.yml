@@ -1,0 +1,53 @@
+id:
+  -
+    value: 135
+uuid:
+  -
+    value: a5caa776-eff1-41cf-b45f-ca550d176356
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:34:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '21'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: john_jacobs@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'John Jacobs'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '135'
+  uuid: a5caa776-eff1-41cf-b45f-ca550d176356
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

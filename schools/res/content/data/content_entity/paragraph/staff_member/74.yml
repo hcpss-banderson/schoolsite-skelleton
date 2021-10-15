@@ -1,0 +1,53 @@
+id:
+  -
+    value: 74
+uuid:
+  -
+    value: b33fd069-7985-438a-8aa4-3afc47a12bec
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:17:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: shilpa_bangalore_keshavaiah@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Student Assistant'
+field_name:
+  -
+    value: 'Shilpa Bangalore'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '74'
+  uuid: b33fd069-7985-438a-8aa4-3afc47a12bec
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

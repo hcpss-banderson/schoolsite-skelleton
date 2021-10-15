@@ -1,0 +1,67 @@
+id:
+  -
+    value: 4
+uuid:
+  -
+    value: adcb4589-5932-415d-a207-b4ec5cf7c609
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T17:12:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'First Grade'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:12:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T17:12:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 13
+    target_type: paragraph
+  -
+    target_id: 14
+    target_type: paragraph
+  -
+    target_id: 15
+    target_type: paragraph
+  -
+    target_id: 16
+    target_type: paragraph
+  -
+    target_id: 17
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '4'
+  uuid: adcb4589-5932-415d-a207-b4ec5cf7c609
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

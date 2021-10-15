@@ -1,0 +1,97 @@
+id:
+  -
+    value: 10
+uuid:
+  -
+    value: 72e77582-7ac8-496e-9fc4-1c25117a66ec
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:46:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Seventh Grade'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:46:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:46:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 61
+    target_type: paragraph
+  -
+    target_id: 62
+    target_type: paragraph
+  -
+    target_id: 63
+    target_type: paragraph
+  -
+    target_id: 64
+    target_type: paragraph
+  -
+    target_id: 65
+    target_type: paragraph
+  -
+    target_id: 66
+    target_type: paragraph
+  -
+    target_id: 67
+    target_type: paragraph
+  -
+    target_id: 68
+    target_type: paragraph
+  -
+    target_id: 69
+    target_type: paragraph
+  -
+    target_id: 70
+    target_type: paragraph
+  -
+    target_id: 71
+    target_type: paragraph
+  -
+    target_id: 72
+    target_type: paragraph
+  -
+    target_id: 73
+    target_type: paragraph
+  -
+    target_id: 74
+    target_type: paragraph
+  -
+    target_id: 75
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '10'
+  uuid: 72e77582-7ac8-496e-9fc4-1c25117a66ec
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

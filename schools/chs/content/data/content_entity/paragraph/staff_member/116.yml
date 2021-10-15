@@ -1,0 +1,53 @@
+id:
+  -
+    value: 116
+uuid:
+  -
+    value: c3a0675d-44c2-4a69-8939-d7bde840df02
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:30:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '21'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: carole_culberson-phillips@hcpss.org
+field_job_title:
+  -
+    value: 'Speech Pathologist'
+field_name:
+  -
+    value: 'Lynne Culberson-Phillips'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '116'
+  uuid: c3a0675d-44c2-4a69-8939-d7bde840df02
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

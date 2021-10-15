@@ -1,0 +1,53 @@
+id:
+  -
+    value: 129
+uuid:
+  -
+    value: 338f2dd7-ed80-47f7-93fa-6f01eae04874
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:31:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '20'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: monique_finch@hcpss.org
+field_job_title:
+  -
+    value: 'Pupil Personnel Worker (PPW)'
+field_name:
+  -
+    value: 'Monique Finch'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '129'
+  uuid: 338f2dd7-ed80-47f7-93fa-6f01eae04874
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

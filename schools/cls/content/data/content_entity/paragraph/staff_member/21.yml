@@ -1,0 +1,53 @@
+id:
+  -
+    value: 21
+uuid:
+  -
+    value: e60d03ce-ecab-4a8a-a16b-b6f15e57df52
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:42:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: gisele_morin-connolly@hcpss.org
+field_job_title:
+  -
+    value: 'Speech Language Pathologist/Team Leader/Instructional Access Team'
+field_name:
+  -
+    value: 'Gisele Morin-Connolly'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '21'
+  uuid: e60d03ce-ecab-4a8a-a16b-b6f15e57df52
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

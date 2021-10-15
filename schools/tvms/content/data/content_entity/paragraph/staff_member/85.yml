@@ -1,0 +1,53 @@
+id:
+  -
+    value: 85
+uuid:
+  -
+    value: f885b889-ab9b-49e3-8cd0-af2b811225bd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:02:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Amanda_Bucchioni@hcpss.org
+field_job_title:
+  -
+    value: 'Reading Specialist, Reading Team Leader'
+field_name:
+  -
+    value: 'Amanda Bucchioni'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '85'
+  uuid: f885b889-ab9b-49e3-8cd0-af2b811225bd
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

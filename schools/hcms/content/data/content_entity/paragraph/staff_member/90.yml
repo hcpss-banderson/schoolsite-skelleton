@@ -1,0 +1,53 @@
+id:
+  -
+    value: 90
+uuid:
+  -
+    value: d82bc29c-b0bf-4b76-8f07-6d379fd29928
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:50:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: vicki_strain@hcpss.org
+field_job_title:
+  -
+    value: 'Café Server'
+field_name:
+  -
+    value: 'Vicki Strain'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '90'
+  uuid: d82bc29c-b0bf-4b76-8f07-6d379fd29928
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

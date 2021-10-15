@@ -1,0 +1,53 @@
+id:
+  -
+    value: 53
+uuid:
+  -
+    value: 015c072c-90b5-40c5-a39f-27a2ef5bd17f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:54:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Nancy_Smith@hcpss.org
+field_job_title:
+  -
+    value: 'Adult Education and Family Literacy'
+field_name:
+  -
+    value: 'Nancy Smith'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '53'
+  uuid: 015c072c-90b5-40c5-a39f-27a2ef5bd17f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

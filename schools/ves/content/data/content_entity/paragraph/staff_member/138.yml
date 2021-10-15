@@ -1,0 +1,51 @@
+id:
+  -
+    value: 138
+uuid:
+  -
+    value: f8c1e1ed-30f6-4e86-8703-0d10d5a87977
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:24:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: TE
+field_name:
+  -
+    value: 'Rownak Islam'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '138'
+  uuid: f8c1e1ed-30f6-4e86-8703-0d10d5a87977
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

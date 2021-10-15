@@ -1,0 +1,53 @@
+id:
+  -
+    value: 47
+uuid:
+  -
+    value: ceca83ac-64b5-4e96-89f2-e252f20fa9cc
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:50:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: rebecca_mcfate@hcpss.org
+field_job_title:
+  -
+    value: 'General Music, Vocal Music'
+field_name:
+  -
+    value: 'Rebecca McFate'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '47'
+  uuid: ceca83ac-64b5-4e96-89f2-e252f20fa9cc
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

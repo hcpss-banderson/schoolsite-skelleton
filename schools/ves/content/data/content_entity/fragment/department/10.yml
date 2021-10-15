@@ -1,0 +1,73 @@
+id:
+  -
+    value: 10
+uuid:
+  -
+    value: 218960a3-f7c9-4bdb-b429-67b80661e05f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:24:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Fifth Grade'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:24:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:24:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 55
+    target_type: paragraph
+  -
+    target_id: 56
+    target_type: paragraph
+  -
+    target_id: 57
+    target_type: paragraph
+  -
+    target_id: 58
+    target_type: paragraph
+  -
+    target_id: 59
+    target_type: paragraph
+  -
+    target_id: 60
+    target_type: paragraph
+  -
+    target_id: 61
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '10'
+  uuid: 218960a3-f7c9-4bdb-b429-67b80661e05f
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

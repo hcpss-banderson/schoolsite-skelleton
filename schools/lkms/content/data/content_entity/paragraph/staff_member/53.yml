@@ -1,0 +1,53 @@
+id:
+  -
+    value: 53
+uuid:
+  -
+    value: 2e6d275c-d6f8-4a7a-8eee-4e7a0d5385b6
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:54:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kevin_Zdrale@hcpss.org
+field_job_title:
+  -
+    value: 'Family and Consumer Science'
+field_name:
+  -
+    value: 'Kevin Zdrale'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '53'
+  uuid: 2e6d275c-d6f8-4a7a-8eee-4e7a0d5385b6
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

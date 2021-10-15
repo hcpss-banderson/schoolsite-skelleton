@@ -1,0 +1,53 @@
+id:
+  -
+    value: 6
+uuid:
+  -
+    value: 710aedf7-3804-4a54-b021-5b6666984aed
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:07:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Marcia_Hospedales@hcpss.org
+field_job_title:
+  -
+    value: Nurse
+field_name:
+  -
+    value: 'Marcia Hospedales'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '6'
+  uuid: 710aedf7-3804-4a54-b021-5b6666984aed
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

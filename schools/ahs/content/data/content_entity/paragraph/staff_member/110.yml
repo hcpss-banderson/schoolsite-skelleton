@@ -1,0 +1,53 @@
+id:
+  -
+    value: 110
+uuid:
+  -
+    value: 84f9c1cf-2439-4877-ba2e-c0b5b1a38740
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '23'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Carly_Bruzga@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Carly Bruzga'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '110'
+  uuid: 84f9c1cf-2439-4877-ba2e-c0b5b1a38740
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

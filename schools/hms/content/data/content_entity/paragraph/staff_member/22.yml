@@ -1,0 +1,53 @@
+id:
+  -
+    value: 22
+uuid:
+  -
+    value: 9d461aa4-f0ad-48ba-8470-7d9dd86632b5
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:52:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: stacie_marvin@hcpss.org
+field_job_title:
+  -
+    value: 'Math 8'
+field_name:
+  -
+    value: 'Stacie Marvin'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '22'
+  uuid: 9d461aa4-f0ad-48ba-8470-7d9dd86632b5
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

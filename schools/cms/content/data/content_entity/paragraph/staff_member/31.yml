@@ -1,0 +1,53 @@
+id:
+  -
+    value: 31
+uuid:
+  -
+    value: 3d8e60ad-6158-497c-af3a-c9715cd6ca42
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:44:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: ron_capurso@hcpss.org
+field_job_title:
+  -
+    value: Science
+field_name:
+  -
+    value: 'Ron Capurso'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '31'
+  uuid: 3d8e60ad-6158-497c-af3a-c9715cd6ca42
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

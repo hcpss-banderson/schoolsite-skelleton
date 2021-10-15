@@ -1,0 +1,53 @@
+id:
+  -
+    value: 52
+uuid:
+  -
+    value: fb7edee3-b3d2-44d6-878b-7873935a0583
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:21:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Tiffani_finnegan@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Teacher in the Regional Program for Students with Emotional Disabilities -ITL'
+field_name:
+  -
+    value: 'Tiffani Finnegan'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '52'
+  uuid: fb7edee3-b3d2-44d6-878b-7873935a0583
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

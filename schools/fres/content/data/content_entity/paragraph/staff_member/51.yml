@@ -1,0 +1,53 @@
+id:
+  -
+    value: 51
+uuid:
+  -
+    value: 5ae46885-a6b4-4b82-b886-ac3f2a947ee2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:00:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kyle_Pompei@hcpss.org
+field_job_title:
+  -
+    value: 'Vocal Music Teacher 0.4'
+field_name:
+  -
+    value: 'Kyle Pompei'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '51'
+  uuid: 5ae46885-a6b4-4b82-b886-ac3f2a947ee2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

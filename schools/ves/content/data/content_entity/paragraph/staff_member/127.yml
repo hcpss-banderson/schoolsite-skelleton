@@ -1,0 +1,53 @@
+id:
+  -
+    value: 127
+uuid:
+  -
+    value: 35657b62-27b4-4365-b614-10d1458b961a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:24:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: brittany_oneill@hcpss.org
+field_job_title:
+  -
+    value: SLP
+field_name:
+  -
+    value: 'Brittany O''Neill'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '127'
+  uuid: 35657b62-27b4-4365-b614-10d1458b961a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

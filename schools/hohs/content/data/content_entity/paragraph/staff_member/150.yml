@@ -1,0 +1,53 @@
+id:
+  -
+    value: 150
+uuid:
+  -
+    value: 3ed2a05b-f4ba-4c3a-b75a-00571f49de32
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:33:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '18'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: erica_santiago@hcpss.org
+field_job_title:
+  -
+    value: 'Speech Language Pathologist'
+field_name:
+  -
+    value: 'Erica Santiago'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '150'
+  uuid: 3ed2a05b-f4ba-4c3a-b75a-00571f49de32
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

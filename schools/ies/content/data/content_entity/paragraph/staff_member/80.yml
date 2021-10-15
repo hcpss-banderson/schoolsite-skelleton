@@ -1,0 +1,51 @@
+id:
+  -
+    value: 80
+uuid:
+  -
+    value: 9546893e-c179-4fe2-8daa-26dd4fe6ab9c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:06:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: TE
+field_name:
+  -
+    value: 'Philomina Arthur'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '80'
+  uuid: 9546893e-c179-4fe2-8daa-26dd4fe6ab9c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

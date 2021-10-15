@@ -1,0 +1,53 @@
+id:
+  -
+    value: 22
+uuid:
+  -
+    value: a492a9b9-df2e-4d87-9165-4058ccbd4a66
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:30:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: allen_anderson@hcpss.org
+field_job_title:
+  -
+    value: 'Day Chief'
+field_name:
+  -
+    value: 'Allen Anderson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '22'
+  uuid: a492a9b9-df2e-4d87-9165-4058ccbd4a66
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

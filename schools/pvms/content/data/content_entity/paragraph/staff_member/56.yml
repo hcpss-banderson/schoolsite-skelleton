@@ -1,0 +1,53 @@
+id:
+  -
+    value: 56
+uuid:
+  -
+    value: ba78ae3d-d98b-40e9-84ec-260f93cef4f0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: dawn_francis@hcpss.org
+field_job_title:
+  -
+    value: Music/Chorus
+field_name:
+  -
+    value: 'Dawn Francis'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '56'
+  uuid: ba78ae3d-d98b-40e9-84ec-260f93cef4f0
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

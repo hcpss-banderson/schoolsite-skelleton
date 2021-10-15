@@ -1,0 +1,53 @@
+id:
+  -
+    value: 117
+uuid:
+  -
+    value: eb8a3920-cf7d-4620-9cf0-8f00c3ac7875
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:34:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Lolanda_Lipscomb@hcpss.org
+field_job_title:
+  -
+    value: 'Media Specialist'
+field_name:
+  -
+    value: 'Lolanda Lipscomb'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '117'
+  uuid: eb8a3920-cf7d-4620-9cf0-8f00c3ac7875
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 65
+uuid:
+  -
+    value: d1fd62bc-6944-4c01-904e-d14e79ce0e48
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:48:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: marianne_barno@hcpss.org
+field_job_title:
+  -
+    value: 'Instructional Technology'
+field_name:
+  -
+    value: 'Marianne Barno'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '65'
+  uuid: d1fd62bc-6944-4c01-904e-d14e79ce0e48
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

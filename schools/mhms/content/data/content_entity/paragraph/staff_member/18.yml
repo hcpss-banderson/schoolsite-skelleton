@@ -1,0 +1,53 @@
+id:
+  -
+    value: 18
+uuid:
+  -
+    value: 0d30af6b-fd00-43d5-926e-2fd15c8e4382
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:55:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: bonnie_hodder@hcpss.org
+field_job_title:
+  -
+    value: 'Science Department Chair'
+field_name:
+  -
+    value: 'Bonnie Hodder'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '18'
+  uuid: 0d30af6b-fd00-43d5-926e-2fd15c8e4382
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 18
+uuid:
+  -
+    value: ecf9768c-2c8f-438e-b996-68572c8c51bb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:27:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Janet_Smith@hcpss.org
+field_job_title:
+  -
+    value: 'RECC Paraeducator'
+field_name:
+  -
+    value: 'Janet Smith'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '18'
+  uuid: ecf9768c-2c8f-438e-b996-68572c8c51bb
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

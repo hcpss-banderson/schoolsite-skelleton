@@ -1,0 +1,53 @@
+id:
+  -
+    value: 11
+uuid:
+  -
+    value: 9e90d618-3481-4afa-8b6c-3866ba811549
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:14:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: theresa_haney@hcpss.org
+field_job_title:
+  -
+    value: 'Front Office Secretary'
+field_name:
+  -
+    value: 'Theresa Haney'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '11'
+  uuid: 9e90d618-3481-4afa-8b6c-3866ba811549
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

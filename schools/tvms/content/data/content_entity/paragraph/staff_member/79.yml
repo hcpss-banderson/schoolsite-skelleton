@@ -1,0 +1,53 @@
+id:
+  -
+    value: 79
+uuid:
+  -
+    value: 207755bb-b4d5-4526-8e30-4b3f95708bcf
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:02:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Angela_Pope@hcpss.org
+field_job_title:
+  -
+    value: 'Music, Chorus'
+field_name:
+  -
+    value: 'Angela Pope'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '79'
+  uuid: 207755bb-b4d5-4526-8e30-4b3f95708bcf
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

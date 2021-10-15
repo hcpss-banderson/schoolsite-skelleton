@@ -1,0 +1,53 @@
+id:
+  -
+    value: 96
+uuid:
+  -
+    value: 764ee9f1-1351-4aa0-97d8-fd1ae2dca23a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '22'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Mabrooka_Chaudhry@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, Instructional Team Leader'
+field_name:
+  -
+    value: 'Mabrooka Chaudhry'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '96'
+  uuid: 764ee9f1-1351-4aa0-97d8-fd1ae2dca23a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

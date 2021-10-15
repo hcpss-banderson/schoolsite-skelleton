@@ -1,0 +1,5 @@
+staff_member_abbreviated:
+  version: VERSION
+  css:
+    component:
+      css/staff_member_abbreviated.css: {}

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 42
+uuid:
+  -
+    value: 65678cd5-ac6d-4d4a-a43b-6cee2db2448b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:59:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: daydre_garvey@hcpss.org
+field_job_title:
+  -
+    value: FACS
+field_name:
+  -
+    value: 'Daydre Garvey'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '42'
+  uuid: 65678cd5-ac6d-4d4a-a43b-6cee2db2448b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

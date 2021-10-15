@@ -1,0 +1,53 @@
+id:
+  -
+    value: 4
+uuid:
+  -
+    value: 29527f94-acbe-4d4b-8b68-4ba69b429f5e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:16:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Lakesha_Ott@hcpss.org
+field_job_title:
+  -
+    value: 'Teachers'' Secretary/Registering Secretary'
+field_name:
+  -
+    value: 'Lakesha Ott'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '4'
+  uuid: 29527f94-acbe-4d4b-8b68-4ba69b429f5e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

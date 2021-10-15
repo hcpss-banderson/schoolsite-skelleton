@@ -1,0 +1,53 @@
+id:
+  -
+    value: 72
+uuid:
+  -
+    value: b183552e-43a8-48ae-87da-622e2e36d2e4
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:00:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Danielle_Healey@hcpss.org
+field_job_title:
+  -
+    value: 'ESOL Teacher, Related Arts Team Leader'
+field_name:
+  -
+    value: 'Danielle Healey'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '72'
+  uuid: b183552e-43a8-48ae-87da-622e2e36d2e4
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

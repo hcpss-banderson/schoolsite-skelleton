@@ -1,0 +1,53 @@
+id:
+  -
+    value: 52
+uuid:
+  -
+    value: 57923502-3555-4dfe-b114-a04a1158cef2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:04:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Sarah_Lynn_Nibber@hcpss.org
+field_job_title:
+  -
+    value: 'ELA Teacher, 8th grade, Theatre Teacher'
+field_name:
+  -
+    value: 'Sarah Lynn Nibber'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '52'
+  uuid: 57923502-3555-4dfe-b114-a04a1158cef2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

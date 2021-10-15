@@ -1,0 +1,49 @@
+id:
+  -
+    value: 115
+uuid:
+  -
+    value: 438199db-6c70-4556-b7d0-4eae5a75dde9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:55:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '24'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title: {  }
+field_name:
+  -
+    value: 'Emanuel Gore'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '115'
+  uuid: 438199db-6c70-4556-b7d0-4eae5a75dde9
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

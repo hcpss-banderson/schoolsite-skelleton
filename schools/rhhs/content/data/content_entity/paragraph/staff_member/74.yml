@@ -1,0 +1,51 @@
+id:
+  -
+    value: 74
+uuid:
+  -
+    value: 9a0e531b-7589-4a3e-96c3-ddd3b6c03aa6
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Joel_Davis@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Joel Davis'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '74'
+  uuid: 9a0e531b-7589-4a3e-96c3-ddd3b6c03aa6
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 62
+uuid:
+  -
+    value: 81c3f634-e594-47f4-926b-af5bfbcc80e0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:34:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: randi_jones@hcpss.org
+field_job_title:
+  -
+    value: 'Night Chief'
+field_name:
+  -
+    value: 'Randi Jones'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '62'
+  uuid: 81c3f634-e594-47f4-926b-af5bfbcc80e0
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

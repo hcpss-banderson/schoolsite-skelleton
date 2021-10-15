@@ -1,0 +1,53 @@
+id:
+  -
+    value: 62
+uuid:
+  -
+    value: 47e81a96-0df3-4e96-af7c-ad6b413da215
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:15:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kristina_titus@hcpss.org
+field_job_title:
+  -
+    value: 'RECC Teacher'
+field_name:
+  -
+    value: 'Kristina Titus'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '62'
+  uuid: 47e81a96-0df3-4e96-af7c-ad6b413da215
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

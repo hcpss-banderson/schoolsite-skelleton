@@ -1,0 +1,53 @@
+id:
+  -
+    value: 22
+uuid:
+  -
+    value: 9e7ed21f-7c90-4b56-a166-3d1172be9e4b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:44:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Caitlin_Kincaid@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, English'
+field_name:
+  -
+    value: 'Caitlin Kincaid'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '22'
+  uuid: 9e7ed21f-7c90-4b56-a166-3d1172be9e4b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

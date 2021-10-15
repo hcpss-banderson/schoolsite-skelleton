@@ -1,0 +1,55 @@
+id:
+  -
+    value: 1
+uuid:
+  -
+    value: 81d7b3ce-4395-4eea-b5a4-1dd2ab131a57
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:04:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: '2021-2022 Hanover Hills Elementary Staff'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:04:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:04:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 1
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '1'
+  uuid: 81d7b3ce-4395-4eea-b5a4-1dd2ab131a57
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 33
+uuid:
+  -
+    value: 19145252-3756-45cb-a6ca-fa4506e25d83
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:04:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: katelyn_lozupone@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher (Instructional Team Leader)'
+field_name:
+  -
+    value: 'Katelyn Lozupone'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '33'
+  uuid: 19145252-3756-45cb-a6ca-fa4506e25d83
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 83
+uuid:
+  -
+    value: a8bdaab7-08c8-426f-bdf8-e412fae80d1a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:02:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Christian_Vasquez@hcpss.org
+field_job_title:
+  -
+    value: 'Physical Education'
+field_name:
+  -
+    value: 'Christian Vasquez'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '83'
+  uuid: a8bdaab7-08c8-426f-bdf8-e412fae80d1a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

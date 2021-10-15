@@ -1,0 +1,53 @@
+id:
+  -
+    value: 180
+uuid:
+  -
+    value: d5dae7b2-ec60-4691-a0a5-fefa278caef0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '28'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Pam_Miller@hcpss.org
+field_job_title:
+  -
+    value: 'Day Chief'
+field_name:
+  -
+    value: 'Pam Miller'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '180'
+  uuid: d5dae7b2-ec60-4691-a0a5-fefa278caef0
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

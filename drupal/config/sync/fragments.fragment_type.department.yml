@@ -1,0 +1,7 @@
+uuid: 9ccfb4b8-a727-4020-b749-04d82f0220d4
+langcode: en
+status: true
+dependencies: {  }
+id: department
+label: Department
+description: 'An HCPSS department.'

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 15
+uuid:
+  -
+    value: 1354f379-c73f-4e43-a5e2-d87a109f4e13
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:46:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: rebecca_cullen@hcpss.org
+field_job_title:
+  -
+    value: 'Reading Specialist Teacher, Reading Team Leader'
+field_name:
+  -
+    value: 'Rebecca Cullen'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '15'
+  uuid: 1354f379-c73f-4e43-a5e2-d87a109f4e13
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

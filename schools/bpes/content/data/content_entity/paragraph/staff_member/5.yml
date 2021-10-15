@@ -1,0 +1,53 @@
+id:
+  -
+    value: 5
+uuid:
+  -
+    value: 0dcb4a2e-4c00-4507-89bb-285f2c479387
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:47:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: karen_johnson@hcpss.org
+field_job_title:
+  -
+    value: 'Teachers'' secretary (.5)'
+field_name:
+  -
+    value: 'Karen Johnson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '5'
+  uuid: 0dcb4a2e-4c00-4507-89bb-285f2c479387
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

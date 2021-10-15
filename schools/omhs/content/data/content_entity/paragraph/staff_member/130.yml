@@ -1,0 +1,53 @@
+id:
+  -
+    value: 130
+uuid:
+  -
+    value: 0a861760-c241-483c-ae5a-fbe0be06faaa
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '20'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: ernest_gabriel_Jr@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Ernest Gabriel'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '130'
+  uuid: 0a861760-c241-483c-ae5a-fbe0be06faaa
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

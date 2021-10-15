@@ -1,0 +1,53 @@
+id:
+  -
+    value: 54
+uuid:
+  -
+    value: f7b4de98-4645-4cf7-8d7c-e7a2a382e574
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:32:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: lourdes_corrigan@hcpss.org
+field_job_title:
+  -
+    value: 'Family Spanish Language Interpreter'
+field_name:
+  -
+    value: 'Lourdes Corrigan'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '54'
+  uuid: f7b4de98-4645-4cf7-8d7c-e7a2a382e574
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

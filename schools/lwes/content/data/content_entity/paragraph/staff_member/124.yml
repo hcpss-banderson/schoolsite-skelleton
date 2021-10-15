@@ -1,0 +1,53 @@
+id:
+  -
+    value: 124
+uuid:
+  -
+    value: 738d0786-3d6c-4c9f-b19e-5e12a1783a12
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:10:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '19'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kathleen_simon@hcpss.org
+field_job_title:
+  -
+    value: 'Cluster Nurse'
+field_name:
+  -
+    value: 'Kathleen Simon'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '124'
+  uuid: 738d0786-3d6c-4c9f-b19e-5e12a1783a12
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

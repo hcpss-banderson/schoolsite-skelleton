@@ -1,0 +1,53 @@
+id:
+  -
+    value: 63
+uuid:
+  -
+    value: 423e7482-0407-44d9-a89e-c1cce6c6db5d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: matthew_hempstead@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education'
+field_name:
+  -
+    value: 'Matt Hempstead'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '63'
+  uuid: 423e7482-0407-44d9-a89e-c1cce6c6db5d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

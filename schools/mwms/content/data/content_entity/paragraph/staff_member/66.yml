@@ -1,0 +1,53 @@
+id:
+  -
+    value: 66
+uuid:
+  -
+    value: 2f690ae2-b0fa-4613-aa89-9b46d16ca3d2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:57:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Chelsea_Proudlock@hcpss.org
+field_job_title:
+  -
+    value: Health
+field_name:
+  -
+    value: 'Ms. Proudlock'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '66'
+  uuid: 2f690ae2-b0fa-4613-aa89-9b46d16ca3d2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

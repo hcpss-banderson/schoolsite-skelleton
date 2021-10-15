@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+docker exec school_php composer require drupal/$1
+docker exec school_php drush en -y $1

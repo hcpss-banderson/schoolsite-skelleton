@@ -1,0 +1,53 @@
+id:
+  -
+    value: 52
+uuid:
+  -
+    value: fb1bc48c-f5d0-4c6e-90c2-a9192064a660
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:48:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: amy_shugars@hcpss.org
+field_job_title:
+  -
+    value: 'PL Paraeducator'
+field_name:
+  -
+    value: 'Amy Shugars'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '52'
+  uuid: fb1bc48c-f5d0-4c6e-90c2-a9192064a660
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

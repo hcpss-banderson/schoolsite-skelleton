@@ -1,0 +1,53 @@
+id:
+  -
+    value: 186
+uuid:
+  -
+    value: cd8340a0-7ae9-436a-9078-921840eb5f45
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:34:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '23'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Artis_Wilkins@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Artis Wilkins'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '186'
+  uuid: cd8340a0-7ae9-436a-9078-921840eb5f45
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

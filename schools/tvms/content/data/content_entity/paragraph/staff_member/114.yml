@@ -1,0 +1,53 @@
+id:
+  -
+    value: 114
+uuid:
+  -
+    value: 7eb2cf31-b939-4af9-9906-0babb924cc69
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:02:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Chaville_Washington@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Paraeducator'
+field_name:
+  -
+    value: 'Chaville Washington'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '114'
+  uuid: 7eb2cf31-b939-4af9-9906-0babb924cc69
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

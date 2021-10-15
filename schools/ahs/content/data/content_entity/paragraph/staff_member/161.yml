@@ -1,0 +1,53 @@
+id:
+  -
+    value: 161
+uuid:
+  -
+    value: 9b6d6804-881e-4a19-b759-419fa672ea89
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '25'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Charles_Lidard@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Charles Lidard'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '161'
+  uuid: 9b6d6804-881e-4a19-b759-419fa672ea89
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

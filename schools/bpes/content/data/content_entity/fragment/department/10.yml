@@ -1,0 +1,97 @@
+id:
+  -
+    value: 10
+uuid:
+  -
+    value: d8cf1ec6-6396-4323-9437-a2b8ba12cffe
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T15:47:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Regional Early Childhood Center (RECC)'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:47:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T15:47:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 67
+    target_type: paragraph
+  -
+    target_id: 68
+    target_type: paragraph
+  -
+    target_id: 69
+    target_type: paragraph
+  -
+    target_id: 70
+    target_type: paragraph
+  -
+    target_id: 71
+    target_type: paragraph
+  -
+    target_id: 72
+    target_type: paragraph
+  -
+    target_id: 73
+    target_type: paragraph
+  -
+    target_id: 74
+    target_type: paragraph
+  -
+    target_id: 75
+    target_type: paragraph
+  -
+    target_id: 76
+    target_type: paragraph
+  -
+    target_id: 77
+    target_type: paragraph
+  -
+    target_id: 78
+    target_type: paragraph
+  -
+    target_id: 79
+    target_type: paragraph
+  -
+    target_id: 80
+    target_type: paragraph
+  -
+    target_id: 81
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '10'
+  uuid: d8cf1ec6-6396-4323-9437-a2b8ba12cffe
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

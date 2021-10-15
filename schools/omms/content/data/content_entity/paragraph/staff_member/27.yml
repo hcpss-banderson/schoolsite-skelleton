@@ -1,0 +1,53 @@
+id:
+  -
+    value: 27
+uuid:
+  -
+    value: 7f237f67-96a5-43c0-9d23-954b1d3a3f5b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:59:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: sean_kelly@hcpss.org
+field_job_title:
+  -
+    value: 'Mathematics/6th Grade'
+field_name:
+  -
+    value: 'Sean Kelly'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '27'
+  uuid: 7f237f67-96a5-43c0-9d23-954b1d3a3f5b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

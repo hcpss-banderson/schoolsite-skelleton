@@ -1,0 +1,53 @@
+id:
+  -
+    value: 93
+uuid:
+  -
+    value: 73ff255e-3298-45c7-899a-73ce56a764dc
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:24:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jessica_kisamore@hcpss.org
+field_job_title:
+  -
+    value: 'Pre-School Teacher 3 & 4 yr olds'
+field_name:
+  -
+    value: 'Jessica Kisamore'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '93'
+  uuid: 73ff255e-3298-45c7-899a-73ce56a764dc
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

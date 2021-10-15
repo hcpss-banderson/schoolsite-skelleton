@@ -1,0 +1,53 @@
+id:
+  -
+    value: 119
+uuid:
+  -
+    value: d8f01ce7-b0fa-428e-9fbd-5a8593ca8b52
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:14:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: tushar_sura@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Tushar Sura'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '119'
+  uuid: d8f01ce7-b0fa-428e-9fbd-5a8593ca8b52
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

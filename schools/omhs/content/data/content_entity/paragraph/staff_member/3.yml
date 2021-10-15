@@ -1,0 +1,53 @@
+id:
+  -
+    value: 3
+uuid:
+  -
+    value: a666218b-c742-4984-8f0a-ff7f87e7c012
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: betsy_coe@hcpss.org
+field_job_title:
+  -
+    value: 'Assistant Principal (10th grade)'
+field_name:
+  -
+    value: 'Betsy Coe'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '3'
+  uuid: a666218b-c742-4984-8f0a-ff7f87e7c012
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

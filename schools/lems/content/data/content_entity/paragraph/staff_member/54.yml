@@ -1,0 +1,53 @@
+id:
+  -
+    value: 54
+uuid:
+  -
+    value: dd63dc57-0c09-404b-bfce-4e4b3d13945e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:53:05+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: shawn_gatz@hcpss.org
+field_job_title:
+  -
+    value: 'Science Teacher, Instructional Team Leader'
+field_name:
+  -
+    value: 'Shawn Gatz'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '54'
+  uuid: dd63dc57-0c09-404b-bfce-4e4b3d13945e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

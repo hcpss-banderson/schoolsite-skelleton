@@ -1,0 +1,53 @@
+id:
+  -
+    value: 98
+uuid:
+  -
+    value: 3e90d916-7c2e-4a5f-9dfe-9f271aca278b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:47:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: evelyn_brian@hcpss.org
+field_job_title:
+  -
+    value: 'Food & Nutrition Services'
+field_name:
+  -
+    value: 'Evelyn E. Brian'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '98'
+  uuid: 3e90d916-7c2e-4a5f-9dfe-9f271aca278b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

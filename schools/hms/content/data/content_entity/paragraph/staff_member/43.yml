@@ -1,0 +1,53 @@
+id:
+  -
+    value: 43
+uuid:
+  -
+    value: bc8261ed-1ed0-49f6-9008-e98958e3a4ff
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:52:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: daniel_pendley@hcpss.org
+field_job_title:
+  -
+    value: Band
+field_name:
+  -
+    value: 'Dan Pendley'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '43'
+  uuid: bc8261ed-1ed0-49f6-9008-e98958e3a4ff
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

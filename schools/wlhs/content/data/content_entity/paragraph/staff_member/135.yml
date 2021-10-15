@@ -1,0 +1,53 @@
+id:
+  -
+    value: 135
+uuid:
+  -
+    value: bc28f810-0f90-47be-97c2-28607d311dd2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:14:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kristina_dronenburg@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, Head Varsity Softball Coach'
+field_name:
+  -
+    value: 'Kristina Dronenburg'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '135'
+  uuid: bc28f810-0f90-47be-97c2-28607d311dd2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

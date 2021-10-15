@@ -1,0 +1,53 @@
+id:
+  -
+    value: 13
+uuid:
+  -
+    value: 3f3929bf-2d22-4b57-82b7-3508bb457c26
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:14:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: linda_morgan@hcpss.org
+field_job_title:
+  -
+    value: 'Data Clerk'
+field_name:
+  -
+    value: 'Linda Morgan'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '13'
+  uuid: 3f3929bf-2d22-4b57-82b7-3508bb457c26
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

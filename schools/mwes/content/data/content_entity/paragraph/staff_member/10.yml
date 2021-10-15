@@ -1,0 +1,53 @@
+id:
+  -
+    value: 10
+uuid:
+  -
+    value: b5ac5024-e63e-47d0-8ef0-d4c4b83e3b2e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:11:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: deborah_mathews@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Deb Mathews'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '10'
+  uuid: b5ac5024-e63e-47d0-8ef0-d4c4b83e3b2e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,82 @@
+id:
+  -
+    value: 24
+uuid:
+  -
+    value: 186773dc-b277-4e5e-be3c-b167be013c08
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:33:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: Custodians
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:33:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:33:34+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 183
+    target_type: paragraph
+  -
+    target_id: 184
+    target_type: paragraph
+  -
+    target_id: 185
+    target_type: paragraph
+  -
+    target_id: 186
+    target_type: paragraph
+  -
+    target_id: 187
+    target_type: paragraph
+  -
+    target_id: 188
+    target_type: paragraph
+  -
+    target_id: 189
+    target_type: paragraph
+  -
+    target_id: 190
+    target_type: paragraph
+  -
+    target_id: 191
+    target_type: paragraph
+  -
+    target_id: 192
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '24'
+  uuid: 186773dc-b277-4e5e-be3c-b167be013c08
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

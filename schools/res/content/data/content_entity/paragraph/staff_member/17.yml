@@ -1,0 +1,53 @@
+id:
+  -
+    value: 17
+uuid:
+  -
+    value: a1739b44-cc65-4e3e-9278-cad1d7800f11
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:17:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: emily_ingalls@hcpss.org
+field_job_title:
+  -
+    value: 'MINC EL'
+field_name:
+  -
+    value: 'Emily Ingralls'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '17'
+  uuid: a1739b44-cc65-4e3e-9278-cad1d7800f11
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

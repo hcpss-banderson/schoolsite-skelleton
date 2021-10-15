@@ -1,0 +1,51 @@
+id:
+  -
+    value: 88
+uuid:
+  -
+    value: 5f874453-dba5-4063-b23f-6fdec3c6f634
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: John_Mccoy@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'John McCoy'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '88'
+  uuid: 5f874453-dba5-4063-b23f-6fdec3c6f634
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

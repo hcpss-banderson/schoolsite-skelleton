@@ -1,0 +1,51 @@
+id:
+  -
+    value: 31
+uuid:
+  -
+    value: 96e488d1-b03f-4c71-b5a5-4d42bec62d79
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:20:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: alexandria_basile@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Ally Basille Capecci'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '31'
+  uuid: 96e488d1-b03f-4c71-b5a5-4d42bec62d79
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

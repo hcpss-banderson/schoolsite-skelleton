@@ -1,0 +1,53 @@
+id:
+  -
+    value: 97
+uuid:
+  -
+    value: f8eaa4ee-093b-48bc-a19e-dc79a2dca692
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:04:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jeff_leard@hcpss.org
+field_job_title:
+  -
+    value: 'School Psychologist'
+field_name:
+  -
+    value: 'Jeff Leard'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '97'
+  uuid: f8eaa4ee-093b-48bc-a19e-dc79a2dca692
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

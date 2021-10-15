@@ -1,0 +1,53 @@
+id:
+  -
+    value: 110
+uuid:
+  -
+    value: 21c94b9a-54e2-42d1-bd95-d4480aeff428
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:02:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Menka_Patel@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Paraeducator'
+field_name:
+  -
+    value: 'Menka Patel'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '110'
+  uuid: 21c94b9a-54e2-42d1-bd95-d4480aeff428
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

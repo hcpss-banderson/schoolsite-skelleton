@@ -1,0 +1,53 @@
+id:
+  -
+    value: 55
+uuid:
+  -
+    value: 31a988e0-412e-48b7-a5c9-34c2755b41ed
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:00:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Dounia_Bounoua@hcpss.org
+field_job_title:
+  -
+    value: 'Special Educator'
+field_name:
+  -
+    value: 'Dounia Bounoua'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '55'
+  uuid: 31a988e0-412e-48b7-a5c9-34c2755b41ed
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

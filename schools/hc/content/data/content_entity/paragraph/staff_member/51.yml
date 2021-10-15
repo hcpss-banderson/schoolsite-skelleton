@@ -1,0 +1,53 @@
+id:
+  -
+    value: 51
+uuid:
+  -
+    value: 5290b5bf-eb8e-4275-8117-c77287ed46bb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:44:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jennifer_Crayton@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, Engineering and Technology'
+field_name:
+  -
+    value: 'Jen Crayton'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '51'
+  uuid: 5290b5bf-eb8e-4275-8117-c77287ed46bb
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

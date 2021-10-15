@@ -1,0 +1,53 @@
+id:
+  -
+    value: 7
+uuid:
+  -
+    value: f0234278-bc45-4438-b72f-c1a5bb8ab4a3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:35:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jamie_Proctor@hcpss.org
+field_job_title:
+  -
+    value: 'Leadership Intern'
+field_name:
+  -
+    value: 'Jamie Proctor'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '7'
+  uuid: f0234278-bc45-4438-b72f-c1a5bb8ab4a3
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

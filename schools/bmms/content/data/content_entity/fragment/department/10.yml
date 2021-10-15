@@ -1,0 +1,70 @@
+id:
+  -
+    value: 10
+uuid:
+  -
+    value: f9c2be8c-e43a-4626-88f1-7ea1e92097e8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:43:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Media, GT, Technology and Specialists'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:43:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:43:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 87
+    target_type: paragraph
+  -
+    target_id: 88
+    target_type: paragraph
+  -
+    target_id: 89
+    target_type: paragraph
+  -
+    target_id: 90
+    target_type: paragraph
+  -
+    target_id: 91
+    target_type: paragraph
+  -
+    target_id: 92
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '10'
+  uuid: f9c2be8c-e43a-4626-88f1-7ea1e92097e8
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

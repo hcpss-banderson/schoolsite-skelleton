@@ -1,0 +1,6 @@
+hcpss_school.settings_form:
+  title: HCPSS School
+  description: Configure HCPSS School.
+  parent: system.admin_config_system
+  route_name: hcpss_school.settings_form
+  weight: 10

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 57
+uuid:
+  -
+    value: b2d34a4d-e52e-4730-a824-cb4e573faf9a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:12:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jennifer_kinloch@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Team Leader'
+field_name:
+  -
+    value: 'Jennifer Kinloch'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '57'
+  uuid: b2d34a4d-e52e-4730-a824-cb4e573faf9a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

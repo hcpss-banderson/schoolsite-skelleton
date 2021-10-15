@@ -1,0 +1,53 @@
+id:
+  -
+    value: 59
+uuid:
+  -
+    value: ccf245e7-e8c9-451c-9b7c-6cb445dc845f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:09:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: tara_mahanti@hcpss.org
+field_job_title:
+  -
+    value: 'Speech Pathologist'
+field_name:
+  -
+    value: 'Tara Mahanti'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '59'
+  uuid: ccf245e7-e8c9-451c-9b7c-6cb445dc845f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 108
+uuid:
+  -
+    value: 67a09ccc-27ce-4f5f-a132-2c1280886cf3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:14:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: holli_tucci@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, Dance'
+field_name:
+  -
+    value: 'Holli Tucci'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '108'
+  uuid: 67a09ccc-27ce-4f5f-a132-2c1280886cf3
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

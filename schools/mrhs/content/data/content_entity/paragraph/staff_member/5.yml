@@ -1,0 +1,53 @@
+id:
+  -
+    value: 5
+uuid:
+  -
+    value: 82b0853d-6f66-4dbe-bc06-63fcf735d07b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:36:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: christopher_reagle@hcpss.org
+field_job_title:
+  -
+    value: 'Activities & Athletics Manager'
+field_name:
+  -
+    value: 'Christopher Reagle'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '5'
+  uuid: 82b0853d-6f66-4dbe-bc06-63fcf735d07b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

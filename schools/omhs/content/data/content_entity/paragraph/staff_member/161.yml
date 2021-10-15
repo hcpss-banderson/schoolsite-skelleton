@@ -1,0 +1,51 @@
+id:
+  -
+    value: 161
+uuid:
+  -
+    value: 99b0bb85-3416-477e-ab12-09bdd6c9ff97
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '24'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: motunrayo_faniyi@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Motunrayo Faniyi'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '161'
+  uuid: 99b0bb85-3416-477e-ab12-09bdd6c9ff97
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

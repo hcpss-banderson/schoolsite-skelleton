@@ -1,0 +1,53 @@
+id:
+  -
+    value: 82
+uuid:
+  -
+    value: dde18cf3-ba5e-429f-9f16-7cfbc3a0acda
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:59:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: beth_yu@hcpss.org
+field_job_title:
+  -
+    value: 'Library Assistant'
+field_name:
+  -
+    value: 'Beth Yu'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '82'
+  uuid: dde18cf3-ba5e-429f-9f16-7cfbc3a0acda
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

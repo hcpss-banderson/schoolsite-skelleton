@@ -1,0 +1,53 @@
+id:
+  -
+    value: 183
+uuid:
+  -
+    value: f8f964fd-0623-441b-8b17-08b19839f86b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Ato_Rockson@hcpss.org
+field_job_title:
+  -
+    value: Custodian
+field_name:
+  -
+    value: 'Ato Rockson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '183'
+  uuid: f8f964fd-0623-441b-8b17-08b19839f86b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

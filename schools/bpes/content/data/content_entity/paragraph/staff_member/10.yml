@@ -1,0 +1,53 @@
+id:
+  -
+    value: 10
+uuid:
+  -
+    value: d057e4e2-760c-4464-b4a1-3924d5cfb898
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:47:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Sharon_Leister@hcpss.org
+field_job_title:
+  -
+    value: 'Night Building Supervisor'
+field_name:
+  -
+    value: 'Sharon Leister'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '10'
+  uuid: d057e4e2-760c-4464-b4a1-3924d5cfb898
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

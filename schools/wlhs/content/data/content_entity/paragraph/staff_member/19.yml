@@ -1,0 +1,53 @@
+id:
+  -
+    value: 19
+uuid:
+  -
+    value: ae0007bc-4b59-4d7e-88df-c9aadba8df17
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:14:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: anthone_bond@hcpss.org
+field_job_title:
+  -
+    value: 'Alternative Education Teacher'
+field_name:
+  -
+    value: 'Anthone Bond'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '19'
+  uuid: ae0007bc-4b59-4d7e-88df-c9aadba8df17
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

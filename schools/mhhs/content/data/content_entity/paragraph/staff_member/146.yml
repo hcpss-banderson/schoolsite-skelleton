@@ -1,0 +1,53 @@
+id:
+  -
+    value: 146
+uuid:
+  -
+    value: 781fcc54-8fc6-4d2a-a9fa-eb74d5cb7b58
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:35:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '25'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Giang_Lu@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Giang Lu'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '146'
+  uuid: 781fcc54-8fc6-4d2a-a9fa-eb74d5cb7b58
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

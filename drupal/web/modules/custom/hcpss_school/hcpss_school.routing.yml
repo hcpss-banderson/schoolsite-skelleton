@@ -1,0 +1,7 @@
+hcpss_school.settings_form:
+  path: '/admin/config/system/hcpss-school'
+  defaults:
+    _title: 'HCPSS School settings'
+    _form: 'Drupal\hcpss_school\Form\SettingsForm'
+  requirements:
+    _permission: 'administer hcpss_school configuration'

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 25
+uuid:
+  -
+    value: 18e5c4f3-65d4-404e-9744-6e04539e6f88
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: judy_demasi@hcpss.org
+field_job_title:
+  -
+    value: 'Student Services Secretary'
+field_name:
+  -
+    value: 'Judy DeMasi'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '25'
+  uuid: 18e5c4f3-65d4-404e-9744-6e04539e6f88
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

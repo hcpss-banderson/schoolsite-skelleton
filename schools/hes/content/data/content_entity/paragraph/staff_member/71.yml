@@ -1,0 +1,53 @@
+id:
+  -
+    value: 71
+uuid:
+  -
+    value: dfe98b68-74f0-4b17-adf8-aa2a6b18d42c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:03:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Lori_Wilson@hcpss.org
+field_job_title:
+  -
+    value: 'Paraeducator (Grades 3&4)'
+field_name:
+  -
+    value: 'Lori Wilson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '71'
+  uuid: dfe98b68-74f0-4b17-adf8-aa2a6b18d42c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

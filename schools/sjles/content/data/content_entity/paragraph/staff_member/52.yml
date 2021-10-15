@@ -1,0 +1,53 @@
+id:
+  -
+    value: 52
+uuid:
+  -
+    value: 2b7d76ad-9c37-4fc2-b829-eab3e9bd2f6c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:20:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: margaret_fischer@hcpss.org
+field_job_title:
+  -
+    value: '.5 Media Specialist .5 Technology'
+field_name:
+  -
+    value: 'Maggie Fischer'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '52'
+  uuid: 2b7d76ad-9c37-4fc2-b829-eab3e9bd2f6c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

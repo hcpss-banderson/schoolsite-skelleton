@@ -1,0 +1,51 @@
+id:
+  -
+    value: 23
+uuid:
+  -
+    value: dd19e4bf-0122-4423-83bf-2f1bded3f40a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: donna_fox@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Donna Fox'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '23'
+  uuid: dd19e4bf-0122-4423-83bf-2f1bded3f40a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 38
+uuid:
+  -
+    value: eb474162-61cd-4d12-8d89-20161496fd91
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:02:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: mandi_buckler@hcpss.org
+field_job_title:
+  -
+    value: 'Art Teacher'
+field_name:
+  -
+    value: 'Mandi Buckler'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '38'
+  uuid: eb474162-61cd-4d12-8d89-20161496fd91
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

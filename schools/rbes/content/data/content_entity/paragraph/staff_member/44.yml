@@ -1,0 +1,53 @@
+id:
+  -
+    value: 44
+uuid:
+  -
+    value: dc2e4a25-ae2f-4930-a82a-6a77db37f6ce
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:16:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: 'Patricia_O''neil@hcpss.org'
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Patti O''Neil'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '44'
+  uuid: dc2e4a25-ae2f-4930-a82a-6a77db37f6ce
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

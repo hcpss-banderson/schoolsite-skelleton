@@ -1,0 +1,53 @@
+id:
+  -
+    value: 151
+uuid:
+  -
+    value: 47e77f96-8f2b-4071-a5b3-4949961614cb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '24'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Dana_Meledick@hcpss.org
+field_job_title:
+  -
+    value: 'School Counselor, F-Kj (grade 10-12), Instructional Team Leader'
+field_name:
+  -
+    value: 'Dana Meledick'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '151'
+  uuid: 47e77f96-8f2b-4071-a5b3-4949961614cb
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

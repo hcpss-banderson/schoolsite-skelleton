@@ -1,0 +1,70 @@
+id:
+  -
+    value: 2
+uuid:
+  -
+    value: d67449b2-723b-4b08-8bf6-773b98100a5a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:22:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Front Office'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:22:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:22:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 3
+    target_type: paragraph
+  -
+    target_id: 4
+    target_type: paragraph
+  -
+    target_id: 5
+    target_type: paragraph
+  -
+    target_id: 6
+    target_type: paragraph
+  -
+    target_id: 7
+    target_type: paragraph
+  -
+    target_id: 8
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '2'
+  uuid: d67449b2-723b-4b08-8bf6-773b98100a5a
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

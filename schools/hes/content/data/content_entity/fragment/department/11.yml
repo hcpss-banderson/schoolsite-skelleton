@@ -1,0 +1,67 @@
+id:
+  -
+    value: 11
+uuid:
+  -
+    value: 73f21d98-637c-40c6-b9da-12df78704c16
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:03:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Paraeducator Team'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:03:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:03:31+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 67
+    target_type: paragraph
+  -
+    target_id: 68
+    target_type: paragraph
+  -
+    target_id: 69
+    target_type: paragraph
+  -
+    target_id: 70
+    target_type: paragraph
+  -
+    target_id: 71
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '11'
+  uuid: 73f21d98-637c-40c6-b9da-12df78704c16
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 29
+uuid:
+  -
+    value: 8fd92199-cfd4-4d53-97cb-7dadfb2b6397
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:45:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: deanne_haugh@hcpss.org
+field_job_title:
+  -
+    value: 'Paraeducator 1st & 2nd Grades'
+field_name:
+  -
+    value: 'Dee Haugh'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '29'
+  uuid: 8fd92199-cfd4-4d53-97cb-7dadfb2b6397
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

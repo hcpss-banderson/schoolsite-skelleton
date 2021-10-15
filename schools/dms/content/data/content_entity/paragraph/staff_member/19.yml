@@ -1,0 +1,53 @@
+id:
+  -
+    value: 19
+uuid:
+  -
+    value: ff6b7346-d456-4f20-8b89-d3d12efec344
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:45:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: susan_thomas@hcpss.org
+field_job_title:
+  -
+    value: 'ELA 6'
+field_name:
+  -
+    value: 'Susan Thomas'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '19'
+  uuid: ff6b7346-d456-4f20-8b89-d3d12efec344
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

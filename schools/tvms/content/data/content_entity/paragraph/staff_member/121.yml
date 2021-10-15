@@ -1,0 +1,53 @@
+id:
+  -
+    value: 121
+uuid:
+  -
+    value: be4c6645-8d11-4185-9606-9bc1c6f4b0b9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:02:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jeanette_Perry@hcpss.org
+field_job_title:
+  -
+    value: Custodian
+field_name:
+  -
+    value: 'Jeanette Perry'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '121'
+  uuid: be4c6645-8d11-4185-9606-9bc1c6f4b0b9
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

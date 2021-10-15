@@ -1,0 +1,51 @@
+id:
+  -
+    value: 35
+uuid:
+  -
+    value: 6d858f08-cb0d-4328-ba9d-a4eeca53ceb5
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:56:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: melisa_michener@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Melisa Michener'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '35'
+  uuid: 6d858f08-cb0d-4328-ba9d-a4eeca53ceb5
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

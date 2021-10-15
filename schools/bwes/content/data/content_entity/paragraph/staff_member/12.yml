@@ -1,0 +1,53 @@
+id:
+  -
+    value: 12
+uuid:
+  -
+    value: cb849c1c-ce92-43f0-ad40-8e5937491c95
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:50:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Noel_Morrisey@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher ITL'
+field_name:
+  -
+    value: 'Noel Morrisey'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '12'
+  uuid: cb849c1c-ce92-43f0-ad40-8e5937491c95
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

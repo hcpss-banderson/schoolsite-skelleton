@@ -1,0 +1,53 @@
+id:
+  -
+    value: 164
+uuid:
+  -
+    value: e5981629-694e-4a40-a35a-e6e87b73d75c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:36:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: anthony_webb@hcpss.org
+field_job_title:
+  -
+    value: Custodian
+field_name:
+  -
+    value: 'Anthony Webb'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '164'
+  uuid: e5981629-694e-4a40-a35a-e6e87b73d75c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 18
+uuid:
+  -
+    value: 1180bfad-2dfa-48cc-9a9a-14075eb6bc93
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:17:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jessica_Morrissey1@hcpss.org
+field_job_title:
+  -
+    value: 'MINC EL'
+field_name:
+  -
+    value: 'Jessica Morrissey'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '18'
+  uuid: 1180bfad-2dfa-48cc-9a9a-14075eb6bc93
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

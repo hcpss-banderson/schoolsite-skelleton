@@ -1,0 +1,53 @@
+id:
+  -
+    value: 79
+uuid:
+  -
+    value: bffebf55-81c3-4b1e-8d86-931d7a9c1919
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:09:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Naomi_Johnson@hcpss.org
+field_job_title:
+  -
+    value: 'Hispanic Achievement Liaison'
+field_name:
+  -
+    value: 'Naomi Johnson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '79'
+  uuid: bffebf55-81c3-4b1e-8d86-931d7a9c1919
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

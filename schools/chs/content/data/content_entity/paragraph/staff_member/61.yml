@@ -1,0 +1,53 @@
+id:
+  -
+    value: 61
+uuid:
+  -
+    value: 5b4d6a73-993f-4622-9b9e-614296752e6a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:30:21+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: robert_slopek@hcpss.org
+field_job_title:
+  -
+    value: Teacher/Health
+field_name:
+  -
+    value: 'Robert Slopek'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '61'
+  uuid: 5b4d6a73-993f-4622-9b9e-614296752e6a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

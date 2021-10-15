@@ -1,0 +1,53 @@
+id:
+  -
+    value: 2
+uuid:
+  -
+    value: af41ec1b-be97-4703-961b-a01f223b7698
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:36:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: mary_cherry@hcpss.org
+field_job_title:
+  -
+    value: 'Assistant Principal, Oe-Z'
+field_name:
+  -
+    value: 'Marty Cherry'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '2'
+  uuid: af41ec1b-be97-4703-961b-a01f223b7698
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

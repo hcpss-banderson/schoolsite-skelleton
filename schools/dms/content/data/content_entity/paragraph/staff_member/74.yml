@@ -1,0 +1,53 @@
+id:
+  -
+    value: 74
+uuid:
+  -
+    value: 2f71ce34-ba43-44f1-aa15-7e9f26b14952
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:45:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: deborah_heuvel@hcpss.org
+field_job_title:
+  -
+    value: Cafeteria
+field_name:
+  -
+    value: 'Deborah Heuvel'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '74'
+  uuid: 2f71ce34-ba43-44f1-aa15-7e9f26b14952
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

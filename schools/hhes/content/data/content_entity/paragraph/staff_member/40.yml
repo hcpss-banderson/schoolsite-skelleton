@@ -1,0 +1,53 @@
+id:
+  -
+    value: 40
+uuid:
+  -
+    value: b064483a-a762-414e-b737-f8632bb0187a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:04:32+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: 'emily_o''connor@hcpss.org'
+field_job_title:
+  -
+    value: 'Teacher (Instructional Team Leader)'
+field_name:
+  -
+    value: 'Emily O''Connor'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '40'
+  uuid: b064483a-a762-414e-b737-f8632bb0187a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

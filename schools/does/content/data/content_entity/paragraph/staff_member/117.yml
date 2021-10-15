@@ -1,0 +1,53 @@
+id:
+  -
+    value: 117
+uuid:
+  -
+    value: c3997ec3-f6b7-4550-bb3a-b95cb71ad4be
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:56:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: adevija_sejmenovic@hcpss.org
+field_job_title:
+  -
+    value: Cafeteria
+field_name:
+  -
+    value: 'Adevija Sejmenovic'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '117'
+  uuid: c3997ec3-f6b7-4550-bb3a-b95cb71ad4be
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

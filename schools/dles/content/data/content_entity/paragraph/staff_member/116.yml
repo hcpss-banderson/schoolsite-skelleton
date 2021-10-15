@@ -1,0 +1,49 @@
+id:
+  -
+    value: 116
+uuid:
+  -
+    value: f8c18de1-5ef4-4243-b639-8e7c3ed7ab4b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:55:16+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '24'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title: {  }
+field_name:
+  -
+    value: 'Roderick McCrae'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '116'
+  uuid: f8c18de1-5ef4-4243-b639-8e7c3ed7ab4b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

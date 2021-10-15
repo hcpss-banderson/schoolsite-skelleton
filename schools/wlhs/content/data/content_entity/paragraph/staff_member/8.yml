@@ -1,0 +1,53 @@
+id:
+  -
+    value: 8
+uuid:
+  -
+    value: 9a5666d4-0e56-4997-8883-33dc9a3678f5
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:14:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: patricia_crowe@hcpss.org
+field_job_title:
+  -
+    value: Bookkeeper
+field_name:
+  -
+    value: 'Patricia Crowe'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '8'
+  uuid: 9a5666d4-0e56-4997-8883-33dc9a3678f5
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

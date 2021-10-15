@@ -1,0 +1,53 @@
+id:
+  -
+    value: 5
+uuid:
+  -
+    value: 034efda4-b868-4f15-81ba-a742b9413229
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Sherri_Levy@hcpss.org
+field_job_title:
+  -
+    value: 'Assistant Principal (Rj - Z )'
+field_name:
+  -
+    value: 'Sherri Levy'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '5'
+  uuid: 034efda4-b868-4f15-81ba-a742b9413229
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

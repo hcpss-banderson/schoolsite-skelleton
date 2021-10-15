@@ -1,0 +1,53 @@
+id:
+  -
+    value: 19
+uuid:
+  -
+    value: d0acaf2e-7f77-4291-bf8f-08acf5011b9b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:44:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Donna_Elliott@hcpss.org
+field_job_title:
+  -
+    value: Math
+field_name:
+  -
+    value: 'Donna Elliott'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '19'
+  uuid: d0acaf2e-7f77-4291-bf8f-08acf5011b9b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

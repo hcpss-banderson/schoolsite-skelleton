@@ -1,0 +1,51 @@
+id:
+  -
+    value: 43
+uuid:
+  -
+    value: 97ec0e26-a916-4e2d-a273-58792939426d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:12:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: 'Math Support Teacher'
+field_name:
+  -
+    value: 'Dennis McDonald'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '43'
+  uuid: 97ec0e26-a916-4e2d-a273-58792939426d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

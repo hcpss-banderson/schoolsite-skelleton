@@ -1,0 +1,53 @@
+id:
+  -
+    value: 88
+uuid:
+  -
+    value: f4681763-9f0a-48b3-a11f-bb27d31d0ab6
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:31:23+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '18'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: william_reigel@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, Instructional Team Leader'
+field_name:
+  -
+    value: 'William Reigel'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '88'
+  uuid: f4681763-9f0a-48b3-a11f-bb27d31d0ab6
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

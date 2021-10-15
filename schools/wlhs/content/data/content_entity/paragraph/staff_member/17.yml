@@ -1,0 +1,53 @@
+id:
+  -
+    value: 17
+uuid:
+  -
+    value: aa05aa6f-2ea5-4b95-b513-e29d2ee7a118
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:14:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: shannon_cole_SRO@hcpss.org
+field_job_title:
+  -
+    value: 'School Resource Officer'
+field_name:
+  -
+    value: 'Shannon Cole'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '17'
+  uuid: aa05aa6f-2ea5-4b95-b513-e29d2ee7a118
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

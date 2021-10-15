@@ -1,0 +1,53 @@
+id:
+  -
+    value: 10
+uuid:
+  -
+    value: 3b7d89d2-8de6-4e24-b9b9-ad6c929468b9
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:52:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: benjamin_wade@hcpss.org
+field_job_title:
+  -
+    value: PPW
+field_name:
+  -
+    value: 'Benjamin Wade'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '10'
+  uuid: 3b7d89d2-8de6-4e24-b9b9-ad6c929468b9
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

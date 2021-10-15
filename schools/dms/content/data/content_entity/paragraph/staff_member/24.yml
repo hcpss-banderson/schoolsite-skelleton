@@ -1,0 +1,53 @@
+id:
+  -
+    value: 24
+uuid:
+  -
+    value: 5b37a6c2-5e00-4eef-8c9d-7a9e4f7cdf03
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:45:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: laura_plunkett@hcpss.org
+field_job_title:
+  -
+    value: 'Math 7,8 (8th Grade Team Leader)'
+field_name:
+  -
+    value: 'Laura Plunkett'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '24'
+  uuid: 5b37a6c2-5e00-4eef-8c9d-7a9e4f7cdf03
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

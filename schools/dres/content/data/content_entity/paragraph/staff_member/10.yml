@@ -1,0 +1,53 @@
+id:
+  -
+    value: 10
+uuid:
+  -
+    value: 15c061d6-a57c-436f-8693-69bddd98b693
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:57:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: sara_fairchild@hcpss.org
+field_job_title:
+  -
+    value: 'School Counselor'
+field_name:
+  -
+    value: 'Sara Fairchild'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '10'
+  uuid: 15c061d6-a57c-436f-8693-69bddd98b693
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

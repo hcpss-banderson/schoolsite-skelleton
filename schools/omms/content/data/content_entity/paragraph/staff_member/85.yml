@@ -1,0 +1,51 @@
+id:
+  -
+    value: 85
+uuid:
+  -
+    value: 5543602d-2a64-466d-9976-7d860cd31d78
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:59:06+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: '.4 ESOL Teacher'
+field_name:
+  -
+    value: 'Vacancy Vacancy'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '85'
+  uuid: 5543602d-2a64-466d-9976-7d860cd31d78
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 91
+uuid:
+  -
+    value: 74b063dd-a54e-42b5-a0b2-71ade0cd7463
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:47:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: rebecca_hurlock@hcpss.org
+field_job_title:
+  -
+    value: 'Co-Instructional Team Leader'
+field_name:
+  -
+    value: 'Rebecca Hurlock'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '91'
+  uuid: 74b063dd-a54e-42b5-a0b2-71ade0cd7463
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

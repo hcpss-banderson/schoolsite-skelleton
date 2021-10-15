@@ -1,0 +1,53 @@
+id:
+  -
+    value: 51
+uuid:
+  -
+    value: 20d36ef3-5c2b-4c82-8a5c-2c87b2663649
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:09:53+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Laurie_Buckland@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Instructional Team Leader'
+field_name:
+  -
+    value: 'Laurie Buckland'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '51'
+  uuid: 20d36ef3-5c2b-4c82-8a5c-2c87b2663649
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

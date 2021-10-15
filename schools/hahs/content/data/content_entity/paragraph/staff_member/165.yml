@@ -1,0 +1,53 @@
+id:
+  -
+    value: 165
+uuid:
+  -
+    value: d8120fa0-2799-45d4-b99f-4f250f8e8fa4
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:32:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '33'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Virginia_Vagnier@hcpss.org
+field_job_title:
+  -
+    value: 'Food Service Worker'
+field_name:
+  -
+    value: 'Virginia Vagnier'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '165'
+  uuid: d8120fa0-2799-45d4-b99f-4f250f8e8fa4
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

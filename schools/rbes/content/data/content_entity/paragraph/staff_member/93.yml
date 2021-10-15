@@ -1,0 +1,53 @@
+id:
+  -
+    value: 93
+uuid:
+  -
+    value: e7489969-ba86-4c07-bfd5-5df1cd947ae3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:16:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Lori_Carr@hcpss.org
+field_job_title:
+  -
+    value: 'Physical Therapist'
+field_name:
+  -
+    value: 'Lori Carr'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '93'
+  uuid: e7489969-ba86-4c07-bfd5-5df1cd947ae3
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

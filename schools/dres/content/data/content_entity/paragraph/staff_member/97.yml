@@ -1,0 +1,53 @@
+id:
+  -
+    value: 97
+uuid:
+  -
+    value: 38dd56e4-f7bc-473a-b8f9-22ebb8086a32
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:57:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: michael_sachs@hcpss.org
+field_job_title:
+  -
+    value: P.E.
+field_name:
+  -
+    value: 'Michael Sachs'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '97'
+  uuid: 38dd56e4-f7bc-473a-b8f9-22ebb8086a32
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

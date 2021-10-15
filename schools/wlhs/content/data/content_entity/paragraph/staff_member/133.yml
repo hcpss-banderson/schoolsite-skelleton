@@ -1,0 +1,53 @@
+id:
+  -
+    value: 133
+uuid:
+  -
+    value: 1d7466bf-fe9e-406d-8242-830db22761aa
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:14:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: anthony_bell@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher/JV Boys Lacrosse Head Coach'
+field_name:
+  -
+    value: 'Anthony Bell'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '133'
+  uuid: 1d7466bf-fe9e-406d-8242-830db22761aa
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

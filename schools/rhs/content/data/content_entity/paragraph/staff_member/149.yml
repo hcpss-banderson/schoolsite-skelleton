@@ -1,0 +1,53 @@
+id:
+  -
+    value: 149
+uuid:
+  -
+    value: 1cfb96c6-f4ee-4d91-9aaf-436d0b7bd192
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Emily_Mandile@hcpss.org
+field_job_title:
+  -
+    value: Registrar
+field_name:
+  -
+    value: 'Emily Mandile'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '149'
+  uuid: 1cfb96c6-f4ee-4d91-9aaf-436d0b7bd192
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 8
+uuid:
+  -
+    value: 82cb0e3d-4d83-490a-9843-222c6cd1959a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:56:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: karin_faupel@hcpss.org
+field_job_title:
+  -
+    value: preK
+field_name:
+  -
+    value: 'Karin Faupel'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '8'
+  uuid: 82cb0e3d-4d83-490a-9843-222c6cd1959a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

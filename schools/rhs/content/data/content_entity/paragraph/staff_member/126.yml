@@ -1,0 +1,53 @@
+id:
+  -
+    value: 126
+uuid:
+  -
+    value: c6c3fa17-3d39-4f14-afa6-a2ea714a7202
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Gregory_Solomon@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Greg Solomon'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '126'
+  uuid: c6c3fa17-3d39-4f14-afa6-a2ea714a7202
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

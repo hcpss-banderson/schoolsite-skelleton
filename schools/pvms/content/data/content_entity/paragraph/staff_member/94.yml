@@ -1,0 +1,51 @@
+id:
+  -
+    value: 94
+uuid:
+  -
+    value: 81e3df03-b3a9-48b3-a5ed-4295f391b6b3
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Micaela_Fritz@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Micaela Fritz'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '94'
+  uuid: 81e3df03-b3a9-48b3-a5ed-4295f391b6b3
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

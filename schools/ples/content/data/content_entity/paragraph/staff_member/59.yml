@@ -1,0 +1,53 @@
+id:
+  -
+    value: 59
+uuid:
+  -
+    value: f8883c57-f743-4f15-909f-7223e29ddf56
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:13:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: tammy_hart@hcpss.org
+field_job_title:
+  -
+    value: 'Media Paraeducator'
+field_name:
+  -
+    value: 'Tammy Hart'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '59'
+  uuid: f8883c57-f743-4f15-909f-7223e29ddf56
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

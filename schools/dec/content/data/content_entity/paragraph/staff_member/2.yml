@@ -1,0 +1,53 @@
+id:
+  -
+    value: 2
+uuid:
+  -
+    value: 6819c621-f1aa-40f2-8fe4-d7a595f3f272
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:43:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: laura_nichols@hcpss.org
+field_job_title:
+  -
+    value: 'Principal Secretary'
+field_name:
+  -
+    value: 'Laura Nichols'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '2'
+  uuid: 6819c621-f1aa-40f2-8fe4-d7a595f3f272
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

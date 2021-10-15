@@ -1,0 +1,53 @@
+id:
+  -
+    value: 148
+uuid:
+  -
+    value: 5fda9293-ffe8-426e-afea-7ec8ad009713
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '24'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Donna_Blackwell@hcpss.org
+field_job_title:
+  -
+    value: PPW
+field_name:
+  -
+    value: 'Donna Blackwell'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '148'
+  uuid: 5fda9293-ffe8-426e-afea-7ec8ad009713
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

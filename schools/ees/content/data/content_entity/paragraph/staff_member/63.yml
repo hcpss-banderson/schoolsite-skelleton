@@ -1,0 +1,51 @@
+id:
+  -
+    value: 63
+uuid:
+  -
+    value: cdd4a625-1f81-4d56-a43f-11a5aa9f95b8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:58:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Sue Conaway'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '63'
+  uuid: cdd4a625-1f81-4d56-a43f-11a5aa9f95b8
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

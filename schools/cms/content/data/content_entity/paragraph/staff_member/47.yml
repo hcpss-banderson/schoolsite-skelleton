@@ -1,0 +1,53 @@
+id:
+  -
+    value: 47
+uuid:
+  -
+    value: a40c18de-4e01-42f4-86be-347e5c7c4ef2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:44:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: elizabeth_silvestri@hcpss.org
+field_job_title:
+  -
+    value: 'World Language'
+field_name:
+  -
+    value: 'Betsy Silvestri'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '47'
+  uuid: a40c18de-4e01-42f4-86be-347e5c7c4ef2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

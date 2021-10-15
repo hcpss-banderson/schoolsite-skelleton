@@ -1,0 +1,53 @@
+id:
+  -
+    value: 39
+uuid:
+  -
+    value: 2096f107-73a6-4903-b6cd-2ba63c50814d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Shobha_Sheshadri@hcpss.org
+field_job_title:
+  -
+    value: SA
+field_name:
+  -
+    value: 'Shobha Sheshadri'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '39'
+  uuid: 2096f107-73a6-4903-b6cd-2ba63c50814d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

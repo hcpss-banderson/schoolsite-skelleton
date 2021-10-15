@@ -1,0 +1,53 @@
+id:
+  -
+    value: 39
+uuid:
+  -
+    value: 65055a90-a7a3-4e51-b28b-91e2920c6d45
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: michelle_langan@hcpss.org
+field_job_title:
+  -
+    value: Science
+field_name:
+  -
+    value: 'Michelle Langan'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '39'
+  uuid: 65055a90-a7a3-4e51-b28b-91e2920c6d45
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

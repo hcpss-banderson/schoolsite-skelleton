@@ -1,0 +1,53 @@
+id:
+  -
+    value: 23
+uuid:
+  -
+    value: 65c3ff69-7c27-4149-a453-4cfe229011f4
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:44:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: pat_madden@hcpss.org
+field_job_title:
+  -
+    value: Science
+field_name:
+  -
+    value: 'Pat Madden'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '23'
+  uuid: 65c3ff69-7c27-4149-a453-4cfe229011f4
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

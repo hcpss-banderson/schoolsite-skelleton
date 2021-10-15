@@ -1,0 +1,53 @@
+id:
+  -
+    value: 77
+uuid:
+  -
+    value: 32d9f319-d780-4c44-aea9-dda76f91bc3d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:05:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jonathan_Velsey@hcpss.org
+field_job_title:
+  -
+    value: 'Instrumental Strings Teacher'
+field_name:
+  -
+    value: 'Jonathan Velsey'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '77'
+  uuid: 32d9f319-d780-4c44-aea9-dda76f91bc3d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

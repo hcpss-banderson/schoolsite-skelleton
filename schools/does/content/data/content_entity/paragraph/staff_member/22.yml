@@ -1,0 +1,51 @@
+id:
+  -
+    value: 22
+uuid:
+  -
+    value: 3282f486-d026-439b-8dee-d35b9911b68d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:56:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: robyn_mayo@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Robyn Mayo'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '22'
+  uuid: 3282f486-d026-439b-8dee-d35b9911b68d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

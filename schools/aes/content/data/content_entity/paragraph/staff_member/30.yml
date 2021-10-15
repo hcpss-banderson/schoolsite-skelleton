@@ -1,0 +1,53 @@
+id:
+  -
+    value: 30
+uuid:
+  -
+    value: 4374bcd3-24f0-4394-a9fc-d5ff64b5800c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:45:39+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: cynthia_grabow@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher/Team Leader'
+field_name:
+  -
+    value: 'Cindy Grabow'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '30'
+  uuid: 4374bcd3-24f0-4394-a9fc-d5ff64b5800c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

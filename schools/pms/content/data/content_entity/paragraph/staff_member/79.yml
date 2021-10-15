@@ -1,0 +1,53 @@
+id:
+  -
+    value: 79
+uuid:
+  -
+    value: 9564335b-be15-4e3b-94eb-e9f50ca46b5f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:00:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Prince_Adu@hcpss.org
+field_job_title:
+  -
+    value: 'PM Crew Chief'
+field_name:
+  -
+    value: 'Prince Adu'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '79'
+  uuid: 9564335b-be15-4e3b-94eb-e9f50ca46b5f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

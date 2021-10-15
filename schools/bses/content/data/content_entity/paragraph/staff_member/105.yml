@@ -1,0 +1,53 @@
+id:
+  -
+    value: 105
+uuid:
+  -
+    value: 45b1a092-4a6d-4cda-a6ed-f38cf5b46ff7
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:48:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Tracy_Williams@hcpss.org
+field_job_title:
+  -
+    value: '0.5 Reading Specialist'
+field_name:
+  -
+    value: 'Tracy Williams'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '105'
+  uuid: 45b1a092-4a6d-4cda-a6ed-f38cf5b46ff7
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

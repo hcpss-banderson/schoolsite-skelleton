@@ -1,0 +1,53 @@
+id:
+  -
+    value: 146
+uuid:
+  -
+    value: 7c3426a6-a6d6-4617-a903-45e0950858bd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '24'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Nancy_Beneski@hcpss.org
+field_job_title:
+  -
+    value: 'School Counseling Secretary'
+field_name:
+  -
+    value: 'Nancy Beneski'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '146'
+  uuid: 7c3426a6-a6d6-4617-a903-45e0950858bd
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

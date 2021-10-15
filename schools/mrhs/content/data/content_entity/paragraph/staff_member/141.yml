@@ -1,0 +1,53 @@
+id:
+  -
+    value: 141
+uuid:
+  -
+    value: b184fd58-b57f-47a9-a1e3-2e515a28ed3e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:36:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: angela_alascia@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher of French & Spanish'
+field_name:
+  -
+    value: 'Angela Alascia'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '141'
+  uuid: b184fd58-b57f-47a9-a1e3-2e515a28ed3e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

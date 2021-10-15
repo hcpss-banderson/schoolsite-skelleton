@@ -1,0 +1,53 @@
+id:
+  -
+    value: 57
+uuid:
+  -
+    value: 7d6a27ed-e016-41a1-b7f2-10b13d537261
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:02:55+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jonathan_Evans@hcpss.org
+field_job_title:
+  -
+    value: 'Reading Modules'
+field_name:
+  -
+    value: 'Jonathan Evans'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '57'
+  uuid: 7d6a27ed-e016-41a1-b7f2-10b13d537261
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

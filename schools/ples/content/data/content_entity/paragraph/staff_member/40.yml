@@ -1,0 +1,53 @@
+id:
+  -
+    value: 40
+uuid:
+  -
+    value: 06737c41-dbf8-4279-8501-d93500481fd6
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:13:59+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jordan_green@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher & ITL'
+field_name:
+  -
+    value: 'Jordan Green'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '40'
+  uuid: 06737c41-dbf8-4279-8501-d93500481fd6
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

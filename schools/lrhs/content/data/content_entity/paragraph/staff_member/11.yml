@@ -1,0 +1,53 @@
+id:
+  -
+    value: 11
+uuid:
+  -
+    value: 112db9d8-bafa-4ddb-a281-e2e4989f4206
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:34:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Della_Myers@hcpss.org
+field_job_title:
+  -
+    value: 'Security Assistant'
+field_name:
+  -
+    value: 'Della Myers'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '11'
+  uuid: 112db9d8-bafa-4ddb-a281-e2e4989f4206
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 78
+uuid:
+  -
+    value: eb612d1b-519c-4079-92b1-062990217b25
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:00:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: danilo_loyola@hcpss.org
+field_job_title:
+  -
+    value: 'AM Crew Chief'
+field_name:
+  -
+    value: 'Danilo Loyola'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '78'
+  uuid: eb612d1b-519c-4079-92b1-062990217b25
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

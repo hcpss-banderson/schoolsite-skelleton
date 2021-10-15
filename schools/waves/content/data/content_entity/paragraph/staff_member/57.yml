@@ -1,0 +1,51 @@
+id:
+  -
+    value: 57
+uuid:
+  -
+    value: 2e8d738c-4d94-4806-9777-bfc5cb2ece1c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:26:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: mark_borinsky@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Mark Borinsky'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '57'
+  uuid: 2e8d738c-4d94-4806-9777-bfc5cb2ece1c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

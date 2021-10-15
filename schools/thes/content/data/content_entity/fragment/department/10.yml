@@ -1,0 +1,61 @@
+id:
+  -
+    value: 10
+uuid:
+  -
+    value: 23a7682a-c4a8-4646-b6bd-873ae244c0f5
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:21:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Reading Specialist'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:21:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:21:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 45
+    target_type: paragraph
+  -
+    target_id: 46
+    target_type: paragraph
+  -
+    target_id: 47
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '10'
+  uuid: 23a7682a-c4a8-4646-b6bd-873ae244c0f5
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 129
+uuid:
+  -
+    value: 8533fc32-da03-4900-8161-49b1b058c0bd
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:34:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '21'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Nasreen_Ali@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Nasreen Ali'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '129'
+  uuid: 8533fc32-da03-4900-8161-49b1b058c0bd
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

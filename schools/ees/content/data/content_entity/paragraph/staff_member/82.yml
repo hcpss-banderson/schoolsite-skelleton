@@ -1,0 +1,53 @@
+id:
+  -
+    value: 82
+uuid:
+  -
+    value: 94f39f25-6a7f-44f0-9d8b-da21d0c51ca8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:58:26+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Conrad_Brookhart@hcpss.org
+field_job_title:
+  -
+    value: 'PE Teacher'
+field_name:
+  -
+    value: 'Conrad Brookhart'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '82'
+  uuid: 94f39f25-6a7f-44f0-9d8b-da21d0c51ca8
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

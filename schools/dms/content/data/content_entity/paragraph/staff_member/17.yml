@@ -1,0 +1,53 @@
+id:
+  -
+    value: 17
+uuid:
+  -
+    value: 3c3dbf76-ba7d-4511-b50c-92ab31fe4689
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:45:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: molly_moraff@hcpss.org
+field_job_title:
+  -
+    value: 'ELA 7,8 (ELA Team Leader)'
+field_name:
+  -
+    value: 'Molly Moraff'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '17'
+  uuid: 3c3dbf76-ba7d-4511-b50c-92ab31fe4689
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

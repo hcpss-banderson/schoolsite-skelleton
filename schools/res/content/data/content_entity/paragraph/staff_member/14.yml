@@ -1,0 +1,53 @@
+id:
+  -
+    value: 14
+uuid:
+  -
+    value: 5429e3bf-4d99-4663-8aa5-86e732ef8b38
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:17:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Natalie_Kurtz@hcpss.org
+field_job_title:
+  -
+    value: 'MINC PK Paraeducator'
+field_name:
+  -
+    value: 'Natalie Kurtz'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '14'
+  uuid: 5429e3bf-4d99-4663-8aa5-86e732ef8b38
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

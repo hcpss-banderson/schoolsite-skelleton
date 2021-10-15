@@ -1,0 +1,53 @@
+id:
+  -
+    value: 162
+uuid:
+  -
+    value: 53e01b57-a6fe-49a0-8f27-8be824c963ed
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:32:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '33'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: krystle_chase@hcpss.org
+field_job_title:
+  -
+    value: 'Food Service Manager'
+field_name:
+  -
+    value: 'Krystle Chase'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '162'
+  uuid: 53e01b57-a6fe-49a0-8f27-8be824c963ed
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

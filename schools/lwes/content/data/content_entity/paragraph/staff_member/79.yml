@@ -1,0 +1,53 @@
+id:
+  -
+    value: 79
+uuid:
+  -
+    value: b898a41b-5145-49bd-845a-637a3f1942ad
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:10:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: melissa_scobell@hcpss.org
+field_job_title:
+  -
+    value: 'RECC 3 year PreK Teacher'
+field_name:
+  -
+    value: 'Melissa Scobell'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '79'
+  uuid: b898a41b-5145-49bd-845a-637a3f1942ad
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

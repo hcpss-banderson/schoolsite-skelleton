@@ -1,0 +1,53 @@
+id:
+  -
+    value: 33
+uuid:
+  -
+    value: c026a5dd-38d7-4467-9415-ac742a67ea10
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:50:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Nicole_Michels1_intern@hcpss.org
+field_job_title:
+  -
+    value: 'Student Intern - 5th grade Sept-Oct'
+field_name:
+  -
+    value: 'Nicole Michels'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '33'
+  uuid: c026a5dd-38d7-4467-9415-ac742a67ea10
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

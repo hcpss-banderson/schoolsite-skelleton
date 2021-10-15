@@ -1,0 +1,53 @@
+id:
+  -
+    value: 92
+uuid:
+  -
+    value: 41e40656-b422-4da3-ada4-f9d3fd679390
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:29:15+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '21'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Ryan_Kane@hcpss.org
+field_job_title:
+  -
+    value: 'School Resource Officer'
+field_name:
+  -
+    value: 'Ryan Kane'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '92'
+  uuid: 41e40656-b422-4da3-ada4-f9d3fd679390
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

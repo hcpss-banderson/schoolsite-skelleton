@@ -1,0 +1,53 @@
+id:
+  -
+    value: 37
+uuid:
+  -
+    value: 67dcc965-1ba7-41af-9fcc-672681c39137
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:42:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: caroline_sneller@hcpss.org
+field_job_title:
+  -
+    value: 'Seventh Grade Math Teacher, Math Team Leader'
+field_name:
+  -
+    value: 'Caroline Sneller'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '37'
+  uuid: 67dcc965-1ba7-41af-9fcc-672681c39137
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

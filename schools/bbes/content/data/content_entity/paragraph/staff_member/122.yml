@@ -1,0 +1,53 @@
+id:
+  -
+    value: 122
+uuid:
+  -
+    value: 5ab2d59b-596c-4ce6-b786-4f2577e16e2d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '32'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Marie_Lafrance@hcpss.org
+field_job_title:
+  -
+    value: Para
+field_name:
+  -
+    value: 'Dominique LaFrance'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '122'
+  uuid: 5ab2d59b-596c-4ce6-b786-4f2577e16e2d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

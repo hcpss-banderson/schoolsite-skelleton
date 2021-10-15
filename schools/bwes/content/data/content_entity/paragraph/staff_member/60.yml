@@ -1,0 +1,53 @@
+id:
+  -
+    value: 60
+uuid:
+  -
+    value: c32e3672-55cf-430c-8913-f6ee185f490d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:50:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kristin_Townsend@hcpss.org
+field_job_title:
+  -
+    value: 'Speech Path.'
+field_name:
+  -
+    value: 'Kristin Townsend'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '60'
+  uuid: c32e3672-55cf-430c-8913-f6ee185f490d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 39
+uuid:
+  -
+    value: 166687d9-7ea2-4967-a792-e1977a8b23ff
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:52:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: david_griffiths@hcpss.org
+field_job_title:
+  -
+    value: 'General Music, Vocal Music'
+field_name:
+  -
+    value: 'David Griffiths'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '39'
+  uuid: 166687d9-7ea2-4967-a792-e1977a8b23ff
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

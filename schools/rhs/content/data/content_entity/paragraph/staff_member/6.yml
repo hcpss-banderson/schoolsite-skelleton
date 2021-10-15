@@ -1,0 +1,53 @@
+id:
+  -
+    value: 6
+uuid:
+  -
+    value: 4a6ae062-991b-43c1-b0c2-1901fc9098c2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:40:01+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Josh_Sullivan@hcpss.org
+field_job_title:
+  -
+    value: 'Activities and Athletics Manager'
+field_name:
+  -
+    value: 'Josh Sullivan'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '6'
+  uuid: 4a6ae062-991b-43c1-b0c2-1901fc9098c2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

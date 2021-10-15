@@ -1,0 +1,53 @@
+id:
+  -
+    value: 45
+uuid:
+  -
+    value: 40b63d2a-da78-49ac-a3f4-b00888cef458
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:18:08+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Rebecca_Seering@hcpss.org
+field_job_title:
+  -
+    value: 'Fifth Grade Team Leader'
+field_name:
+  -
+    value: 'Rebecca Seering'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '45'
+  uuid: 40b63d2a-da78-49ac-a3f4-b00888cef458
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

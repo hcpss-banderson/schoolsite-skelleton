@@ -1,0 +1,51 @@
+id:
+  -
+    value: 21
+uuid:
+  -
+    value: a6e07eeb-4201-4379-a5db-e993654f675c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:06:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email: {  }
+field_job_title:
+  -
+    value: 'TE MINC-PK'
+field_name:
+  -
+    value: 'Masooma Naz'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '21'
+  uuid: a6e07eeb-4201-4379-a5db-e993654f675c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,51 @@
+id:
+  -
+    value: 53
+uuid:
+  -
+    value: 2794f503-a40c-461a-b8cd-dad2d19d98e5
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:39:00+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jacqueline_Browne@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Jacqueline Browne'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '53'
+  uuid: 2794f503-a40c-461a-b8cd-dad2d19d98e5
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

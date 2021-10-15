@@ -1,0 +1,53 @@
+id:
+  -
+    value: 153
+uuid:
+  -
+    value: f29ab9d5-c137-4c03-80c8-3b9a9de3f9eb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:36:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: lesa_stambaugh@hcpss.org
+field_job_title:
+  -
+    value: 'Food Service Worker'
+field_name:
+  -
+    value: 'Lesa Stambaugh'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '153'
+  uuid: f29ab9d5-c137-4c03-80c8-3b9a9de3f9eb
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

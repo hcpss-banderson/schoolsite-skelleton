@@ -1,0 +1,53 @@
+id:
+  -
+    value: 60
+uuid:
+  -
+    value: 873ac91e-e4ad-4720-b1ab-99a5dd936d9c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:54:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: deborah_pulone@hcpss.org
+field_job_title:
+  -
+    value: 'Reading Specialist/Teacher Development Liaison'
+field_name:
+  -
+    value: 'Debbie Pulone'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '60'
+  uuid: 873ac91e-e4ad-4720-b1ab-99a5dd936d9c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

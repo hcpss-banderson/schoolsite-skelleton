@@ -1,0 +1,53 @@
+id:
+  -
+    value: 45
+uuid:
+  -
+    value: 5782ba7e-c93f-4ca9-9972-a2af27afe329
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:50:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: arideng_wang@hcpss.org
+field_job_title:
+  -
+    value: 'French & Spanish'
+field_name:
+  -
+    value: 'Arideng Wang'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '45'
+  uuid: 5782ba7e-c93f-4ca9-9972-a2af27afe329
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 75
+uuid:
+  -
+    value: 5af3fb44-1f73-4382-a823-0883a0af7dac
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:11:56+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Ashley_Williams@hcpss.org
+field_job_title:
+  -
+    value: 'Technology Education'
+field_name:
+  -
+    value: 'Ashley Williams'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '75'
+  uuid: 5af3fb44-1f73-4382-a823-0883a0af7dac
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

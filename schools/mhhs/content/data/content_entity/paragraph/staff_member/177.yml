@@ -1,0 +1,53 @@
+id:
+  -
+    value: 177
+uuid:
+  -
+    value: 4a3efd6c-c19a-43d7-99b9-3f96e2a6d8ba
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:35:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '28'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Shawn_Frederick@hcpss.org
+field_job_title:
+  -
+    value: Teacher
+field_name:
+  -
+    value: 'Shawn Frederick'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '177'
+  uuid: 4a3efd6c-c19a-43d7-99b9-3f96e2a6d8ba
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

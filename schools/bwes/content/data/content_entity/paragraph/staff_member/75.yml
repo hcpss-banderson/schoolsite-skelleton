@@ -1,0 +1,53 @@
+id:
+  -
+    value: 75
+uuid:
+  -
+    value: 759dc3fc-9e1a-4049-8f95-c825e59e671e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:50:02+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Michelle_Hinkley@hcpss.org
+field_job_title:
+  -
+    value: '.5 Title I/.5 G/T Teacher'
+field_name:
+  -
+    value: 'Michelle Hinkley'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '75'
+  uuid: 759dc3fc-9e1a-4049-8f95-c825e59e671e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

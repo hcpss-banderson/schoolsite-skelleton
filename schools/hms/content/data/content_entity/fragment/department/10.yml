@@ -1,0 +1,91 @@
+id:
+  -
+    value: 10
+uuid:
+  -
+    value: d8c5186f-b838-4e06-8f1b-92bd560daef2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T16:52:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Related Arts'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:52:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T16:52:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 37
+    target_type: paragraph
+  -
+    target_id: 38
+    target_type: paragraph
+  -
+    target_id: 39
+    target_type: paragraph
+  -
+    target_id: 40
+    target_type: paragraph
+  -
+    target_id: 41
+    target_type: paragraph
+  -
+    target_id: 42
+    target_type: paragraph
+  -
+    target_id: 43
+    target_type: paragraph
+  -
+    target_id: 44
+    target_type: paragraph
+  -
+    target_id: 45
+    target_type: paragraph
+  -
+    target_id: 46
+    target_type: paragraph
+  -
+    target_id: 47
+    target_type: paragraph
+  -
+    target_id: 48
+    target_type: paragraph
+  -
+    target_id: 49
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '10'
+  uuid: d8c5186f-b838-4e06-8f1b-92bd560daef2
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

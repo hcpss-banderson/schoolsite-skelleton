@@ -1,0 +1,53 @@
+id:
+  -
+    value: 38
+uuid:
+  -
+    value: bc56b30a-a320-48cd-84a2-388c78c75332
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:36:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: robert_sullivan@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, Yearbook Advisor'
+field_name:
+  -
+    value: 'Robert Sullivan'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '38'
+  uuid: bc56b30a-a320-48cd-84a2-388c78c75332
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

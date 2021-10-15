@@ -1,0 +1,53 @@
+id:
+  -
+    value: 99
+uuid:
+  -
+    value: 3a61e59c-b478-41f9-8ce1-84ad010c4645
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:47:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: melanie_durantaye@hcpss.org
+field_job_title:
+  -
+    value: 'Food & Nutrition Services'
+field_name:
+  -
+    value: 'Melanie M. Durantaye'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '99'
+  uuid: 3a61e59c-b478-41f9-8ce1-84ad010c4645
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

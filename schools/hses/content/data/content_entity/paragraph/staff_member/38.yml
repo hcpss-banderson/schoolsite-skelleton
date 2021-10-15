@@ -1,0 +1,53 @@
+id:
+  -
+    value: 38
+uuid:
+  -
+    value: 0020c6e2-cc5b-4179-aecc-3537b86eb2fb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:05:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Erin_Schade@hcpss.org
+field_job_title:
+  -
+    value: 'Instructional Team Leader / Teacher'
+field_name:
+  -
+    value: 'Erin Schade'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '38'
+  uuid: 0020c6e2-cc5b-4179-aecc-3537b86eb2fb
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

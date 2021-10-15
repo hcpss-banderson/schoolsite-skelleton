@@ -1,0 +1,53 @@
+id:
+  -
+    value: 71
+uuid:
+  -
+    value: 998419f9-f6ac-4c35-bffb-3c0899433835
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:12:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '16'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Timothy_Beall@hcpss.org
+field_job_title:
+  -
+    value: 'Band Director'
+field_name:
+  -
+    value: 'Tim Beall'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '71'
+  uuid: 998419f9-f6ac-4c35-bffb-3c0899433835
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

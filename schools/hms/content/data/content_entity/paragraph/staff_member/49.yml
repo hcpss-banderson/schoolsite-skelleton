@@ -1,0 +1,53 @@
+id:
+  -
+    value: 49
+uuid:
+  -
+    value: 1c8a795e-c947-4fc7-a654-fe36eca54c65
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:52:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jeff_ucciardo@hcpss.org
+field_job_title:
+  -
+    value: 'Technology Education'
+field_name:
+  -
+    value: 'Jeff Ucciardo'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '49'
+  uuid: 1c8a795e-c947-4fc7-a654-fe36eca54c65
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

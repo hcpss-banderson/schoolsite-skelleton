@@ -1,0 +1,53 @@
+id:
+  -
+    value: 56
+uuid:
+  -
+    value: 18f9d71a-b7db-4f90-9d8c-c1c84d2bd6c2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:23:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: ji_choi@hcpss.org
+field_job_title:
+  -
+    value: 'Strings Teacher'
+field_name:
+  -
+    value: 'Jihea Choi'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '56'
+  uuid: 18f9d71a-b7db-4f90-9d8c-c1c84d2bd6c2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

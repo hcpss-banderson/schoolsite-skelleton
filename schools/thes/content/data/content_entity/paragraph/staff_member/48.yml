@@ -1,0 +1,53 @@
+id:
+  -
+    value: 48
+uuid:
+  -
+    value: 4124b790-155c-44dd-bbe8-bc2370ff0098
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:21:18+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Allison_Dowdy@hcpss.org
+field_job_title:
+  -
+    value: 'Special Education Teacher -ITL'
+field_name:
+  -
+    value: 'Allison Dowdy'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '48'
+  uuid: 4124b790-155c-44dd-bbe8-bc2370ff0098
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

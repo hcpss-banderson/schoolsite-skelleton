@@ -1,0 +1,53 @@
+id:
+  -
+    value: 130
+uuid:
+  -
+    value: d6ed586b-3553-4d88-84d2-24743fe0d797
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:57:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: marie_walker@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Marie Walker'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '130'
+  uuid: d6ed586b-3553-4d88-84d2-24743fe0d797
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

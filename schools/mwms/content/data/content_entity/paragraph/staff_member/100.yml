@@ -1,0 +1,53 @@
+id:
+  -
+    value: 100
+uuid:
+  -
+    value: d82cc7c3-c37f-46aa-b014-01ea33d140aa
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:57:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kevin_Cureton@hcpss.org
+field_job_title:
+  -
+    value: Custodian
+field_name:
+  -
+    value: 'Mr. Cureton'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '100'
+  uuid: d82cc7c3-c37f-46aa-b014-01ea33d140aa
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

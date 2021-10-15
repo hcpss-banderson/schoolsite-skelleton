@@ -1,0 +1,53 @@
+id:
+  -
+    value: 89
+uuid:
+  -
+    value: b56de56d-a312-458d-8fe8-ce0f905e13ba
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:59:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jamie_Macklin@hcpss.org
+field_job_title:
+  -
+    value: 'Regional Program Paraeducator - Intermediate'
+field_name:
+  -
+    value: 'Mr. Macklin'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '89'
+  uuid: b56de56d-a312-458d-8fe8-ce0f905e13ba
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

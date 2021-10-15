@@ -1,0 +1,53 @@
+id:
+  -
+    value: 167
+uuid:
+  -
+    value: 789af070-fcc7-4910-bd3a-0a0922f19743
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:14:58+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '17'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: maria_meza@hcpss.org
+field_job_title:
+  -
+    value: 'Daycare Provider Assistant'
+field_name:
+  -
+    value: 'Maria Meza'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '167'
+  uuid: 789af070-fcc7-4910-bd3a-0a0922f19743
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

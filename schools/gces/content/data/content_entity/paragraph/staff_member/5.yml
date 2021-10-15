@@ -1,0 +1,53 @@
+id:
+  -
+    value: 5
+uuid:
+  -
+    value: 23d9a2bd-f129-42d6-a047-c68b295fb5ab
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:13:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Helen_Kwon@hcpss.org
+field_job_title:
+  -
+    value: '.5 Teacher''s Secretary'
+field_name:
+  -
+    value: 'Helen Kwon'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '5'
+  uuid: 23d9a2bd-f129-42d6-a047-c68b295fb5ab
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

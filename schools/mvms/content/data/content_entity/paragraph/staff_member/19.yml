@@ -1,0 +1,53 @@
+id:
+  -
+    value: 19
+uuid:
+  -
+    value: 6c2c699c-1a4b-4933-89ce-12aee86d8401
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:56:28+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jocelyn_hieatzman@hcpss.org
+field_job_title:
+  -
+    value: 'English and Theater'
+field_name:
+  -
+    value: 'Jocelyn Hieatzman'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '19'
+  uuid: 6c2c699c-1a4b-4933-89ce-12aee86d8401
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

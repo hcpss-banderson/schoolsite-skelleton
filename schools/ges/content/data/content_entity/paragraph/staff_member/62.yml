@@ -1,0 +1,53 @@
+id:
+  -
+    value: 62
+uuid:
+  -
+    value: 68efae60-35e7-4a09-9335-a68ed8bdcfe8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:02:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: donna_bethune-brown@hcpss.org
+field_job_title:
+  -
+    value: 'Title I Point of Contact, Math Teacher/Interventionist'
+field_name:
+  -
+    value: 'Donna Bethune-Brown'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '62'
+  uuid: 68efae60-35e7-4a09-9335-a68ed8bdcfe8
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

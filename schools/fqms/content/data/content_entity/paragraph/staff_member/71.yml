@@ -1,0 +1,53 @@
+id:
+  -
+    value: 71
+uuid:
+  -
+    value: ff7449aa-424b-44d3-b855-11e2ee4d0315
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:48:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: 'vincente_d''antuono@hcpss.org'
+field_job_title:
+  -
+    value: 'Gifted & Talented Teacher'
+field_name:
+  -
+    value: 'Mr. D''Antuono'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '71'
+  uuid: ff7449aa-424b-44d3-b855-11e2ee4d0315
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

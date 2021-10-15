@@ -1,0 +1,53 @@
+id:
+  -
+    value: 30
+uuid:
+  -
+    value: df092ebd-10d0-4d32-8896-5b8d4020f160
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:12:46+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Nancy_Strigle@hcpss.org
+field_job_title:
+  -
+    value: '4th Grade Teacher and Team Leader'
+field_name:
+  -
+    value: 'Nancy Strigle'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '30'
+  uuid: df092ebd-10d0-4d32-8896-5b8d4020f160
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

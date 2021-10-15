@@ -1,0 +1,51 @@
+id:
+  -
+    value: 67
+uuid:
+  -
+    value: 6d8a9f0c-ffbc-4a89-ad68-5d07d0544ef2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '22'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: megan_paullet@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Megan Paullet'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '67'
+  uuid: 6d8a9f0c-ffbc-4a89-ad68-5d07d0544ef2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

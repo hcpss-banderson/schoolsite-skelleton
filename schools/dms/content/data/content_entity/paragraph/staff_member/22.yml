@@ -1,0 +1,53 @@
+id:
+  -
+    value: 22
+uuid:
+  -
+    value: 358e5b8c-3940-472b-866d-6ebdc05e3467
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:45:13+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kristina_kallemyn@hcpss.org
+field_job_title:
+  -
+    value: 'Math 8 (Teacher Development Liaison)'
+field_name:
+  -
+    value: 'Kristina Kallemyn'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '22'
+  uuid: 358e5b8c-3940-472b-866d-6ebdc05e3467
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

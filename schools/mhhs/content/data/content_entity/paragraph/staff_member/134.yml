@@ -1,0 +1,53 @@
+id:
+  -
+    value: 134
+uuid:
+  -
+    value: dbcdc965-f280-4c42-aec3-2078cf15dd9d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:35:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '23'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Sletta_Arobo@hcpss.org
+field_job_title:
+  -
+    value: 'Pathways Paraeducator'
+field_name:
+  -
+    value: 'Sletta Arobo'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '134'
+  uuid: dbcdc965-f280-4c42-aec3-2078cf15dd9d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

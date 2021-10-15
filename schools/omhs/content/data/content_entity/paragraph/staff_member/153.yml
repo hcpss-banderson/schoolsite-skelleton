@@ -1,0 +1,51 @@
+id:
+  -
+    value: 153
+uuid:
+  -
+    value: ac3300e0-952f-4346-9e73-741a1a6aa5ce
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '23'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: michaela_liongson@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Michaela Liongson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '153'
+  uuid: ac3300e0-952f-4346-9e73-741a1a6aa5ce
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

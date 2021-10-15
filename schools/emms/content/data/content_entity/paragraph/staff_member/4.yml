@@ -1,0 +1,53 @@
+id:
+  -
+    value: 4
+uuid:
+  -
+    value: a9b7b94d-0567-4bdd-a0cd-19b0d053312c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:47:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: jennifer_l_johnson@hcpss.org
+field_job_title:
+  -
+    value: 'Principals'' Secretary, Bookkeeper, Community Messenger Contact, Interpreter Needs'
+field_name:
+  -
+    value: 'Jennifer Johnson ("Ms. JJ")'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '4'
+  uuid: a9b7b94d-0567-4bdd-a0cd-19b0d053312c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

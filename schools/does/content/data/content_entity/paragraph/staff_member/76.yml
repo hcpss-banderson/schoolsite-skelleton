@@ -1,0 +1,53 @@
+id:
+  -
+    value: 76
+uuid:
+  -
+    value: 1fb4c8e2-0d36-414a-97ce-273f11bdfd9e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:56:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: tamatha_sutton@hcpss.org
+field_job_title:
+  -
+    value: Orchestra
+field_name:
+  -
+    value: 'Tammy Sutton'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '76'
+  uuid: 1fb4c8e2-0d36-414a-97ce-273f11bdfd9e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

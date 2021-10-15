@@ -1,0 +1,53 @@
+id:
+  -
+    value: 58
+uuid:
+  -
+    value: a979b609-6209-4a61-a9d4-c697ed846703
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:44:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Laura_Johnson1@hcpss.org
+field_job_title:
+  -
+    value: 'Health Educator'
+field_name:
+  -
+    value: 'Laura Johnson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '58'
+  uuid: a979b609-6209-4a61-a9d4-c697ed846703
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

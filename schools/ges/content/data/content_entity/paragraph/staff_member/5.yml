@@ -1,0 +1,53 @@
+id:
+  -
+    value: 5
+uuid:
+  -
+    value: 17f395bb-1f7d-42d5-9f84-43f8e16825fb
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:02:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Jillian_Allen1@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher''s Secretary'
+field_name:
+  -
+    value: 'Jillian Allen'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '5'
+  uuid: 17f395bb-1f7d-42d5-9f84-43f8e16825fb
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 109
+uuid:
+  -
+    value: cab438f9-3718-4260-956e-61e5e63828e5
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '30'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Chong_Lee@hcpss.org
+field_job_title:
+  -
+    value: Reading
+field_name:
+  -
+    value: 'Chong (Faith) Lee 0.5'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '109'
+  uuid: cab438f9-3718-4260-956e-61e5e63828e5
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 18
+uuid:
+  -
+    value: 78183c98-f9c6-40d5-a7be-dbf9ac8171be
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:01:43+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: rebecca_stryker@hcpss.org
+field_job_title:
+  -
+    value: Mathematics
+field_name:
+  -
+    value: 'Rebecca Stryker'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '18'
+  uuid: 78183c98-f9c6-40d5-a7be-dbf9ac8171be
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

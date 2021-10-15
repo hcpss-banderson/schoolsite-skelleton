@@ -1,0 +1,53 @@
+id:
+  -
+    value: 150
+uuid:
+  -
+    value: 74125292-7295-48c5-8936-7b970c609a4a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:24:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '19'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: karyn_reggie@hcpss.org
+field_job_title:
+  -
+    value: 'Lunch/Recess Monitor'
+field_name:
+  -
+    value: 'Karyn Reggie'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '150'
+  uuid: 74125292-7295-48c5-8936-7b970c609a4a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

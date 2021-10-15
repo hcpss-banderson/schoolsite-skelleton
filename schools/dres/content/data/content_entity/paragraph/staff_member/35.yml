@@ -1,0 +1,53 @@
+id:
+  -
+    value: 35
+uuid:
+  -
+    value: 3cda29e9-7f74-4469-83a6-37c89feea48e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:57:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: dorothea_sample@hcpss.org
+field_job_title:
+  -
+    value: 'Pareducator RECC'
+field_name:
+  -
+    value: 'Dorothea Sample'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '35'
+  uuid: 3cda29e9-7f74-4469-83a6-37c89feea48e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

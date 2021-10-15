@@ -1,0 +1,53 @@
+id:
+  -
+    value: 29
+uuid:
+  -
+    value: c8bbde11-e554-4eb3-a393-d8afface388c
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:42:03+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: michelle_almer@hcpss.org
+field_job_title:
+  -
+    value: 'Sixth and Seventh Grade Science and Science Team Leader'
+field_name:
+  -
+    value: 'Michelle Almer'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '29'
+  uuid: c8bbde11-e554-4eb3-a393-d8afface388c
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

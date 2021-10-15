@@ -1,0 +1,53 @@
+id:
+  -
+    value: 17
+uuid:
+  -
+    value: ac800a70-9607-473d-aa13-fdc7576e710d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:49:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '6'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: lorraine_cimbora@hcpss.org
+field_job_title:
+  -
+    value: 'ELL Specialist'
+field_name:
+  -
+    value: 'Lorraine Cimbora'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '17'
+  uuid: ac800a70-9607-473d-aa13-fdc7576e710d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

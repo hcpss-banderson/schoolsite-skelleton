@@ -1,0 +1,53 @@
+id:
+  -
+    value: 8
+uuid:
+  -
+    value: 4444570e-705d-4b0e-824c-b7d039b2bb0e
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '2'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: lee-anne_boyce@hcpss.org
+field_job_title:
+  -
+    value: 'Attendance Secretary'
+field_name:
+  -
+    value: 'Lee-Anne Boyce'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '8'
+  uuid: 4444570e-705d-4b0e-824c-b7d039b2bb0e
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

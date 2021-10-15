@@ -1,0 +1,53 @@
+id:
+  -
+    value: 62
+uuid:
+  -
+    value: ec2ff7b2-1063-4bb8-a9ff-a2e4bcf8b218
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:10:54+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '12'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: anna_schipske@hcpss.org
+field_job_title:
+  -
+    value: '.6 ESOL Teacher'
+field_name:
+  -
+    value: 'Josie Schipske'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '62'
+  uuid: ec2ff7b2-1063-4bb8-a9ff-a2e4bcf8b218
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

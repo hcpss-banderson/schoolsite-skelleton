@@ -1,0 +1,53 @@
+id:
+  -
+    value: 103
+uuid:
+  -
+    value: c5370a88-4de6-41a5-aa49-a35889c599a2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:13:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '15'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Anna_Lipinski@hcpss.org
+field_job_title:
+  -
+    value: '.6 Art Teacher'
+field_name:
+  -
+    value: 'Anna Lipinski'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '103'
+  uuid: c5370a88-4de6-41a5-aa49-a35889c599a2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

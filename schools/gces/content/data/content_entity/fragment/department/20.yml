@@ -1,0 +1,82 @@
+id:
+  -
+    value: 20
+uuid:
+  -
+    value: c9ecd270-6650-4d85-a8f5-5817e195ca88
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: department
+    target_type: fragment_type
+revision_created:
+  -
+    value: '2021-10-14T17:13:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 1
+    target_type: user
+revision_log_message: {  }
+user_id:
+  -
+    target_id: 1
+    target_type: user
+title:
+  -
+    value: 'Cafeteria, Recess, and Custodial Staff'
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:13:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-14T17:13:51+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+field_staff_members:
+  -
+    target_id: 116
+    target_type: paragraph
+  -
+    target_id: 117
+    target_type: paragraph
+  -
+    target_id: 118
+    target_type: paragraph
+  -
+    target_id: 119
+    target_type: paragraph
+  -
+    target_id: 120
+    target_type: paragraph
+  -
+    target_id: 121
+    target_type: paragraph
+  -
+    target_id: 122
+    target_type: paragraph
+  -
+    target_id: 123
+    target_type: paragraph
+  -
+    target_id: 124
+    target_type: paragraph
+  -
+    target_id: 125
+    target_type: paragraph
+_content_snapshot_metadata:
+  id: '20'
+  uuid: c9ecd270-6650-4d85-a8f5-5817e195ca88
+  type: content_entity
+  additional:
+    entity_type: fragment
+    bundle: department
+    is_translatable: false

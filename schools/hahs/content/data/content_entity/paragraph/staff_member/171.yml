@@ -1,0 +1,53 @@
+id:
+  -
+    value: 171
+uuid:
+  -
+    value: a0c74849-ab73-4dab-88eb-8dd9b5b089cf
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:32:27+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '34'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: claudette_ruskin@hcpss.org
+field_job_title:
+  -
+    value: Custodian
+field_name:
+  -
+    value: 'Claudette Ruskin'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '171'
+  uuid: a0c74849-ab73-4dab-88eb-8dd9b5b089cf
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

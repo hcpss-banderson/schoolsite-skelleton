@@ -1,0 +1,53 @@
+id:
+  -
+    value: 66
+uuid:
+  -
+    value: 2865bf58-cfbd-4cb2-adc8-94607a1583e0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:44:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: pallaviba_raol@hcpss.org
+field_job_title:
+  -
+    value: 'Media Paraeducator'
+field_name:
+  -
+    value: 'Pallavi Raol'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '66'
+  uuid: 2865bf58-cfbd-4cb2-adc8-94607a1583e0
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

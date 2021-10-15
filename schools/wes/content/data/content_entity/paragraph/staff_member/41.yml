@@ -1,0 +1,53 @@
+id:
+  -
+    value: 41
+uuid:
+  -
+    value: 40482893-0e1f-434a-a929-2fbc75d2d92a
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:27:19+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '11'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Bridget_biragoRedd@hcpss.org
+field_job_title:
+  -
+    value: 'Instructional Team Leader/Special Educator'
+field_name:
+  -
+    value: 'Bridget Birago Redd'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '41'
+  uuid: 40482893-0e1f-434a-a929-2fbc75d2d92a
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

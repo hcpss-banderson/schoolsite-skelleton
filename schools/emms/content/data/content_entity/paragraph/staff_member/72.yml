@@ -1,0 +1,53 @@
+id:
+  -
+    value: 72
+uuid:
+  -
+    value: 628faa7a-0507-4871-b5ee-6ef6573dcb50
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:47:30+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: sean_jones@hcpss.org
+field_job_title:
+  -
+    value: 'Long-Term Substitute Special Education, Academic Life Skills (ALS)'
+field_name:
+  -
+    value: 'Sean Jones'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '72'
+  uuid: 628faa7a-0507-4871-b5ee-6ef6573dcb50
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

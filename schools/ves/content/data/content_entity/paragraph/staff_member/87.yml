@@ -1,0 +1,53 @@
+id:
+  -
+    value: 87
+uuid:
+  -
+    value: 6ddbd2a6-a748-4e72-8c5c-4e477da16e71
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:24:17+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: wai_ma@hcpss.org
+field_job_title:
+  -
+    value: Paraeducator
+field_name:
+  -
+    value: 'Rosa Ma'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '87'
+  uuid: 6ddbd2a6-a748-4e72-8c5c-4e477da16e71
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

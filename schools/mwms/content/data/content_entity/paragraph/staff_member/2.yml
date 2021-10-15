@@ -1,0 +1,53 @@
+id:
+  -
+    value: 2
+uuid:
+  -
+    value: d2c71e27-f796-43cb-b3f0-7d1fe732ffe2
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:57:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '1'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kion_Mackell@hcpss.org
+field_job_title:
+  -
+    value: 'Assistant Principal: 6th grade and 7th grade A - L'
+field_name:
+  -
+    value: 'Mr. Mackell'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '2'
+  uuid: d2c71e27-f796-43cb-b3f0-7d1fe732ffe2
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

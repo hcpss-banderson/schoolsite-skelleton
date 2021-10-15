@@ -1,0 +1,53 @@
+id:
+  -
+    value: 62
+uuid:
+  -
+    value: 322a4cf5-2b57-45a0-827b-f997211ac982
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:57:22+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: sharon_cohen2@hcpss.org
+field_job_title:
+  -
+    value: '3rd Grade Teacher'
+field_name:
+  -
+    value: 'Sharon Cohen'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '62'
+  uuid: 322a4cf5-2b57-45a0-827b-f997211ac982
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

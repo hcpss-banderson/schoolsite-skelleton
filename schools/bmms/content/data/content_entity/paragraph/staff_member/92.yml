@@ -1,0 +1,53 @@
+id:
+  -
+    value: 92
+uuid:
+  -
+    value: 58a7c196-a19a-4a28-a164-365bfffa7772
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:43:07+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: robyn_page@hcpss.org
+field_job_title:
+  -
+    value: 'GT Resource'
+field_name:
+  -
+    value: 'Robyn Page'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '92'
+  uuid: 58a7c196-a19a-4a28-a164-365bfffa7772
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

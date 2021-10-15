@@ -1,0 +1,53 @@
+id:
+  -
+    value: 142
+uuid:
+  -
+    value: 638bdf6b-a4a0-48e0-8172-a72f22441bc5
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:35:47+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '25'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Kathleen_Canby@hcpss.org
+field_job_title:
+  -
+    value: 'Science Laboratory Manager'
+field_name:
+  -
+    value: 'Kathleen Canby'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '142'
+  uuid: 638bdf6b-a4a0-48e0-8172-a72f22441bc5
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

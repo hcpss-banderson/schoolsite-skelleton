@@ -1,0 +1,53 @@
+id:
+  -
+    value: 14
+uuid:
+  -
+    value: 2d43af7f-40fa-4efe-af1a-f72b936f3183
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:55:20+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '4'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: matthew_brewrink@hcpss.org
+field_job_title:
+  -
+    value: 'Math Teacher'
+field_name:
+  -
+    value: 'Matthew Brewrink'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '14'
+  uuid: 2d43af7f-40fa-4efe-af1a-f72b936f3183
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

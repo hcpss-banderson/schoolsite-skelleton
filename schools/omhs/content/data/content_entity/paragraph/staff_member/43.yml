@@ -1,0 +1,51 @@
+id:
+  -
+    value: 43
+uuid:
+  -
+    value: 3d40e491-f499-42d4-89b6-ae8063e3e8f5
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '8'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: sarah_hall@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Sarah Hall'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '43'
+  uuid: 3d40e491-f499-42d4-89b6-ae8063e3e8f5
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

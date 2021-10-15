@@ -1,0 +1,53 @@
+id:
+  -
+    value: 104
+uuid:
+  -
+    value: 892064d9-36a8-42e8-810c-3c9e3bc5ac63
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '28'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: ashley_davis@hcpss.org
+field_job_title:
+  -
+    value: 'Reading Specialist'
+field_name:
+  -
+    value: 'Ashley Davis'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '104'
+  uuid: 892064d9-36a8-42e8-810c-3c9e3bc5ac63
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

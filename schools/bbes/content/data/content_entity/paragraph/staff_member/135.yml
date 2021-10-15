@@ -1,0 +1,51 @@
+id:
+  -
+    value: 135
+uuid:
+  -
+    value: a47b80dc-29cc-4f66-9deb-a0ff1f62c9ba
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:46:41+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '33'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: laura_baur@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Laura Baur'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '135'
+  uuid: a47b80dc-29cc-4f66-9deb-a0ff1f62c9ba
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

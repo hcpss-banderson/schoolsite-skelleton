@@ -1,0 +1,53 @@
+id:
+  -
+    value: 31
+uuid:
+  -
+    value: aa0e3e08-0e2e-47f5-95e5-7353d69c7e0f
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:00:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Benjamin_Azat@hcpss.org
+field_job_title:
+  -
+    value: 'English/Language Arts'
+field_name:
+  -
+    value: 'Benjamin Azat'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '31'
+  uuid: aa0e3e08-0e2e-47f5-95e5-7353d69c7e0f
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

@@ -1,0 +1,53 @@
+id:
+  -
+    value: 19
+uuid:
+  -
+    value: 300c4ce3-b3c3-4f6f-b039-1db490014123
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:37:57+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '3'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: kara_fick@hcpss.org
+field_job_title:
+  -
+    value: 'School Counselor: 9th-11th Si-Z, 12th S-Z'
+field_name:
+  -
+    value: 'Kara Fick'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '19'
+  uuid: 300c4ce3-b3c3-4f6f-b039-1db490014123
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

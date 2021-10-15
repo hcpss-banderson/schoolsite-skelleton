@@ -1,0 +1,53 @@
+id:
+  -
+    value: 25
+uuid:
+  -
+    value: f79348ce-5021-4c2c-b945-1948696b5493
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:06:44+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '5'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Greg_Betzer@hcpss.org
+field_job_title:
+  -
+    value: 'PL Paraeducator'
+field_name:
+  -
+    value: 'Greg Betzer'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '25'
+  uuid: f79348ce-5021-4c2c-b945-1948696b5493
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

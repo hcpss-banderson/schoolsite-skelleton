@@ -1,0 +1,51 @@
+id:
+  -
+    value: 111
+uuid:
+  -
+    value: 475f4d3d-ab56-411c-a4e4-466aad0993c8
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:54:12+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '19'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Theresa_Coombs@hcpss.org
+field_job_title: {  }
+field_name:
+  -
+    value: 'Theresa Coombs'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '111'
+  uuid: 475f4d3d-ab56-411c-a4e4-466aad0993c8
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

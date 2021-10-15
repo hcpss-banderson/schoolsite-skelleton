@@ -1,0 +1,53 @@
+id:
+  -
+    value: 58
+uuid:
+  -
+    value: 79d86138-0f80-49a6-8097-24a349536f5d
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:34:37+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '9'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: marvin_calloway@hcpss.org
+field_job_title:
+  -
+    value: 'Day Chief'
+field_name:
+  -
+    value: 'Marvin Calloway'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '58'
+  uuid: 79d86138-0f80-49a6-8097-24a349536f5d
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

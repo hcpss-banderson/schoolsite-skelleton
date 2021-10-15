@@ -1,0 +1,53 @@
+id:
+  -
+    value: 75
+uuid:
+  -
+    value: ad1396bb-8533-4dbc-8956-33b7bf8466e0
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:36:52+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '10'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: frederick_talentino@hcpss.org
+field_job_title:
+  -
+    value: 'Teacher, PE'
+field_name:
+  -
+    value: 'Frederick Talentino'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '75'
+  uuid: ad1396bb-8533-4dbc-8956-33b7bf8466e0
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

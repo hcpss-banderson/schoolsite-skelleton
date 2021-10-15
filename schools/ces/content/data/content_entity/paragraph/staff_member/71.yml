@@ -1,0 +1,53 @@
+id:
+  -
+    value: 71
+uuid:
+  -
+    value: ec9380b7-1c34-44bf-888c-9d0f56322cbe
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T15:52:09+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '13'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: brittany_king@hcpss.org
+field_job_title:
+  -
+    value: 'ALS Para Professional'
+field_name:
+  -
+    value: 'Brittany King'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '71'
+  uuid: ec9380b7-1c34-44bf-888c-9d0f56322cbe
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

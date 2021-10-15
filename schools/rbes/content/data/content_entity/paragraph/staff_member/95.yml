@@ -1,0 +1,53 @@
+id:
+  -
+    value: 95
+uuid:
+  -
+    value: cbcb03fd-2cd2-436e-9c94-3a778f71000b
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T16:16:04+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '14'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Marla_Gibson@hcpss.org
+field_job_title:
+  -
+    value: Psychologist
+field_name:
+  -
+    value: 'Marla Gibson'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '95'
+  uuid: cbcb03fd-2cd2-436e-9c94-3a778f71000b
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false

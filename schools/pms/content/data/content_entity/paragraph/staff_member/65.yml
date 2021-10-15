@@ -1,0 +1,53 @@
+id:
+  -
+    value: 65
+uuid:
+  -
+    value: 0e10bbc7-9c5a-4559-b8c1-29f49cf88405
+langcode:
+  -
+    value: en
+type:
+  -
+    target_id: staff_member
+    target_type: paragraphs_type
+status:
+  -
+    value: true
+created:
+  -
+    value: '2021-10-14T17:00:33+00:00'
+    format: 'Y-m-d\TH:i:sP'
+parent_id:
+  -
+    value: '7'
+parent_type:
+  -
+    value: fragment
+parent_field_name:
+  -
+    value: field_staff_members
+behavior_settings:
+  -
+    value: {  }
+default_langcode:
+  -
+    value: true
+field_email:
+  -
+    value: Camille_Holly@hcpss.org
+field_job_title:
+  -
+    value: 'Speech Pathologist'
+field_name:
+  -
+    value: 'Paige Holly'
+field_website: {  }
+_content_snapshot_metadata:
+  id: '65'
+  uuid: 0e10bbc7-9c5a-4559-b8c1-29f49cf88405
+  type: content_entity
+  additional:
+    entity_type: paragraph
+    bundle: staff_member
+    is_translatable: false
