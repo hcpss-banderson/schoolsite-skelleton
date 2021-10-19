@@ -3,7 +3,7 @@ id:
     value: 62
 uuid:
   -
-    value: 72e65fee-6903-41e9-8ee4-9deb79317129
+    value: 9162c036-01a9-49b7-aa24-7a52cd07f1ae
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:13:59+00:00'
+    value: '2021-10-19T17:20:34+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Karissa Strawley'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://sites.google.com/site/msstrawleysmusicsite/'
+    title: 'Ms. Strawley’s Music Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '62'
-  uuid: 72e65fee-6903-41e9-8ee4-9deb79317129
+  uuid: 9162c036-01a9-49b7-aa24-7a52cd07f1ae
   type: content_entity
   additional:
     entity_type: paragraph

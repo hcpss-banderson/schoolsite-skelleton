@@ -3,7 +3,7 @@ id:
     value: 122
 uuid:
   -
-    value: b317a1e3-744d-45d2-a4d0-c4ca640bf144
+    value: 317b8f06-b087-4503-8008-b6d8173b11b9
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:34:37+00:00'
+    value: '2021-10-19T17:55:19+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'June Pompei'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://lrhschoir.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '122'
-  uuid: b317a1e3-744d-45d2-a4d0-c4ca640bf144
+  uuid: 317b8f06-b087-4503-8008-b6d8173b11b9
   type: content_entity
   additional:
     entity_type: paragraph

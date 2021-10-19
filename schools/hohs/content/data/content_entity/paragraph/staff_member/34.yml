@@ -3,7 +3,7 @@ id:
     value: 34
 uuid:
   -
-    value: 503c77c1-c243-4afa-97f9-35c6c000202c
+    value: 3b6e2934-f507-4963-b473-fc35c9146f1c
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:33:34+00:00'
+    value: '2021-10-19T17:53:36+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Jeffrey Hensley'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://art1hensley.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '34'
-  uuid: 503c77c1-c243-4afa-97f9-35c6c000202c
+  uuid: 3b6e2934-f507-4963-b473-fc35c9146f1c
   type: content_entity
   additional:
     entity_type: paragraph

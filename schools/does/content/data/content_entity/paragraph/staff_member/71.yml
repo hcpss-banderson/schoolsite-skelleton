@@ -3,7 +3,7 @@ id:
     value: 71
 uuid:
   -
-    value: f2bd9e6e-cb77-4171-823e-c165d66d6a4b
+    value: 225b7f9c-b13b-43ac-8d45-8874a608bfae
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T15:56:20+00:00'
+    value: '2021-10-19T16:51:49+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Valarie Graham'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://daytonoaksmediacenter.weebly.com/'
+    title: 'Media Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '71'
-  uuid: f2bd9e6e-cb77-4171-823e-c165d66d6a4b
+  uuid: 225b7f9c-b13b-43ac-8d45-8874a608bfae
   type: content_entity
   additional:
     entity_type: paragraph

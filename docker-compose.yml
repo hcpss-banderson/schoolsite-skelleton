@@ -23,8 +23,9 @@ services:
     volumes:
       - ./drupal:/var/www/drupal
       - ./docker/drupal/php.ini-development:/usr/local/etc/php/php.ini
-      - ./schools/bbes/config/hcpss_school.settings.yml:/var/www/drupal/config/sync/hcpss_school.settings.yml
-      - ./schools/bbes/content:/var/www/drupal/content/snapshot
+      #- ./schools/bbes/config/hcpss_school.settings.yml:/var/www/drupal/config/sync/hcpss_school.settings.yml
+      #- ./schools/bbes/content:/var/www/drupal/content/snapshot
+      - ./schools:/schools
     environment:
       MYSQL_ROOT_PASSWORD: root
       MYSQL_USER: drupal

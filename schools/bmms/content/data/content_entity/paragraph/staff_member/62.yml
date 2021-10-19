@@ -3,7 +3,7 @@ id:
     value: 62
 uuid:
   -
-    value: b6a23405-23c7-4cd8-a284-f59ba7736f08
+    value: b80f7195-637c-4674-a9e0-63e21acc7339
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:43:07+00:00'
+    value: '2021-10-19T18:08:54+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Sari O’Bryan'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://www.burleighmanormusic.org/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '62'
-  uuid: b6a23405-23c7-4cd8-a284-f59ba7736f08
+  uuid: b80f7195-637c-4674-a9e0-63e21acc7339
   type: content_entity
   additional:
     entity_type: paragraph

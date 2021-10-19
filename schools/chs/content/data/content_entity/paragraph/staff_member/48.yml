@@ -3,7 +3,7 @@ id:
     value: 48
 uuid:
   -
-    value: 0cb41283-ad90-431b-b3bf-4e4e3f481190
+    value: 4275bb2a-f1b0-4213-b494-63d3558961cb
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:30:21+00:00'
+    value: '2021-10-19T17:48:35+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Nan Collins'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://www.mscollinschsart.com/mscollinschsart/Home.html'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '48'
-  uuid: 0cb41283-ad90-431b-b3bf-4e4e3f481190
+  uuid: 4275bb2a-f1b0-4213-b494-63d3558961cb
   type: content_entity
   additional:
     entity_type: paragraph

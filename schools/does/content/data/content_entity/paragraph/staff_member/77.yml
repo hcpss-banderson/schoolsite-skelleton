@@ -3,7 +3,7 @@ id:
     value: 77
 uuid:
   -
-    value: cdf7ff09-830d-4c32-883a-f71dd444b31f
+    value: e9f919f6-5ed4-4b92-970d-73ab9f78cc0c
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T15:56:20+00:00'
+    value: '2021-10-19T16:51:49+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Amy Syversen'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://daytonoaksband.weebly.com'
+    title: 'Band Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '77'
-  uuid: cdf7ff09-830d-4c32-883a-f71dd444b31f
+  uuid: e9f919f6-5ed4-4b92-970d-73ab9f78cc0c
   type: content_entity
   additional:
     entity_type: paragraph

@@ -3,7 +3,7 @@ id:
     value: 71
 uuid:
   -
-    value: f29050af-1e29-4225-9f09-31c3cbc0cc89
+    value: 5d6e0fe2-84c4-4c4f-8bcf-e392e7fc6777
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:05:36+00:00'
+    value: '2021-10-19T17:06:24+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Cassandra Murray'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://www.bandandorchestrahuskies.org/'
+    title: 'Band and Orchestra Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '71'
-  uuid: f29050af-1e29-4225-9f09-31c3cbc0cc89
+  uuid: 5d6e0fe2-84c4-4c4f-8bcf-e392e7fc6777
   type: content_entity
   additional:
     entity_type: paragraph

@@ -3,7 +3,7 @@ id:
     value: 48
 uuid:
   -
-    value: 968de049-9382-4a98-9a92-cd3898ceb620
+    value: 011b6824-83bf-43e7-9ae3-178e0a9fd20a
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:00:27+00:00'
+    value: '2021-10-19T16:58:26+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Patricia DeOrio'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://mrsdeorio-orchestra.weebly.com'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '48'
-  uuid: 968de049-9382-4a98-9a92-cd3898ceb620
+  uuid: 011b6824-83bf-43e7-9ae3-178e0a9fd20a
   type: content_entity
   additional:
     entity_type: paragraph

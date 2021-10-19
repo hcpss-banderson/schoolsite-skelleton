@@ -3,7 +3,7 @@ id:
     value: 45
 uuid:
   -
-    value: 2b29290f-de86-46db-b250-ee8921091c7c
+    value: cfdb9f16-069c-4204-9823-ca1eccdc547a
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T17:12:46+00:00'
+    value: '2021-10-19T18:45:26+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Marni Beyer'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://clesmedia1.weebly.com'
+    title: 'Media Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '45'
-  uuid: 2b29290f-de86-46db-b250-ee8921091c7c
+  uuid: cfdb9f16-069c-4204-9823-ca1eccdc547a
   type: content_entity
   additional:
     entity_type: paragraph

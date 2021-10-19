@@ -3,7 +3,7 @@ id:
     value: 76
 uuid:
   -
-    value: a6251a1a-1583-44fc-a8c7-f1a2d6250a31
+    value: 193de12a-d38c-4b32-b027-e2502a03f3f3
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:37:57+00:00'
+    value: '2021-10-19T18:00:27+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Randi Trzesinski'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://twitter.com/OMHSmedia'
+    title: 'Follow us on Twitter: @OMHSmedia'
+    options: {  }
 _content_snapshot_metadata:
   id: '76'
-  uuid: a6251a1a-1583-44fc-a8c7-f1a2d6250a31
+  uuid: 193de12a-d38c-4b32-b027-e2502a03f3f3
   type: content_entity
   additional:
     entity_type: paragraph

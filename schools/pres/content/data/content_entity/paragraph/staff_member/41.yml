@@ -3,7 +3,7 @@ id:
     value: 41
 uuid:
   -
-    value: fdafc85c-0bf2-47ea-8e80-e8114bcd18df
+    value: 986b75d1-4d46-45bb-90c4-d4eab849efe6
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:15:03+00:00'
+    value: '2021-10-19T17:22:31+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Jessica Brown'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://presgt.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '41'
-  uuid: fdafc85c-0bf2-47ea-8e80-e8114bcd18df
+  uuid: 986b75d1-4d46-45bb-90c4-d4eab849efe6
   type: content_entity
   additional:
     entity_type: paragraph

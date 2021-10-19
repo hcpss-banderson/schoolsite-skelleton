@@ -3,7 +3,7 @@ id:
     value: 7
 uuid:
   -
-    value: b1c304c4-cd91-4564-be3e-b864af33dd46
+    value: ea5b38b7-5718-4489-91f0-a85361bafec7
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:15:03+00:00'
+    value: '2021-10-19T17:22:31+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Beth Shuman'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://mrsshumanshiningstars.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '7'
-  uuid: b1c304c4-cd91-4564-be3e-b864af33dd46
+  uuid: ea5b38b7-5718-4489-91f0-a85361bafec7
   type: content_entity
   additional:
     entity_type: paragraph

@@ -1,0 +1,17 @@
+uuid: 69b6124a-aa9d-4bef-9331-9e6f8fb8909c
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: News
+type: news
+description: 'Use <em>news</em> to post a news message to your community.'
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: false

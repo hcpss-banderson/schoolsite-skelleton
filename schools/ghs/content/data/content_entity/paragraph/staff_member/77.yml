@@ -3,7 +3,7 @@ id:
     value: 77
 uuid:
   -
-    value: 3610c21c-530a-4bba-9adf-e1a4dd1d7989
+    value: 9067cf24-6dba-4872-9e84-bd3f4d990294
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:31:23+00:00'
+    value: '2021-10-19T17:50:15+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Patricia Feinstein'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://teacherweb.com/MD/GlenelgHighSchool/Feinstein/index.aspx'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '77'
-  uuid: 3610c21c-530a-4bba-9adf-e1a4dd1d7989
+  uuid: 9067cf24-6dba-4872-9e84-bd3f4d990294
   type: content_entity
   additional:
     entity_type: paragraph

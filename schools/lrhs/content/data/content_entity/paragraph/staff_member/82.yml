@@ -3,7 +3,7 @@ id:
     value: 82
 uuid:
   -
-    value: 85aaf361-4536-4d71-a3c1-f8d9fa639807
+    value: 0a273a62-a35e-4e6f-8965-080817638faf
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:34:37+00:00'
+    value: '2021-10-19T17:55:19+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Beth Dungey'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://bdungey.wix.com/longreachgt'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '82'
-  uuid: 85aaf361-4536-4d71-a3c1-f8d9fa639807
+  uuid: 0a273a62-a35e-4e6f-8965-080817638faf
   type: content_entity
   additional:
     entity_type: paragraph

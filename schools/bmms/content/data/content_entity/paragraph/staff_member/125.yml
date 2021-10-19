@@ -3,7 +3,7 @@ id:
     value: 125
 uuid:
   -
-    value: 32d780b0-7538-4ae8-a157-1a4bacc6fd4a
+    value: 21e57100-6e58-4c32-aeaa-7b7ace18e27a
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:43:07+00:00'
+    value: '2021-10-19T18:08:54+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Patrick McSwain'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://www.burleighmanormusic.org/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '125'
-  uuid: 32d780b0-7538-4ae8-a157-1a4bacc6fd4a
+  uuid: 21e57100-6e58-4c32-aeaa-7b7ace18e27a
   type: content_entity
   additional:
     entity_type: paragraph

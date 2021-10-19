@@ -3,7 +3,7 @@ id:
     value: 112
 uuid:
   -
-    value: f2891d15-c150-4522-a44e-2878b5ccaaad
+    value: 255c27f2-9be0-437d-beb9-9407da79d638
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T15:59:27+00:00'
+    value: '2021-10-19T16:56:47+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Ms. Martin'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://www.hcpss.org/food-services/'
+    title: 'HCPSS Food and Nutrition Services Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '112'
-  uuid: f2891d15-c150-4522-a44e-2878b5ccaaad
+  uuid: 255c27f2-9be0-437d-beb9-9407da79d638
   type: content_entity
   additional:
     entity_type: paragraph

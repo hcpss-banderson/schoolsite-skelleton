@@ -3,7 +3,7 @@ id:
     value: 51
 uuid:
   -
-    value: ac999d84-6099-4ffa-9528-5df1d7e9d1a7
+    value: 404cf6e1-eee2-4e1f-8b5b-9e4e15d02fa2
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:49:41+00:00'
+    value: '2021-10-19T18:18:48+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Kristine Viens'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://sites.google.com/site/viensclassroom/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '51'
-  uuid: ac999d84-6099-4ffa-9528-5df1d7e9d1a7
+  uuid: 404cf6e1-eee2-4e1f-8b5b-9e4e15d02fa2
   type: content_entity
   additional:
     entity_type: paragraph

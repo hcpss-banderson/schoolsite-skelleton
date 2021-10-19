@@ -3,7 +3,7 @@ id:
     value: 58
 uuid:
   -
-    value: ae21f841-d597-42a6-a98f-a71f979baee5
+    value: 9f788b01-a640-4169-89fc-ff3ea1b2f3ec
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:13:59+00:00'
+    value: '2021-10-19T17:20:34+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Stephanie Greene'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://sites.google.com/hcpss.org/plesmediacenter2021/home'
+    title: 'PLES Media Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '58'
-  uuid: ae21f841-d597-42a6-a98f-a71f979baee5
+  uuid: 9f788b01-a640-4169-89fc-ff3ea1b2f3ec
   type: content_entity
   additional:
     entity_type: paragraph

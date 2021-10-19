@@ -3,7 +3,7 @@ id:
     value: 95
 uuid:
   -
-    value: 52bfb582-0eec-430b-a1b2-fc132e3c7197
+    value: aaba2d2b-8dea-49a6-9175-486f93aed00c
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:57:33+00:00'
+    value: '2021-10-19T18:31:21+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Mrs. Nycum'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://mwmsteacherweb.wikispaces.hcpss.org/Mrs.+Day+%26+Mrs.+Nycum'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '95'
-  uuid: 52bfb582-0eec-430b-a1b2-fc132e3c7197
+  uuid: aaba2d2b-8dea-49a6-9175-486f93aed00c
   type: content_entity
   additional:
     entity_type: paragraph

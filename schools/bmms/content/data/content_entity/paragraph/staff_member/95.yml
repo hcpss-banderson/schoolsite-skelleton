@@ -3,7 +3,7 @@ id:
     value: 95
 uuid:
   -
-    value: 112e7480-5a30-4392-8a10-cdd4156b9e3f
+    value: 75e0c283-91a9-42a2-8f6a-1e32d9279956
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:43:07+00:00'
+    value: '2021-10-19T18:08:54+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Nena Davis'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://sites.google.com/site/nenadavishomework/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '95'
-  uuid: 112e7480-5a30-4392-8a10-cdd4156b9e3f
+  uuid: 75e0c283-91a9-42a2-8f6a-1e32d9279956
   type: content_entity
   additional:
     entity_type: paragraph

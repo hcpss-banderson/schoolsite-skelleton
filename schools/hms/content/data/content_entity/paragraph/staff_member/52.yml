@@ -3,7 +3,7 @@ id:
     value: 52
 uuid:
   -
-    value: ead71ed2-2618-492d-b748-ee56fd5547f5
+    value: 6c3ee1c3-4082-48e4-b556-567d8c71cad4
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:52:03+00:00'
+    value: '2021-10-19T18:22:04+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'David Ebbe'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://hmsgt.wikispaces.hcpss.org/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '52'
-  uuid: ead71ed2-2618-492d-b748-ee56fd5547f5
+  uuid: 6c3ee1c3-4082-48e4-b556-567d8c71cad4
   type: content_entity
   additional:
     entity_type: paragraph

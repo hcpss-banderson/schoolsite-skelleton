@@ -3,7 +3,7 @@ id:
     value: 9
 uuid:
   -
-    value: 39328cc7-7ca2-4839-873d-f6a63c80192d
+    value: 253f0a79-7058-4953-83fe-b7eaee794fc6
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:57:33+00:00'
+    value: '2021-10-19T18:31:21+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Mrs. Bradley'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://tbgarroway.wix.com/mw-student-services'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '9'
-  uuid: 39328cc7-7ca2-4839-873d-f6a63c80192d
+  uuid: 253f0a79-7058-4953-83fe-b7eaee794fc6
   type: content_entity
   additional:
     entity_type: paragraph

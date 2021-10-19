@@ -3,7 +3,7 @@ id:
     value: 75
 uuid:
   -
-    value: b91dc2e7-3368-45ab-8a49-70bfb82def5d
+    value: bfbf1ad9-a62f-4aab-82c1-492f06220698
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:25:18+00:00'
+    value: '2021-10-19T17:40:12+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Erin Dougherty'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://www.doughertybands.weebly.com'
+    title: 'Mrs. Dougherty''s Band Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '75'
-  uuid: b91dc2e7-3368-45ab-8a49-70bfb82def5d
+  uuid: bfbf1ad9-a62f-4aab-82c1-492f06220698
   type: content_entity
   additional:
     entity_type: paragraph

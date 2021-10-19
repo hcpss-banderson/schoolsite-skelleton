@@ -3,7 +3,7 @@ id:
     value: 23
 uuid:
   -
-    value: 1e46e137-40ea-4675-a2cf-ec4f239a9305
+    value: 55a1423c-d49a-4b29-944f-98225884349c
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:15:03+00:00'
+    value: '2021-10-19T17:22:31+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Ashleigh Cooney'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://ashleighcooney.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '23'
-  uuid: 1e46e137-40ea-4675-a2cf-ec4f239a9305
+  uuid: 55a1423c-d49a-4b29-944f-98225884349c
   type: content_entity
   additional:
     entity_type: paragraph

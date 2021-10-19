@@ -3,7 +3,7 @@ id:
     value: 57
 uuid:
   -
-    value: 62c37b92-86c3-4266-b483-27674b49c658
+    value: dcbac225-5c26-418a-bacd-7b24fb4d51ce
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:15:03+00:00'
+    value: '2021-10-19T17:22:31+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Andrea Aldrich'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://www.presorchestra.weebly.com'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '57'
-  uuid: 62c37b92-86c3-4266-b483-27674b49c658
+  uuid: dcbac225-5c26-418a-bacd-7b24fb4d51ce
   type: content_entity
   additional:
     entity_type: paragraph

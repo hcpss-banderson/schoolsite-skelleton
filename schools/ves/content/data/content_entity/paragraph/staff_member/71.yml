@@ -3,7 +3,7 @@ id:
     value: 71
 uuid:
   -
-    value: 08184d5f-001f-4cff-b372-e1f4566d5657
+    value: a444197a-c70e-4b7f-adc4-66c2321d5788
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:24:17+00:00'
+    value: '2021-10-19T17:38:35+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Jacqueline Viguers'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://vesphysed.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '71'
-  uuid: 08184d5f-001f-4cff-b372-e1f4566d5657
+  uuid: a444197a-c70e-4b7f-adc4-66c2321d5788
   type: content_entity
   additional:
     entity_type: paragraph

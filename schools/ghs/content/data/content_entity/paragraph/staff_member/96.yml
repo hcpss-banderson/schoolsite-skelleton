@@ -3,7 +3,7 @@ id:
     value: 96
 uuid:
   -
-    value: 15ca6f18-3b48-4da3-8e1d-a619c5155e09
+    value: 13b999bd-bfc8-465d-919d-8e3afaeb0532
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:31:23+00:00'
+    value: '2021-10-19T17:50:15+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Joseph Tinker'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://sites.google.com/a/hcpss.me/tinkertime/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '96'
-  uuid: 15ca6f18-3b48-4da3-8e1d-a619c5155e09
+  uuid: 13b999bd-bfc8-465d-919d-8e3afaeb0532
   type: content_entity
   additional:
     entity_type: paragraph

@@ -3,7 +3,7 @@ id:
     value: 91
 uuid:
   -
-    value: 27db125e-fc43-426c-9d17-512905cc475f
+    value: a3c43751-3cc0-48f3-adaf-7e1482a4ad8a
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T17:13:51+00:00'
+    value: '2021-10-19T17:00:02+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Heather Fickes'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://gcesreading.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '91'
-  uuid: 27db125e-fc43-426c-9d17-512905cc475f
+  uuid: a3c43751-3cc0-48f3-adaf-7e1482a4ad8a
   type: content_entity
   additional:
     entity_type: paragraph

@@ -3,7 +3,7 @@ id:
     value: 11
 uuid:
   -
-    value: ef8de597-00bb-41f7-b6bc-832268655f2a
+    value: ba234f24-9b91-46ec-b48d-d7119f5012a7
 langcode:
   -
     value: en
@@ -13,7 +13,7 @@ type:
     target_type: fragment_type
 revision_created:
   -
-    value: '2021-10-14T16:39:00+00:00'
+    value: '2021-10-19T18:02:09+00:00'
     format: 'Y-m-d\TH:i:sP'
 revision_user:
   -
@@ -32,11 +32,11 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:39:00+00:00'
+    value: '2021-10-19T18:02:09+00:00'
     format: 'Y-m-d\TH:i:sP'
 changed:
   -
-    value: '2021-10-14T16:39:00+00:00'
+    value: '2021-10-19T18:02:09+00:00'
     format: 'Y-m-d\TH:i:sP'
 default_langcode:
   -
@@ -77,7 +77,7 @@ field_staff_members:
     target_type: paragraph
 _content_snapshot_metadata:
   id: '11'
-  uuid: ef8de597-00bb-41f7-b6bc-832268655f2a
+  uuid: ba234f24-9b91-46ec-b48d-d7119f5012a7
   type: content_entity
   additional:
     entity_type: fragment

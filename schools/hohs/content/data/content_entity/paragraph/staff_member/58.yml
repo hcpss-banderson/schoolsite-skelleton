@@ -3,7 +3,7 @@ id:
     value: 58
 uuid:
   -
-    value: e1ba3078-3717-45fd-8fc6-15dff0efc4a8
+    value: 7453fb84-c455-4280-868e-a458827edd3f
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:33:34+00:00'
+    value: '2021-10-19T17:53:36+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Margaret Mitchell'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://englishwithmsmitchell.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '58'
-  uuid: e1ba3078-3717-45fd-8fc6-15dff0efc4a8
+  uuid: 7453fb84-c455-4280-868e-a458827edd3f
   type: content_entity
   additional:
     entity_type: paragraph

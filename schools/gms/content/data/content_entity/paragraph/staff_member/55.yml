@@ -3,7 +3,7 @@ id:
     value: 55
 uuid:
   -
-    value: 096d7b28-4406-4884-bedf-ce97999bd50e
+    value: 62df02a6-b37f-4be4-ac93-80ffbc9425b8
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:49:41+00:00'
+    value: '2021-10-19T18:18:48+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'David Apple'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://gmsbands.bandzana.net/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '55'
-  uuid: 096d7b28-4406-4884-bedf-ce97999bd50e
+  uuid: 62df02a6-b37f-4be4-ac93-80ffbc9425b8
   type: content_entity
   additional:
     entity_type: paragraph

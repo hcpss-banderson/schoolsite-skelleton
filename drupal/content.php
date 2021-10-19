@@ -75,7 +75,7 @@ $query = new SchoolQuery();
 $schools = $query->getSchools();
 
 foreach ($schools as $acronym => $school) {
-  if (!in_array($acronym, ['cles', 'gces', 'wlhs'])) {
+  if (!in_array($acronym, ['cles'])) {
     continue;
   }
   

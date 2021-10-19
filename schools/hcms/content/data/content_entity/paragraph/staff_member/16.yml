@@ -3,7 +3,7 @@ id:
     value: 16
 uuid:
   -
-    value: 3065e1e2-9bb0-45be-a8bc-9bd326507813
+    value: b9752ba9-75f3-4412-ab1b-e46e4ae5fe91
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:50:56+00:00'
+    value: '2021-10-19T18:20:26+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Michael Dennison'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://dennison.webs.com'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '16'
-  uuid: 3065e1e2-9bb0-45be-a8bc-9bd326507813
+  uuid: b9752ba9-75f3-4412-ab1b-e46e4ae5fe91
   type: content_entity
   additional:
     entity_type: paragraph

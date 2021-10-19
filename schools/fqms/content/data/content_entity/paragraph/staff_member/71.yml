@@ -3,7 +3,7 @@ id:
     value: 71
 uuid:
   -
-    value: ff7449aa-424b-44d3-b855-11e2ee4d0315
+    value: 2caf7e28-3717-4d32-a227-1b4b4f3874ab
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:48:37+00:00'
+    value: '2021-10-19T18:17:11+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Mr. D''Antuono'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://FQMSGT.weebly.com'
+    title: 'GT Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '71'
-  uuid: ff7449aa-424b-44d3-b855-11e2ee4d0315
+  uuid: 2caf7e28-3717-4d32-a227-1b4b4f3874ab
   type: content_entity
   additional:
     entity_type: paragraph

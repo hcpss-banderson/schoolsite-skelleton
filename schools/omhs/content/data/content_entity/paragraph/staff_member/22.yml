@@ -3,7 +3,7 @@ id:
     value: 22
 uuid:
   -
-    value: cf57c9ec-1547-4bf5-a1dd-23e8d7e12c6f
+    value: b6138413-d675-4693-a6c0-5471fee5d97c
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:37:57+00:00'
+    value: '2021-10-19T18:00:27+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -40,10 +40,14 @@ field_job_title: {  }
 field_name:
   -
     value: 'Rhoda MacCormack'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://www.hcpss.org/schools/pupil-personnel-services/'
+    title: 'Read more about what a Pupil Personnel Worker does'
+    options: {  }
 _content_snapshot_metadata:
   id: '22'
-  uuid: cf57c9ec-1547-4bf5-a1dd-23e8d7e12c6f
+  uuid: b6138413-d675-4693-a6c0-5471fee5d97c
   type: content_entity
   additional:
     entity_type: paragraph

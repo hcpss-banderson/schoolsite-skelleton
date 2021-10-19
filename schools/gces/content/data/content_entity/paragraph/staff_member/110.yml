@@ -3,7 +3,7 @@ id:
     value: 110
 uuid:
   -
-    value: 57ddcb6b-673f-4d0d-a140-4406e807c3d9
+    value: 9187513f-70b2-43ab-b882-fd60fb1e0f59
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T17:13:51+00:00'
+    value: '2021-10-19T17:00:02+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Natalie Pretzello'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://gcesbands.weebly.com/'
+    title: 'Band Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '110'
-  uuid: 57ddcb6b-673f-4d0d-a140-4406e807c3d9
+  uuid: 9187513f-70b2-43ab-b882-fd60fb1e0f59
   type: content_entity
   additional:
     entity_type: paragraph

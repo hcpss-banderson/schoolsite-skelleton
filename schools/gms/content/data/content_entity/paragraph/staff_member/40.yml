@@ -3,7 +3,7 @@ id:
     value: 40
 uuid:
   -
-    value: a2b33672-c799-44b2-b5fb-823b00680f46
+    value: 6b43d5d7-b083-4b92-9b6f-49335a71f00c
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:49:41+00:00'
+    value: '2021-10-19T18:18:48+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Lisa Scepura'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://lisascepura.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '40'
-  uuid: a2b33672-c799-44b2-b5fb-823b00680f46
+  uuid: 6b43d5d7-b083-4b92-9b6f-49335a71f00c
   type: content_entity
   additional:
     entity_type: paragraph

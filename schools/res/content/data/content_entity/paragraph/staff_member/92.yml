@@ -3,7 +3,7 @@ id:
     value: 92
 uuid:
   -
-    value: 3c9237a7-8ee7-4803-a140-abd1ad94e12a
+    value: 96676487-ec4b-4fc8-b483-70cf1f9be0d4
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:17:07+00:00'
+    value: '2021-10-19T17:26:17+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Van McKenna'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://mrsvmckenna.weebly.com/index.html'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '92'
-  uuid: 3c9237a7-8ee7-4803-a140-abd1ad94e12a
+  uuid: 96676487-ec4b-4fc8-b483-70cf1f9be0d4
   type: content_entity
   additional:
     entity_type: paragraph

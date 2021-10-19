@@ -3,7 +3,7 @@ id:
     value: 85
 uuid:
   -
-    value: 5b64766b-a627-449d-9786-f9f777e35297
+    value: f2fd8e23-8f48-4424-b483-3ca8a9b6cf38
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:06:44+00:00'
+    value: '2021-10-19T17:08:00+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Laura Baker'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://www.ilchestermusic.org/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '85'
-  uuid: 5b64766b-a627-449d-9786-f9f777e35297
+  uuid: f2fd8e23-8f48-4424-b483-3ca8a9b6cf38
   type: content_entity
   additional:
     entity_type: paragraph

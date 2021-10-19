@@ -3,7 +3,7 @@ id:
     value: 47
 uuid:
   -
-    value: 2a478d3d-c511-4063-b088-0bc8f85b1516
+    value: 30e320f5-26a4-4154-b3b1-5bf7b270761e
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:39:00+00:00'
+    value: '2021-10-19T18:02:09+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -40,10 +40,14 @@ field_job_title: {  }
 field_name:
   -
     value: 'Jay Kim'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://rhhsorchestra.weebly.com'
+    title: 'RHHS Orchestra Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '47'
-  uuid: 2a478d3d-c511-4063-b088-0bc8f85b1516
+  uuid: 30e320f5-26a4-4154-b3b1-5bf7b270761e
   type: content_entity
   additional:
     entity_type: paragraph

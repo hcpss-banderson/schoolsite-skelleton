@@ -3,7 +3,7 @@ id:
     value: 36
 uuid:
   -
-    value: a6767b5a-08d0-4cb3-9ddd-4566dae6dbec
+    value: e0960723-0305-4d0d-bc5e-68730c16f943
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T15:51:05+00:00'
+    value: '2021-10-19T14:31:52+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Marybeth Graham'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://ccesbandandstrings.weebly.com/'
+    title: 'Band/Strings Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '36'
-  uuid: a6767b5a-08d0-4cb3-9ddd-4566dae6dbec
+  uuid: e0960723-0305-4d0d-bc5e-68730c16f943
   type: content_entity
   additional:
     entity_type: paragraph

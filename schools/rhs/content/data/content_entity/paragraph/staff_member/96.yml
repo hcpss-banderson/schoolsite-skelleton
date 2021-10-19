@@ -3,7 +3,7 @@ id:
     value: 96
 uuid:
   -
-    value: e88fd5a6-0fac-447c-b80e-83d108be3b8e
+    value: 68bfbd13-4c0d-4b9f-b490-7c0f5dc838e6
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:40:01+00:00'
+    value: '2021-10-19T18:03:49+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Kevin Miller'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://kevinmiller.rhsgators.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '96'
-  uuid: e88fd5a6-0fac-447c-b80e-83d108be3b8e
+  uuid: 68bfbd13-4c0d-4b9f-b490-7c0f5dc838e6
   type: content_entity
   additional:
     entity_type: paragraph

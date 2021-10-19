@@ -3,7 +3,7 @@ id:
     value: 131
 uuid:
   -
-    value: ef74a4c4-700c-4439-aca3-b6b9c36dbe40
+    value: bd99a344-b07d-42a9-94e7-bbe82485301b
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:32:27+00:00'
+    value: '2021-10-19T17:51:56+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Kristine Martinez'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://sites.google.com/a/hcpss.me/hahs_martinez_classroom/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '131'
-  uuid: ef74a4c4-700c-4439-aca3-b6b9c36dbe40
+  uuid: bd99a344-b07d-42a9-94e7-bbe82485301b
   type: content_entity
   additional:
     entity_type: paragraph

@@ -3,7 +3,7 @@ id:
     value: 111
 uuid:
   -
-    value: 98a8e353-b21a-4fd0-b07d-cf05d6c2ab0d
+    value: a2c3eefe-9015-40c4-ac7d-495fd6a890d4
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:13:59+00:00'
+    value: '2021-10-19T17:20:34+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Aimee Carlesi'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://phelpsluckhealth.weebly.com/'
+    title: 'Phelps Luck Health'
+    options: {  }
 _content_snapshot_metadata:
   id: '111'
-  uuid: 98a8e353-b21a-4fd0-b07d-cf05d6c2ab0d
+  uuid: a2c3eefe-9015-40c4-ac7d-495fd6a890d4
   type: content_entity
   additional:
     entity_type: paragraph

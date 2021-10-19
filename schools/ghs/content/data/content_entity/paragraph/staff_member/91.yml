@@ -3,7 +3,7 @@ id:
     value: 91
 uuid:
   -
-    value: ccce1624-e377-4306-8f84-9df3792b941c
+    value: b81ce381-18f7-443a-812c-86d365e2e377
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:31:23+00:00'
+    value: '2021-10-19T17:50:15+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Joshua Garner'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://mrgarnershistory.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '91'
-  uuid: ccce1624-e377-4306-8f84-9df3792b941c
+  uuid: b81ce381-18f7-443a-812c-86d365e2e377
   type: content_entity
   additional:
     entity_type: paragraph

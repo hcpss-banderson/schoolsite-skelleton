@@ -3,7 +3,7 @@ id:
     value: 28
 uuid:
   -
-    value: b98ba85b-87f3-45c8-8c97-e0f130f2a206
+    value: e6df2039-2c71-45fb-a881-3c55bde320f5
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T17:01:43+00:00'
+    value: '2021-10-19T18:37:14+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Kelly Greene'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://classjump.com/m/mrsgreene/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '28'
-  uuid: b98ba85b-87f3-45c8-8c97-e0f130f2a206
+  uuid: e6df2039-2c71-45fb-a881-3c55bde320f5
   type: content_entity
   additional:
     entity_type: paragraph

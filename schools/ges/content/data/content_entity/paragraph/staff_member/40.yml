@@ -3,7 +3,7 @@ id:
     value: 40
 uuid:
   -
-    value: 72a13d36-7fe4-4127-b13d-91c643a77f9c
+    value: c8932b34-5553-4836-acc3-217a6576e597
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:02:30+00:00'
+    value: '2021-10-19T17:01:37+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Charlene McDaniel'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://www.gesmusic.org/'
+    title: 'Music Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '40'
-  uuid: 72a13d36-7fe4-4127-b13d-91c643a77f9c
+  uuid: c8932b34-5553-4836-acc3-217a6576e597
   type: content_entity
   additional:
     entity_type: paragraph

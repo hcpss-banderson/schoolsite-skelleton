@@ -3,7 +3,7 @@ id:
     value: 38
 uuid:
   -
-    value: 0c521506-8118-4aad-95c6-362401fd869d
+    value: 8a58f61c-10db-46a2-83bb-a1eb75e51cef
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:08:55+00:00'
+    value: '2021-10-19T17:11:08+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Amy Olson'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://blogs.olsonresearch.com/lisbonreading/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '38'
-  uuid: 0c521506-8118-4aad-95c6-362401fd869d
+  uuid: 8a58f61c-10db-46a2-83bb-a1eb75e51cef
   type: content_entity
   additional:
     entity_type: paragraph

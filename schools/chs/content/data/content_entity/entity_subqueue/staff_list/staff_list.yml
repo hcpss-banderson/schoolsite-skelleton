@@ -1,0 +1,124 @@
+name:
+  -
+    value: staff_list
+uuid:
+  -
+    value: 247f2207-06e6-4c6e-9a33-8d722a272547
+langcode:
+  -
+    value: en
+queue:
+  -
+    target_id: staff_list
+    target_type: entity_queue
+revision_created:
+  -
+    value: '2021-10-19T17:47:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 0
+    target_type: user
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+title:
+  -
+    value: 'Staff List'
+items:
+  -
+    target_id: 1
+    target_type: fragment
+  -
+    target_id: 2
+    target_type: fragment
+  -
+    target_id: 3
+    target_type: fragment
+  -
+    target_id: 4
+    target_type: fragment
+  -
+    target_id: 5
+    target_type: fragment
+  -
+    target_id: 6
+    target_type: fragment
+  -
+    target_id: 7
+    target_type: fragment
+  -
+    target_id: 8
+    target_type: fragment
+  -
+    target_id: 9
+    target_type: fragment
+  -
+    target_id: 10
+    target_type: fragment
+  -
+    target_id: 11
+    target_type: fragment
+  -
+    target_id: 12
+    target_type: fragment
+  -
+    target_id: 13
+    target_type: fragment
+  -
+    target_id: 14
+    target_type: fragment
+  -
+    target_id: 15
+    target_type: fragment
+  -
+    target_id: 16
+    target_type: fragment
+  -
+    target_id: 17
+    target_type: fragment
+  -
+    target_id: 18
+    target_type: fragment
+  -
+    target_id: 19
+    target_type: fragment
+  -
+    target_id: 20
+    target_type: fragment
+  -
+    target_id: 21
+    target_type: fragment
+  -
+    target_id: 22
+    target_type: fragment
+  -
+    target_id: 23
+    target_type: fragment
+  -
+    target_id: 24
+    target_type: fragment
+created:
+  -
+    value: '2021-10-19T17:47:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-19T17:48:35+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+_content_snapshot_metadata:
+  id: staff_list
+  uuid: 247f2207-06e6-4c6e-9a33-8d722a272547
+  type: content_entity
+  additional:
+    entity_type: entity_subqueue
+    bundle: staff_list
+    is_translatable: false

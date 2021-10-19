@@ -1,0 +1,97 @@
+name:
+  -
+    value: staff_list
+uuid:
+  -
+    value: bc9f2acb-ab9c-4c08-8496-bd50db813c3b
+langcode:
+  -
+    value: en
+queue:
+  -
+    target_id: staff_list
+    target_type: entity_queue
+revision_created:
+  -
+    value: '2021-10-19T18:09:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+revision_user:
+  -
+    target_id: 0
+    target_type: user
+revision_log_message: {  }
+status:
+  -
+    value: true
+uid:
+  -
+    target_id: 0
+    target_type: user
+title:
+  -
+    value: 'Staff List'
+items:
+  -
+    target_id: 1
+    target_type: fragment
+  -
+    target_id: 2
+    target_type: fragment
+  -
+    target_id: 3
+    target_type: fragment
+  -
+    target_id: 4
+    target_type: fragment
+  -
+    target_id: 5
+    target_type: fragment
+  -
+    target_id: 6
+    target_type: fragment
+  -
+    target_id: 7
+    target_type: fragment
+  -
+    target_id: 8
+    target_type: fragment
+  -
+    target_id: 9
+    target_type: fragment
+  -
+    target_id: 10
+    target_type: fragment
+  -
+    target_id: 11
+    target_type: fragment
+  -
+    target_id: 12
+    target_type: fragment
+  -
+    target_id: 13
+    target_type: fragment
+  -
+    target_id: 14
+    target_type: fragment
+  -
+    target_id: 15
+    target_type: fragment
+created:
+  -
+    value: '2021-10-19T18:09:10+00:00'
+    format: 'Y-m-d\TH:i:sP'
+changed:
+  -
+    value: '2021-10-19T18:10:36+00:00'
+    format: 'Y-m-d\TH:i:sP'
+default_langcode:
+  -
+    value: true
+_content_snapshot_metadata:
+  id: staff_list
+  uuid: bc9f2acb-ab9c-4c08-8496-bd50db813c3b
+  type: content_entity
+  additional:
+    entity_type: entity_subqueue
+    bundle: staff_list
+    is_translatable: false

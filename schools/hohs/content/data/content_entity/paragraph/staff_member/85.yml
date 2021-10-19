@@ -3,7 +3,7 @@ id:
     value: 85
 uuid:
   -
-    value: 84167e35-f9c0-4324-905d-38f1e924d497
+    value: 9d09db82-86c3-4059-9922-d4d6260d1289
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:33:34+00:00'
+    value: '2021-10-19T17:53:36+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Paula Roberts'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://sites.google.com/site/probertshowardhighmath/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '85'
-  uuid: 84167e35-f9c0-4324-905d-38f1e924d497
+  uuid: 9d09db82-86c3-4059-9922-d4d6260d1289
   type: content_entity
   additional:
     entity_type: paragraph

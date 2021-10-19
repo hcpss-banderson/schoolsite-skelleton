@@ -3,7 +3,7 @@ id:
     value: 47
 uuid:
   -
-    value: 106153e9-f281-433f-8016-d24a20eff15a
+    value: bf50ce0b-9b94-4dff-8df9-0f468b48d6ee
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:28:17+00:00'
+    value: '2021-10-19T17:45:15+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Rich Umla'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://wfesgeneralmusicclass.yolasite.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '47'
-  uuid: 106153e9-f281-433f-8016-d24a20eff15a
+  uuid: bf50ce0b-9b94-4dff-8df9-0f468b48d6ee
   type: content_entity
   additional:
     entity_type: paragraph

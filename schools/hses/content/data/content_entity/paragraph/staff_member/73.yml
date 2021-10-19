@@ -3,7 +3,7 @@ id:
     value: 73
 uuid:
   -
-    value: f5e0ee74-d726-410d-a60c-232c59beb85e
+    value: c5363419-29a4-4e61-85d0-2e0559c735c6
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:05:36+00:00'
+    value: '2021-10-19T17:06:24+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Tammy Sczepanski'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://hseslibrarymediacenter.weebly.com/'
+    title: 'Library Media Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '73'
-  uuid: f5e0ee74-d726-410d-a60c-232c59beb85e
+  uuid: c5363419-29a4-4e61-85d0-2e0559c735c6
   type: content_entity
   additional:
     entity_type: paragraph

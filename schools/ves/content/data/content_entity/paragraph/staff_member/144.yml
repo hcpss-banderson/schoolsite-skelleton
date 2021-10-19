@@ -3,7 +3,7 @@ id:
     value: 144
 uuid:
   -
-    value: 83a7dc62-1401-4801-ac98-3c0140f2a2f0
+    value: 9ebe7bd3-4008-425e-961e-1600317d4c2a
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:24:17+00:00'
+    value: '2021-10-19T17:38:35+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Julie Chang Wentz'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://vescounseling.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '144'
-  uuid: 83a7dc62-1401-4801-ac98-3c0140f2a2f0
+  uuid: 9ebe7bd3-4008-425e-961e-1600317d4c2a
   type: content_entity
   additional:
     entity_type: paragraph

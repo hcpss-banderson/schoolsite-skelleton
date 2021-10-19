@@ -3,7 +3,7 @@ id:
     value: 29
 uuid:
   -
-    value: 060dcb12-8510-4909-b08e-72ddaf2559a4
+    value: 7edac8d2-6b6e-4b5b-a8d3-cd96a14ce29b
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:30:21+00:00'
+    value: '2021-10-19T17:48:35+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Holly Pasciullo'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://sites.google.com/site/hpasciullo/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '29'
-  uuid: 060dcb12-8510-4909-b08e-72ddaf2559a4
+  uuid: 7edac8d2-6b6e-4b5b-a8d3-cd96a14ce29b
   type: content_entity
   additional:
     entity_type: paragraph

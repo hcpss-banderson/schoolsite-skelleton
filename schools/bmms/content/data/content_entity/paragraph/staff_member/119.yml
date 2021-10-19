@@ -3,7 +3,7 @@ id:
     value: 119
 uuid:
   -
-    value: 03947811-c6e6-4502-865e-41ee2644e5b5
+    value: 70145606-019c-4aeb-963d-3b56c572a7b1
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:43:07+00:00'
+    value: '2021-10-19T18:08:54+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'David Reck'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://www.teacherweb.com/md/bmms/dreck/index.aspx'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '119'
-  uuid: 03947811-c6e6-4502-865e-41ee2644e5b5
+  uuid: 70145606-019c-4aeb-963d-3b56c572a7b1
   type: content_entity
   additional:
     entity_type: paragraph

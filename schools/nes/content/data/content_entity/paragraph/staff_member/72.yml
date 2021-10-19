@@ -3,7 +3,7 @@ id:
     value: 72
 uuid:
   -
-    value: f94cd925-ae2a-4b3a-9ba4-a3c612aa5ff2
+    value: 901289fb-3437-4d62-b25a-c8e97f269293
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:12:58+00:00'
+    value: '2021-10-19T17:18:34+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Darka Nebesh'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://nesstrings.weebly.com/'
+    title: 'NES Strings Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '72'
-  uuid: f94cd925-ae2a-4b3a-9ba4-a3c612aa5ff2
+  uuid: 901289fb-3437-4d62-b25a-c8e97f269293
   type: content_entity
   additional:
     entity_type: paragraph

@@ -3,7 +3,7 @@ id:
     value: 120
 uuid:
   -
-    value: 34f58086-94a7-42e9-9042-5438341ca9f5
+    value: 99f7601c-14b2-4b79-aa6b-513289ef8c51
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:34:37+00:00'
+    value: '2021-10-19T17:55:19+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Christoffer Fyhr'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://www.lrhsorchestra.org/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '120'
-  uuid: 34f58086-94a7-42e9-9042-5438341ca9f5
+  uuid: 99f7601c-14b2-4b79-aa6b-513289ef8c51
   type: content_entity
   additional:
     entity_type: paragraph

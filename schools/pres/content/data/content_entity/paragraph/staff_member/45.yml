@@ -3,7 +3,7 @@ id:
     value: 45
 uuid:
   -
-    value: 1d506583-b8ae-4d56-b889-73731b35dc6b
+    value: a0a6f256-7415-403c-930e-b969389e6f0e
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:15:03+00:00'
+    value: '2021-10-19T17:22:31+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Gayle Mundie'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://esolmundie.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '45'
-  uuid: 1d506583-b8ae-4d56-b889-73731b35dc6b
+  uuid: a0a6f256-7415-403c-930e-b969389e6f0e
   type: content_entity
   additional:
     entity_type: paragraph

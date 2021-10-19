@@ -3,7 +3,7 @@ id:
     value: 38
 uuid:
   -
-    value: 356149f4-5ef6-48c8-97f4-594f9308e838
+    value: 4ac24af5-490f-4b72-b4ce-01ee92a3e281
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:48:37+00:00'
+    value: '2021-10-19T18:17:11+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Mr. Ceglia'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://fqmsceglia.wikispaces.hcpss.org/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '38'
-  uuid: 356149f4-5ef6-48c8-97f4-594f9308e838
+  uuid: 4ac24af5-490f-4b72-b4ce-01ee92a3e281
   type: content_entity
   additional:
     entity_type: paragraph

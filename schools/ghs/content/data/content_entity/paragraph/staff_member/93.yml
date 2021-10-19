@@ -3,7 +3,7 @@ id:
     value: 93
 uuid:
   -
-    value: 59f3ba5a-160b-4937-abdd-514c0ef1ea58
+    value: 71653e75-6742-43ae-a116-9c2dbf07d474
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:31:23+00:00'
+    value: '2021-10-19T17:50:15+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Michelle Oland'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://sites.google.com/a/hcpss.org/oland/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '93'
-  uuid: 59f3ba5a-160b-4937-abdd-514c0ef1ea58
+  uuid: 71653e75-6742-43ae-a116-9c2dbf07d474
   type: content_entity
   additional:
     entity_type: paragraph

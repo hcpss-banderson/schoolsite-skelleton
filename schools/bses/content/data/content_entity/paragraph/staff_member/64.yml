@@ -3,7 +3,7 @@ id:
     value: 64
 uuid:
   -
-    value: 27654d8a-f4d6-4a48-bad7-6aba23c2d945
+    value: 537a7243-1f42-4bd1-a33a-b544629d6796
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T15:48:55+00:00'
+    value: '2021-10-19T14:28:35+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Zach Kuehne'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://bsesphysed.weebly.com/'
+    title: 'P.E. Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '64'
-  uuid: 27654d8a-f4d6-4a48-bad7-6aba23c2d945
+  uuid: 537a7243-1f42-4bd1-a33a-b544629d6796
   type: content_entity
   additional:
     entity_type: paragraph

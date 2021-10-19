@@ -3,7 +3,7 @@ id:
     value: 68
 uuid:
   -
-    value: c16f941d-3ba7-47f0-ad4e-08f4a5f304e4
+    value: 92ac3ed6-fa83-4e09-bf3d-c46af191e313
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:24:17+00:00'
+    value: '2021-10-19T17:38:35+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Tim Viets'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://vesbandprogram.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '68'
-  uuid: c16f941d-3ba7-47f0-ad4e-08f4a5f304e4
+  uuid: 92ac3ed6-fa83-4e09-bf3d-c46af191e313
   type: content_entity
   additional:
     entity_type: paragraph

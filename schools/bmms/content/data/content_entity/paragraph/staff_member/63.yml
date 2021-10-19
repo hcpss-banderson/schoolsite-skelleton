@@ -3,7 +3,7 @@ id:
     value: 63
 uuid:
   -
-    value: f2b5c335-032c-4d28-8b3e-4ed9adc1e155
+    value: 63157629-9e60-4a91-92ff-cf5c07799d50
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:43:07+00:00'
+    value: '2021-10-19T18:08:54+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Todd Petrlik'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://sites.google.com/site/bmmsphysicaleducation/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '63'
-  uuid: f2b5c335-032c-4d28-8b3e-4ed9adc1e155
+  uuid: 63157629-9e60-4a91-92ff-cf5c07799d50
   type: content_entity
   additional:
     entity_type: paragraph

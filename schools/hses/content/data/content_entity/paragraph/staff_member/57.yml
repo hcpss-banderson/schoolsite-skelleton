@@ -3,7 +3,7 @@ id:
     value: 57
 uuid:
   -
-    value: 75b35b06-9ebf-4033-84a3-dd783f5da9ff
+    value: cf637821-2d25-4ee5-b6d1-3bdf9db64cd5
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:05:36+00:00'
+    value: '2021-10-19T17:06:24+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Steve Gangloff'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://drive.google.com/file/d/1LVS8l4Wj16xxVRKy9eiVc5mOoTqf8jmL/view?usp=sharing'
+    title: 'GT Program from BTSN 2021'
+    options: {  }
 _content_snapshot_metadata:
   id: '57'
-  uuid: 75b35b06-9ebf-4033-84a3-dd783f5da9ff
+  uuid: cf637821-2d25-4ee5-b6d1-3bdf9db64cd5
   type: content_entity
   additional:
     entity_type: paragraph

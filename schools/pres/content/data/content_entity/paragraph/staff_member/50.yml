@@ -3,7 +3,7 @@ id:
     value: 50
 uuid:
   -
-    value: 4cdd8b57-f49e-4866-831b-74ff23030f32
+    value: 50698d48-2359-4ed3-bfbe-97f85fdf6546
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:15:03+00:00'
+    value: '2021-10-19T17:22:31+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Janet Browning'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://presmedia.weebly.com/'
+    title: 'Media Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '50'
-  uuid: 4cdd8b57-f49e-4866-831b-74ff23030f32
+  uuid: 50698d48-2359-4ed3-bfbe-97f85fdf6546
   type: content_entity
   additional:
     entity_type: paragraph

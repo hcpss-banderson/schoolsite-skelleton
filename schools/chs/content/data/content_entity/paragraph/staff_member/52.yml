@@ -3,7 +3,7 @@ id:
     value: 52
 uuid:
   -
-    value: 5933c5a7-4b56-49a5-9c27-5fe033b4de5d
+    value: 182fac74-1d19-4afb-8cd2-33efd33fc702
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:30:21+00:00'
+    value: '2021-10-19T17:48:35+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'David Matchim'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://www.centennialmusic.org/'
+    title: 'CHS Music'
+    options: {  }
 _content_snapshot_metadata:
   id: '52'
-  uuid: 5933c5a7-4b56-49a5-9c27-5fe033b4de5d
+  uuid: 182fac74-1d19-4afb-8cd2-33efd33fc702
   type: content_entity
   additional:
     entity_type: paragraph

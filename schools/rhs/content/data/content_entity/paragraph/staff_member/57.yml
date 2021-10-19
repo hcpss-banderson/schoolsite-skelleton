@@ -3,7 +3,7 @@ id:
     value: 57
 uuid:
   -
-    value: 23a01948-5e36-4182-a20d-9d3d6be955e3
+    value: 74d2fb34-9b31-4896-8bcb-329247f6c53a
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:40:01+00:00'
+    value: '2021-10-19T18:03:49+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Lisa Berzenski'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://sites.google.com/site/mrsberzenskiswebpage/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '57'
-  uuid: 23a01948-5e36-4182-a20d-9d3d6be955e3
+  uuid: 74d2fb34-9b31-4896-8bcb-329247f6c53a
   type: content_entity
   additional:
     entity_type: paragraph

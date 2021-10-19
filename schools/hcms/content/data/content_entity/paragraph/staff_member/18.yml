@@ -3,7 +3,7 @@ id:
     value: 18
 uuid:
   -
-    value: d7373a4f-373f-41ea-9189-ab9fdc5b7d7c
+    value: 68425fb6-741b-47d2-b0e7-17cf4f03e8d1
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:50:56+00:00'
+    value: '2021-10-19T18:20:26+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Brian Fuller'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://sites.google.com/a/hcpss.me/mrfuller/home'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '18'
-  uuid: d7373a4f-373f-41ea-9189-ab9fdc5b7d7c
+  uuid: 68425fb6-741b-47d2-b0e7-17cf4f03e8d1
   type: content_entity
   additional:
     entity_type: paragraph

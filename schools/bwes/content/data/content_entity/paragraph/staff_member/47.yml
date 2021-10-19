@@ -3,7 +3,7 @@ id:
     value: 47
 uuid:
   -
-    value: d6c09d15-18e4-4747-ae9b-4f491462312c
+    value: 272e52e0-da33-4f0e-a3bb-f59c4a7b427c
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T15:50:02+00:00'
+    value: '2021-10-19T14:30:15+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Karen Zepp'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://bwesbandandstrings.weebly.com/index.html'
+    title: website
+    options: {  }
 _content_snapshot_metadata:
   id: '47'
-  uuid: d6c09d15-18e4-4747-ae9b-4f491462312c
+  uuid: 272e52e0-da33-4f0e-a3bb-f59c4a7b427c
   type: content_entity
   additional:
     entity_type: paragraph

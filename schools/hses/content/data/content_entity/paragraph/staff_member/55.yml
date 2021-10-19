@@ -3,7 +3,7 @@ id:
     value: 55
 uuid:
   -
-    value: 58e59a32-bf35-4894-9b7a-f9b7fb592730
+    value: 3106e7af-d3e4-4059-854b-58f24f32cbc1
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:05:36+00:00'
+    value: '2021-10-19T17:06:24+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Tim Bayne'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://drive.google.com/file/d/1LVS8l4Wj16xxVRKy9eiVc5mOoTqf8jmL/view?usp=sharing'
+    title: 'GT Program from BTSN 2021'
+    options: {  }
 _content_snapshot_metadata:
   id: '55'
-  uuid: 58e59a32-bf35-4894-9b7a-f9b7fb592730
+  uuid: 3106e7af-d3e4-4059-854b-58f24f32cbc1
   type: content_entity
   additional:
     entity_type: paragraph

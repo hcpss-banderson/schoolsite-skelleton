@@ -3,7 +3,7 @@ id:
     value: 39
 uuid:
   -
-    value: c7b0ae9b-0668-45ca-9abb-a498e1b8b816
+    value: def22968-244c-456b-8b9f-6b239f8d6bf3
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:30:21+00:00'
+    value: '2021-10-19T17:48:35+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'John Sharbaugh'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://chssharbaughenglish.wikispaces.hcpss.org/home'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '39'
-  uuid: c7b0ae9b-0668-45ca-9abb-a498e1b8b816
+  uuid: def22968-244c-456b-8b9f-6b239f8d6bf3
   type: content_entity
   additional:
     entity_type: paragraph

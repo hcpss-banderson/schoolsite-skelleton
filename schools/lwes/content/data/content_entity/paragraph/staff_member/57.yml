@@ -3,7 +3,7 @@ id:
     value: 57
 uuid:
   -
-    value: 03e37091-6a8b-4abf-8330-330e0162ab59
+    value: c9a050a0-5c35-4a78-a6c4-6638fa123c4d
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:10:54+00:00'
+    value: '2021-10-19T17:14:46+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Emily Viegelahn'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://laurelwoodschorus.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '57'
-  uuid: 03e37091-6a8b-4abf-8330-330e0162ab59
+  uuid: c9a050a0-5c35-4a78-a6c4-6638fa123c4d
   type: content_entity
   additional:
     entity_type: paragraph

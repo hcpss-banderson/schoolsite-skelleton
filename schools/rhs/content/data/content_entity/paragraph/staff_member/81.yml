@@ -3,7 +3,7 @@ id:
     value: 81
 uuid:
   -
-    value: edac2e67-888f-4dec-844b-1810819dde05
+    value: 02765c92-1ad3-41dc-8b27-85578f5f4884
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:40:01+00:00'
+    value: '2021-10-19T18:03:49+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Rita Park'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://www.teacherweb.com/MD/ReservoirHighSchool/Park/newsflash1.aspx'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '81'
-  uuid: edac2e67-888f-4dec-844b-1810819dde05
+  uuid: 02765c92-1ad3-41dc-8b27-85578f5f4884
   type: content_entity
   additional:
     entity_type: paragraph

@@ -3,7 +3,7 @@ id:
     value: 46
 uuid:
   -
-    value: d5c19e6d-1fd1-42f8-b660-07fc96cda641
+    value: 60df104d-8957-4dbb-96d6-f7cd7882be65
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:31:23+00:00'
+    value: '2021-10-19T17:50:15+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Jeffrey Shear'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://teacherweb.com/MD/GlenelgHighSchool/Shear/index.aspx'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '46'
-  uuid: d5c19e6d-1fd1-42f8-b660-07fc96cda641
+  uuid: 60df104d-8957-4dbb-96d6-f7cd7882be65
   type: content_entity
   additional:
     entity_type: paragraph

@@ -3,7 +3,7 @@ id:
     value: 57
 uuid:
   -
-    value: 7253b265-3514-4082-b11b-5b48ce07481f
+    value: 6046222d-c387-447f-a684-b82c74579d40
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:42:03+00:00'
+    value: '2021-10-19T18:07:14+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Shawna Chesser'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://www.chesserartroom.net/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '57'
-  uuid: 7253b265-3514-4082-b11b-5b48ce07481f
+  uuid: 6046222d-c387-447f-a684-b82c74579d40
   type: content_entity
   additional:
     entity_type: paragraph

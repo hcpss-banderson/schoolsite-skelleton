@@ -3,7 +3,7 @@ id:
     value: 43
 uuid:
   -
-    value: f41a5afb-73d8-4786-ba93-5d71b383286b
+    value: e9fbe638-67d7-446f-85de-33ae16d2badc
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T15:50:02+00:00'
+    value: '2021-10-19T14:30:15+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Janice Laswell'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://bwesmediajanice.weebly.com/index.html'
+    title: website
+    options: {  }
 _content_snapshot_metadata:
   id: '43'
-  uuid: f41a5afb-73d8-4786-ba93-5d71b383286b
+  uuid: e9fbe638-67d7-446f-85de-33ae16d2badc
   type: content_entity
   additional:
     entity_type: paragraph

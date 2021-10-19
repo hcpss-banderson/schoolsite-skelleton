@@ -3,7 +3,7 @@ id:
     value: 41
 uuid:
   -
-    value: 2ac861ee-3e3f-4d26-93f1-e2a17798e905
+    value: af8ca391-2088-4968-8e92-fdd1e042cfd6
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:30:21+00:00'
+    value: '2021-10-19T17:48:35+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Rus Van Westervelt'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://chsrvw.wordpress.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '41'
-  uuid: 2ac861ee-3e3f-4d26-93f1-e2a17798e905
+  uuid: af8ca391-2088-4968-8e92-fdd1e042cfd6
   type: content_entity
   additional:
     entity_type: paragraph

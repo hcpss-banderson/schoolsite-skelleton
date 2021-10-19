@@ -3,7 +3,7 @@ id:
     value: 91
 uuid:
   -
-    value: b6c11687-b8f2-4f7c-8525-54cc923df027
+    value: d6376a3f-091e-4775-b48e-7ea21674ab1a
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:35:47+00:00'
+    value: '2021-10-19T17:57:03+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Melissa Kiehl'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://www.mthebrongt.com'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '91'
-  uuid: b6c11687-b8f2-4f7c-8525-54cc923df027
+  uuid: d6376a3f-091e-4775-b48e-7ea21674ab1a
   type: content_entity
   additional:
     entity_type: paragraph

@@ -3,7 +3,7 @@ id:
     value: 78
 uuid:
   -
-    value: 23839864-e0fc-4f94-9788-5508dda4d11d
+    value: 0df966d5-de34-4b6f-b0ae-5879006e6c36
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:35:47+00:00'
+    value: '2021-10-19T17:57:03+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Caroline Creeden'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://mthebronhsvisualarts.weebly.com'
+    title: 'MHHS Fine Arts Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '78'
-  uuid: 23839864-e0fc-4f94-9788-5508dda4d11d
+  uuid: 0df966d5-de34-4b6f-b0ae-5879006e6c36
   type: content_entity
   additional:
     entity_type: paragraph

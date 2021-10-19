@@ -3,7 +3,7 @@ id:
     value: 58
 uuid:
   -
-    value: da88cfc4-12d5-4574-bbc3-bd18688d0a85
+    value: aa14600c-a38e-4842-9fa1-06c2f95a0c3b
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T15:45:39+00:00'
+    value: '2021-10-19T14:23:48+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Kelly Clavell'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://kclavellmusic.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '58'
-  uuid: da88cfc4-12d5-4574-bbc3-bd18688d0a85
+  uuid: aa14600c-a38e-4842-9fa1-06c2f95a0c3b
   type: content_entity
   additional:
     entity_type: paragraph

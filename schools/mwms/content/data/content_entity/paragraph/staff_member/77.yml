@@ -3,7 +3,7 @@ id:
     value: 77
 uuid:
   -
-    value: 9dd8efc5-4cb7-4d11-a5e0-1f035397aceb
+    value: db9d1b79-8693-415a-bee0-eaa2703a115e
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:57:33+00:00'
+    value: '2021-10-19T18:31:21+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Mr. Carr'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://tbgarroway.wix.com/mw-student-services'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '77'
-  uuid: 9dd8efc5-4cb7-4d11-a5e0-1f035397aceb
+  uuid: db9d1b79-8693-415a-bee0-eaa2703a115e
   type: content_entity
   additional:
     entity_type: paragraph

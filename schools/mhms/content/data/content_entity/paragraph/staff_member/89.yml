@@ -3,7 +3,7 @@ id:
     value: 89
 uuid:
   -
-    value: 3ad7bb4e-64d6-4e4d-b9eb-6eca472dfac7
+    value: df377c76-980f-4036-9062-b08402c8f83e
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:55:20+00:00'
+    value: '2021-10-19T18:27:15+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -35,17 +35,21 @@ default_langcode:
     value: true
 field_email:
   -
-    value: michael_mcmillion@hcpss.org
+    value: gwyneth_jones@hcpss.org
 field_job_title:
   -
-    value: 'Math Instructional Support Teacher'
+    value: 'Library Media Specialist'
 field_name:
   -
-    value: 'Michael McMillion'
-field_website: {  }
+    value: 'Gwyneth Jones'
+field_website:
+  -
+    uri: 'http://daringlibrary.edublogs.org/the-mhms-daring-school-library/'
+    title: 'MHMS Daring School Library Edublog'
+    options: {  }
 _content_snapshot_metadata:
   id: '89'
-  uuid: 3ad7bb4e-64d6-4e4d-b9eb-6eca472dfac7
+  uuid: df377c76-980f-4036-9062-b08402c8f83e
   type: content_entity
   additional:
     entity_type: paragraph

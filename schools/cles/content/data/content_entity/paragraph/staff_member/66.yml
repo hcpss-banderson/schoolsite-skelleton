@@ -3,7 +3,7 @@ id:
     value: 66
 uuid:
   -
-    value: 18b54c33-13e7-4e13-8c5e-16adfa93ec80
+    value: 6abaeea8-5e76-4d54-92f8-050ce68b934d
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T17:12:46+00:00'
+    value: '2021-10-19T18:45:26+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Jaimie Shirokobrod'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://clesreadingcorner.weebly.com/'
+    title: 'Reading Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '66'
-  uuid: 18b54c33-13e7-4e13-8c5e-16adfa93ec80
+  uuid: 6abaeea8-5e76-4d54-92f8-050ce68b934d
   type: content_entity
   additional:
     entity_type: paragraph

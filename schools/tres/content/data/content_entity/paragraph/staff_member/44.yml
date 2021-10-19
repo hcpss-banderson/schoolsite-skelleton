@@ -3,7 +3,7 @@ id:
     value: 44
 uuid:
   -
-    value: 6c7b84d4-31d9-4aa9-9401-f1984ec24a5a
+    value: 562d488a-ee4b-405e-9054-accf359667cb
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:22:19+00:00'
+    value: '2021-10-19T17:34:59+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Liz Pak'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://elizabethpakorchestra.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '44'
-  uuid: 6c7b84d4-31d9-4aa9-9401-f1984ec24a5a
+  uuid: 562d488a-ee4b-405e-9054-accf359667cb
   type: content_entity
   additional:
     entity_type: paragraph

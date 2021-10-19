@@ -3,7 +3,7 @@ id:
     value: 58
 uuid:
   -
-    value: 1a5acec7-0597-4cf5-90cf-a2cca5dbc384
+    value: c5b22ec8-661b-410d-a38d-4cc2a65d0336
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T15:48:55+00:00'
+    value: '2021-10-19T14:28:35+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Elizabeth Hughes'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://bsesmusic.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '58'
-  uuid: 1a5acec7-0597-4cf5-90cf-a2cca5dbc384
+  uuid: c5b22ec8-661b-410d-a38d-4cc2a65d0336
   type: content_entity
   additional:
     entity_type: paragraph

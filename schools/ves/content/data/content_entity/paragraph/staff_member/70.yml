@@ -3,7 +3,7 @@ id:
     value: 70
 uuid:
   -
-    value: e89a3154-2bed-49ba-98e3-ea2310278ace
+    value: 61f9b98d-0fd1-4d5d-943c-b2841180120c
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:24:17+00:00'
+    value: '2021-10-19T17:38:35+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Kristine Hahn'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://vesphysed.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '70'
-  uuid: e89a3154-2bed-49ba-98e3-ea2310278ace
+  uuid: 61f9b98d-0fd1-4d5d-943c-b2841180120c
   type: content_entity
   additional:
     entity_type: paragraph

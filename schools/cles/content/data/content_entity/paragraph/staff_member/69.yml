@@ -3,7 +3,7 @@ id:
     value: 69
 uuid:
   -
-    value: feb80d69-e014-4bc3-b907-f76acc6b55b8
+    value: 3a5cea6c-7f61-44c8-b82a-66fce6d19986
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T17:12:46+00:00'
+    value: '2021-10-19T18:45:26+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Eric Pellegrino'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://sites.google.com/site/mrpellegrinosclass/home'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '69'
-  uuid: feb80d69-e014-4bc3-b907-f76acc6b55b8
+  uuid: 3a5cea6c-7f61-44c8-b82a-66fce6d19986
   type: content_entity
   additional:
     entity_type: paragraph

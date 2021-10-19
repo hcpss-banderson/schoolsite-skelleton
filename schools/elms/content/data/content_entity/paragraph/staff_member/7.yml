@@ -3,7 +3,7 @@ id:
     value: 7
 uuid:
   -
-    value: 5a75ec50-bfda-4d50-a8ff-459e0a63d357
+    value: 2ef7800a-5164-4539-ad78-400ccf6a6959
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:46:22+00:00'
+    value: '2021-10-19T18:13:51+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -40,10 +40,14 @@ field_job_title:
 field_name:
   -
     value: 'Melissa Oak'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://elmsstudentservices.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '7'
-  uuid: 5a75ec50-bfda-4d50-a8ff-459e0a63d357
+  uuid: 2ef7800a-5164-4539-ad78-400ccf6a6959
   type: content_entity
   additional:
     entity_type: paragraph

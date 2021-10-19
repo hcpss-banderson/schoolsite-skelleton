@@ -3,7 +3,7 @@ id:
     value: 47
 uuid:
   -
-    value: 9d0e12b5-d8c1-4cc1-88bd-a15f4d734608
+    value: 5358fb7b-bc8d-4c19-96dc-6e9912755639
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:42:03+00:00'
+    value: '2021-10-19T18:07:14+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -40,10 +40,14 @@ field_job_title: {  }
 field_name:
   -
     value: 'Chris Nobis'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://www.hcpss.org/academics/gifted-and-talented/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '47'
-  uuid: 9d0e12b5-d8c1-4cc1-88bd-a15f4d734608
+  uuid: 5358fb7b-bc8d-4c19-96dc-6e9912755639
   type: content_entity
   additional:
     entity_type: paragraph

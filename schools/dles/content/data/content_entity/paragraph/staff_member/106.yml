@@ -3,7 +3,7 @@ id:
     value: 106
 uuid:
   -
-    value: b213b812-ec21-4e09-9797-f8673b4f7434
+    value: c02eba9a-9244-49a6-84fd-b1e3fa928186
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T15:55:16+00:00'
+    value: '2021-10-19T16:50:14+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Amanda McKay'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://mckayorchestra.weebly.com'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '106'
-  uuid: b213b812-ec21-4e09-9797-f8673b4f7434
+  uuid: c02eba9a-9244-49a6-84fd-b1e3fa928186
   type: content_entity
   additional:
     entity_type: paragraph

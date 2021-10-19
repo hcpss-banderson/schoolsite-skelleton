@@ -3,7 +3,7 @@ id:
     value: 69
 uuid:
   -
-    value: 4e81912e-0023-4802-bd6f-4f3dfaedd5e2
+    value: 806b2a2c-032c-45bf-987c-f88660ea3055
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:30:21+00:00'
+    value: '2021-10-19T17:48:35+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Erin Parisi'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://www.chseaglestennis.weebly.com/'
+    title: 'CHS Tennis'
+    options: {  }
 _content_snapshot_metadata:
   id: '69'
-  uuid: 4e81912e-0023-4802-bd6f-4f3dfaedd5e2
+  uuid: 806b2a2c-032c-45bf-987c-f88660ea3055
   type: content_entity
   additional:
     entity_type: paragraph

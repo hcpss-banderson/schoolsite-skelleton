@@ -3,7 +3,7 @@ id:
     value: 93
 uuid:
   -
-    value: ed2200c9-7453-4863-88cd-d3da256c0260
+    value: 7c8d9d01-4df1-4f06-a513-15535d143ab0
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:33:34+00:00'
+    value: '2021-10-19T17:53:36+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Joshua McGoun'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://mcgoun.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '93'
-  uuid: ed2200c9-7453-4863-88cd-d3da256c0260
+  uuid: 7c8d9d01-4df1-4f06-a513-15535d143ab0
   type: content_entity
   additional:
     entity_type: paragraph

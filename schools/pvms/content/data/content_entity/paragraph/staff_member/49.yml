@@ -3,7 +3,7 @@ id:
     value: 49
 uuid:
   -
-    value: 06fe710b-dac3-4086-98ca-adb3f145cc01
+    value: 03286bd5-f0c7-46fa-b448-b93bb29e7fd5
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T17:01:43+00:00'
+    value: '2021-10-19T18:37:14+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Benjamin Goodwin'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://sites.google.com/site/mrgoodwinspvms/home'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '49'
-  uuid: 06fe710b-dac3-4086-98ca-adb3f145cc01
+  uuid: 03286bd5-f0c7-46fa-b448-b93bb29e7fd5
   type: content_entity
   additional:
     entity_type: paragraph

@@ -3,7 +3,7 @@ id:
     value: 48
 uuid:
   -
-    value: 2376fce7-0c31-4c24-9088-adb9bf431586
+    value: 4e7bceda-7c2f-41ca-9994-f52184b79145
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:40:01+00:00'
+    value: '2021-10-19T18:03:49+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'William Borja'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://borja-art.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '48'
-  uuid: 2376fce7-0c31-4c24-9088-adb9bf431586
+  uuid: 4e7bceda-7c2f-41ca-9994-f52184b79145
   type: content_entity
   additional:
     entity_type: paragraph

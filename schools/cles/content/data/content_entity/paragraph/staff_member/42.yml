@@ -3,7 +3,7 @@ id:
     value: 42
 uuid:
   -
-    value: a4b4e887-9e3a-4909-830a-dabfe3d3953d
+    value: 7117c5e4-da37-4989-a4bd-292e1381fbf3
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T17:12:46+00:00'
+    value: '2021-10-19T18:45:26+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'William Rose'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://www.clesorchestra.weebly.com'
+    title: 'Orchestra Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '42'
-  uuid: a4b4e887-9e3a-4909-830a-dabfe3d3953d
+  uuid: 7117c5e4-da37-4989-a4bd-292e1381fbf3
   type: content_entity
   additional:
     entity_type: paragraph

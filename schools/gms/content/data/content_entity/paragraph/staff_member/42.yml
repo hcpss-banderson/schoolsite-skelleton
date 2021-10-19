@@ -3,7 +3,7 @@ id:
     value: 42
 uuid:
   -
-    value: 3d423ebe-9702-4f05-9696-542e2dec3d54
+    value: f5914265-0688-4502-b418-a451eb734036
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:49:41+00:00'
+    value: '2021-10-19T18:18:48+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Eric Jacques'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://mrjacques.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '42'
-  uuid: 3d423ebe-9702-4f05-9696-542e2dec3d54
+  uuid: f5914265-0688-4502-b418-a451eb734036
   type: content_entity
   additional:
     entity_type: paragraph

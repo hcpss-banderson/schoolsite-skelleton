@@ -3,7 +3,7 @@ id:
     value: 64
 uuid:
   -
-    value: 753bedc3-850a-4592-986c-e9fa390fe030
+    value: bf107037-47dc-4340-bd3f-7d82d334bb66
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:42:03+00:00'
+    value: '2021-10-19T18:07:14+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Terry Rainey'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://bbmsmusicboosters.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '64'
-  uuid: 753bedc3-850a-4592-986c-e9fa390fe030
+  uuid: bf107037-47dc-4340-bd3f-7d82d334bb66
   type: content_entity
   additional:
     entity_type: paragraph

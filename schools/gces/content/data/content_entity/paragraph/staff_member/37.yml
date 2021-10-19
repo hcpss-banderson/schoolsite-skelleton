@@ -3,7 +3,7 @@ id:
     value: 37
 uuid:
   -
-    value: 0a991a2e-0fec-405d-af06-62f6a1256dbb
+    value: a4291d08-e312-4b61-850f-f84bf664744e
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T17:13:51+00:00'
+    value: '2021-10-19T17:00:02+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Cara Stern'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://mrsstern.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '37'
-  uuid: 0a991a2e-0fec-405d-af06-62f6a1256dbb
+  uuid: a4291d08-e312-4b61-850f-f84bf664744e
   type: content_entity
   additional:
     entity_type: paragraph

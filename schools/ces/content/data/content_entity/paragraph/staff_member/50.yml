@@ -3,7 +3,7 @@ id:
     value: 50
 uuid:
   -
-    value: 64416752-229e-4d2b-bd75-36a56ac79add
+    value: 070e145a-4731-4994-b925-3b1eb5d844ab
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T15:52:09+00:00'
+    value: '2021-10-19T14:51:01+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Wesley Thompson'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://msthompsonstrings.weebly.com/'
+    title: website
+    options: {  }
 _content_snapshot_metadata:
   id: '50'
-  uuid: 64416752-229e-4d2b-bd75-36a56ac79add
+  uuid: 070e145a-4731-4994-b925-3b1eb5d844ab
   type: content_entity
   additional:
     entity_type: paragraph

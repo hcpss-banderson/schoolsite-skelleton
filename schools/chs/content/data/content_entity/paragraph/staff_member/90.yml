@@ -3,7 +3,7 @@ id:
     value: 90
 uuid:
   -
-    value: 1c909e2a-b5bf-4500-b8cb-7c056e16e5b9
+    value: 6aa8fcd4-d7d1-4e96-a69a-ac18aee2d27a
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:30:21+00:00'
+    value: '2021-10-19T17:48:35+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Shalonda Holt'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://www.teacherweb.com/MD/CentennialHS/MrsHolt/index.aspx'
+    title: TeacherWeb
+    options: {  }
 _content_snapshot_metadata:
   id: '90'
-  uuid: 1c909e2a-b5bf-4500-b8cb-7c056e16e5b9
+  uuid: 6aa8fcd4-d7d1-4e96-a69a-ac18aee2d27a
   type: content_entity
   additional:
     entity_type: paragraph

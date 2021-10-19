@@ -3,7 +3,7 @@ id:
     value: 109
 uuid:
   -
-    value: 078539e9-b8ae-47c4-a97e-706df0b423f2
+    value: 94ae7329-171b-4289-8bba-42f0880fee47
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T17:13:51+00:00'
+    value: '2021-10-19T17:00:02+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Michael Diener'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://gcesandwfes.wixsite.com/strings'
+    title: 'Strings Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '109'
-  uuid: 078539e9-b8ae-47c4-a97e-706df0b423f2
+  uuid: 94ae7329-171b-4289-8bba-42f0880fee47
   type: content_entity
   additional:
     entity_type: paragraph

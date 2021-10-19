@@ -3,7 +3,7 @@ id:
     value: 30
 uuid:
   -
-    value: 5a9a653d-d620-4d0d-ae58-6053be9c9cb2
+    value: 884ad8a9-5da6-4325-9eba-c3d3671ab59c
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:08:55+00:00'
+    value: '2021-10-19T17:11:08+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Kristy Trueblood'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://lisbonesmusic.weebly.com/'
+    title: 'Music website'
+    options: {  }
 _content_snapshot_metadata:
   id: '30'
-  uuid: 5a9a653d-d620-4d0d-ae58-6053be9c9cb2
+  uuid: 884ad8a9-5da6-4325-9eba-c3d3671ab59c
   type: content_entity
   additional:
     entity_type: paragraph

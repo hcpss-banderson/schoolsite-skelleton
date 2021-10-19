@@ -3,7 +3,7 @@ id:
     value: 51
 uuid:
   -
-    value: 8f7ce5ab-6ddc-42c9-aa18-b26ee24f1d3e
+    value: 23331f20-558b-417f-9a4e-89ad594baf68
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:16:04+00:00'
+    value: '2021-10-19T17:24:28+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Geraldine Palin'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://runningbrookmedia.weebly.com'
+    title: 'Media Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '51'
-  uuid: 8f7ce5ab-6ddc-42c9-aa18-b26ee24f1d3e
+  uuid: 23331f20-558b-417f-9a4e-89ad594baf68
   type: content_entity
   additional:
     entity_type: paragraph

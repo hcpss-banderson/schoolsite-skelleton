@@ -3,7 +3,7 @@ id:
     value: 97
 uuid:
   -
-    value: eb970133-ac2e-4981-869b-b890f50e4424
+    value: 84c5c072-15d2-4c46-a7e3-64f420121260
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:40:01+00:00'
+    value: '2021-10-19T18:03:49+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Katherine Yienger'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://sites.google.com/a/hcpss.me/reservoir-gt-chemistry/home/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '97'
-  uuid: eb970133-ac2e-4981-869b-b890f50e4424
+  uuid: 84c5c072-15d2-4c46-a7e3-64f420121260
   type: content_entity
   additional:
     entity_type: paragraph

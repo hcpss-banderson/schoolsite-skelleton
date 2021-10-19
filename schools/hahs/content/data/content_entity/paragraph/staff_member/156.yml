@@ -3,7 +3,7 @@ id:
     value: 156
 uuid:
   -
-    value: 31602151-bbe9-47a6-a3f2-1b89b1ee42c0
+    value: dcb334cb-d4aa-46ca-afdc-ad77c71bf07c
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:32:27+00:00'
+    value: '2021-10-19T17:51:56+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Marguerite Hart'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://sites.google.com/a/hcpss.me/hahs_hart_spanish/home'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '156'
-  uuid: 31602151-bbe9-47a6-a3f2-1b89b1ee42c0
+  uuid: dcb334cb-d4aa-46ca-afdc-ad77c71bf07c
   type: content_entity
   additional:
     entity_type: paragraph

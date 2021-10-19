@@ -3,7 +3,7 @@ id:
     value: 68
 uuid:
   -
-    value: c057a8cd-9358-4b62-ba9d-1abcd9f9903c
+    value: 01276e91-f497-4722-bbbb-207c276d622c
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T15:50:02+00:00'
+    value: '2021-10-19T14:30:15+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -45,7 +45,7 @@ field_name:
 field_website: {  }
 _content_snapshot_metadata:
   id: '68'
-  uuid: c057a8cd-9358-4b62-ba9d-1abcd9f9903c
+  uuid: 01276e91-f497-4722-bbbb-207c276d622c
   type: content_entity
   additional:
     entity_type: paragraph

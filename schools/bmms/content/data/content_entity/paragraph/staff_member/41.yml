@@ -3,7 +3,7 @@ id:
     value: 41
 uuid:
   -
-    value: 92599935-9645-4216-95b9-379769060eb7
+    value: c235c68e-21a9-489f-803b-c63438175881
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:43:07+00:00'
+    value: '2021-10-19T18:08:54+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Chelsea Bradcovich'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://msmccabebmms.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '41'
-  uuid: 92599935-9645-4216-95b9-379769060eb7
+  uuid: c235c68e-21a9-489f-803b-c63438175881
   type: content_entity
   additional:
     entity_type: paragraph

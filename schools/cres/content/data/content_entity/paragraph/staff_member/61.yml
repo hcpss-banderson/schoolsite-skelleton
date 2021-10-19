@@ -3,7 +3,7 @@ id:
     value: 61
 uuid:
   -
-    value: 8a584bfb-bfe3-43e6-833f-b6c7f2c9b742
+    value: 4fb2a69d-7821-49df-b328-d3fdee325c80
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T15:54:12+00:00'
+    value: '2021-10-19T16:48:35+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Annette Hart'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://mshartswebsite.weebly.com/index.html'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '61'
-  uuid: 8a584bfb-bfe3-43e6-833f-b6c7f2c9b742
+  uuid: 4fb2a69d-7821-49df-b328-d3fdee325c80
   type: content_entity
   additional:
     entity_type: paragraph

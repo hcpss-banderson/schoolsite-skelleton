@@ -3,7 +3,7 @@ id:
     value: 60
 uuid:
   -
-    value: d318eb2d-5fb1-4fa0-a372-84d0c382d31c
+    value: 18de902c-b962-4a7e-8c4e-4dc8b2c5af42
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:49:41+00:00'
+    value: '2021-10-19T18:18:48+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Sharon Johnson'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://smjohnson.wikispaces.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '60'
-  uuid: d318eb2d-5fb1-4fa0-a372-84d0c382d31c
+  uuid: 18de902c-b962-4a7e-8c4e-4dc8b2c5af42
   type: content_entity
   additional:
     entity_type: paragraph

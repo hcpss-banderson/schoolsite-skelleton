@@ -3,7 +3,7 @@ id:
     value: 67
 uuid:
   -
-    value: 9b3303fe-c357-4923-9081-0dfa814cf89c
+    value: f0be211e-eb3a-4b73-a22e-66ff71a58bd7
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T17:12:46+00:00'
+    value: '2021-10-19T18:45:26+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'MeHae Roldan'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://clesesol.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '67'
-  uuid: 9b3303fe-c357-4923-9081-0dfa814cf89c
+  uuid: f0be211e-eb3a-4b73-a22e-66ff71a58bd7
   type: content_entity
   additional:
     entity_type: paragraph

@@ -3,7 +3,7 @@ id:
     value: 172
 uuid:
   -
-    value: 0d928d0a-6702-42b9-97bb-a48a1594b861
+    value: 8f0542eb-a4aa-4750-ab2f-a1878680d3fd
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:33:34+00:00'
+    value: '2021-10-19T17:53:36+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Laura Greffen'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://sites.google.com/site/hohstheatredepartment/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '172'
-  uuid: 0d928d0a-6702-42b9-97bb-a48a1594b861
+  uuid: 8f0542eb-a4aa-4750-ab2f-a1878680d3fd
   type: content_entity
   additional:
     entity_type: paragraph

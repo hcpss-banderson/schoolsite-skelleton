@@ -3,7 +3,7 @@ id:
     value: 80
 uuid:
   -
-    value: 44ce4a40-b68b-4d17-b252-52624a19d16e
+    value: 149ab44c-f129-4ac1-ac8d-d6ec7fb78285
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:47:30+00:00'
+    value: '2021-10-19T18:15:30+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -33,17 +33,19 @@ behavior_settings:
 default_langcode:
   -
     value: true
-field_email: {  }
+field_email:
+  -
+    value: christine_borden@hcpss.org
 field_job_title:
   -
     value: 'Special Education Paraeducator'
 field_name:
   -
-    value: 'Christine Borden (effective late-August 2021)'
+    value: 'Christine Borden'
 field_website: {  }
 _content_snapshot_metadata:
   id: '80'
-  uuid: 44ce4a40-b68b-4d17-b252-52624a19d16e
+  uuid: 149ab44c-f129-4ac1-ac8d-d6ec7fb78285
   type: content_entity
   additional:
     entity_type: paragraph

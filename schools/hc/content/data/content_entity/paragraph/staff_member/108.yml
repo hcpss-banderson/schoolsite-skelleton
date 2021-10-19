@@ -3,7 +3,7 @@ id:
     value: 108
 uuid:
   -
-    value: be91cc26-6e01-4ca7-b4f9-05307184019a
+    value: 7fc9fa30-93e7-45b8-a7c5-7aff74fd926a
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T15:44:35+00:00'
+    value: '2021-10-19T14:22:09+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Kimesha Brown'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://transitionandccr.wikispaces.hcpss.org/Home'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '108'
-  uuid: be91cc26-6e01-4ca7-b4f9-05307184019a
+  uuid: 7fc9fa30-93e7-45b8-a7c5-7aff74fd926a
   type: content_entity
   additional:
     entity_type: paragraph

@@ -3,7 +3,7 @@ id:
     value: 80
 uuid:
   -
-    value: 333b6e2d-7ccc-40fc-b076-7d03743f61c4
+    value: 2e2aca68-328a-481f-8e14-4dd9685ddff2
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T17:14:58+00:00'
+    value: '2021-10-19T18:05:32+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Diane Caporaletti'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://www.rousetheatre.org/'
+    title: 'Jim Rouse Theatre'
+    options: {  }
 _content_snapshot_metadata:
   id: '80'
-  uuid: 333b6e2d-7ccc-40fc-b076-7d03743f61c4
+  uuid: 2e2aca68-328a-481f-8e14-4dd9685ddff2
   type: content_entity
   additional:
     entity_type: paragraph

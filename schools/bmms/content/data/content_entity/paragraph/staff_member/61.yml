@@ -3,7 +3,7 @@ id:
     value: 61
 uuid:
   -
-    value: 6257fe16-ab16-47ca-860c-aa88ce175bbc
+    value: b6484a91-4a8d-4235-be8b-320c5b3258d3
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:43:07+00:00'
+    value: '2021-10-19T18:08:54+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Nicholas Marini'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://www.burleighmanormusic.org/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '61'
-  uuid: 6257fe16-ab16-47ca-860c-aa88ce175bbc
+  uuid: b6484a91-4a8d-4235-be8b-320c5b3258d3
   type: content_entity
   additional:
     entity_type: paragraph

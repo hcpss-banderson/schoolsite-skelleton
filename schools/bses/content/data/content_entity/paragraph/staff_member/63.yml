@@ -3,7 +3,7 @@ id:
     value: 63
 uuid:
   -
-    value: c0ca2d29-9786-453b-bf77-0f0ccf9aa17b
+    value: 4e4f9ad3-e064-4899-9947-0f9798e494d8
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T15:48:55+00:00'
+    value: '2021-10-19T14:28:35+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Betsy Schultz'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://bsesphysed.weebly.com/'
+    title: 'P.E. Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '63'
-  uuid: c0ca2d29-9786-453b-bf77-0f0ccf9aa17b
+  uuid: 4e4f9ad3-e064-4899-9947-0f9798e494d8
   type: content_entity
   additional:
     entity_type: paragraph

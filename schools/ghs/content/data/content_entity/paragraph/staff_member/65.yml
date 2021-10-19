@@ -3,7 +3,7 @@ id:
     value: 65
 uuid:
   -
-    value: 82a8e376-08ea-49f6-8b55-4fb3e2a1fbb3
+    value: 69ea175f-ddb2-40df-b522-f292737aaa2f
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:31:23+00:00'
+    value: '2021-10-19T17:50:15+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Kevin George'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://sites.google.com/site/glenelgorchestra/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '65'
-  uuid: 82a8e376-08ea-49f6-8b55-4fb3e2a1fbb3
+  uuid: 69ea175f-ddb2-40df-b522-f292737aaa2f
   type: content_entity
   additional:
     entity_type: paragraph

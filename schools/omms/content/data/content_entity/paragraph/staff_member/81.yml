@@ -3,7 +3,7 @@ id:
     value: 81
 uuid:
   -
-    value: 75b93c18-0417-4f49-8774-4fc63812287b
+    value: 4b639d2c-0f2d-4da0-b9a5-32bffb2444e8
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:59:06+00:00'
+    value: '2021-10-19T18:33:09+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Jennifer Hamilton'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://hcpss.tlcdelivers.com/?config=omms#section=home'
+    title: 'Oakland Mills Online Catalog'
+    options: {  }
 _content_snapshot_metadata:
   id: '81'
-  uuid: 75b93c18-0417-4f49-8774-4fc63812287b
+  uuid: 4b639d2c-0f2d-4da0-b9a5-32bffb2444e8
   type: content_entity
   additional:
     entity_type: paragraph

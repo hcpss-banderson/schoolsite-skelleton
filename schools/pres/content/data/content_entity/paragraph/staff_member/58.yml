@@ -3,7 +3,7 @@ id:
     value: 58
 uuid:
   -
-    value: 5a899fc0-6238-4640-8ff0-85423a8de676
+    value: 95103a5b-7658-40aa-8029-3d357e44adc5
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:15:03+00:00'
+    value: '2021-10-19T17:22:31+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Kendall Davis'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://pointersrunband.weebly.com'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '58'
-  uuid: 5a899fc0-6238-4640-8ff0-85423a8de676
+  uuid: 95103a5b-7658-40aa-8029-3d357e44adc5
   type: content_entity
   additional:
     entity_type: paragraph

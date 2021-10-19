@@ -3,7 +3,7 @@ id:
     value: 73
 uuid:
   -
-    value: 3d9ea2de-d041-47dd-a323-41c456273d9c
+    value: 9ab6c20f-7a9e-4f43-9853-aca5643f6794
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:40:01+00:00'
+    value: '2021-10-19T18:03:49+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Janine Kucik'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://sites.google.com/site/rhsgtadvancedresearch/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '73'
-  uuid: 3d9ea2de-d041-47dd-a323-41c456273d9c
+  uuid: 9ab6c20f-7a9e-4f43-9853-aca5643f6794
   type: content_entity
   additional:
     entity_type: paragraph

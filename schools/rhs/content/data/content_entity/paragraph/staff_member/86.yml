@@ -3,7 +3,7 @@ id:
     value: 86
 uuid:
   -
-    value: 1d63956d-295d-43b6-9f23-3b8714ada5bc
+    value: 272435be-f12a-4f32-9ae5-c75770000a8c
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:40:01+00:00'
+    value: '2021-10-19T18:03:49+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Kamilah Bruce'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://msbrucescience.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '86'
-  uuid: 1d63956d-295d-43b6-9f23-3b8714ada5bc
+  uuid: 272435be-f12a-4f32-9ae5-c75770000a8c
   type: content_entity
   additional:
     entity_type: paragraph

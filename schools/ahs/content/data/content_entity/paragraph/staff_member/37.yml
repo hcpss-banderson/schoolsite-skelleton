@@ -3,7 +3,7 @@ id:
     value: 37
 uuid:
   -
-    value: dc55306f-df18-4578-aecd-765058bf0cf0
+    value: 56afb141-dbd9-4caf-b52b-fc5a36c566e1
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:29:15+00:00'
+    value: '2021-10-19T17:46:52+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Nathan Rosen'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://www.atholtondrama.org/'
+    title: 'Drama Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '37'
-  uuid: dc55306f-df18-4578-aecd-765058bf0cf0
+  uuid: 56afb141-dbd9-4caf-b52b-fc5a36c566e1
   type: content_entity
   additional:
     entity_type: paragraph

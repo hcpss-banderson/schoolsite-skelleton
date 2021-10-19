@@ -3,7 +3,7 @@ id:
     value: 101
 uuid:
   -
-    value: 5579bff1-35f3-482c-969a-e48f6a13a30a
+    value: 2e1168eb-e0b6-4bf9-8570-b69903cc0682
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T15:57:22+00:00'
+    value: '2021-10-19T16:53:26+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Jackie DeBella'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://deeprunorchestra.weebly.com'
+    title: 'Deep Run Orchestra'
+    options: {  }
 _content_snapshot_metadata:
   id: '101'
-  uuid: 5579bff1-35f3-482c-969a-e48f6a13a30a
+  uuid: 2e1168eb-e0b6-4bf9-8570-b69903cc0682
   type: content_entity
   additional:
     entity_type: paragraph

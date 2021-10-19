@@ -3,7 +3,7 @@ id:
     value: 69
 uuid:
   -
-    value: 34aab6eb-fed6-4b01-b85a-68d64a91a4b7
+    value: 4befef5a-5b72-4e4c-859a-68bf4872b3f6
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:26:19+00:00'
+    value: '2021-10-19T17:41:58+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Christina Hataway'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://hataway.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '69'
-  uuid: 34aab6eb-fed6-4b01-b85a-68d64a91a4b7
+  uuid: 4befef5a-5b72-4e4c-859a-68bf4872b3f6
   type: content_entity
   additional:
     entity_type: paragraph

@@ -3,7 +3,7 @@ id:
     value: 101
 uuid:
   -
-    value: fb32d52b-cb21-49bb-96ad-e77ab6d19e62
+    value: fcdcb5ed-6f83-4bee-8e0a-c8a760b5bd6f
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:40:01+00:00'
+    value: '2021-10-19T18:03:49+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Jan Edlowitz'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://jhedlowitz.teachers.rhsgators.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '101'
-  uuid: fb32d52b-cb21-49bb-96ad-e77ab6d19e62
+  uuid: fcdcb5ed-6f83-4bee-8e0a-c8a760b5bd6f
   type: content_entity
   additional:
     entity_type: paragraph

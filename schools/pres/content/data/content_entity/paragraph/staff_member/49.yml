@@ -3,7 +3,7 @@ id:
     value: 49
 uuid:
   -
-    value: d5587e97-fb80-4aa4-9e3b-f199658888eb
+    value: 7d5406f1-be27-4880-9d10-b5a767e76ea7
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:15:03+00:00'
+    value: '2021-10-19T17:22:31+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Lisa Huriaux'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://presartroom.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '49'
-  uuid: d5587e97-fb80-4aa4-9e3b-f199658888eb
+  uuid: 7d5406f1-be27-4880-9d10-b5a767e76ea7
   type: content_entity
   additional:
     entity_type: paragraph

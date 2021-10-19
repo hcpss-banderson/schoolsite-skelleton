@@ -3,7 +3,7 @@ id:
     value: 43
 uuid:
   -
-    value: 272de45e-d264-4a34-868f-476f33c52884
+    value: b153ea89-38f4-4548-8010-18f1e2c09d49
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T17:00:33+00:00'
+    value: '2021-10-19T18:35:10+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Samantha Castelbaum'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://giftedandtalentedpms.weebly.com/'
+    title: 'GT Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '43'
-  uuid: 272de45e-d264-4a34-868f-476f33c52884
+  uuid: b153ea89-38f4-4548-8010-18f1e2c09d49
   type: content_entity
   additional:
     entity_type: paragraph

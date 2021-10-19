@@ -3,7 +3,7 @@ id:
     value: 71
 uuid:
   -
-    value: 998419f9-f6ac-4c35-bffb-3c0899433835
+    value: e3b697a9-6250-4676-9e43-fe7c4d496812
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:12:58+00:00'
+    value: '2021-10-19T17:18:34+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Tim Beall'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://nesbands.weebly.com/'
+    title: 'NES Bands Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '71'
-  uuid: 998419f9-f6ac-4c35-bffb-3c0899433835
+  uuid: e3b697a9-6250-4676-9e43-fe7c4d496812
   type: content_entity
   additional:
     entity_type: paragraph

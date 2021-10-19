@@ -3,7 +3,7 @@ id:
     value: 22
 uuid:
   -
-    value: ee10503c-a457-4dd2-9c21-4c9321ee29ad
+    value: 433e10f5-b047-4b1e-9c94-5500dc0f7fe4
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T15:41:35+00:00'
+    value: '2021-10-19T14:17:30+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -40,10 +40,14 @@ field_job_title: {  }
 field_name:
   -
     value: 'Terry Walker'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://walkerarch.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '22'
-  uuid: ee10503c-a457-4dd2-9c21-4c9321ee29ad
+  uuid: 433e10f5-b047-4b1e-9c94-5500dc0f7fe4
   type: content_entity
   additional:
     entity_type: paragraph

@@ -3,7 +3,7 @@ id:
     value: 47
 uuid:
   -
-    value: 7f2c83e4-73eb-410f-bd2a-efeee40bcd36
+    value: 58cfc8cf-5431-4467-a725-5566d6140bcc
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:40:01+00:00'
+    value: '2021-10-19T18:03:49+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Jessica Binder'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://www.reservoirtheatre.weebly.com'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '47'
-  uuid: 7f2c83e4-73eb-410f-bd2a-efeee40bcd36
+  uuid: 58cfc8cf-5431-4467-a725-5566d6140bcc
   type: content_entity
   additional:
     entity_type: paragraph

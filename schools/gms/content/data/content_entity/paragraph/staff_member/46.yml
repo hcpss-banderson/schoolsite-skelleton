@@ -3,7 +3,7 @@ id:
     value: 46
 uuid:
   -
-    value: d9bbdbb9-1adc-4dc3-bb8f-6499d3fa780f
+    value: 518468b6-c307-456e-b081-97884ad232df
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:49:41+00:00'
+    value: '2021-10-19T18:18:48+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Susan Apple'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://www.gmshistory.net/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '46'
-  uuid: d9bbdbb9-1adc-4dc3-bb8f-6499d3fa780f
+  uuid: 518468b6-c307-456e-b081-97884ad232df
   type: content_entity
   additional:
     entity_type: paragraph

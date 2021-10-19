@@ -3,7 +3,7 @@ id:
     value: 84
 uuid:
   -
-    value: f800fbd1-12ff-49ff-9d6c-4badea9b1261
+    value: 6e53ee3b-fe13-4c6b-9cc7-1d4fb2b1cd3c
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:31:23+00:00'
+    value: '2021-10-19T17:50:15+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Jennifer Shepard, Ph.D.'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://drshepard.wikispaces.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '84'
-  uuid: f800fbd1-12ff-49ff-9d6c-4badea9b1261
+  uuid: 6e53ee3b-fe13-4c6b-9cc7-1d4fb2b1cd3c
   type: content_entity
   additional:
     entity_type: paragraph

@@ -3,7 +3,7 @@ id:
     value: 98
 uuid:
   -
-    value: b63398cd-cfdd-4d5e-acc3-8ec20dd2629d
+    value: 4a9c0519-3da7-4487-9685-85044f35cf9a
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T15:57:22+00:00'
+    value: '2021-10-19T16:53:26+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Hillary Schwartz'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://hcpss.instructure.com/courses/5655'
+    title: 'Mrs. Schwartz''s Canvas Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '98'
-  uuid: b63398cd-cfdd-4d5e-acc3-8ec20dd2629d
+  uuid: 4a9c0519-3da7-4487-9685-85044f35cf9a
   type: content_entity
   additional:
     entity_type: paragraph

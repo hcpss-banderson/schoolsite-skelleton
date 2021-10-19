@@ -3,7 +3,7 @@ id:
     value: 46
 uuid:
   -
-    value: 84966ec6-3087-4690-8fea-aa90c767e4b3
+    value: c1aff8f2-d699-4c70-ac1e-08f98219608a
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:40:01+00:00'
+    value: '2021-10-19T18:03:49+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'David Bacon'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://reservoirmusic.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '46'
-  uuid: 84966ec6-3087-4690-8fea-aa90c767e4b3
+  uuid: c1aff8f2-d699-4c70-ac1e-08f98219608a
   type: content_entity
   additional:
     entity_type: paragraph

@@ -3,7 +3,7 @@ id:
     value: 51
 uuid:
   -
-    value: 0d39ff57-90fd-4a59-a9f5-7ec10c15c025
+    value: a8a33d94-fcd4-4441-ad2e-39d38d93bde3
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:33:34+00:00'
+    value: '2021-10-19T17:53:36+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Rebecca Bragunier'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://bragunier.yolasite.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '51'
-  uuid: 0d39ff57-90fd-4a59-a9f5-7ec10c15c025
+  uuid: a8a33d94-fcd4-4441-ad2e-39d38d93bde3
   type: content_entity
   additional:
     entity_type: paragraph

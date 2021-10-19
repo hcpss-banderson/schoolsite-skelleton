@@ -3,7 +3,7 @@ id:
     value: 51
 uuid:
   -
-    value: db47c643-2396-426b-b086-02fc48c3b211
+    value: 99968305-2f2e-4bfd-9d5d-7a0666519303
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:28:17+00:00'
+    value: '2021-10-19T17:45:15+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Robert Talbert'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://wfespe.wikispaces.hcpss.org/home'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '51'
-  uuid: db47c643-2396-426b-b086-02fc48c3b211
+  uuid: 99968305-2f2e-4bfd-9d5d-7a0666519303
   type: content_entity
   additional:
     entity_type: paragraph

@@ -3,7 +3,7 @@ id:
     value: 38
 uuid:
   -
-    value: 92122c7a-9c4f-4bc2-a046-8ff4a7e243da
+    value: 4dda26d5-e448-4071-9f3e-6d652e5b9083
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T17:12:46+00:00'
+    value: '2021-10-19T18:45:26+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Mike Kilberg'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://sites.google.com/a/hcpss.me/mr-k-cles/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '38'
-  uuid: 92122c7a-9c4f-4bc2-a046-8ff4a7e243da
+  uuid: 4dda26d5-e448-4071-9f3e-6d652e5b9083
   type: content_entity
   additional:
     entity_type: paragraph

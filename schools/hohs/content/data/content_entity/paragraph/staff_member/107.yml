@@ -3,7 +3,7 @@ id:
     value: 107
 uuid:
   -
-    value: 6b094405-7bdf-4e67-a654-0d596fc30517
+    value: 5f3956da-914f-4147-b6bf-1724d096d99c
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:33:34+00:00'
+    value: '2021-10-19T17:53:36+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Jim Seale'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://drseale.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '107'
-  uuid: 6b094405-7bdf-4e67-a654-0d596fc30517
+  uuid: 5f3956da-914f-4147-b6bf-1724d096d99c
   type: content_entity
   additional:
     entity_type: paragraph

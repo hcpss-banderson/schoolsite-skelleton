@@ -3,7 +3,7 @@ id:
     value: 53
 uuid:
   -
-    value: ecd3e149-3c11-4cc5-94f0-4e80a851a1b5
+    value: ba530023-e52e-48ac-b3c2-ad12d7bddbc1
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:17:07+00:00'
+    value: '2021-10-19T17:26:17+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Sam Polack'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://hcpss.instructure.com/courses/2345'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '53'
-  uuid: ecd3e149-3c11-4cc5-94f0-4e80a851a1b5
+  uuid: ba530023-e52e-48ac-b3c2-ad12d7bddbc1
   type: content_entity
   additional:
     entity_type: paragraph

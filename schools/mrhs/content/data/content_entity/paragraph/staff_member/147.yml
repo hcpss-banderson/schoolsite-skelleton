@@ -3,7 +3,7 @@ id:
     value: 147
 uuid:
   -
-    value: 3b1d59b3-e370-4ac1-9318-9b2af433bc40
+    value: fc766474-fc86-46ea-a5a3-c2921e97dd4d
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:36:52+00:00'
+    value: '2021-10-19T17:58:47+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Kristen Reier'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://mrhsworldlanguage.wikispaces.hcpss.org/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '147'
-  uuid: 3b1d59b3-e370-4ac1-9318-9b2af433bc40
+  uuid: fc766474-fc86-46ea-a5a3-c2921e97dd4d
   type: content_entity
   additional:
     entity_type: paragraph

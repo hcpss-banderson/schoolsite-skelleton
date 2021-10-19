@@ -3,7 +3,7 @@ id:
     value: 57
 uuid:
   -
-    value: 2b468eaa-1e10-4e98-befc-b1314052f800
+    value: 79ee40eb-b008-4e8c-86ca-92182e5063f6
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:49:41+00:00'
+    value: '2021-10-19T18:18:48+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Laura Correnti'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://mrscorrentishealthclass.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '57'
-  uuid: 2b468eaa-1e10-4e98-befc-b1314052f800
+  uuid: 79ee40eb-b008-4e8c-86ca-92182e5063f6
   type: content_entity
   additional:
     entity_type: paragraph

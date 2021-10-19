@@ -3,7 +3,7 @@ id:
     value: 105
 uuid:
   -
-    value: 0b270ae9-66fd-4fe3-98df-005327f355d6
+    value: b37732c7-efcb-4f85-ab43-ca36a7fbe620
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:40:01+00:00'
+    value: '2021-10-19T18:03:49+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Matthew Gresick'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://sites.google.com/site/worldhistorygresick/home'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '105'
-  uuid: 0b270ae9-66fd-4fe3-98df-005327f355d6
+  uuid: b37732c7-efcb-4f85-ab43-ca36a7fbe620
   type: content_entity
   additional:
     entity_type: paragraph

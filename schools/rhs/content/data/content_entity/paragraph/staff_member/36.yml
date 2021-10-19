@@ -3,7 +3,7 @@ id:
     value: 36
 uuid:
   -
-    value: 094e83ec-03c8-4184-8bd0-39b67a0e25eb
+    value: f4925160-18f2-4d48-be23-f1e9377f906e
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:40:01+00:00'
+    value: '2021-10-19T18:03:49+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Kelley Thomas'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://sites.google.com/site/kelleythomasrhs/12-honors'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '36'
-  uuid: 094e83ec-03c8-4184-8bd0-39b67a0e25eb
+  uuid: f4925160-18f2-4d48-be23-f1e9377f906e
   type: content_entity
   additional:
     entity_type: paragraph

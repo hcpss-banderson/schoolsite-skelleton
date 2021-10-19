@@ -3,7 +3,7 @@ id:
     value: 55
 uuid:
   -
-    value: 7d6cce46-0ebb-4fcc-8c41-fbb2cbebdc67
+    value: c12d0500-36ff-4086-b351-ba069892ff37
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T15:59:27+00:00'
+    value: '2021-10-19T16:56:47+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Mr. Twigg'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://mrtwiggmusic.weebly.com/'
+    title: 'Band and Orchestra Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '55'
-  uuid: 7d6cce46-0ebb-4fcc-8c41-fbb2cbebdc67
+  uuid: c12d0500-36ff-4086-b351-ba069892ff37
   type: content_entity
   additional:
     entity_type: paragraph

@@ -3,7 +3,7 @@ id:
     value: 67
 uuid:
   -
-    value: 318221f0-1eb7-4d9a-8b73-23a72282e19b
+    value: 7563d824-d9b6-4a39-a3cc-9d801ed48248
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T15:56:20+00:00'
+    value: '2021-10-19T16:51:49+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Lisa Fox'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://doespe.weebly.com/'
+    title: 'PE Website'
+    options: {  }
 _content_snapshot_metadata:
   id: '67'
-  uuid: 318221f0-1eb7-4d9a-8b73-23a72282e19b
+  uuid: 7563d824-d9b6-4a39-a3cc-9d801ed48248
   type: content_entity
   additional:
     entity_type: paragraph

@@ -3,7 +3,7 @@ id:
     value: 15
 uuid:
   -
-    value: f2217937-c13b-4a41-a692-a00d1d6281c3
+    value: 479b1cda-a756-44ef-a174-50c3e925da9a
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:57:33+00:00'
+    value: '2021-10-19T18:31:21+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Mrs. Steele'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://tbgarroway.wix.com/mw-student-services'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '15'
-  uuid: f2217937-c13b-4a41-a692-a00d1d6281c3
+  uuid: 479b1cda-a756-44ef-a174-50c3e925da9a
   type: content_entity
   additional:
     entity_type: paragraph

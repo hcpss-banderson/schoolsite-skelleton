@@ -3,7 +3,7 @@ id:
     value: 35
 uuid:
   -
-    value: aab991a7-acf3-4bca-9714-3efcede96c24
+    value: c7ac904c-e322-4c03-ac2d-a57c83c6636e
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:33:34+00:00'
+    value: '2021-10-19T17:53:36+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Sarah Hensley'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://hhsart.weebly.com'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '35'
-  uuid: aab991a7-acf3-4bca-9714-3efcede96c24
+  uuid: c7ac904c-e322-4c03-ac2d-a57c83c6636e
   type: content_entity
   additional:
     entity_type: paragraph

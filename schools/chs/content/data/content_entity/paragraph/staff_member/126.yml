@@ -3,7 +3,7 @@ id:
     value: 126
 uuid:
   -
-    value: 23a5ea23-1898-4160-a6a5-cb27109e4aa2
+    value: c38ac74b-dd1c-4ea3-b963-c57e06b11ecb
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:30:21+00:00'
+    value: '2021-10-19T17:48:35+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -38,10 +38,14 @@ field_job_title: {  }
 field_name:
   -
     value: 'Student Services'
-field_website: {  }
+field_website:
+  -
+    uri: 'https://twitter.com/CHS_StudServ'
+    title: Twitter
+    options: {  }
 _content_snapshot_metadata:
   id: '126'
-  uuid: 23a5ea23-1898-4160-a6a5-cb27109e4aa2
+  uuid: c38ac74b-dd1c-4ea3-b963-c57e06b11ecb
   type: content_entity
   additional:
     entity_type: paragraph

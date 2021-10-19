@@ -3,7 +3,7 @@ id:
     value: 54
 uuid:
   -
-    value: 309cda5f-598d-4b7b-ad70-763a4fe3bb5f
+    value: 3177defe-d350-4f0c-bc5d-dcbc831cb79e
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:40:01+00:00'
+    value: '2021-10-19T18:03:49+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Colin O''Bryan'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://reservoirmusic.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '54'
-  uuid: 309cda5f-598d-4b7b-ad70-763a4fe3bb5f
+  uuid: 3177defe-d350-4f0c-bc5d-dcbc831cb79e
   type: content_entity
   additional:
     entity_type: paragraph

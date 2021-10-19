@@ -3,7 +3,7 @@ id:
     value: 41
 uuid:
   -
-    value: adc84f76-26ca-400a-a687-31039d13abb8
+    value: 51ced400-e23b-4cde-b845-dc9d84058115
 langcode:
   -
     value: en
@@ -16,7 +16,7 @@ status:
     value: true
 created:
   -
-    value: '2021-10-14T16:21:18+00:00'
+    value: '2021-10-19T17:33:25+00:00'
     format: 'Y-m-d\TH:i:sP'
 parent_id:
   -
@@ -42,10 +42,14 @@ field_job_title:
 field_name:
   -
     value: 'Leah McIlvain'
-field_website: {  }
+field_website:
+  -
+    uri: 'http://thesmedia.weebly.com/'
+    title: Website
+    options: {  }
 _content_snapshot_metadata:
   id: '41'
-  uuid: adc84f76-26ca-400a-a687-31039d13abb8
+  uuid: 51ced400-e23b-4cde-b845-dc9d84058115
   type: content_entity
   additional:
     entity_type: paragraph
