@@ -1,0 +1,27 @@
+uuid: 244746cf-630a-48f2-835d-7d2e9389c021
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.main
+  module:
+    - system
+  theme:
+    - drulma
+_core:
+  default_config_hash: osvyHoiRNfD2qj1tSazv3XEvZH0YyoYMVl3yL0bS7lQ
+id: drulma_main_menu
+theme: drulma
+region: sidebar_second
+weight: -6
+provider: null
+plugin: 'system_menu_block:main'
+settings:
+  id: 'system_menu_block:main'
+  label: 'Main navigation'
+  provider: system
+  label_display: '0'
+  level: 1
+  depth: 1
+  expand_all_items: false
+visibility: {  }

@@ -1,0 +1,17 @@
+uuid: 6a33fbf2-fd2f-434c-a662-2d67e2812afe
+langcode: en
+status: true
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus: {  }
+    parent: ''
+name: 'Photo Gallery'
+type: photo_gallery
+description: 'Use <em>photo gallery</em> to post galleries of images to your community.'
+help: ''
+new_revision: true
+preview_mode: 1
+display_submitted: false

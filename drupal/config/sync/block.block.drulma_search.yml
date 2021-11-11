@@ -1,0 +1,23 @@
+uuid: 9ec3e4d6-5692-4b15-bcd6-89f03e4e862b
+langcode: en
+status: true
+dependencies:
+  module:
+    - search
+  theme:
+    - drulma
+_core:
+  default_config_hash: lX31apw6zxRSyObIznMgtTOdBciRkc0KsKZ6fd0PeRk
+id: drulma_search
+theme: drulma
+region: sidebar_first
+weight: -7
+provider: null
+plugin: search_form_block
+settings:
+  id: search_form_block
+  label: Search
+  provider: search
+  label_display: visible
+  page_id: ''
+visibility: {  }

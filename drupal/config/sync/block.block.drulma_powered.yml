@@ -1,0 +1,22 @@
+uuid: 42145634-7163-418f-b6de-df9b7342f95b
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - drulma
+_core:
+  default_config_hash: UwXm91INbXI7uJl7qyVPgfCgtZefO153_73_05MjIOo
+id: drulma_powered
+theme: drulma
+region: footer
+weight: -5
+provider: null
+plugin: system_powered_by_block
+settings:
+  id: system_powered_by_block
+  label: 'Powered by Drupal'
+  provider: system
+  label_display: '0'
+visibility: {  }

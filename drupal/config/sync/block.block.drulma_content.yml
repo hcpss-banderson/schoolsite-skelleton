@@ -1,0 +1,22 @@
+uuid: 9873d700-3e3d-484a-84e6-8fe23796499a
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - drulma
+_core:
+  default_config_hash: 9BVAxGf07KsErDQilHWPbT-HrAMW0w360IpYIVyXbUk
+id: drulma_content
+theme: drulma
+region: content
+weight: -1
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  provider: system
+  label_display: '0'
+visibility: {  }

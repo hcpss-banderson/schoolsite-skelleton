@@ -1,0 +1,40 @@
+uuid: f1efc1b5-07b5-49bb-9046-570ca2f428f2
+langcode: en
+status: true
+dependencies:
+  config:
+    - system.menu.main
+    - system.menu.tools
+  module:
+    - drulma_companion
+  theme:
+    - drulma
+_core:
+  default_config_hash: 9Owg25IM-uBwgZ-4HnrsJxqWI_hK_yxs60zbRqAD2Cw
+id: drulma_main_navigation
+theme: drulma
+region: primary_menu
+weight: 0
+provider: null
+plugin: 'drulma_companion_bulma_navbar_with_branding:main'
+settings:
+  id: 'drulma_companion_bulma_navbar_with_branding:main'
+  label: 'Main navigation'
+  provider: drulma_companion
+  label_display: '0'
+  level: 1
+  depth: 0
+  expand_all_items: 0
+  navbar_color: ''
+  navbar_title_tag: span
+  horizontally_centered: true
+  navbar_start_display: true
+  end_menu: tools
+  end_menu_level: 1
+  end_menu_depth: 0
+  use_site_logo: true
+  use_site_name: true
+  use_site_slogan: false
+  site_name_size: '4'
+  site_slogan_size: '6'
+visibility: {  }

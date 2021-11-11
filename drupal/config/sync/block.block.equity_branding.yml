@@ -1,0 +1,29 @@
+uuid: 20ead7c5-4d2a-4821-be4d-06bd4e460f78
+langcode: en
+status: true
+dependencies:
+  module:
+    - block_class
+    - system
+  theme:
+    - equity
+third_party_settings:
+  block_class:
+    classes: container
+_core:
+  default_config_hash: Xkv13aaqm1Wz-pLAnlJvkCSHnWelArQsJGDIDvpVinc
+id: equity_branding
+theme: equity
+region: title
+weight: 0
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  provider: system
+  label_display: '0'
+  use_site_logo: false
+  use_site_name: true
+  use_site_slogan: false
+visibility: {  }

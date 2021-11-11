@@ -1,0 +1,22 @@
+uuid: 01be94ec-1110-4adf-b457-26b1f6cef096
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - equity
+_core:
+  default_config_hash: bZHINIF_Q3XhQ6f9ArmlfXWTrELbLUj40XLjc8XZkcg
+id: equity_help
+theme: equity
+region: content
+weight: -6
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  provider: help
+  label_display: '0'
+visibility: {  }

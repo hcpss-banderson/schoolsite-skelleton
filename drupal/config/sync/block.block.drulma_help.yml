@@ -1,0 +1,22 @@
+uuid: e76c58e8-a229-4718-930b-12bafbf3192f
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - drulma
+_core:
+  default_config_hash: lEfkKChsDHbyMfutks7zwLrEFtIHyXmkbBB-LUS5Jqw
+id: drulma_help
+theme: drulma
+region: content
+weight: -6
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  provider: help
+  label_display: '0'
+visibility: {  }

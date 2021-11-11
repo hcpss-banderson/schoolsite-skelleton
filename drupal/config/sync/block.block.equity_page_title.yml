@@ -1,0 +1,26 @@
+uuid: 9bf7aee0-97a6-4d96-ab17-361c5f69c1f5
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - equity
+_core:
+  default_config_hash: LuqyLP9uQHTkcEQ5Q67kFywSTrFgaIfP4IxlxMDH5s4
+id: equity_page_title
+theme: equity
+region: content
+weight: -3
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: 'Page title'
+  provider: core
+  label_display: '0'
+visibility:
+  request_path:
+    id: request_path
+    pages: '<front>'
+    negate: true

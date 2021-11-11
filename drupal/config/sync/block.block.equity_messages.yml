@@ -1,0 +1,26 @@
+uuid: 74ec10ea-3c95-4ba5-9a1e-07c9f87d5486
+langcode: en
+status: true
+dependencies:
+  module:
+    - block_class
+    - system
+  theme:
+    - equity
+third_party_settings:
+  block_class:
+    classes: container
+_core:
+  default_config_hash: b9Ra877MB2q2yP82gIjXmGlWFCdKun1tf4TilBRNumg
+id: equity_messages
+theme: equity
+region: highlighted
+weight: 0
+provider: null
+plugin: system_messages_block
+settings:
+  id: system_messages_block
+  label: 'Status messages'
+  provider: system
+  label_display: '0'
+visibility: {  }

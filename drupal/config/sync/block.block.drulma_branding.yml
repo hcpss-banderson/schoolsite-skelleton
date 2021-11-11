@@ -1,0 +1,25 @@
+uuid: 440c0dfd-2cd0-4d38-9bd1-22394e10dd39
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - drulma
+_core:
+  default_config_hash: aEO4JyMj1PcQsBFjv5bI88msuxptw_MbZIW3SejoIp4
+id: drulma_branding
+theme: drulma
+region: title
+weight: 0
+provider: null
+plugin: system_branding_block
+settings:
+  id: system_branding_block
+  label: 'Site branding'
+  provider: system
+  label_display: '0'
+  use_site_logo: false
+  use_site_name: true
+  use_site_slogan: false
+visibility: {  }

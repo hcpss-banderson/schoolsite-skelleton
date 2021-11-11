@@ -1,0 +1,32 @@
+uuid: e426c044-a881-4fdd-b6ce-96bc90877efa
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.taxonomy_term.field_gallery_type
+    - taxonomy.vocabulary.gallery_type
+  content:
+    - 'taxonomy_term:gallery_type:014e3e63-ae12-4a9e-b500-21e3990e6aa9'
+id: taxonomy_term.gallery_type.field_gallery_type
+field_name: field_gallery_type
+entity_type: taxonomy_term
+bundle: gallery_type
+label: Type
+description: ''
+required: true
+translatable: false
+default_value:
+  -
+    target_uuid: 014e3e63-ae12-4a9e-b500-21e3990e6aa9
+default_value_callback: ''
+settings:
+  handler: 'default:taxonomy_term'
+  handler_settings:
+    target_bundles:
+      gallery_type: gallery_type
+    sort:
+      field: name
+      direction: asc
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

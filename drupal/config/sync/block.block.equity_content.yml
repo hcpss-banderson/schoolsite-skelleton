@@ -1,0 +1,22 @@
+uuid: eeb1fea9-afc6-4315-9ee4-f29dfb8ddee3
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - equity
+_core:
+  default_config_hash: W7xOs8oU8QKGv1tdrYxKn-oZ2xw254SfBOtiXliyhls
+id: equity_content
+theme: equity
+region: content
+weight: -1
+provider: null
+plugin: system_main_block
+settings:
+  id: system_main_block
+  label: 'Main page content'
+  provider: system
+  label_display: '0'
+visibility: {  }

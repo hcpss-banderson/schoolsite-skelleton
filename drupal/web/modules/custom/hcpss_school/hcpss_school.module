@@ -1,18 +1,32 @@
 <?php
 
 use Drupal\fragments\Entity\Fragment;
+use Drupal\entityqueue\Entity\EntityQueue;
 
 /**
  * Implementation of hook_contextual_links_alter().
  */
-function hcpss_school_contextual_links_alter(array &$links, $group, array $route_parameters) {
-  if ($group == 'fragment') {
-    $fragment = Fragment::load($route_parameters['fragment']);
-
-    if ($fragment) {
-      foreach ($links as &$link) {
-        $link['title'] = str_replace('fragment', $fragment->bundle(), $link['title']);
+function hcpss_school_contextual_links_alter(array &$links, $group, array $route_parameters) {  
+  switch ($group) {
+    case 'fragment':
+      $fragment = Fragment::load($route_parameters['fragment']);
+      
+      if ($fragment) {
+        foreach ($links as &$link) {
+          $link['title'] = str_replace('fragment', $fragment->bundle(), $link['title']);
+        }
       }
-    }
+      
+      break;
+    case 'entityqueue':
+      $queue = EntityQueue::load($route_parameters['entity_subqueue']);
+      
+      if ($queue) {
+        foreach ($links as &$link) {
+          $link['title'] = str_replace('subqueue', $queue->label(), $link['title']);
+        }
+      }
+      
+      break;
   }
 }
