@@ -1,0 +1,8 @@
+uuid: f38bf424-f03d-4fff-93f8-4fad5d55520b
+langcode: en
+status: true
+dependencies: {  }
+id: essential-apps-resources
+label: 'Essential Applications and Resources'
+description: ''
+locked: false

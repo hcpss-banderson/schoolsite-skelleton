@@ -1,0 +1,25 @@
+uuid: d892c4a2-e477-4af2-a1a2-89a7ce65e705
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.menu_link_content.essential-apps-resources.field_body
+    - system.menu.essential-apps-resources
+id: menu_link_content.essential-apps-resources.default
+targetEntityType: menu_link_content
+bundle: essential-apps-resources
+mode: default
+content:
+  children:
+    weight: 1
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+  field_body:
+    weight: 2
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: basic_string
+    region: content
+hidden: {  }

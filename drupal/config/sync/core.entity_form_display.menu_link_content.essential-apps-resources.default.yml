@@ -1,0 +1,45 @@
+uuid: 01738213-c0bc-4fe0-b895-0f7b18db994a
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.menu_link_content.essential-apps-resources.field_body
+    - system.menu.essential-apps-resources
+  module:
+    - field_layout
+    - layout_discovery
+    - link
+    - menu_item_extras
+third_party_settings:
+  field_layout:
+    id: layout_onecol
+    settings:
+      label: ''
+id: menu_link_content.essential-apps-resources.default
+targetEntityType: menu_link_content
+bundle: essential-apps-resources
+mode: default
+content:
+  field_body:
+    weight: 21
+    settings:
+      rows: 5
+      placeholder: ''
+    third_party_settings: {  }
+    type: string_textarea
+    region: content
+  title:
+    type: string_textfield
+    weight: -5
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+  view_mode:
+    type: menu_item_extras_view_mode_selector_select
+    weight: 0
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden: {  }
