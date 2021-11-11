@@ -1,0 +1,20 @@
+uuid: 27633cce-ec7a-4c0f-becb-34ad8dcc4c6d
+langcode: en
+status: true
+dependencies:
+  theme:
+    - school_admin
+id: tabs
+theme: school_admin
+region: header
+weight: 0
+provider: null
+plugin: local_tasks_block
+settings:
+  id: local_tasks_block
+  label: 'Primary tabs'
+  provider: core
+  label_display: '0'
+  primary: true
+  secondary: false
+visibility: {  }

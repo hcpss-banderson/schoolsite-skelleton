@@ -1,0 +1,26 @@
+uuid: bc21edca-83f3-4dab-8915-cbb293d050bd
+langcode: en
+status: true
+dependencies:
+  module:
+    - node
+id: featured_content
+label: 'Featured Content'
+handler: simple
+handler_configuration: {  }
+entity_settings:
+  target_type: node
+  handler: 'default:node'
+  handler_settings:
+    target_bundles:
+      news: news
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+queue_settings:
+  min_size: 0
+  max_size: 9
+  act_as_queue: true
+  reverse: false

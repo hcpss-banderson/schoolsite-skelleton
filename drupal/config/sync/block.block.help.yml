@@ -1,0 +1,20 @@
+uuid: 0afa1ac7-b092-4717-9b36-8b8c65e08f92
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - school_admin
+id: help
+theme: school_admin
+region: help
+weight: 0
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  provider: help
+  label_display: '0'
+visibility: {  }

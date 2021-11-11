@@ -1,5 +1,18 @@
 <?php
 
-function hcpss_school_preprocess_field(&$variables) {
-  //dpm($variables);
+use Drupal\fragments\Entity\Fragment;
+
+/**
+ * Implementation of hook_contextual_links_alter().
+ */
+function hcpss_school_contextual_links_alter(array &$links, $group, array $route_parameters) {
+  if ($group == 'fragment') {
+    $fragment = Fragment::load($route_parameters['fragment']);
+
+    if ($fragment) {
+      foreach ($links as &$link) {
+        $link['title'] = str_replace('fragment', $fragment->bundle(), $link['title']);
+      }
+    }
+  }
 }

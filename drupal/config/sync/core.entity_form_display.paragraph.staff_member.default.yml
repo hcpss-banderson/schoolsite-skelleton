@@ -9,6 +9,7 @@ dependencies:
     - field.field.paragraph.staff_member.field_website
     - paragraphs.paragraphs_type.staff_member
   module:
+    - field_group
     - field_layout
     - layout_discovery
     - link
@@ -17,13 +18,61 @@ third_party_settings:
     id: layout_onecol
     settings:
       label: ''
+  field_group:
+    group_all:
+      children:
+        - group_general
+        - group_website
+      parent_name: ''
+      weight: 3
+      format_type: tabs
+      region: content
+      format_settings:
+        direction: vertical
+        width_breakpoint: 640
+        id: ''
+        classes: staff-member-all-tabs
+        show_empty_fields: false
+      label: All
+    group_general:
+      children:
+        - field_name
+        - field_email
+        - field_job_title
+      parent_name: group_all
+      weight: 20
+      format_type: tab
+      region: content
+      format_settings:
+        description: ''
+        formatter: closed
+        required_fields: true
+        id: ''
+        classes: staff-member-general-tab
+        show_empty_fields: false
+      label: General
+    group_website:
+      children:
+        - field_website
+      parent_name: group_all
+      weight: 21
+      format_type: tab
+      region: content
+      format_settings:
+        description: ''
+        formatter: closed
+        required_fields: true
+        id: ''
+        classes: staff-member-website-tab
+        show_empty_fields: false
+      label: Website
 id: paragraph.staff_member.default
 targetEntityType: paragraph
 bundle: staff_member
 mode: default
 content:
   field_email:
-    weight: 2
+    weight: 1
     settings:
       size: 60
       placeholder: ''
@@ -31,7 +80,7 @@ content:
     type: email_default
     region: content
   field_job_title:
-    weight: 1
+    weight: 2
     settings:
       size: 60
       placeholder: ''
@@ -47,7 +96,7 @@ content:
     type: string_textfield
     region: content
   field_website:
-    weight: 3
+    weight: 4
     settings:
       placeholder_url: ''
       placeholder_title: ''

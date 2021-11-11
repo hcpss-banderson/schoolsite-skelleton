@@ -5,9 +5,11 @@ dependencies:
   config:
     - entityqueue.entity_queue.staff_list
     - fragments.fragment_type.department
+    - system.menu.main
   module:
     - entityqueue
     - fragments
+    - user
 id: staff_list
 label: 'Staff List'
 module: views
@@ -23,8 +25,9 @@ display:
     position: 0
     display_options:
       access:
-        type: none
-        options: {  }
+        type: perm
+        options:
+          perm: 'access content'
       cache:
         type: tag
         options: {  }
@@ -47,8 +50,9 @@ display:
           sort_asc_label: Asc
           sort_desc_label: Desc
       pager:
-        type: none
+        type: some
         options:
+          items_per_page: 0
           offset: 0
       style:
         type: default
@@ -169,6 +173,7 @@ display:
       contexts:
         - 'languages:language_content'
         - 'languages:language_interface'
+        - user.permissions
       tags:
         - 'config:entityqueue.entity_queue.staff_list'
         - entity_field_info
@@ -181,11 +186,21 @@ display:
     display_options:
       display_extenders: {  }
       path: school-staff
+      menu:
+        type: normal
+        title: Staff
+        description: ''
+        expanded: false
+        parent: ''
+        weight: 0
+        context: '0'
+        menu_name: main
     cache_metadata:
       max-age: -1
       contexts:
         - 'languages:language_content'
         - 'languages:language_interface'
+        - user.permissions
       tags:
         - 'config:entityqueue.entity_queue.staff_list'
         - entity_field_info

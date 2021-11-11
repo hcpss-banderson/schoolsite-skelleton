@@ -1,0 +1,22 @@
+uuid: f7b55385-fbc2-41e2-9e4e-47e19357c3df
+langcode: en
+status: true
+dependencies:
+  module:
+    - system
+  theme:
+    - school_admin
+_core:
+  default_config_hash: oXUb3JZR2WW5VOdw4HrhRicCsq51mCgLfRyvheG68ck
+id: school_admin_breadcrumbs
+theme: school_admin
+region: breadcrumb
+weight: 0
+provider: null
+plugin: system_breadcrumb_block
+settings:
+  id: system_breadcrumb_block
+  label: Breadcrumbs
+  provider: system
+  label_display: '0'
+visibility: {  }

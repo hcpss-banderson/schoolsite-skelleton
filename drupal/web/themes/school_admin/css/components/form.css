@@ -1,0 +1,36 @@
+.staff-member-all-tabs .staff-member-general-tab .details-wrapper {
+  display: table;
+  border-spacing: 0.75em;
+  border-collapse: separate;
+}
+.staff-member-all-tabs .staff-member-general-tab .details-wrapper > .form-wrapper {
+  display: table-row-group;
+}
+.staff-member-all-tabs .staff-member-general-tab .details-wrapper > .form-wrapper > .form-item {
+  display: table-row;
+}
+.staff-member-all-tabs .staff-member-general-tab .details-wrapper > .form-wrapper > .form-item label, .staff-member-all-tabs .staff-member-general-tab .details-wrapper > .form-wrapper > .form-item input {
+  display: table-cell;
+}
+.staff-member-all-tabs .staff-member-website-tab fieldset {
+  display: block;
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+.staff-member-all-tabs .staff-member-website-tab fieldset legend {
+  display: none;
+}
+.staff-member-all-tabs .staff-member-website-tab fieldset .fieldset-wrapper {
+  display: table;
+  border-spacing: 0.75em;
+  border-collapse: separate;
+}
+.staff-member-all-tabs .staff-member-website-tab fieldset .fieldset-wrapper .form-item {
+  display: table-row;
+}
+.staff-member-all-tabs .staff-member-website-tab fieldset .fieldset-wrapper .form-item label, .staff-member-all-tabs .staff-member-website-tab fieldset .fieldset-wrapper .form-item input {
+  display: table-cell;
+}
+
+/*# sourceMappingURL=form.css.map */

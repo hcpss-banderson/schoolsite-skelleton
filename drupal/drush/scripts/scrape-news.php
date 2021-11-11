@@ -1,79 +1,79 @@
 <?php
 
 use Goutte\Client;
-use Drupal\paragraphs\Entity\Paragraph;
-use Drupal\fragments\Entity\Fragment;
 use Symfony\Component\DomCrawler\Crawler;
-use Drupal\entityqueue\Entity\EntitySubqueue;
 use Drupal\node\Entity\Node;
-use Drupal\taxonomy\Plugin\views\wizard\TaxonomyTerm;
 use Drupal\taxonomy\Entity\Term;
+use Drupal\taxonomy\TermInterface;
 
 /**
  * drush php:script --script-path=/var/www/drupal/drush/scripts scrape-news -- chs
  */
 
-function crawlNewsPage(Crawler $crawler, $acronym) {
-  $crawler->filter('.news-message')->each(function (Crawler $message) use ($acronym) {
-    $time = DateTimeImmutable::createFromFormat(
-      'D, m/d/Y - g:ia', 
-      $message->filter('.news-message-detail')->text(),
-      new DateTimeZone('America/New_York')
-    );
+function get_or_create_term(string $name): TermInterface {
+  $tids = \Drupal::entityQuery('taxonomy_term')
+    ->condition('vid', 'tags')
+    ->condition('name', $name)
+    ->execute();
+  
+  if (!empty($tids)) {
+    $term = Term::load(array_shift($tids));
+  } else {
+    $term = Term::create(['vid' => 'tags', 'name' => $name]);
+    $term->save();
+  }
     
-    $node = Node::create([
-      'type' => 'news',
-      'uid' => 1,
-      'created' => $time->getTimestamp(),
-    ]);
-    
-    $uri = $message->filter('.node-readmore a')->link()->getUri();
-    $newsCrawler = (new Client())->request('GET', $uri);
-    
-    $tags = [];
-    $newsCrawler->filter('.field-name-field-tags a')->each(function (Crawler $tag) use ($node, &$tags) {
-      $name = $tag->text();
-      
-      $tids = \Drupal::entityQuery('taxonomy_term')
-        ->condition('vid', 'tags')
-        ->condition('name', $name)
-        ->execute();
-      
-      if (!empty($tids)) {
-        $term = Term::load(array_shift($tids));
-      } else {
-        $term = Term::create(['vid' => 'tags', 'name' => $name]);
-        $term->save();
-      }
-      
-      $tags[] = $term;
-    });
-      
-      $node->setTitle($newsCrawler->filter('.content h2')->text());
-      $node->body = [
-        'value' => $newsCrawler->filter('.field-name-field-news-message-content')->html(),
-        'format' => 'basic_html',
-      ];
-      
-      if (!empty($tags)) {
-        $node->field_tags = $tags;
-      }
-      
-      $node->save();
-  });
+  return $term;
+}
+
+function delete_all() {
+  $nids = \Drupal::entityQuery('node')
+    ->condition('type', 'news')
+    ->execute();
+  
+  if (!empty($nids)) {
+    foreach (Node::loadMultiple($nids) as $node) {
+      $node->delete();
+    }
+  }
 }
 
 $acronym = $extra[0];
 $client = new Client();
-$url = "https://{$acronym}.hcpss.org/news";
+$url = "https://{$acronym}.hcpss.org/content-export/news_message";
 
-do {
-  $crawler = $client->request('GET', $url);
-  crawlNewsPage($crawler, $acronym);
+delete_all();
+
+$crawler = $client->request('GET', $url);
+$crawler->filter('.views-table > tbody > tr')->each(function (Crawler $row, $index) {   
+  $body = [
+    'value' => $row->filter('.export-message-content')->html(),
+    'format' => 'basic_html',
+  ];
   
-  if ($crawler->filter('.pager-next a')->count()) {
-    $url = $crawler->filter('.pager-next a')->link()->getUri();
-  } else {
-    $url = false;
+  if ($summary = $row->filter('.export-message-summary')->text()) {
+    $body['summary'] = $summary;
   }
-} while($url);
+  
+  $node = Node::create([
+    'type' => 'news',
+    'uid' => 1,
+    'created' => $row->filter('.export-created')->text(),
+    'title' => $row->filter('.export-title')->text(),
+    'body' => $body,
+  ]);
+  
+  if ($row->filter('.export-tags')->count()) {
+    $tags = explode(',', $row->filter('.export-tags')->text());
+    if (!empty($tags)) {
+      foreach ($tags as $name) {
+        $name = trim($name);
+        if ($name) {
+          $node->field_tags[] = get_or_create_term($name);
+        }
+      }
+    }
+  }
+  
+  $node->save();
+});

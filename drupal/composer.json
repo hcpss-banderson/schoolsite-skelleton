@@ -16,12 +16,14 @@
     ],
     "require": {
         "composer/installers": "^1.9",
+        "cweagans/composer-patches": "^1.7",
         "drupal/content_snapshot": "^2.0@beta",
         "drupal/core-composer-scaffold": "^9.2",
         "drupal/core-project-message": "^9.2",
         "drupal/core-recommended": "^9.2",
         "drupal/devel": "^4.1",
         "drupal/entityqueue": "^1.2",
+        "drupal/field_group": "^3.2",
         "drupal/fragments": "^2.0",
         "drupal/inline_entity_form": "^1.0@RC",
         "drupal/panelizer": "^4.4",
@@ -41,6 +43,11 @@
         "sort-packages": true
     },
     "extra": {
+        "patches": {
+            "drupal/fragments": {
+                "Add contextual links": "https://www.drupal.org/files/issues/2021-11-08/add_contextual_links-3241660-4.patch"
+            }
+        },
         "drupal-scaffold": {
             "locations": {
                 "web-root": "web/"
