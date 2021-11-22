@@ -6,6 +6,8 @@ use Drupal\Core\Block\BlockBase;
 use Drupal\Component\Serialization\Yaml;
 use Drupal\Component\Serialization\Json;
 use Drupal\Core\Url;
+use Drupal\Core\Cache\Cache;
+use Drupal\hcpss_school\ApiDataAware;
 
 /**
  * Provides a Footer Block.
@@ -17,6 +19,8 @@ use Drupal\Core\Url;
  * )
  */
 class FooterBlock extends BlockBase {
+  
+  use ApiDataAware;
   
   /**
    * Build the static resources.
@@ -64,9 +68,7 @@ class FooterBlock extends BlockBase {
    * @return array
    */
   private function buildAddress(): array {
-    $acronym = \Drupal::config('hcpss_school.settings')->get('acronym');
-    $data = file_get_contents("https://api.hocoschools.org/schools/{$acronym}.json");
-    $school_info = Json::decode($data);
+    $school_info = self::getData();
     $build = [];
     
     $build['address'] = [
@@ -214,6 +216,8 @@ class FooterBlock extends BlockBase {
     $build['container']['resources'] += $this->buildResources();
     $build['container']['resources'] += $this->buildAddress();
     $build['container']['footer']    = $this->buildFooter();
+    
+    $build['#cache']['max-age'] = Cache::PERMANENT;
     
     return $build;
   }
