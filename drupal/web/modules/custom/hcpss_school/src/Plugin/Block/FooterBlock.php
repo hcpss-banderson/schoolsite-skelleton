@@ -5,6 +5,7 @@ namespace Drupal\hcpss_school\Plugin\Block;
 use Drupal\Core\Block\BlockBase;
 use Drupal\Component\Serialization\Yaml;
 use Drupal\Component\Serialization\Json;
+use Drupal\Core\Url;
 
 /**
  * Provides a Footer Block.
@@ -46,8 +47,9 @@ class FooterBlock extends BlockBase {
       
       $build[$name]['link'] = [
         '#type' => 'link',
+        '#attributes' => ['class' => 'button'],
         '#title' => $this->t($resource['link']['label']),
-        '#url' => $resource['link']['uri'],
+        '#url' => Url::fromUri($resource['link']['uri']),
         '#prefix' => '<p>',
         '#suffix' => '</p>'
       ];
@@ -110,7 +112,7 @@ class FooterBlock extends BlockBase {
       $build['address']['links'][] = [
         '#type' => 'link',
         '#title' => $this->t('Walk Area Map'),
-        '#url' => $school_info['walk_area'],
+        '#url' => Url::fromUri($school_info['walk_area']),
       ];
     }
     
@@ -118,7 +120,7 @@ class FooterBlock extends BlockBase {
       $build['address']['links'][] = [
         '#type' => 'link',
         '#title' => $this->t('School Profile'),
-        '#url' => $school_info['profile'],
+        '#url' => Url::fromUri($school_info['profile']),
       ];
     }
     
@@ -155,36 +157,37 @@ class FooterBlock extends BlockBase {
   public function buildFooter(): array {
     $build = ['#type' => 'container'];
     $build['hcpss'] = [
-      '#html_tag' => 'p',
+      '#type' => 'html_tag',
+      '#tag' => 'p',
       '#value' => $this->t('Part of the Howard County Public School System'),
       '#prefix' => '<hr>',
     ];
     
-    $build['lang'] = ['#html_tag' => 'p'];
+    $build['lang'] = ['#type' => 'container'];
     $build['lang']['es'] = [
       '#type' => 'link',
       '#title' => 'Servicios de Idiomas',
-      '#url' => 'https://www.hcpss.org/es/',
+      '#url' => Url::fromUri('https://www.hcpss.org/es/'),
     ];
     
     $build['lang']['zh'] = [
       '#type' => 'link',
       '#title' => '语言服务',
-      '#url' => 'https://www.hcpss.org/zh/',
+      '#url' => Url::fromUri('https://www.hcpss.org/zh/'),
       '#prefix' => ' | ',
     ];
     
     $build['lang']['ko'] = [
       '#type' => 'link',
       '#title' => '언어 서비스',
-      '#url' => 'https://www.hcpss.org/ko/',
+      '#url' => Url::fromUri('https://www.hcpss.org/ko/'),
       '#prefix' => ' | ',
     ];
     
     $build['lang']['cnh'] = [
       '#type' => 'link',
       '#title' => 'Holhlei Riantuanmihna',
-      '#url' => 'https://www.hcpss.org/cnh/',
+      '#url' => Url::fromUri('https://www.hcpss.org/cnh/'),
       '#prefix' => ' | ',
     ];
     
@@ -211,6 +214,8 @@ class FooterBlock extends BlockBase {
     $build['container']['resources'] += $this->buildResources();
     $build['container']['resources'] += $this->buildAddress();
     $build['container']['footer']    = $this->buildFooter();
+    
+    dpm($build);
     
     return $build;
   }
