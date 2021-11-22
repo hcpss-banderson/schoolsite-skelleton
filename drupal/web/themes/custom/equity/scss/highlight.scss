@@ -1,0 +1,45 @@
+a.node--view-mode-highlight {
+  display: block;
+  padding: 2em;
+  color: rgba(51, 51, 51, 0.6);
+  background-color: white;
+  height: 100%;
+  
+  &:hover {
+    background-color: rgba(51, 51, 51, 0.05)
+  }
+  
+  h4 {
+    color: rgba(51, 51, 51);
+    font-size: 1.3em;
+    &:before {
+      font-family: 'Font Awesome\ 5 Free'; 
+      content: "\f02e";
+      font-weight: 900;
+    }
+  }
+  
+  &.gallery {
+    background-image: var(--bg-image);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    .inner-highlight {
+      text-align: center;
+      color: white;
+      padding: 2em;
+      margin-bottom: 3em;
+      background-color: rgba(51, 51, 51, 0.7);    
+      h4 {
+        color: white;
+        font-weight: 900;
+        &:before {
+          content: "\f005";
+          display: block;
+          font-size: 2em;
+        }
+      }
+    }
+  }
+}

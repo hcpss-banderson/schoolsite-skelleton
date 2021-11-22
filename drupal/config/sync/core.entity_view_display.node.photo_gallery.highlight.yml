@@ -1,56 +1,44 @@
-uuid: 7ffb6b12-b836-44af-8e24-25d8865b1eb1
+uuid: c5fccf4c-6784-47df-a159-08ab3304c8a3
 langcode: en
 status: true
 dependencies:
   config:
+    - core.entity_view_mode.node.highlight
     - field.field.node.photo_gallery.body
     - field.field.node.photo_gallery.field_gallery_type
     - field.field.node.photo_gallery.field_photos
-    - image.style.large
     - node.type.photo_gallery
   module:
-    - image
+    - layout_builder
     - panelizer
     - text
     - user
 third_party_settings:
+  layout_builder:
+    allow_custom: false
+    enabled: false
   panelizer:
     enable: false
     custom: false
     allow: false
     default: default
-id: node.photo_gallery.default
+id: node.photo_gallery.highlight
 targetEntityType: node
 bundle: photo_gallery
-mode: default
+mode: highlight
 content:
   body:
     label: hidden
     type: text_default
-    weight: 101
+    weight: 1
     settings: {  }
     third_party_settings: {  }
-    region: content
-  field_gallery_type:
-    weight: 103
-    label: hidden
-    settings:
-      link: true
-    third_party_settings: {  }
-    type: entity_reference_label
-    region: content
-  field_photos:
-    weight: 102
-    label: hidden
-    settings:
-      image_style: large
-      image_link: ''
-    third_party_settings: {  }
-    type: image
     region: content
   links:
-    weight: 100
+    weight: 0
     region: content
     settings: {  }
     third_party_settings: {  }
-hidden: {  }
+hidden:
+  field_gallery_type: true
+  field_photos: true

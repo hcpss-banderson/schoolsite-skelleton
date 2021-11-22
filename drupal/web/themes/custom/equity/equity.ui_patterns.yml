@@ -1,0 +1,45 @@
+highlight_collection:
+  label: Highlight Collection
+  description: Display a section of highlights
+  fields:
+    items:
+      type: array
+      label: Items
+      description: Highlight items
+      preview: Not sure...
+  libraries:
+    - equity/highlight_collection
+
+highlight:
+  label: Highlight
+  description: Display content in a highlighted sections
+  variants:
+    default:
+      label: Default
+      description: An ordinary highlight.
+    highlighted:
+      label: Gallery
+      description: A gallery highlight.
+  fields:
+    title:
+      type: text
+      label: Title
+      description: The title.
+      preview: '2021-22 School Year Info'
+    summary:
+      type: text
+      label: Summary
+      description: Summary of the content.
+      preview: Welcome to Mt. Hebron! Click here for important information throughout the year.
+    url:
+      type: text
+      label: URL
+      description: The link.
+      preview: https://www.google.com
+    icon:
+      type: text
+      label: Icon
+      description: Summary of the content.
+      preview: bookmark
+  libraries:
+    - equity/highlight

@@ -1,0 +1,49 @@
+---
+connect:
+  title: 'HCPSS Connect'
+  description: 'Access your student’s information and classroom instructional tools.'
+  link:
+    label: 'Log in' 
+    uri: https://www.hcpss.org/connect/
+subscription:
+  title: 'Your HCPSS News Subscription'
+  description: 'Learn more about the email and text alerts included within your HCPSS News subscription.'
+  link:
+    label: 'Learn more' 
+    uri: https://www.hcpss.org/hcpss-news/   
+news:
+  title: 'District News'
+  description: "Read stories published by the district's dedicated news team."
+  link:
+    label: 'Stay informed' 
+    uri: https://news.hcpss.org/  
+culture:
+  title: 'School Culture'
+  description: 'HCPSS strives to create a positive and respectful learning environment for all students and staff.'
+  link:
+    label: 'Learn about our initiatives' 
+    uri: https://www.hcpss.org/inclusivity/ 
+safety:
+  title: 'Safety and Environment'
+  description: 'HCPSS facilities are maintained to the highest standards by dedicated staff.'
+  link:
+    label: 'See how we operate' 
+    uri: https://ieq.hcpss.org/
+about:
+  title: 'About HCPSS'
+  description: 'Learn more about our guiding principles and view a profile of our district.'
+  link:
+    label: 'Find out more' 
+    uri: https://www.hcpss.org/about-us/
+bus:
+  title: 'Bus Locator'
+  description: "Find your student's bus number and pickup time."
+  link:
+    label: 'Use our locator' 
+    uri: https://versatransweb06.tylertech.com/HowardCounty/elinkrp/Search.aspx
+new:
+  title: 'New to Howard County?'
+  description: 'Parents can enroll their child once they live in an HCPSS school attendance area.'
+  link:
+    label: 'Start the process' 
+    uri: https://www.hcpss.org/enroll/

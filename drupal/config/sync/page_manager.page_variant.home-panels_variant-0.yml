@@ -1,0 +1,68 @@
+uuid: bb040ef0-7306-4d3a-8658-e21a2d06c33b
+langcode: en
+status: true
+dependencies:
+  config:
+    - page_manager.page.home
+    - system.menu.essential-apps-resources
+    - views.view.important_news_upcoming_events
+    - views.view.photo_galleries
+  module:
+    - panels
+    - system
+    - views
+id: home-panels_variant-0
+label: Panels
+variant: panels_variant
+variant_settings:
+  blocks:
+    085721d3-6109-46a5-a85b-bf926418222e:
+      id: 'views_block:important_news_upcoming_events-block_1'
+      label: ''
+      provider: views
+      label_display: visible
+      views_label: ''
+      items_per_page: none
+      region: content
+      weight: -1
+      uuid: 085721d3-6109-46a5-a85b-bf926418222e
+      context_mapping: {  }
+    c45199b6-1cc8-4b62-98c1-2ba9909004ee:
+      id: 'views_block:photo_galleries-block_1'
+      label: ''
+      provider: views
+      label_display: visible
+      views_label: ''
+      items_per_page: none
+      region: content
+      weight: 1
+      uuid: c45199b6-1cc8-4b62-98c1-2ba9909004ee
+      context_mapping: {  }
+    b6d8e6ec-dbc5-416c-a210-b28576877e47:
+      id: 'system_menu_block:essential-apps-resources'
+      label: 'Essential Applications and Resources'
+      provider: system
+      label_display: visible
+      level: 1
+      depth: 0
+      expand_all_items: true
+      region: content
+      weight: 0
+      uuid: b6d8e6ec-dbc5-416c-a210-b28576877e47
+      context_mapping: {  }
+  id: panels_variant
+  uuid: 25c77df2-585d-489f-ac1a-2f8cca80e15c
+  label: null
+  weight: 0
+  layout: layout_onecol
+  layout_settings:
+    label: ''
+  page_title: ''
+  storage_type: page_manager
+  storage_id: home-panels_variant-0
+  builder: standard
+page: home
+weight: 0
+selection_criteria: {  }
+selection_logic: and
+static_context: {  }

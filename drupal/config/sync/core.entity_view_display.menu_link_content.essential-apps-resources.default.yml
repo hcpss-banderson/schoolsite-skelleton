@@ -12,12 +12,12 @@ mode: default
 content:
   children:
     weight: 1
+    region: content
     settings: {  }
     third_party_settings: {  }
-    region: content
   field_body:
     weight: 2
-    label: above
+    label: hidden
     settings: {  }
     third_party_settings: {  }
     type: basic_string

@@ -7,8 +7,15 @@ dependencies:
     - field.field.node.news.field_tags
     - node.type.news
   module:
+    - panelizer
     - text
     - user
+third_party_settings:
+  panelizer:
+    enable: false
+    custom: false
+    allow: false
+    default: default
 id: node.news.default
 targetEntityType: node
 bundle: news
@@ -16,22 +23,13 @@ mode: default
 content:
   body:
     label: hidden
-    type: text_default
-    weight: 101
-    settings: {  }
-    third_party_settings: {  }
-    region: content
-  field_tags:
-    weight: 102
-    label: above
+    type: text_summary_or_trimmed
+    weight: 0
     settings:
-      link: true
-    third_party_settings: {  }
-    type: entity_reference_label
-    region: content
-  links:
-    weight: 100
-    settings: {  }
+      trim_length: 250
     third_party_settings: {  }
     region: content
-hidden: {  }
+hidden:
+  extra_field_content_url_field: true
+  field_tags: true
+  links: true

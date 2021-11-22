@@ -23,6 +23,7 @@ module:
   editor: 0
   entity_reference_revisions: 0
   entityqueue: 0
+  extra_field: 0
   field: 0
   field_group: 0
   field_layout: 0
@@ -70,10 +71,13 @@ module:
   toolbar: 0
   tour: 0
   twig_field_value: 0
+  twig_tweak: 0
+  twig_vardumper: 0
   ui_patterns: 0
   ui_patterns_layout_builder: 0
   ui_patterns_layouts: 0
   ui_patterns_library: 0
+  ui_patterns_views: 0
   update: 0
   user: 0
   views_ui: 0

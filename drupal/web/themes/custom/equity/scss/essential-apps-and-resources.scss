@@ -1,0 +1,41 @@
+.menu--essential-apps-resources {
+  > .menu {
+    display: grid;
+    gap: 1em;
+    grid-template-columns: 1fr 1fr 1fr;
+    
+    > .menu-item {
+      padding-left: 4em;
+      position: relative;
+      
+      &:before {
+        position: absolute;
+        top: 0;
+        left: 10px;
+        margin-left: 0.25em;
+        font-size: 2em;
+        vertical-align: middle;
+        font-family: "Font Awesome 5 Free";
+        font-weight: 900;
+        content: "\f3c5";
+      }
+      
+      &:nth-child(1):before {
+        content: "\f35b";
+        color: #3472bf;
+      }
+      &:nth-child(2):before {
+        content: "\f447";
+        color: #19c3a1;
+      }
+      &:nth-child(3):before {
+        content: "\f11a";
+        color: #9cc249;
+      }
+      
+      .menu-level-1 > .menu-item {
+        margin: 1em 0;
+      }
+    }
+  }
+}

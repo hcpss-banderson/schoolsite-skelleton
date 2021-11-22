@@ -1,0 +1,38 @@
+@charset "UTF-8";
+.menu--essential-apps-resources > .menu {
+  display: grid;
+  gap: 1em;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.menu--essential-apps-resources > .menu > .menu-item {
+  padding-left: 4em;
+  position: relative;
+}
+.menu--essential-apps-resources > .menu > .menu-item:before {
+  position: absolute;
+  top: 0;
+  left: 10px;
+  margin-left: 0.25em;
+  font-size: 2em;
+  vertical-align: middle;
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "";
+}
+.menu--essential-apps-resources > .menu > .menu-item:nth-child(1):before {
+  content: "";
+  color: #3472bf;
+}
+.menu--essential-apps-resources > .menu > .menu-item:nth-child(2):before {
+  content: "";
+  color: #19c3a1;
+}
+.menu--essential-apps-resources > .menu > .menu-item:nth-child(3):before {
+  content: "";
+  color: #9cc249;
+}
+.menu--essential-apps-resources > .menu > .menu-item .menu-level-1 > .menu-item {
+  margin: 1em 0;
+}
+
+/*# sourceMappingURL=essential-apps-and-resources.css.map */

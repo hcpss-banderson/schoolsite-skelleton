@@ -2,3 +2,17 @@ global:
   css:
     theme:
       css/overrides.css: {}
+    component:
+      css/block.css: {}
+highlight:
+  css:
+    component:
+      css/highlight.css: {}
+highlight_collection:
+  css:
+    component:
+      css/highlight-collection.css: {}
+essential_apps_resources:
+  css:
+    component:
+      css/essential-apps-and-resources.css: {}

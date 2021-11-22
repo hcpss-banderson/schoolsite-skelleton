@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d61692b2b85c377021bb5ed08c70d80d",
+    "content-hash": "92c0ca9c0798313e6d436b052049b037",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -2002,16 +2002,16 @@
         },
         {
             "name": "drupal/core",
-            "version": "9.2.8",
+            "version": "9.2.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core.git",
-                "reference": "b40ae04a0a8a8a0952e77da7545de5ee8fa40757"
+                "reference": "2e2f015e881abccc32efcd264128e8a8444b2ec1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core/zipball/b40ae04a0a8a8a0952e77da7545de5ee8fa40757",
-                "reference": "b40ae04a0a8a8a0952e77da7545de5ee8fa40757",
+                "url": "https://api.github.com/repos/drupal/core/zipball/2e2f015e881abccc32efcd264128e8a8444b2ec1",
+                "reference": "2e2f015e881abccc32efcd264128e8a8444b2ec1",
                 "shasum": ""
             },
             "require": {
@@ -2250,13 +2250,13 @@
             ],
             "description": "Drupal is an open source content management platform powering millions of websites and applications.",
             "support": {
-                "source": "https://github.com/drupal/core/tree/9.2.8"
+                "source": "https://github.com/drupal/core/tree/9.2.9"
             },
-            "time": "2021-11-03T17:25:16+00:00"
+            "time": "2021-11-17T21:05:58+00:00"
         },
         {
             "name": "drupal/core-composer-scaffold",
-            "version": "9.2.8",
+            "version": "9.2.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-composer-scaffold.git",
@@ -2300,13 +2300,13 @@
                 "drupal"
             ],
             "support": {
-                "source": "https://github.com/drupal/core-composer-scaffold/tree/9.2.8"
+                "source": "https://github.com/drupal/core-composer-scaffold/tree/9.2.9"
             },
             "time": "2021-08-24T12:04:07+00:00"
         },
         {
             "name": "drupal/core-project-message",
-            "version": "9.2.8",
+            "version": "9.2.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-project-message.git",
@@ -2341,22 +2341,22 @@
                 "drupal"
             ],
             "support": {
-                "source": "https://github.com/drupal/core-project-message/tree/9.3.0-alpha1"
+                "source": "https://github.com/drupal/core-project-message/tree/9.3.0-beta1"
             },
             "time": "2020-09-14T13:40:36+00:00"
         },
         {
             "name": "drupal/core-recommended",
-            "version": "9.2.8",
+            "version": "9.2.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/drupal/core-recommended.git",
-                "reference": "c77ac58a8ef159065a7d28853e41f758a9cb057d"
+                "reference": "a052e6f47864bb6597e6f449b9cfdb1aa4eea400"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/drupal/core-recommended/zipball/c77ac58a8ef159065a7d28853e41f758a9cb057d",
-                "reference": "c77ac58a8ef159065a7d28853e41f758a9cb057d",
+                "url": "https://api.github.com/repos/drupal/core-recommended/zipball/a052e6f47864bb6597e6f449b9cfdb1aa4eea400",
+                "reference": "a052e6f47864bb6597e6f449b9cfdb1aa4eea400",
                 "shasum": ""
             },
             "require": {
@@ -2365,7 +2365,7 @@
                 "doctrine/annotations": "1.13.1",
                 "doctrine/lexer": "1.2.1",
                 "doctrine/reflection": "1.2.2",
-                "drupal/core": "9.2.8",
+                "drupal/core": "9.2.9",
                 "egulias/email-validator": "2.1.25",
                 "guzzlehttp/guzzle": "6.5.5",
                 "guzzlehttp/promises": "1.4.1",
@@ -2428,9 +2428,9 @@
             ],
             "description": "Locked core dependencies; require this project INSTEAD OF drupal/core.",
             "support": {
-                "source": "https://github.com/drupal/core-recommended/tree/9.2.8"
+                "source": "https://github.com/drupal/core-recommended/tree/9.2.9"
             },
-            "time": "2021-11-03T17:25:16+00:00"
+            "time": "2021-11-17T21:05:58+00:00"
         },
         {
             "name": "drupal/core_event_dispatcher",
@@ -2954,6 +2954,50 @@
                 "source": "http://cgit.drupalcode.org/entityqueue",
                 "issues": "https://www.drupal.org/project/issues/entityqueue",
                 "irc": "irc://irc.freenode.org/drupal-contribute"
+            }
+        },
+        {
+            "name": "drupal/extra_field",
+            "version": "2.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/extra_field.git",
+                "reference": "8.x-2.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/extra_field-8.x-2.1.zip",
+                "reference": "8.x-2.1",
+                "shasum": "c1acf24feff92efb5537003fabc66c4738cc1481"
+            },
+            "require": {
+                "drupal/core": "^8 || ^9"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "drupal": {
+                    "version": "8.x-2.1",
+                    "datestamp": "1619442008",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Sutharsan",
+                    "homepage": "https://www.drupal.org/user/73854"
+                }
+            ],
+            "description": "Provides a plugin type for extra fields that look like real fields, but do not store data.",
+            "homepage": "https://www.drupal.org/project/extra_field",
+            "support": {
+                "source": "https://git.drupalcode.org/project/extra_field"
             }
         },
         {
@@ -4110,6 +4154,114 @@
             "homepage": "https://www.drupal.org/project/twig_field_value",
             "support": {
                 "source": "https://git.drupalcode.org/project/twig_field_value"
+            }
+        },
+        {
+            "name": "drupal/twig_tweak",
+            "version": "3.1.3",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/twig_tweak.git",
+                "reference": "3.1.3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/twig_tweak-3.1.3.zip",
+                "reference": "3.1.3",
+                "shasum": "9f2f6813bf6d40faded73b0fd36e6c669565c7f7"
+            },
+            "require": {
+                "drupal/core": "^9.0",
+                "ext-json": "*",
+                "php": ">=7.3",
+                "symfony/polyfill-php80": "^1.17",
+                "twig/twig": "^2.12"
+            },
+            "suggest": {
+                "symfony/var-dumper": "Better dump() function for debugging Twig variables"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "drupal": {
+                    "version": "3.1.3",
+                    "datestamp": "1635338145",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "Chi",
+                    "homepage": "https://www.drupal.org/user/556138"
+                }
+            ],
+            "description": "A Twig extension with some useful functions and filters for Drupal development.",
+            "homepage": "https://www.drupal.org/project/twig_tweak",
+            "keywords": [
+                "Drupal",
+                "Twig"
+            ],
+            "support": {
+                "source": "https://git.drupalcode.org/project/twig_tweak",
+                "issues": "https://www.drupal.org/project/issues/twig_tweak"
+            }
+        },
+        {
+            "name": "drupal/twig_vardumper",
+            "version": "3.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/twig_vardumper.git",
+                "reference": "3.0.2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/twig_vardumper-3.0.2.zip",
+                "reference": "3.0.2",
+                "shasum": "fd9ecc9998c6da40406f77fd41eb4de21f1bccc5"
+            },
+            "require": {
+                "drupal/core": "^9",
+                "symfony/var-dumper": "~5"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "drupal": {
+                    "version": "3.0.2",
+                    "datestamp": "1591885117",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Ruben Egiguren a.k.a keopx",
+                    "homepage": "https://www.drupal.org/user/377362",
+                    "email": "keopx@keopx.net"
+                }
+            ],
+            "description": "Twig vardumper provides a better dump() and vardumper() function that can help you debug Twig variables.",
+            "homepage": "https://www.drupal.org/project/twig_vardumper",
+            "keywords": [
+                "Development",
+                "Drupal",
+                "Twig"
+            ],
+            "support": {
+                "source": "https://git.drupalcode.org/project/twig_vardumper",
+                "issues": "https://www.drupal.org/project/issues/twig_vardumper"
             }
         },
         {
@@ -7149,16 +7301,16 @@
         },
         {
             "name": "symfony/http-client",
-            "version": "v5.3.10",
+            "version": "v5.3.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/http-client.git",
-                "reference": "710b69ed4bc9469900ec5ae5c3807b0509bee0dc"
+                "reference": "3f55da60fc3c3d6e6a4144ee65a37d23a637107e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/http-client/zipball/710b69ed4bc9469900ec5ae5c3807b0509bee0dc",
-                "reference": "710b69ed4bc9469900ec5ae5c3807b0509bee0dc",
+                "url": "https://api.github.com/repos/symfony/http-client/zipball/3f55da60fc3c3d6e6a4144ee65a37d23a637107e",
+                "reference": "3f55da60fc3c3d6e6a4144ee65a37d23a637107e",
                 "shasum": ""
             },
             "require": {
@@ -7216,7 +7368,7 @@
             "description": "Provides powerful methods to fetch HTTP resources synchronously or asynchronously",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/http-client/tree/v5.3.10"
+                "source": "https://github.com/symfony/http-client/tree/v5.3.11"
             },
             "funding": [
                 {
@@ -7232,7 +7384,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-10-19T08:32:53+00:00"
+            "time": "2021-11-20T16:42:42+00:00"
         },
         {
             "name": "symfony/http-client-contracts",

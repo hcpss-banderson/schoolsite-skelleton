@@ -1,0 +1,20 @@
+.highlight-collection .item-list > ul {
+  @media (min-width: 768px) {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 0;
+    
+    > li {
+      border-top: 1px solid #dfdfdf;
+      border-left: 1px solid #dfdfdf;
+      &:nth-child(-n+3) {
+        border-top: none;
+      }
+      &:first-child,
+      &:nth-child(3n+1) {
+        border-left: none;
+      }
+      &:nth-child(3) .contextual { top: 33px; }
+    }
+  }
+}

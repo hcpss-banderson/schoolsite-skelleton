@@ -1,0 +1,10 @@
+{% if title %}
+  <h3>{{ title }}</h3>
+{% endif %}
+<div class="highlight-collection">
+  {% for index, item in items %}
+    <div class="highlight-item">
+      {{- item.content -}}
+    </div>
+  {% endfor %}
+</div>

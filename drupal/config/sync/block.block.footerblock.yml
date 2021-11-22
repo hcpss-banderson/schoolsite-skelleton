@@ -1,0 +1,20 @@
+uuid: a6b935b6-5798-44c9-b0ef-ef0146a1a394
+langcode: en
+status: true
+dependencies:
+  module:
+    - hcpss_school
+  theme:
+    - equity
+id: footerblock
+theme: equity
+region: footer
+weight: 0
+provider: null
+plugin: footer_block
+settings:
+  id: footer_block
+  label: 'Footer block'
+  provider: hcpss_school
+  label_display: '0'
+visibility: {  }

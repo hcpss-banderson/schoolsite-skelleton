@@ -1,0 +1,44 @@
+@charset "UTF-8";
+a.node--view-mode-highlight {
+  display: block;
+  padding: 2em;
+  color: rgba(51, 51, 51, 0.6);
+  background-color: white;
+  height: 100%;
+}
+a.node--view-mode-highlight:hover {
+  background-color: rgba(51, 51, 51, 0.05);
+}
+a.node--view-mode-highlight h4 {
+  color: #333333;
+  font-size: 1.3em;
+}
+a.node--view-mode-highlight h4:before {
+  font-family: "Font Awesome 5 Free";
+  content: "";
+  font-weight: 900;
+}
+a.node--view-mode-highlight.gallery {
+  background-image: var(--bg-image);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+a.node--view-mode-highlight.gallery .inner-highlight {
+  text-align: center;
+  color: white;
+  padding: 2em;
+  margin-bottom: 3em;
+  background-color: rgba(51, 51, 51, 0.7);
+}
+a.node--view-mode-highlight.gallery .inner-highlight h4 {
+  color: white;
+  font-weight: 900;
+}
+a.node--view-mode-highlight.gallery .inner-highlight h4:before {
+  content: "";
+  display: block;
+  font-size: 2em;
+}
+
+/*# sourceMappingURL=highlight.css.map */
