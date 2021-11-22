@@ -215,8 +215,6 @@ class FooterBlock extends BlockBase {
     $build['container']['resources'] += $this->buildAddress();
     $build['container']['footer']    = $this->buildFooter();
     
-    dpm($build);
-    
     return $build;
   }
 }

@@ -6,10 +6,10 @@ base theme: drulma
 core_version_requirement: ^8.8 || ^9
 
 regions:
-  primary_menu: 'Navbar'
   header: 'Hero Header'
   title: 'Hero body (title)'
   secondary_menu: 'Hero footer (tabs)'
+  primary_menu: 'Navbar'
   breadcrumb: 'Breadcrumb'
   highlighted: 'Highlighted'
   help: 'Help'
