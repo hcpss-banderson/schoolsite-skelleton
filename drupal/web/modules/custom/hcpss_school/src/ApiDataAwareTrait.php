@@ -4,7 +4,7 @@ namespace Drupal\hcpss_school;
 
 use Drupal\Component\Serialization\Json;
 
-trait ApiDataAware {
+trait ApiDataAwareTrait {
   
   /**
    * @var array

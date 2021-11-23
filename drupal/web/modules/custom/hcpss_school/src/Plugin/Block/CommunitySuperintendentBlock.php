@@ -3,7 +3,7 @@
 namespace Drupal\hcpss_school\Plugin\Block;
 
 use Drupal\Core\Block\BlockBase;
-use Drupal\hcpss_school\ApiDataAware;
+use Drupal\hcpss_school\ApiDataAwareTrait;
 use Drupal\Core\Cache\Cache;
 
 /**
@@ -17,7 +17,7 @@ use Drupal\Core\Cache\Cache;
  */
 class CommunitySuperintendentBlock extends BlockBase {
   
-  use ApiDataAware;
+  use ApiDataAwareTrait;
   
   public function build() {
     $build = [];
@@ -35,7 +35,7 @@ class CommunitySuperintendentBlock extends BlockBase {
     $data = self::getData();
     
     $build[] = [
-      '#markup' => vsprintf('<p>Community Superintendent Area %d: %s</p>', [
+      '#markup' => vsprintf('<p><strong>Community Superintendent Area %d</strong>: %s</p>', [
         $data['administrative_cluster']['cluster'],
         $data['administrative_cluster']['community_superintendent']['name'],
       ]),

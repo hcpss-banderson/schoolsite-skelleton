@@ -7,7 +7,7 @@ use Drupal\Component\Serialization\Yaml;
 use Drupal\Component\Serialization\Json;
 use Drupal\Core\Url;
 use Drupal\Core\Cache\Cache;
-use Drupal\hcpss_school\ApiDataAware;
+use Drupal\hcpss_school\ApiDataAwareTrait;
 
 /**
  * Provides a Footer Block.
@@ -20,7 +20,7 @@ use Drupal\hcpss_school\ApiDataAware;
  */
 class FooterBlock extends BlockBase {
   
-  use ApiDataAware;
+  use ApiDataAwareTrait;
   
   /**
    * Build the static resources.
