@@ -1,0 +1,36 @@
+---
+form:
+  title: Athletic Participation Form
+  url: http://www.hcpss.org/f/athletics/athletic-participation-form.pdf
+  description: >
+    Student athletic policy agreement form for new student athletes.
+concussion_testing:
+  title: Sports Concussion Testing Program and Release of Information
+  url: http://www.hcpss.org/f/athletics/concussion-release-info.pdf
+  description: >
+    Agreement for families that acknowledge HCPSS may administer pre-concussion 
+    baseline testing and post-concussion testing after a sports-related injury.
+concussion_info:
+  title: HCPSS Athletics Concussion Information Sheet
+  url: http://www.hcpss.org/f/athletics/concussion-info-sheet.pdf
+  description: >
+    Overview of concussion signs and symptoms that can occur in student 
+    athletes.
+physical_evaluation_form:
+  title: Pre-participation Physical Evaluation Form
+  url: http://www.hcpss.org/f/athletics/preparticipation-physical-form.pdf
+  description: > 
+    Physician forms for future student athletes to fill out prior to sport 
+    seasons.
+medical_proceture_info:
+  title: Medication Procedure Information
+  url: http://www.hcpss.org/f/aboutus/physician-medication-form.pdf
+  description: >
+    Protocols for administration of student medication during school hours along 
+    with a medication administration history form for physicians.
+cardiac_arrest:
+  title: Sudden Cardiac Arrest Information
+  url: http://www.hcpss.org/f/athletics/sudden-cardiac-arrest.pdf
+  description: >
+    Acknowledgement statement and guidelines for identifying and responding to a 
+    cardiac arrest scenario.
