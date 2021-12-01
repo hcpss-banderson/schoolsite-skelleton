@@ -171,8 +171,6 @@ class HcpssContentScraperCommands extends DrushCommands {
     foreach ($rows as $row) {
       list($start, $end) = $this->normalizeDate(strip_tags($row['event-date']));
       
-      echo "\n".htmlspecialchars_decode($row['title'])."\n";
-      
       Node::create([
         'type' => 'event',
         'uid' => 1,
@@ -219,8 +217,7 @@ class HcpssContentScraperCommands extends DrushCommands {
         break;
     }
     
-    $parts = explode(' ', $date);
-    
+    $parts = explode(' ', $date);    
     if (count($parts) < 11) {
       // Start date and end date are the same.
       $start_date = implode(' ', [$parts[0], $parts[1], $parts[2], $parts[3]]);
@@ -234,6 +231,7 @@ class HcpssContentScraperCommands extends DrushCommands {
       }
       $parts[5] .= " {$start_date}";
     }
+    $date = implode(' ', $parts);
     
     // Now we know we have a date string formatted like this: 
     // "Wed, 20 Apr 2022 08:00 to Mon, 25 Apr 2022 08:30".
@@ -243,7 +241,7 @@ class HcpssContentScraperCommands extends DrushCommands {
       $date_time = \DateTimeImmutable::createFromFormat($format, $value, $tz);
       
       return $date_time->getTimestamp();
-    }, explode(' to ', implode(' ', $parts)));
+    }, explode(' to ', $date));
   }
   
   /**
