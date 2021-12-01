@@ -8,19 +8,25 @@ use Symfony\Component\DomCrawler\Crawler;
 class ScraperService {
   
   /**
-   * @var string
-   */
-  private $url;
-  
-  /**
    * @var Crawler
    */
   private $crawler;
   
-  public function __construct(string $url) {
-    $this->url = $url;
+  public function __construct(Crawler $crawler) {    
+    $this->crawler = $crawler;
+  }
+  
+  /**
+   * Create a scraper service from a URL.
+   * 
+   * @param string $url
+   * @return self
+   */
+  public static function createFromUrl(string $url): self {
     $client = new Client();
-    $this->crawler = $client->request('GET', $this->url);
+    $scraperService = new self($client->request('GET', $url));
+    
+    return $scraperService;
   }
   
   /**
@@ -30,7 +36,9 @@ class ScraperService {
    * @return array
    */
   public static function scrape(string $url): array {
-    $scraper = new self($url);
+    $client = new Client();
+    $scraper = new self($client->request('GET', $url));
+    
     return $scraper->scrapeExport();
   }
   
@@ -41,6 +49,20 @@ class ScraperService {
    */
   public function crawl(): Crawler {
     return $this->crawler;
+  }
+  
+  /**
+   * Extract text from crawler without worrying about "empty node list" error.
+   * 
+   * @param string $selector
+   * @return string|NULL
+   */
+  public function safeText(string $selector): ?string {
+    if ($this->crawler->filter($selector)->count() == 0) {
+      return NULL;
+    }
+    
+    return $this->crawler->filter($selector)->text();
   }
   
   /**

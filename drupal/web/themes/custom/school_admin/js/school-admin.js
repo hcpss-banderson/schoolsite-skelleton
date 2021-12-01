@@ -13,7 +13,7 @@
   Drupal.behaviors.schoolAdmin = {
     attach: function (context, settings) {
 
-      console.log('It works!');
+      //console.log('It works!');
 
     }
   };

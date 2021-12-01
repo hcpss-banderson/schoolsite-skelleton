@@ -1,0 +1,29 @@
+uuid: 9eed6b44-5fae-4976-9791-71ced8fb4eb7
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_resource
+    - fragments.fragment_type.resource
+    - paragraphs.paragraphs_type.resource
+id: paragraph.resource.field_resource
+field_name: field_resource
+entity_type: paragraph
+bundle: resource
+label: Resource
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:fragment'
+  handler_settings:
+    target_bundles:
+      resource: resource
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+field_type: entity_reference

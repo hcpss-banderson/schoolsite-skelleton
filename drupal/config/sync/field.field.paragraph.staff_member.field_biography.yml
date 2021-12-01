@@ -1,0 +1,21 @@
+uuid: c83cba19-3238-43bb-b3b9-a315266881bf
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_biography
+    - paragraphs.paragraphs_type.staff_member
+  module:
+    - text
+id: paragraph.staff_member.field_biography
+field_name: field_biography
+entity_type: paragraph
+bundle: staff_member
+label: Biography
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: text_long

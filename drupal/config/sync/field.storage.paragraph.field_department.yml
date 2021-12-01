@@ -1,0 +1,20 @@
+uuid: 62954bec-cbce-4ede-8075-1d298015b5a5
+langcode: en
+status: true
+dependencies:
+  module:
+    - fragments
+    - paragraphs
+id: paragraph.field_department
+field_name: field_department
+entity_type: paragraph
+type: entity_reference
+settings:
+  target_type: fragment
+module: core
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

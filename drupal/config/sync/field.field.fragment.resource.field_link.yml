@@ -1,0 +1,23 @@
+uuid: 5a75ca33-9acb-4991-bf5c-0278badc9dd0
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.fragment.field_link
+    - fragments.fragment_type.resource
+  module:
+    - link
+id: fragment.resource.field_link
+field_name: field_link
+entity_type: fragment
+bundle: resource
+label: Link
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  link_type: 17
+  title: 2
+field_type: link

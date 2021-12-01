@@ -1,0 +1,51 @@
+uuid: 3469d0d0-7c3b-4817-aabc-a490f2a8d540
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.fragment.resource.field_description
+    - field.field.fragment.resource.field_link
+    - fragments.fragment_type.resource
+  module:
+    - link
+    - user
+id: fragment.resource.default
+targetEntityType: fragment
+bundle: resource
+mode: default
+content:
+  field_description:
+    weight: 2
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: basic_string
+    region: content
+  field_link:
+    weight: 1
+    label: above
+    settings:
+      trim_length: 80
+      url_only: false
+      url_plain: false
+      rel: ''
+      target: ''
+    third_party_settings: {  }
+    type: link
+    region: content
+  title:
+    label: above
+    type: string
+    weight: -4
+    region: content
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+  user_id:
+    label: hidden
+    type: author
+    weight: 0
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden: {  }

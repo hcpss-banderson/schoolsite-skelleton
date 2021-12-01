@@ -1,0 +1,33 @@
+uuid: 97fb8cae-92d7-46a0-8cd9-98a1eeb88b7e
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.department.field_department
+    - paragraphs.paragraphs_type.department
+  module:
+    - field_layout
+    - layout_discovery
+third_party_settings:
+  field_layout:
+    id: layout_onecol
+    settings:
+      label: ''
+id: paragraph.department.default
+targetEntityType: paragraph
+bundle: department
+mode: default
+content:
+  field_department:
+    weight: 0
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: entity_reference_autocomplete
+    region: content
+hidden:
+  created: true
+  status: true

@@ -1,0 +1,33 @@
+uuid: 0dae292e-df23-4bd1-bff6-9d2352ffd915
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.resource.field_resource
+    - paragraphs.paragraphs_type.resource
+  module:
+    - field_layout
+    - layout_discovery
+third_party_settings:
+  field_layout:
+    id: layout_onecol
+    settings:
+      label: ''
+id: paragraph.resource.default
+targetEntityType: paragraph
+bundle: resource
+mode: default
+content:
+  field_resource:
+    weight: 0
+    settings:
+      match_operator: CONTAINS
+      match_limit: 10
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+    type: entity_reference_autocomplete
+    region: content
+hidden:
+  created: true
+  status: true

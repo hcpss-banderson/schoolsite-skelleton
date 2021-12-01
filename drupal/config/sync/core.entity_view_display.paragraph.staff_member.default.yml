@@ -3,16 +3,20 @@ langcode: en
 status: true
 dependencies:
   config:
+    - field.field.paragraph.staff_member.field_biography
     - field.field.paragraph.staff_member.field_email
     - field.field.paragraph.staff_member.field_job_title
     - field.field.paragraph.staff_member.field_name
+    - field.field.paragraph.staff_member.field_picture
     - field.field.paragraph.staff_member.field_website
     - paragraphs.paragraphs_type.staff_member
   module:
     - field_layout
+    - image
     - layout_builder
     - layout_discovery
     - link
+    - text
 third_party_settings:
   field_layout:
     id: layout_onecol
@@ -94,12 +98,51 @@ third_party_settings:
                 type: link
             additional: {  }
             weight: 3
+          a818563f-f47d-4521-8f34-b5c70e8e9562:
+            uuid: a818563f-f47d-4521-8f34-b5c70e8e9562
+            region: content
+            configuration:
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              id: 'field_block:paragraph:staff_member:field_picture'
+              formatter:
+                label: above
+                settings:
+                  image_style: ''
+                  image_link: ''
+                third_party_settings: {  }
+                type: image
+            additional: {  }
+            weight: 4
+          db0b91ff-ca03-4ddb-8c13-d2d128f713c3:
+            uuid: db0b91ff-ca03-4ddb-8c13-d2d128f713c3
+            region: content
+            configuration:
+              label_display: '0'
+              context_mapping:
+                entity: layout_builder.entity
+              id: 'field_block:paragraph:staff_member:field_biography'
+              formatter:
+                label: above
+                settings: {  }
+                third_party_settings: {  }
+                type: text_default
+            additional: {  }
+            weight: 5
         third_party_settings: {  }
 id: paragraph.staff_member.default
 targetEntityType: paragraph
 bundle: staff_member
 mode: default
 content:
+  field_biography:
+    weight: 5
+    label: above
+    settings: {  }
+    third_party_settings: {  }
+    type: text_default
+    region: content
   field_email:
     weight: 2
     label: above
@@ -122,6 +165,15 @@ content:
       link_to_entity: false
     third_party_settings: {  }
     type: string
+    region: content
+  field_picture:
+    weight: 4
+    label: above
+    settings:
+      image_style: ''
+      image_link: ''
+    third_party_settings: {  }
+    type: image
     region: content
   field_website:
     weight: 3

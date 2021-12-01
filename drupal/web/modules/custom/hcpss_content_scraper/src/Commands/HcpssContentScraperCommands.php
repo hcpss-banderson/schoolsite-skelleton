@@ -11,6 +11,8 @@ use Drupal\menu_link_content\Entity\MenuLinkContent;
 use Drupal\Core\Url;
 use Drupal\menu_item_extras\Entity\MenuItemExtrasMenuLinkContentInterface;
 use Drupal\node\NodeInterface;
+use Drupal\paragraphs\Entity\Paragraph;
+use Drupal\fragments\Entity\Fragment;
 
 /**
  * A Drush commandfile.
@@ -150,6 +152,72 @@ class HcpssContentScraperCommands extends DrushCommands {
     $scraper->crawl()->filter($selector)->each(function (Crawler $level) use ($acronym) {
       $this->handleMenuItem($level, $acronym);
     });
+  }
+  
+  /**
+   * Create the syaff list page.
+   *
+   * @param $acronym
+   *   string Argument description.
+   * @usage hcpss_content_scraper:scrape-departments chs
+   *   Scrape the events on the CHS site.
+   *
+   * @command hcpss_content_scraper:scrape-departments
+   */
+  public function createDepartments($acronym) {
+    $this->deleteAll('fragment', ['type' => 'department']);
+    
+    $num_departments = $num_members = 0;
+    
+    $url = "https://{$acronym}.hcpss.org/content-export/department";
+    $rows = ScraperService::scrape($url);
+    foreach ($rows as $row) {
+      $department_url = "https://{$acronym}.hcpss.org{$row['path']}";
+      $scraper = ScraperService::createFromUrl($department_url);
+      
+      $paragraphs = [];
+      $selector = '.field-name-field-department-staff';
+      
+      if ($scraper->crawl()->filter($selector)->count()) {
+        $scraper->crawl()->filter($selector)->each(function (Crawler $div) use (&$paragraphs) {
+          $row = new ScraperService($div);
+          
+          $fname = $row->safeText('.field-name-field-staff-first-name');
+          $lname = $row->safeText('.field-name-field-staff-last-name');
+          $job   = $row->safeText('.field-name-field-staff-job-title');
+          $email = $row->safeText('.field-name-field-staff-email');
+          
+          $paragraph = Paragraph::create([
+            'type' => 'staff_member',
+            'field_name' => "$fname $lname",
+            'field_job_title' => $job,
+            'field_email' => $email,  
+          ]);
+          
+          if ($div->filter('.field-name-field-staff-website a')->count()) {
+            $href = $div->filter('.field-name-field-staff-website a')->attr('href');
+            $paragraph->field_link[] = ['title' => 'Website', 'uri' => $href];
+          }
+          
+          $paragraph->save();        
+          $paragraphs[] = $paragraph;
+        });
+      }
+      
+      Fragment::create([
+        'type' => 'department',
+        'uid' => 1,
+        'title' => $scraper->crawl()->filter('.node h2')->text(),
+        'field_staff_members' => $paragraphs,
+      ])->save();
+      
+      $num_departments++;
+      $num_members += count($paragraphs);
+    }
+    
+    $this->logger()->success(dt(
+      $num_departments . ' departments and ' . $num_members . ' staff members created.'
+    ));
   }
   
   /**

@@ -4,9 +4,11 @@ status: true
 dependencies:
   config:
     - core.entity_view_mode.paragraph.abbreviated
+    - field.field.paragraph.staff_member.field_biography
     - field.field.paragraph.staff_member.field_email
     - field.field.paragraph.staff_member.field_job_title
     - field.field.paragraph.staff_member.field_name
+    - field.field.paragraph.staff_member.field_picture
     - field.field.paragraph.staff_member.field_website
     - paragraphs.paragraphs_type.staff_member
   module:
@@ -150,4 +152,6 @@ content:
     third_party_settings: {  }
     type: link
     region: content
-hidden: {  }
+hidden:
+  field_biography: true
+  field_picture: true

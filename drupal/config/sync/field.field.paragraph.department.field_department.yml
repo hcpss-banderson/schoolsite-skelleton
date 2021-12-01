@@ -1,0 +1,29 @@
+uuid: 770c18a7-74c0-46a5-8816-e93320f8c24a
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.paragraph.field_department
+    - fragments.fragment_type.department
+    - paragraphs.paragraphs_type.department
+id: paragraph.department.field_department
+field_name: field_department
+entity_type: paragraph
+bundle: department
+label: Department
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings:
+  handler: 'default:fragment'
+  handler_settings:
+    target_bundles:
+      department: department
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: true
+    auto_create_bundle: ''
+field_type: entity_reference

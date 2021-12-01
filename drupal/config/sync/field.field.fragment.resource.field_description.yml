@@ -1,0 +1,19 @@
+uuid: 669e093b-ab12-4e85-9eed-8fdd53b20f4b
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.fragment.field_description
+    - fragments.fragment_type.resource
+id: fragment.resource.field_description
+field_name: field_description
+entity_type: fragment
+bundle: resource
+label: Description
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string_long

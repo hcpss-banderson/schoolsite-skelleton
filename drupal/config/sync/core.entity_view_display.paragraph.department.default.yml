@@ -1,0 +1,22 @@
+uuid: ceab6f2d-e595-4962-ba4d-ad94b5a43182
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.paragraph.department.field_department
+    - paragraphs.paragraphs_type.department
+id: paragraph.department.default
+targetEntityType: paragraph
+bundle: department
+mode: default
+content:
+  field_department:
+    weight: 0
+    label: hidden
+    settings:
+      link: true
+      view_mode: default
+    third_party_settings: {  }
+    type: entity_reference_entity_view
+    region: content
+hidden: {  }

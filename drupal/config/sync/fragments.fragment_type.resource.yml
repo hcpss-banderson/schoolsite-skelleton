@@ -1,0 +1,7 @@
+uuid: 83b5d324-c940-44bc-9984-30d59b37b0a8
+langcode: en
+status: true
+dependencies: {  }
+id: resource
+label: Resource
+description: 'A link and description.'

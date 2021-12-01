@@ -1,0 +1,12 @@
+uuid: 5c025c39-0fa2-41b2-88fa-da79e9a7ba9f
+langcode: en
+status: true
+dependencies:
+  content:
+    - 'file:file:40971a40-9943-484b-b47a-ba51b1488d43'
+id: rich_text
+label: 'Rich Text'
+icon_uuid: 40971a40-9943-484b-b47a-ba51b1488d43
+icon_default: 'data:image/svg+xml;base64,PHN2ZyBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSIgZGF0YS1wcmVmaXg9ImZhcyIgZGF0YS1pY29uPSJwYXJhZ3JhcGgiIGNsYXNzPSJzdmctaW5saW5lLS1mYSBmYS1wYXJhZ3JhcGggZmEtdy0xNCIgcm9sZT0iaW1nIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48cGF0aCBmaWxsPSJjdXJyZW50Q29sb3IiIGQ9Ik00NDggNDh2MzJhMTYgMTYgMCAwIDEtMTYgMTZoLTQ4djM2OGExNiAxNiAwIDAgMS0xNiAxNmgtMzJhMTYgMTYgMCAwIDEtMTYtMTZWOTZoLTMydjM2OGExNiAxNiAwIDAgMS0xNiAxNmgtMzJhMTYgMTYgMCAwIDEtMTYtMTZWMzUyaC0zMmExNjAgMTYwIDAgMCAxIDAtMzIwaDI0MGExNiAxNiAwIDAgMSAxNiAxNnoiPjwvcGF0aD48L3N2Zz4='
+description: ''
+behavior_plugins: {  }

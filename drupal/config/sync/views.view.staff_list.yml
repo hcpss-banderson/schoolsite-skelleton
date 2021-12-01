@@ -1,6 +1,6 @@
 uuid: 0b19ef50-4409-4bec-b81d-25ec09af4253
 langcode: en
-status: true
+status: false
 dependencies:
   config:
     - entityqueue.entity_queue.staff_list
