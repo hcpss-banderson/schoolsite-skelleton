@@ -1,0 +1,11 @@
+{
+    "name": "org/hcpss_content_scraper",
+    "type": "drupal-drush",
+    "extra": {
+        "drush": {
+            "services": {
+                "drush.services.yml": "^10"
+            }
+        }
+    }
+}

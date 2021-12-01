@@ -1,0 +1,43 @@
+uuid: 4d6c6875-fef1-407b-b25c-46d92a1956f6
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.event.body
+    - field.field.node.event.field_when
+    - node.type.event
+  module:
+    - smart_date
+    - text
+    - user
+_core:
+  default_config_hash: ppIsOjQ5tKp_SD6BztnDSr18eW9MqwFx1xjOcNUIWyI
+id: node.event.default
+targetEntityType: node
+bundle: event
+mode: default
+content:
+  body:
+    label: hidden
+    type: text_default
+    weight: 2
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+  field_when:
+    weight: 1
+    label: above
+    settings:
+      timezone_override: ''
+      format: default
+      force_chronological: false
+      format_type: medium
+    third_party_settings: {  }
+    type: smartdate_default
+    region: content
+  links:
+    weight: 0
+    region: content
+    settings: {  }
+    third_party_settings: {  }
+hidden: {  }

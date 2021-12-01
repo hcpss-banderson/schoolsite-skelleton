@@ -1,0 +1,7 @@
+hcpss_ieq.home:
+  path: '/environment'
+  defaults:
+    _title: 'Indoor Environmental Quality'
+    _controller: '\Drupal\hcpss_ieq\Controller\IeqController::build'
+  requirements:
+    _permission: 'access content'

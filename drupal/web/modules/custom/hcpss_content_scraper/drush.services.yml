@@ -1,0 +1,5 @@
+services:
+  hcpss_content_scraper.commands:
+    class: \Drupal\hcpss_content_scraper\Commands\HcpssContentScraperCommands
+    tags:
+      - { name: drush.command }

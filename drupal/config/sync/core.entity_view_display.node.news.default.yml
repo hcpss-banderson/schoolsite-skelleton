@@ -24,12 +24,19 @@ content:
   body:
     label: hidden
     type: text_summary_or_trimmed
-    weight: 0
+    weight: 1
     settings:
       trim_length: 250
     third_party_settings: {  }
     region: content
+  field_tags:
+    type: entity_reference_label
+    weight: 0
+    region: content
+    label: above
+    settings:
+      link: true
+    third_party_settings: {  }
 hidden:
   extra_field_content_url_field: true
-  field_tags: true
   links: true
