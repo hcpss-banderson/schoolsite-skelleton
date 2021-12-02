@@ -13,6 +13,11 @@ use Drupal\menu_item_extras\Entity\MenuItemExtrasMenuLinkContentInterface;
 use Drupal\node\NodeInterface;
 use Drupal\paragraphs\Entity\Paragraph;
 use Drupal\fragments\Entity\Fragment;
+use Drupal\hcpss_content_scraper\Scraper\DepartmentsScraper;
+use Drupal\hcpss_content_scraper\Scraper\EventsScraper;
+use Drupal\hcpss_content_scraper\Scraper\PagesScraper;
+use Drupal\hcpss_content_scraper\Scraper\NewsScraper;
+use Drupal\hcpss_content_scraper\Scraper\PhotoGalleryScraper;
 
 /**
  * A Drush commandfile.
@@ -40,121 +45,6 @@ class HcpssContentScraperCommands extends DrushCommands {
   }
   
   /**
-   * Create a page from the URL.
-   * 
-   * @param string $url
-   * @return NodeInterface|NULL
-   */
-  private function createPage(string $alias, string $acronym): ?NodeInterface {
-    $scraper = new ScraperService("https://{$acronym}.hcpss.org{$alias}");
-    
-    $panes = $scraper->crawl()->filter('.panel-pane');
-    if ($panes->count()) {
-      $html = '';
-      $panes->each(function (Crawler $pane) use ($html) {
-        $classes = explode(' ', $pane->attr('class'));
-        if (in_array('pane-node', $classes)) {
-          if ($title = $pane->filter('.pane-title')) {
-            $html .= '<h2>' . $title->text() . '</h2>';
-          }
-          
-          if ($content = $pane->filter('.content')) {
-            $html .= $content->html();  
-          }
-        } else if (in_array('pane-custom', $classes)) {
-          if ($content = $pane->filter('.pane-content')) {
-            $html .= $content->html();
-          }
-        }
-      });
-      
-      $node = Node::create([
-        'type' => 'page',
-        'uid' => 1,
-        'title' => $scraper->filter('h1')->text(),
-        'body' => ['format' => 'basic_html', 'value' => $html],
-        'path' => ['alias' => $row['path']],
-      ]);
-      
-      $node->save();
-      return $node;
-    }
-    
-    return NULL;
-  }
-  
-  private function handleMenuItem(Crawler $level, string $acronym, MenuItemExtrasMenuLinkContentInterface $parent = NULL) {
-    $a = $level->filter('& > a');
-    $label = $a->text();
-    $href = $a->attr('href');
-    
-    if (strpos($href, '/') === 0) {
-      $params = Url::fromUserInput($href)->getRouteParameters();
-      $entity_type = key($params);
-      $node = \Drupal::entityTypeManager()
-        ->getStorage($entity_type)
-        ->load($params[$entity_type]);
-      
-      if (!$node) {
-        $node = $this->createPage("https://{$acronym}.hcpss.org{$href}");  
-      }
-
-      if ($node) {
-        $link = MenuLinkContent::create([
-          'title' => $label,
-          'link' => ['uri' => 'entity:node/' . $node->id()],
-          'menu_name' => 'main',
-          'weight' => 0,
-        ]);
-        
-        if ($parent) {
-          $link->parent = $parent;
-        }
-      }
-
-      
-      
-      $path = \Drupal::service('path.alias_manager')->getPathByAlias($href);
-      
-      if(preg_match('/node\/(\d+)/', $path, $matches)) {
-        $node = \Drupal\node\Entity\Node::load($matches[1]);
-      }
-      
-      
-      
-      // Internal page.
-      $scraper = new ScraperService("https://{$acronym}.hcpss.org{$href}");
-      
-    } else {
-      // External page.
-      MenuLinkContent::create([
-        'title' => $label,
-        'link' => ['uri' => $href],
-        'menu_name' => 'main',
-        'weight' => 0,
-      ]);
-    }
-  }
-  
-  /**
-   * Command to scrape the main menu.
-   * 
-   * @param string $acronym
-   * @usage hcpss_content_scraper:scrape-menu chs
-   *   Scrape the menu from the CHS site.
-   *
-   * @command hcpss_content_scraper:scrape-menu
-   */
-  public function scrapeMenu($acronym) {
-    $url = "https://{$acronym}.hcpss.org";
-    $scraper = new ScraperService($url);
-    $selector = '.centered-navigation nav > ul > li';
-    $scraper->crawl()->filter($selector)->each(function (Crawler $level) use ($acronym) {
-      $this->handleMenuItem($level, $acronym);
-    });
-  }
-  
-  /**
    * Create the syaff list page.
    *
    * @param $acronym
@@ -167,61 +57,17 @@ class HcpssContentScraperCommands extends DrushCommands {
   public function createDepartments($acronym) {
     $this->deleteAll('fragment', ['type' => 'department']);
     
-    $num_departments = $num_members = 0;
+    $scraper = new DepartmentsScraper($acronym);
+    $result = $scraper->scrape();
     
-    $url = "https://{$acronym}.hcpss.org/content-export/department";
-    $rows = ScraperService::scrape($url);
-    foreach ($rows as $row) {
-      $department_url = "https://{$acronym}.hcpss.org{$row['path']}";
-      $scraper = ScraperService::createFromUrl($department_url);
-      
-      $paragraphs = [];
-      $selector = '.field-name-field-department-staff';
-      
-      if ($scraper->crawl()->filter($selector)->count()) {
-        $scraper->crawl()->filter($selector)->each(function (Crawler $div) use (&$paragraphs) {
-          $row = new ScraperService($div);
-          
-          $fname = $row->safeText('.field-name-field-staff-first-name');
-          $lname = $row->safeText('.field-name-field-staff-last-name');
-          $job   = $row->safeText('.field-name-field-staff-job-title');
-          $email = $row->safeText('.field-name-field-staff-email');
-          
-          $paragraph = Paragraph::create([
-            'type' => 'staff_member',
-            'field_name' => "$fname $lname",
-            'field_job_title' => $job,
-            'field_email' => $email,  
-          ]);
-          
-          if ($div->filter('.field-name-field-staff-website a')->count()) {
-            $href = $div->filter('.field-name-field-staff-website a')->attr('href');
-            $paragraph->field_link[] = ['title' => 'Website', 'uri' => $href];
-          }
-          
-          $paragraph->save();        
-          $paragraphs[] = $paragraph;
-        });
-      }
-      
-      Fragment::create([
-        'type' => 'department',
-        'uid' => 1,
-        'title' => $scraper->crawl()->filter('.node h2')->text(),
-        'field_staff_members' => $paragraphs,
-      ])->save();
-      
-      $num_departments++;
-      $num_members += count($paragraphs);
-    }
-    
-    $this->logger()->success(dt(
-      $num_departments . ' departments and ' . $num_members . ' staff members created.'
-    ));
+    $this->logger()->success(vsprintf('%d departments and %d staff members created', [
+      $result['fragment']['department'],
+      $result['paragraph']['staff_member'],
+    ]));
   }
   
   /**
-   * Command description here.
+   * Scrape events
    *
    * @param $acronym
    *   string Argument description.
@@ -233,106 +79,14 @@ class HcpssContentScraperCommands extends DrushCommands {
   public function scrapeEvents($acronym) {
     $this->deleteAll('node', ['type' => 'event']);
     
-    $url = "https://{$acronym}.hcpss.org/content-export/event";
-    $rows = ScraperService::scrape($url);
-    $num_created = 0;
-    foreach ($rows as $row) {
-      list($start, $end) = $this->normalizeDate(strip_tags($row['event-date']));
-      
-      Node::create([
-        'type' => 'event',
-        'uid' => 1,
-        'title' => htmlspecialchars_decode($row['title']),
-        'body' => [
-          'value' => $row['description'],
-          'format' => 'basic_html',
-        ],
-        'field_when' => $this->convertDateToWhen($start, $end),
-        'created' => $row['created'],
-      ])->save();
-      $num_created++;
-    }
+    $scraper = new EventsScraper($acronym);
+    $result  = $scraper->scrape();
     
-    $this->logger()->success(dt($num_created . ' events created.'));
+    $this->logger()->success($result['node']['event'] . ' events created.');
   }
   
   /**
-   * Convert a date time string into a pair of timestamps for the start time
-   * and the end time.
-   * 
-   * @param string $date
-   *  A string in format: 
-   *  "Tue, 31 Jan 2017 07:00 EST"
-   *  "Wed, 27 Apr 2022 (All day)" 
-   *  "Wed, 10 Nov 2021 07:30 to 14:00 EST"
-   *  "Wed, 20 Apr 2022 08:00 EDT to Mon, 25 Apr 2022 08:30 EDT"
-   * @return int[]
-   *   The pair of timestamps, start and end.
-   */
-  private function normalizeDate(string $date): array {    
-    $date  = str_replace([' EDT', ' EST'], '', $date);
-        
-    $num_all_days = substr_count($date, '(All day)');
-    switch ($num_all_days) {
-      case 1:
-        $date = str_replace('(All day)', '00:00 to 23:59', $date);
-        break;
-      case 2:
-        $index1 = strpos($date, '(All day)');
-        $date = substr_replace($date, '00:00', $index1, 9);
-        $index2 = strpos($date, '(All day)');
-        $date = substr_replace($date, '23:59', $index2, 9);
-        break;
-    }
-    
-    $parts = explode(' ', $date);    
-    if (count($parts) < 11) {
-      // Start date and end date are the same.
-      $start_date = implode(' ', [$parts[0], $parts[1], $parts[2], $parts[3]]);
-      if (empty($parts[5])) {
-        // No end time is specified.
-        $format = 'D, d M Y H:i';
-        $start = \DateTime::createFromFormat($format, implode(' ', $parts));
-        $start->add(new \DateInterval('PT1H'));
-        $parts[5] = 'to';
-        $parts[6] = $start->format('H:i');
-      }
-      $parts[5] .= " {$start_date}";
-    }
-    $date = implode(' ', $parts);
-    
-    // Now we know we have a date string formatted like this: 
-    // "Wed, 20 Apr 2022 08:00 to Mon, 25 Apr 2022 08:30".
-    $tz = new \DateTimeZone('America/New_York');
-    return array_map(function ($value) use ($tz) {
-      $format = 'D, d M Y H:i';
-      $date_time = \DateTimeImmutable::createFromFormat($format, $value, $tz);
-      
-      return $date_time->getTimestamp();
-    }, explode(' to ', $date));
-  }
-  
-  /**
-   * Convert the date string to an array format compatible with the field_when.
-   * 
-   * @param string $date
-   *  A string in format: 
-   *  "Wed, 20 Apr 2022 08:00 to Mon, 25 Apr 2022 08:30"
-   * @return array
-   */
-  private function convertDateToWhen(int $start, int $end): array { 
-    return [
-      'value'       => $start,
-      'end_value'   => $end,
-      'duration'    => $end - $start,
-      'rrule'       => null,
-      'rrule_index' => null,
-      'timezone'    => '',
-    ];
-  }
-  
-  /**
-   * Command description here.
+   * Scrape pages.
    *
    * @param $acronym
    *   string Argument description.
@@ -344,57 +98,163 @@ class HcpssContentScraperCommands extends DrushCommands {
   public function scrapePages($acronym) {
     $this->deleteAll('node', ['type' => 'page']);
     
-    $url = "https://{$acronym}.hcpss.org/content-export/basic_page";
-    $scraper = new ScraperService($url);
+    $scraper = new PagesScraper($acronym);
+    $result  = $scraper->scrape();
     
-    $rows = $scraper->scrapeExport();
-    $num_created = 0;
-    foreach ($rows as $row) {
-      Node::create([
-        'type' => 'page',
-        'uid' => 1,
-        'title' => htmlspecialchars_decode($row['title']),
-        'path' => ['alias' => $row['path']],
-        'body' => [
-          'value' => $row['description'],
-          'format' => 'basic_html',
-        ],
-        'created' => $row['created'],
-      ])->save();
-      $num_created++;
-    }
-    
-    $this->logger()->success(dt($num_created . ' paged created.'));
+    $this->logger()->success(dt($result['node']['basic_page'] . ' paged created.'));
   }
-
+  
   /**
-   * An example of the table output format.
+   * Scrape news.
    *
-   * @param array $options An associative array of options whose values come from cli, aliases, config, etc.
+   * @param $acronym
+   *   string Argument description.
+   * @usage hcpss_content_scraper:scrape-news chs
+   *   Scrape the news on the CHS site.
    *
-   * @field-labels
-   *   group: Group
-   *   token: Token
-   *   name: Name
-   * @default-fields group,token,name
-   *
-   * @command hcpss_content_scraper:token
-   * @aliases token
-   *
-   * @filter-default-field name
-   * @return \Consolidation\OutputFormatters\StructuredData\RowsOfFields
+   * @command hcpss_content_scraper:scrape-news
    */
-  public function token($options = ['format' => 'table']) {
-    $all = \Drupal::token()->getInfo();
-    foreach ($all['tokens'] as $group => $tokens) {
-      foreach ($tokens as $key => $token) {
-        $rows[] = [
-          'group' => $group,
-          'token' => $key,
-          'name' => $token['name'],
-        ];
-      }
-    }
-    return new RowsOfFields($rows);
+  public function scrapeNews($acronym) {
+    $this->deleteAll('node', ['type' => 'news']);
+    
+    $scraper = new NewsScraper($acronym);
+    $result  = $scraper->scrape();
+    
+    $this->logger()->success(dt($result['node']['news'] . ' news nodes created.'));
   }
+  
+  /**
+   * Scrape galleries.
+   *
+   * @param $acronym
+   *   string Argument description.
+   * @usage hcpss_content_scraper:scrape-galleries chs
+   *   Scrape the galleries on the CHS site.
+   *
+   * @command hcpss_content_scraper:scrape-galleries
+   */
+  public function scrapeGalleries($acronym) {
+    $this->deleteAll('node', ['type' => 'photo_gallery']);
+    $this->deleteAll('taxonomy_term', ['vid' => 'gallery_type']);
+    
+    $scraper = new PhotoGalleryScraper($acronym);
+    $result  = $scraper->scrape();
+    
+    $this->logger()->success(dt($result['node']['photo_gallery'] . ' galleries created.'));
+  }
+  
+//   /**
+//    * Command to scrape the main menu.
+//    *
+//    * @param string $acronym
+//    * @usage hcpss_content_scraper:scrape-menu chs
+//    *   Scrape the menu from the CHS site.
+//    *
+//    * @command hcpss_content_scraper:scrape-menu
+//    */
+//   public function scrapeMenu($acronym) {
+//     $url = "https://{$acronym}.hcpss.org";
+//     $scraper = new ScraperService($url);
+//     $selector = '.centered-navigation nav > ul > li';
+//     $scraper->crawl()->filter($selector)->each(function (Crawler $level) use ($acronym) {
+//       $this->handleMenuItem($level, $acronym);
+//     });
+//   }
+  
+//   /**
+//    * Create a page from the URL.
+//    *
+//    * @param string $url
+//    * @return NodeInterface|NULL
+//    */
+//   private function createPage(string $alias, string $acronym): ?NodeInterface {
+//     $scraper = new ScraperService("https://{$acronym}.hcpss.org{$alias}");
+    
+//     $panes = $scraper->crawl()->filter('.panel-pane');
+//     if ($panes->count()) {
+//       $html = '';
+//       $panes->each(function (Crawler $pane) use ($html) {
+//         $classes = explode(' ', $pane->attr('class'));
+//         if (in_array('pane-node', $classes)) {
+//           if ($title = $pane->filter('.pane-title')) {
+//             $html .= '<h2>' . $title->text() . '</h2>';
+//           }
+          
+//           if ($content = $pane->filter('.content')) {
+//             $html .= $content->html();
+//           }
+//         } else if (in_array('pane-custom', $classes)) {
+//           if ($content = $pane->filter('.pane-content')) {
+//             $html .= $content->html();
+//           }
+//         }
+//       });
+        
+//         $node = Node::create([
+//           'type' => 'page',
+//           'uid' => 1,
+//           'title' => $scraper->filter('h1')->text(),
+//           'body' => ['format' => 'basic_html', 'value' => $html],
+//           'path' => ['alias' => $row['path']],
+//         ]);
+        
+//         $node->save();
+//         return $node;
+//     }
+    
+//     return NULL;
+//   }
+  
+//   private function handleMenuItem(Crawler $level, string $acronym, MenuItemExtrasMenuLinkContentInterface $parent = NULL) {
+//     $a = $level->filter('& > a');
+//     $label = $a->text();
+//     $href = $a->attr('href');
+    
+//     if (strpos($href, '/') === 0) {
+//       $params = Url::fromUserInput($href)->getRouteParameters();
+//       $entity_type = key($params);
+//       $node = \Drupal::entityTypeManager()
+//       ->getStorage($entity_type)
+//       ->load($params[$entity_type]);
+      
+//       if (!$node) {
+//         $node = $this->createPage("https://{$acronym}.hcpss.org{$href}");
+//       }
+      
+//       if ($node) {
+//         $link = MenuLinkContent::create([
+//           'title' => $label,
+//           'link' => ['uri' => 'entity:node/' . $node->id()],
+//           'menu_name' => 'main',
+//           'weight' => 0,
+//         ]);
+        
+//         if ($parent) {
+//           $link->parent = $parent;
+//         }
+//       }
+      
+      
+      
+//       $path = \Drupal::service('path.alias_manager')->getPathByAlias($href);
+      
+//       if(preg_match('/node\/(\d+)/', $path, $matches)) {
+//         $node = \Drupal\node\Entity\Node::load($matches[1]);
+//       }
+      
+      
+      
+//       // Internal page.
+//       $scraper = new ScraperService("https://{$acronym}.hcpss.org{$href}");
+      
+//     } else {
+//       // External page.
+//       MenuLinkContent::create([
+//         'title' => $label,
+//         'link' => ['uri' => $href],
+//         'menu_name' => 'main',
+//         'weight' => 0,
+//       ]);
+//     }
+//   }
 }
