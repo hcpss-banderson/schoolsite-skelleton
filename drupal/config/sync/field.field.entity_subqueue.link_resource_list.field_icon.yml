@@ -1,0 +1,21 @@
+uuid: 663214af-28a7-4659-9ae9-28ac879efff5
+langcode: en
+status: true
+dependencies:
+  config:
+    - entityqueue.entity_queue.link_resource_list
+    - field.storage.entity_subqueue.field_icon
+  module:
+    - fontawesome
+id: entity_subqueue.link_resource_list.field_icon
+field_name: field_icon
+entity_type: entity_subqueue
+bundle: link_resource_list
+label: Icon
+description: ''
+required: true
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: fontawesome_icon

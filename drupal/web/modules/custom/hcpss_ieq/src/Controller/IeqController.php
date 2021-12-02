@@ -178,9 +178,9 @@ class IeqController extends ControllerBase {
         ? \DateTimeImmutable
           ::createFromFormat('Y-m-d', $attributes['field_date'])
           ->getTimestamp()
-        : !empty($attributes['published_at'])
+        : (!empty($attributes['published_at'])
           ? strtotime($attributes['published_at'])
-          : strtotime($attributes['created']);
+          : strtotime($attributes['created']));
       
       $list['#items'][] = Markup::create(vsprintf('
           <a href="https://ieq.hcpss.org/%s/%s">%s</a><br>

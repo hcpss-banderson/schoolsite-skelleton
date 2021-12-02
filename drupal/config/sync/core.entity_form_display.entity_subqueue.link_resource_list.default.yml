@@ -1,0 +1,49 @@
+uuid: 4af000c2-4821-45ba-8db4-5c3729fc194a
+langcode: en
+status: true
+dependencies:
+  config:
+    - entityqueue.entity_queue.link_resource_list
+    - field.field.entity_subqueue.link_resource_list.field_icon
+  module:
+    - entityqueue
+    - field_layout
+    - fontawesome
+    - layout_discovery
+third_party_settings:
+  field_layout:
+    id: layout_onecol
+    settings:
+      label: ''
+id: entity_subqueue.link_resource_list.default
+targetEntityType: entity_subqueue
+bundle: link_resource_list
+mode: default
+content:
+  field_icon:
+    weight: 6
+    settings: {  }
+    third_party_settings: {  }
+    type: fontawesome_icon_widget
+    region: content
+  items:
+    type: entityqueue_dragtable
+    weight: 5
+    settings:
+      match_operator: CONTAINS
+      size: '60'
+      placeholder: ''
+      link_to_entity: false
+      link_to_edit_form: true
+      match_limit: 10
+    region: content
+    third_party_settings: {  }
+  title:
+    type: string_textfield
+    weight: -10
+    region: content
+    settings:
+      size: 60
+      placeholder: ''
+    third_party_settings: {  }
+hidden: {  }

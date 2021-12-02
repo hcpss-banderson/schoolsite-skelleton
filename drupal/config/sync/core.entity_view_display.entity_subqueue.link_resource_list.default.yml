@@ -1,0 +1,39 @@
+uuid: 047ff249-3ef9-4356-ae21-b54ed2be2918
+langcode: en
+status: true
+dependencies:
+  config:
+    - entityqueue.entity_queue.link_resource_list
+    - field.field.entity_subqueue.link_resource_list.field_icon
+  module:
+    - fontawesome
+id: entity_subqueue.link_resource_list.default
+targetEntityType: entity_subqueue
+bundle: link_resource_list
+mode: default
+content:
+  field_icon:
+    weight: 1
+    label: above
+    settings:
+      layers: false
+    third_party_settings: {  }
+    type: fontawesome_icon_formatter
+    region: content
+  items:
+    label: hidden
+    type: entity_reference_label
+    weight: 0
+    region: content
+    settings:
+      link: true
+    third_party_settings: {  }
+  title:
+    label: hidden
+    type: string
+    weight: -10
+    region: content
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+hidden: {  }

@@ -18,6 +18,7 @@ use Drupal\hcpss_content_scraper\Scraper\EventsScraper;
 use Drupal\hcpss_content_scraper\Scraper\PagesScraper;
 use Drupal\hcpss_content_scraper\Scraper\NewsScraper;
 use Drupal\hcpss_content_scraper\Scraper\PhotoGalleryScraper;
+use Drupal\entityqueue\Entity\EntitySubqueue;
 
 /**
  * A Drush commandfile.
@@ -141,6 +142,23 @@ class HcpssContentScraperCommands extends DrushCommands {
     $result  = $scraper->scrape();
     
     $this->logger()->success(dt($result['node']['photo_gallery'] . ' galleries created.'));
+  }
+  
+  /**
+   * Scrape essential resources.
+   *
+   * @param $acronym
+   *   string Argument description.
+   * @usage hcpss_content_scraper:scrape-essential-resources chs
+   *   Scrape the essential resources on the CHS site.
+   *
+   * @command hcpss_content_scraper:scrape-essential-resources
+   */
+  public function scrapeEssentialResources($acronym) {
+    $this->deleteAll('entity_subqueue', ['queue' => 'link_resource_list']);
+    $this->deleteAll('fragment', ['type' => 'resource']);
+    
+    
   }
   
 //   /**

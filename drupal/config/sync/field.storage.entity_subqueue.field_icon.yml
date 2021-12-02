@@ -1,0 +1,19 @@
+uuid: d9d784aa-9764-40d9-bd58-f1ff9f4363b5
+langcode: en
+status: true
+dependencies:
+  module:
+    - entityqueue
+    - fontawesome
+id: entity_subqueue.field_icon
+field_name: field_icon
+entity_type: entity_subqueue
+type: fontawesome_icon
+settings: {  }
+module: fontawesome
+locked: false
+cardinality: 1
+translatable: true
+indexes: {  }
+persist_with_no_fields: false
+custom_storage: false

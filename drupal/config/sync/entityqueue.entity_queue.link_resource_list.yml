@@ -1,0 +1,26 @@
+uuid: a8657379-af81-461d-9f0b-f3bd21b21cbf
+langcode: en
+status: true
+dependencies:
+  module:
+    - fragments
+id: link_resource_list
+label: 'Link Resource List'
+handler: multiple
+handler_configuration: {  }
+entity_settings:
+  target_type: fragment
+  handler: 'default:fragment'
+  handler_settings:
+    target_bundles:
+      resource: resource
+    sort:
+      field: _none
+      direction: ASC
+    auto_create: false
+    auto_create_bundle: ''
+queue_settings:
+  min_size: 0
+  max_size: 0
+  act_as_queue: false
+  reverse: false
