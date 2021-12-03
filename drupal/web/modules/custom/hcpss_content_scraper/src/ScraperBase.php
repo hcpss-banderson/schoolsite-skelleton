@@ -45,4 +45,11 @@ abstract class ScraperBase {
     
     return $term;
   }
+  
+  /**
+   * Get the initial URL to use for scraping.
+   */
+  protected function getUrl(): string {
+    return "https://{$this->acronym}.hcpss.org";
+  }
 }

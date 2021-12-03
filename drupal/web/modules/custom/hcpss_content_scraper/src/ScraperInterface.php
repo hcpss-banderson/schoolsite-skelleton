@@ -16,11 +16,4 @@ interface ScraperInterface {
    *   ]
    */
   public function scrape(): array;
-  
-  /**
-   * Relative URL to the content.
-   * 
-   * @return string
-   */
-  protected function getUrl(): string;
 }

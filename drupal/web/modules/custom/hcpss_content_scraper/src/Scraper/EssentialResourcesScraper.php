@@ -12,14 +12,6 @@ use Drupal\fragments\Entity\Fragment;
 use Drupal\entityqueue\Entity\EntitySubqueue;
 
 class EssentialResourcesScraper extends ScraperBase implements ScraperInterface {
-
-  /**
-   * {@inheritDoc}
-   * @see \Drupal\hcpss_content_scraper\ScraperInterface::getUrl()
-   */
-  protected function getUrl(): string {
-    return "https://{$this->acronym}.hcpss.org";
-  }
  
   /**
    * {@inheritDoc}
@@ -35,18 +27,19 @@ class EssentialResourcesScraper extends ScraperBase implements ScraperInterface 
     $scraper->crawl()->filter('.bullet')->each(function (Crawler $bullet) use (&$result) {
       $resources = $this->createResources($bullet);
 
+      $title = $bullet->filter('h2')->text();
+      $name = strtolower(str_replace(' ', '_', $title));
+      
       $subQueue = EntitySubqueue::create([
         'queue' => 'link_resource_list',
-        'name' => $bullet->filter('h2')->text(),
+        'name' => $name,
+        'title' => $title,
+        'items' => $resources,
         'field_icon' => [
           "icon_name" => "user-circle",
           "style" => "fas",
         ]
       ]);
-      
-      foreach ($resources as $resource) {
-        $subQueue->addItem($resource);
-      }
       
       $subQueue->save();
       $result['entity_subqueue']['link_resource_list']++;

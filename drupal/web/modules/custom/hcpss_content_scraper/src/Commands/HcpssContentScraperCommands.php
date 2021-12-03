@@ -19,6 +19,7 @@ use Drupal\hcpss_content_scraper\Scraper\PagesScraper;
 use Drupal\hcpss_content_scraper\Scraper\NewsScraper;
 use Drupal\hcpss_content_scraper\Scraper\PhotoGalleryScraper;
 use Drupal\entityqueue\Entity\EntitySubqueue;
+use Drupal\hcpss_content_scraper\Scraper\EssentialResourcesScraper;
 
 /**
  * A Drush commandfile.
@@ -158,7 +159,13 @@ class HcpssContentScraperCommands extends DrushCommands {
     $this->deleteAll('entity_subqueue', ['queue' => 'link_resource_list']);
     $this->deleteAll('fragment', ['type' => 'resource']);
     
+    $scraper = new EssentialResourcesScraper($acronym);
+    $result = $scraper->scrape();
     
+    $this->logger()->success(vsprintf('%d resources and %d lists created.', [
+      $result['fragment']['resource'],
+      $result['entity_subqueue']['link_resource_list'],
+    ]));
   }
   
 //   /**

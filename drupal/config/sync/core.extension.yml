@@ -71,9 +71,7 @@ module:
   serialization: 0
   shortcut: 0
   smart_date: 0
-  smart_date_calendar_kit: 0
   smart_date_recur: 0
-  smart_date_starter_kit: 0
   smart_trim: 0
   system: 0
   taxonomy: 0

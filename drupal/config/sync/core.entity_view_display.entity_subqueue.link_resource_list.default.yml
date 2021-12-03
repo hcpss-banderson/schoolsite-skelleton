@@ -14,7 +14,7 @@ mode: default
 content:
   field_icon:
     weight: 1
-    label: above
+    label: hidden
     settings:
       layers: false
     third_party_settings: {  }
@@ -22,16 +22,17 @@ content:
     region: content
   items:
     label: hidden
-    type: entity_reference_label
-    weight: 0
+    type: entity_reference_entity_view
+    weight: 2
     region: content
     settings:
       link: true
+      view_mode: default
     third_party_settings: {  }
   title:
     label: hidden
     type: string
-    weight: -10
+    weight: 0
     region: content
     settings:
       link_to_entity: false
