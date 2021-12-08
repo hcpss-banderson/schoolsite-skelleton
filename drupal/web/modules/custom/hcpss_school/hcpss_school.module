@@ -30,3 +30,14 @@ function hcpss_school_contextual_links_alter(array &$links, $group, array $route
       break;
   }
 }
+
+/**
+ * Implementation of hook_preprocess_HOOK.
+ */
+function hcpss_school_preprocess_fragment(&$variables) {
+  $item = &$variables['content']['title'][0];
+  $fragment = $variables['content']['#fragment'];
+  
+  $item['#template'] = '<a href="{{ url }}">{{ value }}</a>';
+  $item['#context']['url'] = $fragment->field_link->uri;
+}

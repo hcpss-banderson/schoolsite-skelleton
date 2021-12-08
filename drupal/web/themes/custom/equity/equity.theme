@@ -24,26 +24,21 @@ function equity_views_pre_render(ViewExecutable $view) {
   }
 }
 
+/**
+ * Implementation of hook_preprocess_HOOK().
+ */
 function equity_preprocess_node(&$variables) {
-  $node = $variables['elements']['#node'];
-  
-  
-  if ($variables['view_mode'] == 'highlight' && $node->bundle() == 'photo_gallery') {
-    $style = ImageStyle::load('large');
-    $files = $node->field_photos->referencedEntities();
-    $file = reset($files);
+  if ($variables['view_mode'] == 'highlight') {
+    $node = $variables['elements']['#node'];    
+    $variables['attributes']['href'] = $node->toUrl()->toString();
     
-    
-    
-    $variables['attributes']['class'][] = 'gallery';
-    $variables['attributes']['style'] = "--bg-image: url('" . $style->buildUrl($file->getFileUri()) . "');";
-
-
-
-
+    if ($node->bundle() == 'photo_gallery') {
+      $style = ImageStyle::load('large');
+      $files = $node->field_photos->referencedEntities();
+      $file = reset($files);
+      
+      $variables['attributes']['class'][] = 'gallery';
+      $variables['attributes']['style'] = "--bg-image: url('" . $style->buildUrl($file->getFileUri()) . "');";
+    }
   }
-  
-  
-  //dpm($variables['view_mode']);
-  //dpm(array_keys($variables));
 }

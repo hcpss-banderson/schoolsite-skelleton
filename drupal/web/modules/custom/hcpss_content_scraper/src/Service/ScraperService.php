@@ -71,7 +71,7 @@ class ScraperService {
    * @return array
    */
   public function scrapeExport(): array {
-    $selector = '.view-content-export .views-table tbody tr';
+    $selector = '.view-content-export .views-table > tbody > tr';
     $rows = [];
     $this->crawler->filter($selector)->each(function (Crawler $tr) use (&$rows) {
       $row = [];

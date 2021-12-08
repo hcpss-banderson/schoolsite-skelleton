@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "a258802e247d3072d375ed26d3bf27de",
+    "content-hash": "a5f6ae8bfeb98952436094a1d274614c",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -1988,6 +1988,47 @@
                 "source": "https://git.drupalcode.org/project/block_class",
                 "issues": "https://www.drupal.org/project/issues/block_class",
                 "irc": "irc://irc.freenode.org/drupal-contribute"
+            }
+        },
+        {
+            "name": "drupal/ccl",
+            "version": "dev-2.x",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/ccl.git",
+                "reference": "a053e3fcf221c744a1b861f68422115d6cf2131e"
+            },
+            "require": {
+                "drupal/core": "^8 || ^9"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "branch-alias": {
+                    "dev-2.x": "2.x-dev"
+                },
+                "drupal": {
+                    "version": "8.x-2.x-dev",
+                    "datestamp": "1586294691",
+                    "security-coverage": {
+                        "status": "not-covered",
+                        "message": "Dev releases are not covered by Drupal security advisories."
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "bkoether",
+                    "homepage": "https://www.drupal.org/user/167341"
+                }
+            ],
+            "description": "Add your own contextual links to nodes",
+            "homepage": "https://www.drupal.org/project/ccl",
+            "support": {
+                "source": "https://git.drupalcode.org/project/ccl"
             }
         },
         {
@@ -10021,6 +10062,7 @@
     "aliases": [],
     "minimum-stability": "dev",
     "stability-flags": {
+        "drupal/ccl": 20,
         "drupal/content_snapshot": 10,
         "drupal/inline_entity_form": 5,
         "drupal/page_manager": 10

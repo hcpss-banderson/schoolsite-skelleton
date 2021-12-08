@@ -3,7 +3,6 @@ langcode: en
 status: true
 dependencies:
   config:
-    - field.field.taxonomy_term.gallery_type.field_gallery_type
     - field.field.taxonomy_term.gallery_type.field_icon
     - taxonomy.vocabulary.gallery_type
   module:
@@ -30,16 +29,6 @@ content:
       size: 60
       placeholder: ''
     third_party_settings: {  }
-  field_gallery_type:
-    weight: 102
-    settings:
-      match_operator: CONTAINS
-      match_limit: 10
-      size: 60
-      placeholder: ''
-    third_party_settings: {  }
-    type: entity_reference_autocomplete
-    region: content
   field_icon:
     weight: 101
     settings: {  }

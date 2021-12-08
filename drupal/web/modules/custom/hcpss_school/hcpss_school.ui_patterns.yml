@@ -19,6 +19,35 @@ blockquote:
       label: Attribution
       description: Quote attribution.
       preview: Albert Einstein
+responsive_three_column_bricks:
+  label: 'Responsive three column bricks'
+  description: 'Layout patter with 3 columns and header and footer columns'
+  fields:
+    top:
+      type: text
+      label: Top
+      description: Top content.
+      preview: 'Top'
+    left:
+      type: text
+      label: Left
+      description: Content for the left column.
+      preview: 'Left'
+    center:
+      type: text
+      label: Center
+      description: Content for the center column.
+      preview: 'Center'
+    right:
+      type: text
+      label: Right
+      description: Content for the right column.
+      preview: Right
+    bottom:
+      type: text
+      label: Bottom
+      description: Content for the bottom.
+      preview: 'Bottom'
 staff_member_abbreviated:
   label: Abbreviated Staff Member
   description: Simple staff member display

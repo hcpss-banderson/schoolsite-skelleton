@@ -20,6 +20,7 @@ use Drupal\hcpss_content_scraper\Scraper\NewsScraper;
 use Drupal\hcpss_content_scraper\Scraper\PhotoGalleryScraper;
 use Drupal\entityqueue\Entity\EntitySubqueue;
 use Drupal\hcpss_content_scraper\Scraper\EssentialResourcesScraper;
+use Drupal\hcpss_content_scraper\Scraper\FeaturedContentScraper;
 
 /**
  * A Drush commandfile.
@@ -47,7 +48,48 @@ class HcpssContentScraperCommands extends DrushCommands {
   }
   
   /**
-   * Create the syaff list page.
+   * Create everything.
+   *
+   * @param $acronym
+   *   string Argument description.
+   * @usage hcpss_content_scraper:scrape-all chs
+   *   Scrape the events on the CHS site.
+   *
+   * @command hcpss_content_scraper:scrape-all
+   */
+  public function createAll($acronym) {
+    $this->scrapeDepartments($acronym);
+    $this->scrapeEssentialResources($acronym);
+    $this->scrapeEvents($acronym);
+    $this->scrapeGalleries($acronym);
+    $this->scrapeNews($acronym);
+    $this->scrapePages($acronym);
+    $this->scrapeFeaturedContent($acronym);
+  }
+  
+  /**
+   * Scrape features content.
+   *
+   * @param $acronym
+   *   string Argument description.
+   * @usage hcpss_content_scraper:scrape-featured chs
+   *   Scrape the features content on the CHS site.
+   *
+   * @command hcpss_content_scraper:scrape-featured
+   */
+  public function scrapeFeaturedContent($acronym) {
+    //EntitySubqueue::load('featured_content')->delete();
+    
+    $scraper = new FeaturedContentScraper($acronym);
+    $result = $scraper->scrape();
+    
+    $this->logger()->success(vsprintf('%d featured content created.', [
+      $result['entity_subqueue']['featured_content'],
+    ]));
+  }
+  
+  /**
+   * Create the staff list page.
    *
    * @param $acronym
    *   string Argument description.
@@ -56,7 +98,7 @@ class HcpssContentScraperCommands extends DrushCommands {
    *
    * @command hcpss_content_scraper:scrape-departments
    */
-  public function createDepartments($acronym) {
+  public function scrapeDepartments($acronym) {
     $this->deleteAll('fragment', ['type' => 'department']);
     
     $scraper = new DepartmentsScraper($acronym);

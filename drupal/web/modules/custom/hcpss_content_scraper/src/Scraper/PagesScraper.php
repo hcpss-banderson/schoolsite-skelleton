@@ -21,10 +21,8 @@ class PagesScraper extends ScraperBase implements ScraperInterface {
    * {@inheritDoc}
    * @see \Drupal\hcpss_content_scraper\ScraperInterface::scrape()
    */
-  public function scrape(): array {
-    $scraper = new ScraperService($this->getUrl());
-    
-    $rows = $scraper->scrapeExport();
+  public function scrape(): array {    
+    $rows = ScraperService::scrape($this->getUrl());
     $num_created = 0;
     foreach ($rows as $row) {
       Node::create([

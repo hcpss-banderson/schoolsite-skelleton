@@ -1,0 +1,8 @@
+uuid: a5fbccbf-b79c-41c6-9267-609d7a0903fc
+langcode: en
+status: true
+dependencies: {  }
+id: layout_block
+label: 'Layout Block'
+revision: 0
+description: 'A block type for using layout builder.'

@@ -9,7 +9,6 @@ highlight_collection:
       preview: Not sure...
   libraries:
     - equity/highlight_collection
-
 highlight:
   label: Highlight
   description: Display content in a highlighted sections
