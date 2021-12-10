@@ -25,7 +25,6 @@ class FeaturedContentScraper extends ScraperBase implements ScraperInterface {
    */
   public function scrape(): array {
     $queue = EntitySubqueue::load('featured_content');
-    $queue->clearItems();
     
     $scraper = ScraperService::createFromUrl($this->getUrl());
     $selector = '.pane-node a > h1';

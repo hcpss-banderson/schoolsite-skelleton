@@ -21,6 +21,7 @@ use Drupal\hcpss_content_scraper\Scraper\PhotoGalleryScraper;
 use Drupal\entityqueue\Entity\EntitySubqueue;
 use Drupal\hcpss_content_scraper\Scraper\EssentialResourcesScraper;
 use Drupal\hcpss_content_scraper\Scraper\FeaturedContentScraper;
+use Drupal\hcpss_content_scraper\Scraper\SchoolStaffScraper;
 
 /**
  * A Drush commandfile.
@@ -65,6 +66,35 @@ class HcpssContentScraperCommands extends DrushCommands {
     $this->scrapeNews($acronym);
     $this->scrapePages($acronym);
     $this->scrapeFeaturedContent($acronym);
+    $this->scrapeSchoolStaff($acronym);
+  }
+  
+  /**
+   * Scrape features content.
+   *
+   * @param $acronym
+   *   string Argument description.
+   * @usage hcpss_content_scraper:scrape-school-staff chs
+   *   Scrape the school staff content on the CHS site.
+   *
+   * @command hcpss_content_scraper:scrape-school-staff
+   */
+  public function scrapeSchoolStaff($acronym) {
+    $nids = \Drupal::entityQuery('node')
+      ->condition('type', 'advanced_page')
+      ->condition('title', 'School Staff')
+      ->execute();
+    
+    if (!empty($nids)) {
+      Node::load(reset($nids))->delete();
+    }
+    
+    $scraper = new SchoolStaffScraper($acronym);
+    $result = $scraper->scrape();
+    
+    $this->logger()->success(vsprintf('%d school staff page created.', [
+      $result['node']['advanced_page'],
+    ]));
   }
   
   /**
@@ -78,7 +108,8 @@ class HcpssContentScraperCommands extends DrushCommands {
    * @command hcpss_content_scraper:scrape-featured
    */
   public function scrapeFeaturedContent($acronym) {
-    //EntitySubqueue::load('featured_content')->delete();
+    $featured = EntitySubqueue::load('featured_content')->clearItems();
+    $featured->save();
     
     $scraper = new FeaturedContentScraper($acronym);
     $result = $scraper->scrape();

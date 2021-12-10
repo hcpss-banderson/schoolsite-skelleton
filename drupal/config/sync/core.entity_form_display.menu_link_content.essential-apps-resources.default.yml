@@ -4,12 +4,11 @@ status: true
 dependencies:
   config:
     - field.field.menu_link_content.essential-apps-resources.field_body
-    - system.menu.essential-apps-resources
   module:
     - field_layout
     - layout_discovery
     - link
-    - menu_item_extras
+    - menu_link_content
 third_party_settings:
   field_layout:
     id: layout_onecol
@@ -37,9 +36,11 @@ content:
       placeholder: ''
     third_party_settings: {  }
   view_mode:
-    type: menu_item_extras_view_mode_selector_select
-    weight: 0
-    region: content
-    settings: {  }
+    weight: 22
+    settings:
+      size: 60
+      placeholder: ''
     third_party_settings: {  }
+    type: string_textfield
+    region: content
 hidden: {  }
