@@ -16,3 +16,315 @@ essential_apps_resources:
   css:
     component:
       css/essential-apps-and-resources.css: {}
+school_arl:
+  css:
+    theme:
+      css/schools/arl.css: {}
+school_cls:
+  css:
+    theme:
+      css/schools/cls.css: {}
+school_dec:
+  css:
+    theme:
+      css/schools/dec.css: {}
+school_hc:
+  css:
+    theme:
+      css/schools/hc.css: {}
+school_aes:
+  css:
+    theme:
+      css/schools/aes.css: {}
+school_bbes:
+  css:
+    theme:
+      css/schools/bbes.css: {}
+school_bpes:
+  css:
+    theme:
+      css/schools/bpes.css: {}
+school_bses:
+  css:
+    theme:
+      css/schools/bses.css: {}
+school_bwes:
+  css:
+    theme:
+      css/schools/bwes.css: {}
+school_cces:
+  css:
+    theme:
+      css/schools/cces.css: {}
+school_ces:
+  css:
+    theme:
+      css/schools/ces.css: {}
+school_cles:
+  css:
+    theme:
+      css/schools/cles.css: {}
+school_cres:
+  css:
+    theme:
+      css/schools/cres.css: {}
+school_dles:
+  css:
+    theme:
+      css/schools/dles.css: {}
+school_does:
+  css:
+    theme:
+      css/schools/does.css: {}
+school_dres:
+  css:
+    theme:
+      css/schools/dres.css: {}
+school_ees:
+  css:
+    theme:
+      css/schools/ees.css: {}
+school_fes:
+  css:
+    theme:
+      css/schools/fes.css: {}
+school_fres:
+  css:
+    theme:
+      css/schools/fres.css: {}
+school_gces:
+  css:
+    theme:
+      css/schools/gces.css: {}
+school_ges:
+  css:
+    theme:
+      css/schools/ges.css: {}
+school_hes:
+  css:
+    theme:
+      css/schools/hes.css: {}
+school_hhes:
+  css:
+    theme:
+      css/schools/hhes.css: {}
+school_hses:
+  css:
+    theme:
+      css/schools/hses.css: {}
+school_ies:
+  css:
+    theme:
+      css/schools/ies.css: {}
+school_jhes:
+  css:
+    theme:
+      css/schools/jhes.css: {}
+school_les:
+  css:
+    theme:
+      css/schools/les.css: {}
+school_loes:
+  css:
+    theme:
+      css/schools/loes.css: {}
+school_lwes:
+  css:
+    theme:
+      css/schools/lwes.css: {}
+school_mwes:
+  css:
+    theme:
+      css/schools/mwes.css: {}
+school_nes:
+  css:
+    theme:
+      css/schools/nes.css: {}
+school_ples:
+  css:
+    theme:
+      css/schools/ples.css: {}
+school_pres:
+  css:
+    theme:
+      css/schools/pres.css: {}
+school_rbes:
+  css:
+    theme:
+      css/schools/rbes.css: {}
+school_res:
+  css:
+    theme:
+      css/schools/res.css: {}
+school_ses:
+  css:
+    theme:
+      css/schools/ses.css: {}
+school_sfes:
+  css:
+    theme:
+      css/schools/sfes.css: {}
+school_sjles:
+  css:
+    theme:
+      css/schools/sjles.css: {}
+school_thes:
+  css:
+    theme:
+      css/schools/thes.css: {}
+school_tres:
+  css:
+    theme:
+      css/schools/tres.css: {}
+school_tses:
+  css:
+    theme:
+      css/schools/tses.css: {}
+school_ves:
+  css:
+    theme:
+      css/schools/ves.css: {}
+school_wates:
+  css:
+    theme:
+      css/schools/wates.css: {}
+school_waves:
+  css:
+    theme:
+      css/schools/waves.css: {}
+school_wes:
+  css:
+    theme:
+      css/schools/wes.css: {}
+school_wfes:
+  css:
+    theme:
+      css/schools/wfes.css: {}
+school_ahs:
+  css:
+    theme:
+      css/schools/ahs.css: {}
+school_chs:
+  css:
+    theme:
+      css/schools/chs.css: {}
+school_ghs:
+  css:
+    theme:
+      css/schools/ghs.css: {}
+school_hahs:
+  css:
+    theme:
+      css/schools/hahs.css: {}
+school_hohs:
+  css:
+    theme:
+      css/schools/hohs.css: {}
+school_lrhs:
+  css:
+    theme:
+      css/schools/lrhs.css: {}
+school_mhhs:
+  css:
+    theme:
+      css/schools/mhhs.css: {}
+school_mrhs:
+  css:
+    theme:
+      css/schools/mrhs.css: {}
+school_omhs:
+  css:
+    theme:
+      css/schools/omhs.css: {}
+school_rhhs:
+  css:
+    theme:
+      css/schools/rhhs.css: {}
+school_rhs:
+  css:
+    theme:
+      css/schools/rhs.css: {}
+school_wlhs:
+  css:
+    theme:
+      css/schools/wlhs.css: {}
+school_bbms:
+  css:
+    theme:
+      css/schools/bbms.css: {}
+school_bmms:
+  css:
+    theme:
+      css/schools/bmms.css: {}
+school_cms:
+  css:
+    theme:
+      css/schools/cms.css: {}
+school_dms:
+  css:
+    theme:
+      css/schools/dms.css: {}
+school_elms:
+  css:
+    theme:
+      css/schools/elms.css: {}
+school_emms:
+  css:
+    theme:
+      css/schools/emms.css: {}
+school_fqms:
+  css:
+    theme:
+      css/schools/fqms.css: {}
+school_gms:
+  css:
+    theme:
+      css/schools/gms.css: {}
+school_hcms:
+  css:
+    theme:
+      css/schools/hcms.css: {}
+school_hms:
+  css:
+    theme:
+      css/schools/hms.css: {}
+school_lems:
+  css:
+    theme:
+      css/schools/lems.css: {}
+school_lkms:
+  css:
+    theme:
+      css/schools/lkms.css: {}
+school_mhms:
+  css:
+    theme:
+      css/schools/mhms.css: {}
+school_mvms:
+  css:
+    theme:
+      css/schools/mvms.css: {}
+school_mwms:
+  css:
+    theme:
+      css/schools/mwms.css: {}
+school_omms:
+  css:
+    theme:
+      css/schools/omms.css: {}
+school_pms:
+  css:
+    theme:
+      css/schools/pms.css: {}
+school_pvms:
+  css:
+    theme:
+      css/schools/pvms.css: {}
+school_tvms:
+  css:
+    theme:
+      css/schools/tvms.css: {}
+school_wlms:
+  css:
+    theme:
+      css/schools/wlms.css: {}

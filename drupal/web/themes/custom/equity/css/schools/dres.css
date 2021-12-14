@@ -1,0 +1,7 @@
+:root {
+  --main-primary-color: #0066CC;
+  --main-secondary-color: #D6D6D6;
+  --main-highlight-color: #0066CC;
+  --banner: url('https://www.hcpss.org/f/mrb/base/hs-theme/images/banner-dres.jpg');
+  --mascot: url('/themes/custom/equity/images/dres.png');
+}

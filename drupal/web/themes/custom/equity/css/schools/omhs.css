@@ -1,0 +1,7 @@
+:root {
+  --main-primary-color: #000000;
+  --main-secondary-color: #F6611B;
+  --main-highlight-color: #F6611B;
+  --banner: url('https://www.hcpss.org/f/mrb/base/hs-theme/images/banner-omhs.jpg');
+  --mascot: url('/themes/custom/equity/images/omhs.png');
+}
