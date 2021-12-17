@@ -4,3 +4,5 @@ services:
     arguments: ['@config.storage.sync']
     tags:
       - { name: event_subscriber }
+  hcpss_school.api_data:
+    class: Drupal\hcpss_school\Service\ApiDataService

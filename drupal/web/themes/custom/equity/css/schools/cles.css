@@ -1,7 +1,7 @@
 :root {
-  --main-primary-color: #006699;
-  --main-secondary-color: #D6D6D6;
-  --main-highlight-color: #006699;
+  --primary-color: #006699;
+  --secondary-color: #D6D6D6;
+  --highlight-color: #006699;
   --banner: url('https://www.hcpss.org/f/mrb/base/hs-theme/images/banner-cles.jpg');
   --mascot: url('/themes/custom/equity/images/cles.png');
 }

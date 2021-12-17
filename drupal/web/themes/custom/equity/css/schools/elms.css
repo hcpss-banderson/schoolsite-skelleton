@@ -1,7 +1,7 @@
 :root {
-  --main-primary-color: #4a6cae;
-  --main-secondary-color: #D6D6D6;
-  --main-highlight-color: #4a6cae;
+  --primary-color: #4a6cae;
+  --secondary-color: #D6D6D6;
+  --highlight-color: #4a6cae;
   --banner: url('https://www.hcpss.org/f/mrb/base/hs-theme/images/banner-elms.jpg');
   --mascot: url('/themes/custom/equity/images/elms.png');
 }

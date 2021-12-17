@@ -30,38 +30,38 @@ third_party_settings:
             configuration:
               id: 'field_block:fragment:department:title'
               label: Title
-              provider: layout_builder
               label_display: '0'
-              formatter:
-                label: hidden
-                type: string
-                settings:
-                  link_to_entity: false
-                third_party_settings: {  }
+              provider: layout_builder
               context_mapping:
                 entity: layout_builder.entity
                 view_mode: view_mode
-            additional: {  }
+              formatter:
+                type: string
+                label: hidden
+                settings:
+                  link_to_entity: false
+                third_party_settings: {  }
             weight: 0
+            additional: {  }
           66edab9d-4f68-432c-9848-5ab3173cd995:
             uuid: 66edab9d-4f68-432c-9848-5ab3173cd995
             region: content
             configuration:
               id: 'field_block:fragment:department:field_staff_members'
               label: 'Staff Members'
-              provider: layout_builder
               label_display: '0'
-              formatter:
-                label: hidden
-                type: entity_reference_revisions_entity_view
-                settings:
-                  view_mode: abbreviated
-                third_party_settings: {  }
+              provider: layout_builder
               context_mapping:
                 entity: layout_builder.entity
                 view_mode: view_mode
-            additional: {  }
+              formatter:
+                type: entity_reference_revisions_entity_view
+                label: hidden
+                settings:
+                  view_mode: abbreviated
+                third_party_settings: {  }
             weight: 2
+            additional: {  }
         third_party_settings: {  }
 id: fragment.department.default
 targetEntityType: fragment
@@ -70,26 +70,26 @@ mode: default
 content:
   field_staff_members:
     type: entity_reference_revisions_entity_view
-    weight: 1
     label: above
     settings:
       view_mode: default
       link: ''
     third_party_settings: {  }
+    weight: 1
     region: content
   title:
-    label: above
     type: string
-    weight: -4
-    region: content
+    label: above
     settings:
       link_to_entity: false
     third_party_settings: {  }
-  user_id:
-    label: hidden
-    type: author
-    weight: 0
+    weight: -4
     region: content
+  user_id:
+    type: author
+    label: hidden
     settings: {  }
     third_party_settings: {  }
+    weight: 0
+    region: content
 hidden: {  }

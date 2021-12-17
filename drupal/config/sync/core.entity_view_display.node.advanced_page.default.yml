@@ -15,16 +15,16 @@ mode: default
 content:
   field_parts:
     type: entity_reference_revisions_entity_view
-    weight: 101
     label: above
     settings:
       view_mode: default
       link: ''
     third_party_settings: {  }
+    weight: 101
     region: content
   links:
-    weight: 100
     settings: {  }
     third_party_settings: {  }
+    weight: 100
     region: content
 hidden: {  }

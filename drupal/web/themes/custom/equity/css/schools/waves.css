@@ -1,7 +1,7 @@
 :root {
-  --main-primary-color: #0066CC;
-  --main-secondary-color: #D6D6D6;
-  --main-highlight-color: #0066CC;
+  --primary-color: #0066CC;
+  --secondary-color: #D6D6D6;
+  --highlight-color: #0066CC;
   --banner: url('https://www.hcpss.org/f/mrb/base/hs-theme/images/banner-waves.jpg');
   --mascot: url('/themes/custom/equity/images/waves.png');
 }

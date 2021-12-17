@@ -22,21 +22,21 @@ bundle: news
 mode: default
 content:
   body:
-    label: hidden
     type: text_summary_or_trimmed
-    weight: 1
+    label: hidden
     settings:
       trim_length: 250
     third_party_settings: {  }
+    weight: 1
     region: content
   field_tags:
     type: entity_reference_label
-    weight: 0
-    region: content
     label: above
     settings:
       link: true
     third_party_settings: {  }
+    weight: 0
+    region: content
 hidden:
   extra_field_content_url_field: true
   links: true

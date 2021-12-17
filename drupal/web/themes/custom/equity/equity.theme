@@ -4,6 +4,32 @@ use Drupal\views\ViewExecutable;
 use Drupal\image\Entity\ImageStyle;
 
 /**
+ * Implementation of hook_preprocess_HOOK().
+ */
+function equity_preprocess_block(&$variables) {
+  if ($variables['plugin_id'] == 'system_branding_block') {
+    $acronym = \Drupal::config('hcpss_school.settings')->get('acronym');
+    $variables['acronym'] = $acronym;
+    
+    $data = \Drupal::service('hcpss_school.api_data')->data();
+    $social = $data['social'];
+    if (!empty($social['twitter'])) {
+      $social['twitter'] = 'https://twitter.com/'.$social['twitter'];
+    }
+    
+    $variables['social'] = $social;
+  }
+}
+
+/**
+ * Implementation of hook_preprocess_HOOK().
+ */
+function equity_preprocess_html(&$variables) {
+  $acronym = \Drupal::config('hcpss_school.settings')->get('acronym');
+  $variables['acronym'] = $acronym;
+}
+
+/**
  * Implements hook_theme_suggestions_HOOK_alter().
  *
  * Add views template suggestions.

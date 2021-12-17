@@ -1,3 +1,6 @@
+_core:
+  default_config_hash: FjJCDRX4oNw1pxiEQGe8dWnMXmMLEFUKI9AmJNmocF4
+strict: 1
 snapshot_path: ../content/snapshot
 snapshot_streams:
   -
@@ -7,6 +10,3 @@ snapshot_streams:
     scheme: private
     path_exclude_pattern: null
     optional: true
-strict: 1
-_core:
-  default_config_hash: FjJCDRX4oNw1pxiEQGe8dWnMXmMLEFUKI9AmJNmocF4

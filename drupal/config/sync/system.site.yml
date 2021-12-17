@@ -1,3 +1,6 @@
+_core:
+  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE
+langcode: en
 uuid: 72bf4a4f-973b-48ce-936e-5a9ebb4a4087
 name: 'Bollman Bridge Elementary School'
 mail: admin@example.com
@@ -8,7 +11,4 @@ page:
   front: /home
 admin_compact_mode: false
 weight_select_max: 100
-langcode: en
 default_langcode: en
-_core:
-  default_config_hash: yTxtFqBHnEWxQswuWvkjE8mKw2t8oKuCL1q8KnfHuGE

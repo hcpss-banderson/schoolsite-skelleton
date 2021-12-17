@@ -29,10 +29,10 @@ third_party_settings:
         layout_id: pattern_staff_member_abbreviated
         layout_settings:
           label: ''
+          context_mapping: {  }
           pattern:
             field_templates: default
             variant: ''
-          context_mapping: {  }
         components:
           a5c3560f-753b-4771-964c-47a836a40fe3:
             uuid: a5c3560f-753b-4771-964c-47a836a40fe3
@@ -40,65 +40,68 @@ third_party_settings:
             configuration:
               id: 'field_block:paragraph:staff_member:field_name'
               label: Name
-              provider: layout_builder
               label_display: '0'
-              formatter:
-                label: hidden
-                type: string
-                settings: {  }
-                third_party_settings: {  }
+              provider: layout_builder
               context_mapping:
                 entity: layout_builder.entity
                 view_mode: view_mode
-            additional: {  }
+              formatter:
+                type: string
+                label: hidden
+                settings: {  }
+                third_party_settings: {  }
             weight: 0
+            additional: {  }
           16e7b09a-9916-43a5-8fb7-de827374543c:
             uuid: 16e7b09a-9916-43a5-8fb7-de827374543c
             region: title
             configuration:
               id: 'field_block:paragraph:staff_member:field_job_title'
               label: 'Job Title'
-              provider: layout_builder
               label_display: '0'
-              formatter:
-                label: hidden
-                type: string
-                settings: {  }
-                third_party_settings: {  }
+              provider: layout_builder
               context_mapping:
                 entity: layout_builder.entity
                 view_mode: view_mode
-            additional: {  }
+              formatter:
+                type: string
+                label: hidden
+                settings: {  }
+                third_party_settings: {  }
             weight: 0
+            additional: {  }
           0cdbe810-5ff1-4b6a-bde7-f332f402dc0d:
             uuid: 0cdbe810-5ff1-4b6a-bde7-f332f402dc0d
             region: email
             configuration:
               id: 'field_block:paragraph:staff_member:field_email'
               label: Email
-              provider: layout_builder
               label_display: '0'
-              formatter:
-                label: hidden
-                type: basic_string
-                settings: {  }
-                third_party_settings: {  }
+              provider: layout_builder
               context_mapping:
                 entity: layout_builder.entity
                 view_mode: view_mode
-            additional: {  }
+              formatter:
+                type: basic_string
+                label: hidden
+                settings: {  }
+                third_party_settings: {  }
             weight: 0
+            additional: {  }
           9d9cbecb-9a2d-4af5-b725-f4fdc2c895b0:
             uuid: 9d9cbecb-9a2d-4af5-b725-f4fdc2c895b0
             region: website
             configuration:
               id: 'field_block:paragraph:staff_member:field_website'
               label: Website
-              provider: layout_builder
               label_display: '0'
+              provider: layout_builder
+              context_mapping:
+                entity: layout_builder.entity
+                view_mode: view_mode
               formatter:
-                label: hidden
                 type: link
+                label: hidden
                 settings:
                   trim_length: 80
                   url_only: false
@@ -106,11 +109,8 @@ third_party_settings:
                   rel: '0'
                   target: '0'
                 third_party_settings: {  }
-              context_mapping:
-                entity: layout_builder.entity
-                view_mode: view_mode
-            additional: {  }
             weight: 0
+            additional: {  }
         third_party_settings: {  }
 id: paragraph.staff_member.abbreviated
 targetEntityType: paragraph
@@ -118,30 +118,30 @@ bundle: staff_member
 mode: abbreviated
 content:
   field_email:
-    weight: 2
+    type: basic_string
     label: above
     settings: {  }
     third_party_settings: {  }
-    type: basic_string
+    weight: 2
     region: content
   field_job_title:
-    weight: 1
+    type: string
     label: above
     settings:
       link_to_entity: false
     third_party_settings: {  }
-    type: string
+    weight: 1
     region: content
   field_name:
-    weight: 0
+    type: string
     label: above
     settings:
       link_to_entity: false
     third_party_settings: {  }
-    type: string
+    weight: 0
     region: content
   field_website:
-    weight: 3
+    type: link
     label: above
     settings:
       trim_length: 80
@@ -150,7 +150,7 @@ content:
       rel: ''
       target: ''
     third_party_settings: {  }
-    type: link
+    weight: 3
     region: content
 hidden:
   field_biography: true

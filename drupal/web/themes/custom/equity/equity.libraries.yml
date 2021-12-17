@@ -1,9 +1,12 @@
 global:
   css:
     theme:
+      https://code.cdn.mozilla.net/fonts/fira.css: {}
       css/overrides.css: {}
     component:
       css/block.css: {}
+      css/resource-list.css: {}
+      css/footer.css: {}
 highlight:
   css:
     component:
@@ -19,312 +22,312 @@ essential_apps_resources:
 school_arl:
   css:
     theme:
-      css/schools/arl.css: {}
+      css/schools/arl.css: { weight: -9999 }
 school_cls:
   css:
     theme:
-      css/schools/cls.css: {}
+      css/schools/cls.css: { weight: -9999 }
 school_dec:
   css:
     theme:
-      css/schools/dec.css: {}
+      css/schools/dec.css: { weight: -9999 }
 school_hc:
   css:
     theme:
-      css/schools/hc.css: {}
+      css/schools/hc.css: { weight: -9999 }
 school_aes:
   css:
     theme:
-      css/schools/aes.css: {}
+      css/schools/aes.css: { weight: -9999 }
 school_bbes:
   css:
     theme:
-      css/schools/bbes.css: {}
+      css/schools/bbes.css: { weight: -9999 }
 school_bpes:
   css:
     theme:
-      css/schools/bpes.css: {}
+      css/schools/bpes.css: { weight: -9999 }
 school_bses:
   css:
     theme:
-      css/schools/bses.css: {}
+      css/schools/bses.css: { weight: -9999 }
 school_bwes:
   css:
     theme:
-      css/schools/bwes.css: {}
+      css/schools/bwes.css: { weight: -9999 }
 school_cces:
   css:
     theme:
-      css/schools/cces.css: {}
+      css/schools/cces.css: { weight: -9999 }
 school_ces:
   css:
     theme:
-      css/schools/ces.css: {}
+      css/schools/ces.css: { weight: -9999 }
 school_cles:
   css:
     theme:
-      css/schools/cles.css: {}
+      css/schools/cles.css: { weight: -9999 }
 school_cres:
   css:
     theme:
-      css/schools/cres.css: {}
+      css/schools/cres.css: { weight: -9999 }
 school_dles:
   css:
     theme:
-      css/schools/dles.css: {}
+      css/schools/dles.css: { weight: -9999 }
 school_does:
   css:
     theme:
-      css/schools/does.css: {}
+      css/schools/does.css: { weight: -9999 }
 school_dres:
   css:
     theme:
-      css/schools/dres.css: {}
+      css/schools/dres.css: { weight: -9999 }
 school_ees:
   css:
     theme:
-      css/schools/ees.css: {}
+      css/schools/ees.css: { weight: -9999 }
 school_fes:
   css:
     theme:
-      css/schools/fes.css: {}
+      css/schools/fes.css: { weight: -9999 }
 school_fres:
   css:
     theme:
-      css/schools/fres.css: {}
+      css/schools/fres.css: { weight: -9999 }
 school_gces:
   css:
     theme:
-      css/schools/gces.css: {}
+      css/schools/gces.css: { weight: -9999 }
 school_ges:
   css:
     theme:
-      css/schools/ges.css: {}
+      css/schools/ges.css: { weight: -9999 }
 school_hes:
   css:
     theme:
-      css/schools/hes.css: {}
+      css/schools/hes.css: { weight: -9999 }
 school_hhes:
   css:
     theme:
-      css/schools/hhes.css: {}
+      css/schools/hhes.css: { weight: -9999 }
 school_hses:
   css:
     theme:
-      css/schools/hses.css: {}
+      css/schools/hses.css: { weight: -9999 }
 school_ies:
   css:
     theme:
-      css/schools/ies.css: {}
+      css/schools/ies.css: { weight: -9999 }
 school_jhes:
   css:
     theme:
-      css/schools/jhes.css: {}
+      css/schools/jhes.css: { weight: -9999 }
 school_les:
   css:
     theme:
-      css/schools/les.css: {}
+      css/schools/les.css: { weight: -9999 }
 school_loes:
   css:
     theme:
-      css/schools/loes.css: {}
+      css/schools/loes.css: { weight: -9999 }
 school_lwes:
   css:
     theme:
-      css/schools/lwes.css: {}
+      css/schools/lwes.css: { weight: -9999 }
 school_mwes:
   css:
     theme:
-      css/schools/mwes.css: {}
+      css/schools/mwes.css: { weight: -9999 }
 school_nes:
   css:
     theme:
-      css/schools/nes.css: {}
+      css/schools/nes.css: { weight: -9999 }
 school_ples:
   css:
     theme:
-      css/schools/ples.css: {}
+      css/schools/ples.css: { weight: -9999 }
 school_pres:
   css:
     theme:
-      css/schools/pres.css: {}
+      css/schools/pres.css: { weight: -9999 }
 school_rbes:
   css:
     theme:
-      css/schools/rbes.css: {}
+      css/schools/rbes.css: { weight: -9999 }
 school_res:
   css:
     theme:
-      css/schools/res.css: {}
+      css/schools/res.css: { weight: -9999 }
 school_ses:
   css:
     theme:
-      css/schools/ses.css: {}
+      css/schools/ses.css: { weight: -9999 }
 school_sfes:
   css:
     theme:
-      css/schools/sfes.css: {}
+      css/schools/sfes.css: { weight: -9999 }
 school_sjles:
   css:
     theme:
-      css/schools/sjles.css: {}
+      css/schools/sjles.css: { weight: -9999 }
 school_thes:
   css:
     theme:
-      css/schools/thes.css: {}
+      css/schools/thes.css: { weight: -9999 }
 school_tres:
   css:
     theme:
-      css/schools/tres.css: {}
+      css/schools/tres.css: { weight: -9999 }
 school_tses:
   css:
     theme:
-      css/schools/tses.css: {}
+      css/schools/tses.css: { weight: -9999 }
 school_ves:
   css:
     theme:
-      css/schools/ves.css: {}
+      css/schools/ves.css: { weight: -9999 }
 school_wates:
   css:
     theme:
-      css/schools/wates.css: {}
+      css/schools/wates.css: { weight: -9999 }
 school_waves:
   css:
     theme:
-      css/schools/waves.css: {}
+      css/schools/waves.css: { weight: -9999 }
 school_wes:
   css:
     theme:
-      css/schools/wes.css: {}
+      css/schools/wes.css: { weight: -9999 }
 school_wfes:
   css:
     theme:
-      css/schools/wfes.css: {}
+      css/schools/wfes.css: { weight: -9999 }
 school_ahs:
   css:
     theme:
-      css/schools/ahs.css: {}
+      css/schools/ahs.css: { weight: -9999 }
 school_chs:
   css:
     theme:
-      css/schools/chs.css: {}
+      css/schools/chs.css: { weight: -9999 }
 school_ghs:
   css:
     theme:
-      css/schools/ghs.css: {}
+      css/schools/ghs.css: { weight: -9999 }
 school_hahs:
   css:
     theme:
-      css/schools/hahs.css: {}
+      css/schools/hahs.css: { weight: -9999 }
 school_hohs:
   css:
     theme:
-      css/schools/hohs.css: {}
+      css/schools/hohs.css: { weight: -9999 }
 school_lrhs:
   css:
     theme:
-      css/schools/lrhs.css: {}
+      css/schools/lrhs.css: { weight: -9999 }
 school_mhhs:
   css:
     theme:
-      css/schools/mhhs.css: {}
+      css/schools/mhhs.css: { weight: -9999 }
 school_mrhs:
   css:
     theme:
-      css/schools/mrhs.css: {}
+      css/schools/mrhs.css: { weight: -9999 }
 school_omhs:
   css:
     theme:
-      css/schools/omhs.css: {}
+      css/schools/omhs.css: { weight: -9999 }
 school_rhhs:
   css:
     theme:
-      css/schools/rhhs.css: {}
+      css/schools/rhhs.css: { weight: -9999 }
 school_rhs:
   css:
     theme:
-      css/schools/rhs.css: {}
+      css/schools/rhs.css: { weight: -9999 }
 school_wlhs:
   css:
     theme:
-      css/schools/wlhs.css: {}
+      css/schools/wlhs.css: { weight: -9999 }
 school_bbms:
   css:
     theme:
-      css/schools/bbms.css: {}
+      css/schools/bbms.css: { weight: -9999 }
 school_bmms:
   css:
     theme:
-      css/schools/bmms.css: {}
+      css/schools/bmms.css: { weight: -9999 }
 school_cms:
   css:
     theme:
-      css/schools/cms.css: {}
+      css/schools/cms.css: { weight: -9999 }
 school_dms:
   css:
     theme:
-      css/schools/dms.css: {}
+      css/schools/dms.css: { weight: -9999 }
 school_elms:
   css:
     theme:
-      css/schools/elms.css: {}
+      css/schools/elms.css: { weight: -9999 }
 school_emms:
   css:
     theme:
-      css/schools/emms.css: {}
+      css/schools/emms.css: { weight: -9999 }
 school_fqms:
   css:
     theme:
-      css/schools/fqms.css: {}
+      css/schools/fqms.css: { weight: -9999 }
 school_gms:
   css:
     theme:
-      css/schools/gms.css: {}
+      css/schools/gms.css: { weight: -9999 }
 school_hcms:
   css:
     theme:
-      css/schools/hcms.css: {}
+      css/schools/hcms.css: { weight: -9999 }
 school_hms:
   css:
     theme:
-      css/schools/hms.css: {}
+      css/schools/hms.css: { weight: -9999 }
 school_lems:
   css:
     theme:
-      css/schools/lems.css: {}
+      css/schools/lems.css: { weight: -9999 }
 school_lkms:
   css:
     theme:
-      css/schools/lkms.css: {}
+      css/schools/lkms.css: { weight: -9999 }
 school_mhms:
   css:
     theme:
-      css/schools/mhms.css: {}
+      css/schools/mhms.css: { weight: -9999 }
 school_mvms:
   css:
     theme:
-      css/schools/mvms.css: {}
+      css/schools/mvms.css: { weight: -9999 }
 school_mwms:
   css:
     theme:
-      css/schools/mwms.css: {}
+      css/schools/mwms.css: { weight: -9999 }
 school_omms:
   css:
     theme:
-      css/schools/omms.css: {}
+      css/schools/omms.css: { weight: -9999 }
 school_pms:
   css:
     theme:
-      css/schools/pms.css: {}
+      css/schools/pms.css: { weight: -9999 }
 school_pvms:
   css:
     theme:
-      css/schools/pvms.css: {}
+      css/schools/pvms.css: { weight: -9999 }
 school_tvms:
   css:
     theme:
-      css/schools/tvms.css: {}
+      css/schools/tvms.css: { weight: -9999 }
 school_wlms:
   css:
     theme:
-      css/schools/wlms.css: {}
+      css/schools/wlms.css: { weight: -9999 }

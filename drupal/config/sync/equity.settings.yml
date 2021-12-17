@@ -1,3 +1,5 @@
+_core:
+  default_config_hash: UqhgstKf5A7RbjtdqHQVc7iLvvDiVR4L8Fi3bcZ_z_0
 general:
   wrap_content_in_container: true
 hero:
@@ -12,5 +14,3 @@ table:
   narrow: false
   hoverable: false
   fullwidth: false
-_core:
-  default_config_hash: UqhgstKf5A7RbjtdqHQVc7iLvvDiVR4L8Fi3bcZ_z_0

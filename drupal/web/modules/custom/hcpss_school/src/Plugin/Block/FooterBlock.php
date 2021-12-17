@@ -51,7 +51,7 @@ class FooterBlock extends BlockBase {
       
       $build[$name]['link'] = [
         '#type' => 'link',
-        '#attributes' => ['class' => 'button'],
+        '#attributes' => ['class' => 'button is-light'],
         '#title' => $this->t($resource['link']['label']),
         '#url' => Url::fromUri($resource['link']['uri']),
         '#prefix' => '<p>',
@@ -108,6 +108,7 @@ class FooterBlock extends BlockBase {
     $build['address']['links'] = [
       '#type' => 'html_tag',
       '#tag' => 'p',
+      '#attributes' => ['class' => 'footer-links'],
     ];
     
     if ($school_info['walk_area']) {
@@ -157,36 +158,40 @@ class FooterBlock extends BlockBase {
    * @return array
    */
   public function buildFooter(): array {
-    $build = ['#type' => 'container'];
-    $build['hcpss'] = [
+    $build['footer-footer'] = [
+      '#type' => 'container',
+      '#attributes' => ['class' => 'footer-footer'],
+    ];
+    
+    $build['footer-footer']['hcpss'] = [
       '#type' => 'html_tag',
       '#tag' => 'p',
       '#value' => $this->t('Part of the Howard County Public School System'),
       '#prefix' => '<hr>',
     ];
     
-    $build['lang'] = ['#type' => 'container'];
-    $build['lang']['es'] = [
+    $build['footer-footer']['lang'] = ['#type' => 'container'];
+    $build['footer-footer']['lang']['es'] = [
       '#type' => 'link',
       '#title' => 'Servicios de Idiomas',
       '#url' => Url::fromUri('https://www.hcpss.org/es/'),
     ];
     
-    $build['lang']['zh'] = [
+    $build['footer-footer']['lang']['zh'] = [
       '#type' => 'link',
       '#title' => '语言服务',
       '#url' => Url::fromUri('https://www.hcpss.org/zh/'),
       '#prefix' => ' | ',
     ];
     
-    $build['lang']['ko'] = [
+    $build['footer-footer']['lang']['ko'] = [
       '#type' => 'link',
       '#title' => '언어 서비스',
       '#url' => Url::fromUri('https://www.hcpss.org/ko/'),
       '#prefix' => ' | ',
     ];
     
-    $build['lang']['cnh'] = [
+    $build['footer-footer']['lang']['cnh'] = [
       '#type' => 'link',
       '#title' => 'Holhlei Riantuanmihna',
       '#url' => Url::fromUri('https://www.hcpss.org/cnh/'),

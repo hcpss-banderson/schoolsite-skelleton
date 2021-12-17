@@ -813,3 +813,4 @@ $databases['default']['default'] = array (
   'driver' => 'mysql',
 );
 $settings['config_sync_directory'] = '/var/www/drupal/config/sync';
+$settings['skip_permissions_hardening'] = TRUE;

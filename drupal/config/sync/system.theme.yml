@@ -1,4 +1,4 @@
-admin: school_admin
-default: equity
 _core:
   default_config_hash: fOjer9hADYYnbCJVZMFZIIM1azTFWyg84ZkFDHfAbUg
+admin: school_admin
+default: equity

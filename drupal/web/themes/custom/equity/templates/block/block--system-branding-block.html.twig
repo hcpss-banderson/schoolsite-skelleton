@@ -1,0 +1,24 @@
+{% block content %}
+  <header class="container branding-header">
+    <div class="branding-wrapper">
+      <a href="{{ path('<front>') }}" title="{{ 'Home'|t }}" rel="home">
+        <img 
+          src="/themes/custom/equity/images/{{ acronym }}.png" 
+          alt="{{ 'Home'|t }}" />
+      </a>
+  
+      <a class="title" href="{{ path('<front>') }}" title="{{ 'Home'|t }}" rel="home">{{ site_name }}</a>
+    </div>    
+    <nav class="secondary-links">
+      <ul>
+        <li><a href="/about">Contact Us</a></li>
+        <li><a href="/search">Search</a></li>
+        {% for icon, url in social %}
+          {% if url %}
+            <li class="social"><a href="{{ url }}"><i class="fab fa-{{ icon }}"></i></a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
+  </header>
+{% endblock %}

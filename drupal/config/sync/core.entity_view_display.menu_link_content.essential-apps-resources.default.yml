@@ -11,15 +11,15 @@ bundle: essential-apps-resources
 mode: default
 content:
   children:
-    weight: 1
-    region: content
     settings: {  }
     third_party_settings: {  }
+    weight: 1
+    region: content
   field_body:
-    weight: 2
+    type: basic_string
     label: hidden
     settings: {  }
     third_party_settings: {  }
-    type: basic_string
+    weight: 2
     region: content
 hidden: {  }

@@ -11,12 +11,18 @@ a.node--view-mode-highlight:hover {
 }
 a.node--view-mode-highlight h4 {
   color: #333333;
-  font-size: 1.3em;
+  font-size: 1.3rem;
+  font-weight: bold;
 }
 a.node--view-mode-highlight h4:before {
   font-family: "Font Awesome 5 Free";
   content: "";
   font-weight: 900;
+  margin-right: 0.5rem;
+  color: var(--primary-color);
+}
+a.node--view-mode-highlight.node--type-event h4:before {
+  content: "";
 }
 a.node--view-mode-highlight.gallery {
   background-image: var(--bg-image);

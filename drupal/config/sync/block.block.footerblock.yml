@@ -15,6 +15,6 @@ plugin: footer_block
 settings:
   id: footer_block
   label: 'Footer block'
-  provider: hcpss_school
   label_display: '0'
+  provider: hcpss_school
 visibility: {  }

@@ -1,0 +1,47 @@
+.resource-list header {
+  display: grid;
+  grid-template-columns: 5.5rem auto;
+}
+.resource-list header h3 {
+  font-size: 1.4rem;
+  font-weight: bold;
+  border-bottom: 1px solid rgba(51, 51, 51, 0.2);
+  display: inline-block;
+  margin-top: 0.75rem;
+}
+.resource-list header .fontawesome-icon {
+  background-color: #477DCA;
+  color: white;
+  border-radius: 50%;
+  width: 3.5rem;
+  height: 3.5rem;
+  text-align: center;
+}
+.resource-list header .fontawesome-icon .fas {
+  font-size: 2rem;
+  display: block;
+}
+.resource-list header .fontawesome-icon .fas:before {
+  padding-top: 0.75rem;
+  display: block;
+}
+.resource-list .views-row {
+  margin: 0.75rem 0 0 5.5rem;
+}
+.resource-list .views-row .fragment a {
+  font-weight: bold;
+}
+
+.block-views-blockresource-list-essential-applications-block .resource-list header .fontawesome-icon {
+  background-color: #477DCA;
+}
+
+.block-views-blockresource-list-hcpss-resources-block .resource-list header .fontawesome-icon {
+  background-color: #47caaa;
+}
+
+.block-views-blockresource-list-get-involved-block .resource-list header .fontawesome-icon {
+  background-color: #a9ca47;
+}
+
+/*# sourceMappingURL=resource-list.css.map */

@@ -1,0 +1,56 @@
+$icon-size: 2rem;
+$icon-margin: 1.5rem;
+
+.resource-list {
+  header {
+    display: grid;
+    grid-template-columns: $icon-size * 2 + $icon-margin auto;
+    
+    h3 {
+      font-size: 1.4rem;
+      font-weight: bold;
+      border-bottom: 1px solid rgba(51, 51, 51, 0.2);
+      display: inline-block;
+      margin-top: $icon-margin / 2;
+    }
+  
+    .fontawesome-icon {
+      background-color: #477DCA;
+      color: white;
+      border-radius: 50%;
+      width: $icon-size + $icon-margin;
+      height: $icon-size + $icon-margin;
+      text-align: center;
+      
+      .fas {
+        font-size: $icon-size;
+        display: block;
+        
+        &:before {
+          padding-top: $icon-margin / 2;
+          display: block;
+        }
+      }
+    }
+  }
+  
+  .views-row {
+    margin: $icon-margin / 2 0 0 $icon-size * 2 + $icon-margin;
+    
+    .fragment {
+      a { font-weight: bold; }
+    }
+  }
+}
+
+.block-views-blockresource-list-essential-applications-block .resource-list header .fontawesome-icon {
+  background-color: #477DCA;
+}
+
+.block-views-blockresource-list-hcpss-resources-block .resource-list header .fontawesome-icon {
+  background-color: #47caaa;
+}
+
+.block-views-blockresource-list-get-involved-block .resource-list header .fontawesome-icon {
+  background-color: #a9ca47;
+}

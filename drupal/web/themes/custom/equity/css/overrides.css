@@ -1,1 +1,13 @@
-/* Override styles */
+body, button, input, select, textarea {
+  font-family: "Fira Sans", sans-serif;
+}
+
+.hero.is-primary {
+  background-color: var(--primary-color);
+}
+
+a {
+  color: #0000ee;
+}
+
+/*# sourceMappingURL=overrides.css.map */

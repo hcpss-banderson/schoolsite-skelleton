@@ -1,7 +1,14 @@
 uuid: 65451c5a-0b05-42de-b9c6-1062b25bfa2b
 langcode: en
 status: true
-dependencies: {  }
+dependencies:
+  module:
+    - comment
+    - contact
+    - fragments
+    - paragraphs_type_permissions
+    - search
+    - system
 _core:
   default_config_hash: pq_mEIu_B4widZN7Ap81iCJSjShFFdcL0jEiCi8VrDk
 id: anonymous

@@ -17,8 +17,8 @@ plugin: drulma_companion_local_tasks_block
 settings:
   id: equity_companion_local_tasks_block
   label: 'Bulma Tabs'
-  provider: drulma_companion
   label_display: '0'
+  provider: drulma_companion
   primary: 1
   secondary: 1
   horizontally_centered: 1

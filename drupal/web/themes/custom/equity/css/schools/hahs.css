@@ -1,7 +1,7 @@
 :root {
-  --main-primary-color: #850000;
-  --main-secondary-color: #FFFF00;
-  --main-highlight-color: #850000;
+  --primary-color: #850000;
+  --secondary-color: #FFFF00;
+  --highlight-color: #850000;
   --banner: url('https://www.hcpss.org/f/mrb/base/hs-theme/images/banner-hahs.jpg');
   --mascot: url('/themes/custom/equity/images/hahs.png');
 }

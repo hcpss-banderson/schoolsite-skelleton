@@ -29,19 +29,19 @@ third_party_settings:
             uuid: 0fe70c1a-1804-42d0-be08-a16b59760188
             region: content
             configuration:
+              id: 'field_block:user:user:user_picture'
               label_display: '0'
               context_mapping:
                 entity: layout_builder.entity
-              id: 'field_block:user:user:user_picture'
               formatter:
                 type: image
-                settings:
-                  image_style: thumbnail
-                  image_link: content
-                third_party_settings: {  }
                 label: hidden
-            additional: {  }
+                settings:
+                  image_link: content
+                  image_style: thumbnail
+                third_party_settings: {  }
             weight: 0
+            additional: {  }
         third_party_settings: {  }
 _core:
   default_config_hash: '-cLsS3M3JycipXQt9rEb81_HxKneReoGuRh8ijcOPXs'
@@ -52,12 +52,12 @@ mode: compact
 content:
   user_picture:
     type: image
+    label: hidden
+    settings:
+      image_link: content
+      image_style: thumbnail
+    third_party_settings: {  }
     weight: 0
     region: content
-    settings:
-      image_style: thumbnail
-      image_link: content
-    third_party_settings: {  }
-    label: hidden
 hidden:
   member_for: true

@@ -35,58 +35,59 @@ third_party_settings:
             uuid: 57b187bd-1052-4e52-b4d2-e2bd4c91d7f5
             region: content
             configuration:
+              id: 'field_block:paragraph:staff_member:field_name'
               label_display: '0'
               context_mapping:
                 entity: layout_builder.entity
-              id: 'field_block:paragraph:staff_member:field_name'
               formatter:
+                type: string
                 label: above
                 settings:
                   link_to_entity: false
                 third_party_settings: {  }
-                type: string
-            additional: {  }
             weight: 0
+            additional: {  }
           3ecea690-b5eb-47d7-806a-de983dc65f72:
             uuid: 3ecea690-b5eb-47d7-806a-de983dc65f72
             region: content
             configuration:
+              id: 'field_block:paragraph:staff_member:field_job_title'
               label_display: '0'
               context_mapping:
                 entity: layout_builder.entity
-              id: 'field_block:paragraph:staff_member:field_job_title'
               formatter:
+                type: string
                 label: above
                 settings:
                   link_to_entity: false
                 third_party_settings: {  }
-                type: string
-            additional: {  }
             weight: 1
+            additional: {  }
           592e5222-6d3e-41c2-8955-41001dc72ba6:
             uuid: 592e5222-6d3e-41c2-8955-41001dc72ba6
             region: content
             configuration:
+              id: 'field_block:paragraph:staff_member:field_email'
               label_display: '0'
               context_mapping:
                 entity: layout_builder.entity
-              id: 'field_block:paragraph:staff_member:field_email'
               formatter:
+                type: basic_string
                 label: above
                 settings: {  }
                 third_party_settings: {  }
-                type: basic_string
-            additional: {  }
             weight: 2
+            additional: {  }
           3d654136-bad8-47aa-a9a7-10f9361ac7f1:
             uuid: 3d654136-bad8-47aa-a9a7-10f9361ac7f1
             region: content
             configuration:
+              id: 'field_block:paragraph:staff_member:field_website'
               label_display: '0'
               context_mapping:
                 entity: layout_builder.entity
-              id: 'field_block:paragraph:staff_member:field_website'
               formatter:
+                type: link
                 label: above
                 settings:
                   trim_length: 80
@@ -95,41 +96,40 @@ third_party_settings:
                   rel: ''
                   target: ''
                 third_party_settings: {  }
-                type: link
-            additional: {  }
             weight: 3
+            additional: {  }
           a818563f-f47d-4521-8f34-b5c70e8e9562:
             uuid: a818563f-f47d-4521-8f34-b5c70e8e9562
             region: content
             configuration:
+              id: 'field_block:paragraph:staff_member:field_picture'
               label_display: '0'
               context_mapping:
                 entity: layout_builder.entity
-              id: 'field_block:paragraph:staff_member:field_picture'
               formatter:
+                type: image
                 label: above
                 settings:
-                  image_style: ''
                   image_link: ''
+                  image_style: ''
                 third_party_settings: {  }
-                type: image
-            additional: {  }
             weight: 4
+            additional: {  }
           db0b91ff-ca03-4ddb-8c13-d2d128f713c3:
             uuid: db0b91ff-ca03-4ddb-8c13-d2d128f713c3
             region: content
             configuration:
+              id: 'field_block:paragraph:staff_member:field_biography'
               label_display: '0'
               context_mapping:
                 entity: layout_builder.entity
-              id: 'field_block:paragraph:staff_member:field_biography'
               formatter:
+                type: text_default
                 label: above
                 settings: {  }
                 third_party_settings: {  }
-                type: text_default
-            additional: {  }
             weight: 5
+            additional: {  }
         third_party_settings: {  }
 id: paragraph.staff_member.default
 targetEntityType: paragraph
@@ -137,46 +137,46 @@ bundle: staff_member
 mode: default
 content:
   field_biography:
-    weight: 5
+    type: text_default
     label: above
     settings: {  }
     third_party_settings: {  }
-    type: text_default
+    weight: 5
     region: content
   field_email:
-    weight: 2
+    type: basic_string
     label: above
     settings: {  }
     third_party_settings: {  }
-    type: basic_string
+    weight: 2
     region: content
   field_job_title:
-    weight: 1
+    type: string
     label: above
     settings:
       link_to_entity: false
     third_party_settings: {  }
-    type: string
+    weight: 1
     region: content
   field_name:
-    weight: 0
+    type: string
     label: above
     settings:
       link_to_entity: false
     third_party_settings: {  }
-    type: string
+    weight: 0
     region: content
   field_picture:
-    weight: 4
+    type: image
     label: above
     settings:
-      image_style: ''
       image_link: ''
+      image_style: ''
     third_party_settings: {  }
-    type: image
+    weight: 4
     region: content
   field_website:
-    weight: 3
+    type: link
     label: above
     settings:
       trim_length: 80
@@ -185,6 +185,6 @@ content:
       rel: ''
       target: ''
     third_party_settings: {  }
-    type: link
+    weight: 3
     region: content
 hidden: {  }

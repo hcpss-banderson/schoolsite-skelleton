@@ -1,0 +1,20 @@
+uuid: 21436912-ee8c-474a-8859-8ae1aac8bd63
+langcode: en
+status: true
+dependencies:
+  module:
+    - hcpss_school
+  theme:
+    - equity
+id: collageblock
+theme: equity
+region: primary_menu
+weight: 0
+provider: null
+plugin: collage_block
+settings:
+  id: collage_block
+  label: 'Collage block'
+  label_display: '0'
+  provider: hcpss_school
+visibility: {  }

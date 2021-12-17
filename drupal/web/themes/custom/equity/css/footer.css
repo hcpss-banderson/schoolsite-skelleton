@@ -1,0 +1,65 @@
+footer.footer {
+  background-color: var(--primary-color);
+  border-top: 5px solid var(--secondary-color);
+  color: rgba(255, 255, 255, 0.81);
+}
+footer.footer h4 {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+footer.footer address {
+  font-style: normal;
+  font-size: 1.375rem;
+  line-height: 1.75rem;
+}
+footer.footer address h4 {
+  font-size: 2rem;
+}
+footer.footer .footer-links a:before {
+  content: " | ";
+}
+footer.footer .footer-links a:first-child:before {
+  content: "";
+}
+footer.footer hr {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background-color: rgba(255, 255, 255, 0.1);
+  margin: 2em auto 1.5em;
+  width: 12em;
+  height: 1px;
+}
+footer.footer .footer__hcpss-logo {
+  text-align: center;
+}
+footer.footer .footer__hcpss-logo a {
+  display: block;
+}
+footer.footer .footer__hcpss-logo a img {
+  width: 3rem;
+  margin: 3rem;
+  margin-top: 0;
+}
+footer.footer .button, footer.footer .button:hover {
+  background-color: rgba(0, 0, 0, 0.17);
+  color: white;
+  height: unset;
+  padding: 3px 8px;
+}
+footer.footer a, footer.footer a:hover {
+  color: white;
+}
+footer.footer .footer-footer {
+  text-align: center;
+}
+
+#block-footerblock .resources {
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+#block-footerblock .resources .address {
+  grid-column: 1/span 2;
+  grid-row: 3/span 2;
+}
+
+/*# sourceMappingURL=footer.css.map */

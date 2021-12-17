@@ -17,11 +17,10 @@ plugin: 'drulma_companion_bulma_navbar_with_branding:main'
 settings:
   id: 'drulma_companion_bulma_navbar_with_branding:main'
   label: 'Main navigation'
-  provider: drulma_companion
   label_display: '0'
+  provider: drulma_companion
   level: 1
   depth: 0
-  expand_all_items: 0
   navbar_color: ''
   navbar_title_tag: span
   horizontally_centered: true
@@ -34,4 +33,5 @@ settings:
   use_site_slogan: false
   site_name_size: '4'
   site_slogan_size: '6'
+  expand_all_items: 0
 visibility: {  }

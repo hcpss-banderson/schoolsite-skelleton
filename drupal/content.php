@@ -89,18 +89,18 @@ foreach ($schools as $acronym => $school) {
 //   file_put_contents("/var/www/drupal/web/themes/custom/equity/images/{$acronym}.png", $file);
   
   $colors = ":root {\n";
-  $colors .= "  --main-primary-color: {$school['primary_color']};\n";
-  $colors .= "  --main-secondary-color: {$school['secondary_color']};\n";
-  $colors .= "  --main-highlight-color: {$school['highlight_color']};\n";
+  $colors .= "  --primary-color: {$school['primary_color']};\n";
+  $colors .= "  --secondary-color: {$school['secondary_color']};\n";
+  $colors .= "  --highlight-color: {$school['highlight_color']};\n";
   $colors .= "  --banner: url('https://www.hcpss.org/f/mrb/base/hs-theme/images/banner-{$acronym}.jpg');\n";
   $colors .= "  --mascot: url('/themes/custom/equity/images/$acronym.png');\n";
   $colors .= "}\n";
   
   file_put_contents("/var/www/drupal/web/themes/custom/equity/css/schools/$acronym.css", $colors);
 
-  $library = "school_{$acronym}:\n  css:\n    theme:\n      css/schools/{$acronym}.css: {}\n";
+//   $library = "school_{$acronym}:\n  css:\n    theme:\n      css/schools/{$acronym}.css: { weight: -9999 }\n";
   
-  //file_put_contents('/var/www/drupal/web/themes/custom/equity/equity.libraries.yml', $library, FILE_APPEND);
+//   file_put_contents('/var/www/drupal/web/themes/custom/equity/equity.libraries.yml', $library, FILE_APPEND);
   
 
   /*

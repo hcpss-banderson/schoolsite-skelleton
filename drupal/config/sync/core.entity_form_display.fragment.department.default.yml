@@ -22,6 +22,7 @@ content:
   field_staff_members:
     type: entity_reference_paragraphs
     weight: 26
+    region: content
     settings:
       title: Paragraph
       title_plural: Paragraphs
@@ -30,7 +31,6 @@ content:
       form_display_mode: default
       default_paragraph_type: ''
     third_party_settings: {  }
-    region: content
   title:
     type: string_textfield
     weight: -4
@@ -42,11 +42,11 @@ content:
   user_id:
     type: entity_reference_autocomplete
     weight: 5
+    region: content
     settings:
       match_operator: CONTAINS
+      match_limit: 10
       size: 60
       placeholder: ''
-      match_limit: 10
-    region: content
     third_party_settings: {  }
 hidden: {  }
