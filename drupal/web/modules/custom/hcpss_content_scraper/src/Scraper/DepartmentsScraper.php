@@ -90,6 +90,7 @@ class DepartmentsScraper extends ScraperBase implements ScraperInterface {
     $num_departments = $num_members = 0;
     
     $rows = ScraperService::scrape($this->getUrl());
+    print_r($rows);
     foreach ($rows as $row) {
       $department_url = "https://{$this->acronym}.hcpss.org{$row['path']}";
       $department = $this->scrapeDepartment($department_url);

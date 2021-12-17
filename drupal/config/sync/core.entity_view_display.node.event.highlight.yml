@@ -1,17 +1,22 @@
-uuid: 4d6c6875-fef1-407b-b25c-46d92a1956f6
+uuid: ba584ef0-7938-4095-8d37-502e9c01f9dc
 langcode: en
 status: true
 dependencies:
   config:
+    - core.entity_view_mode.node.highlight
     - field.field.node.event.body
     - field.field.node.event.field_when
     - node.type.event
   module:
+    - layout_builder
     - panelizer
     - smart_date
     - text
     - user
 third_party_settings:
+  layout_builder:
+    enabled: false
+    allow_custom: false
   panelizer:
     enable: false
     custom: false
@@ -19,21 +24,22 @@ third_party_settings:
     default: default
 _core:
   default_config_hash: ppIsOjQ5tKp_SD6BztnDSr18eW9MqwFx1xjOcNUIWyI
-id: node.event.default
+id: node.event.highlight
 targetEntityType: node
 bundle: event
-mode: default
+mode: highlight
 content:
   body:
-    type: text_default
+    type: text_summary_or_trimmed
     label: hidden
-    settings: {  }
+    settings:
+      trim_length: 250
     third_party_settings: {  }
-    weight: 2
+    weight: 1
     region: content
   field_when:
     type: smartdate_default
-    label: above
+    label: inline
     settings:
       timezone_override: ''
       format_type: medium
@@ -42,11 +48,7 @@ content:
       add_classes: false
       time_wrapper: true
     third_party_settings: {  }
-    weight: 1
-    region: content
-  links:
-    settings: {  }
-    third_party_settings: {  }
     weight: 0
     region: content
-hidden: {  }
+hidden:
+  links: true

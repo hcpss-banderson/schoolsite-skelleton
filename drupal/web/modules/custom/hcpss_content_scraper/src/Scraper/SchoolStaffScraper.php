@@ -59,7 +59,7 @@ class SchoolStaffScraper extends ScraperBase implements ScraperInterface {
     $page->save();
     
     MenuLinkContent::create([
-      'title' => 'School Staff',
+      'title' => 'Our Staff',
       'link' => ['uri' => 'entity:node/' . $page->id()],
       'menu_name' => 'main',
       'weight' => 1,

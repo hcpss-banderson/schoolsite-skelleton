@@ -13,12 +13,13 @@ entity_settings:
   handler: 'default:node'
   handler_settings:
     target_bundles:
+      event: event
       news: news
     sort:
       field: _none
       direction: ASC
     auto_create: false
-    auto_create_bundle: ''
+    auto_create_bundle: event
 queue_settings:
   min_size: 0
   max_size: 9

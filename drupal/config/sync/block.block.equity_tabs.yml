@@ -10,8 +10,8 @@ _core:
   default_config_hash: aZJFahb2aB1dyXiwTTK2X8DkgskWin5rKZrYwXWAvfU
 id: equity_tabs
 theme: equity
-region: secondary_menu
-weight: 0
+region: content
+weight: -2
 provider: null
 plugin: drulma_companion_local_tasks_block
 settings:

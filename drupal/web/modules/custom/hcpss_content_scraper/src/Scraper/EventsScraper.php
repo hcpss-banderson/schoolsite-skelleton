@@ -25,7 +25,13 @@ class EventsScraper extends ScraperBase implements ScraperInterface {
     $rows = ScraperService::scrape($this->getUrl());
     $num_created = 0;
     foreach ($rows as $row) {
-      list($start, $end) = $this->normalizeDate(strip_tags($row['event-date']));
+      $date = strip_tags($row['event-date']);
+      if (!$date) {
+        // Some events don't have dates. I'm going to ignore those.
+        continue;
+      }
+      
+      list($start, $end) = $this->normalizeDate($date);
       
       Node::create([
         'type' => 'event',
@@ -57,7 +63,7 @@ class EventsScraper extends ScraperBase implements ScraperInterface {
    * @return int[]
    *   The pair of timestamps, start and end.
    */
-  private function normalizeDate(string $date): array {
+  private function normalizeDate(string $date): array {    
     $date  = str_replace([' EDT', ' EST'], '', $date);
     
     $num_all_days = substr_count($date, '(All day)');
@@ -80,7 +86,7 @@ class EventsScraper extends ScraperBase implements ScraperInterface {
       if (empty($parts[5])) {
         // No end time is specified.
         $format = 'D, d M Y H:i';
-        $start = \DateTime::createFromFormat($format, implode(' ', $parts));
+        $start = \DateTime::createFromFormat($format, implode(' ', $parts));        
         $start->add(new \DateInterval('PT1H'));
         $parts[5] = 'to';
         $parts[6] = $start->format('H:i');

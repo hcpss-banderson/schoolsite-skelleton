@@ -22,6 +22,7 @@ use Drupal\entityqueue\Entity\EntitySubqueue;
 use Drupal\hcpss_content_scraper\Scraper\EssentialResourcesScraper;
 use Drupal\hcpss_content_scraper\Scraper\FeaturedContentScraper;
 use Drupal\hcpss_content_scraper\Scraper\SchoolStaffScraper;
+use Drupal\hcpss_content_scraper\Scraper\AdvancedPagesScraper;
 
 /**
  * A Drush commandfile.
@@ -67,6 +68,21 @@ class HcpssContentScraperCommands extends DrushCommands {
     $this->scrapePages($acronym);
     $this->scrapeFeaturedContent($acronym);
     $this->scrapeSchoolStaff($acronym);
+  }
+  
+  /**
+   * Scrape advanced pages.
+   *
+   * @param $acronym
+   *   string Argument description.
+   * @usage hcpss_content_scraper:scrape-advanced-pages chs
+   *   Scrape the school staff content on the CHS site.
+   *
+   * @command hcpss_content_scraper:scrape-advanced-pages
+   */
+  public function scrapeAdvancedPages($acronym) {
+    $scraper = new AdvancedPagesScraper($acronym);
+    $scraper->scrape();
   }
   
   /**
