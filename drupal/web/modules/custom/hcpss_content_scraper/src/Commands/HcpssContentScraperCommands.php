@@ -68,6 +68,7 @@ class HcpssContentScraperCommands extends DrushCommands {
     $this->scrapePages($acronym);
     $this->scrapeFeaturedContent($acronym);
     $this->scrapeSchoolStaff($acronym);
+    $this->scrapeAdvancedPages($acronym);
   }
   
   /**
@@ -82,7 +83,11 @@ class HcpssContentScraperCommands extends DrushCommands {
    */
   public function scrapeAdvancedPages($acronym) {
     $scraper = new AdvancedPagesScraper($acronym);
-    $scraper->scrape();
+    $result = $scraper->scrape();
+    
+    $this->logger()->success(vsprintf('%d advanced pages created.', [
+      $result['node']['advanced_page'],
+    ]));
   }
   
   /**
@@ -192,7 +197,7 @@ class HcpssContentScraperCommands extends DrushCommands {
     $scraper = new PagesScraper($acronym);
     $result  = $scraper->scrape();
     
-    $this->logger()->success(dt($result['node']['basic_page'] . ' paged created.'));
+    $this->logger()->success(dt($result['node']['basic_page'] . ' pages created.'));
   }
   
   /**

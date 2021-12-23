@@ -9,7 +9,7 @@ trait ApiDataAwareTrait {
   /**
    * @var array
    */
-  private static $data;
+  private static $data = [];
   
   /**
    * Get school data.

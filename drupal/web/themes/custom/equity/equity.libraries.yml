@@ -3,6 +3,7 @@ global:
     theme:
       https://code.cdn.mozilla.net/fonts/fira.css: {}
       css/overrides.css: {}
+      css/advanced.css: {}
     component:
       css/block.css: {}
       css/resource-list.css: {}

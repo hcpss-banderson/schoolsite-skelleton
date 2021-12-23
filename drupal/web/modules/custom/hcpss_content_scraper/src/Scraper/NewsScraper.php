@@ -26,11 +26,7 @@ class NewsScraper extends ScraperBase implements ScraperInterface {
     $num_created = 0;
     
     $rows = ScraperService::scrape($this->getUrl());    
-    foreach ($rows as $row) {
-      if (empty($row['title'])) {
-        print_r($row);
-      }
-      
+    foreach ($rows as $row) {      
       $body = [
         'value' => $row['message-content'],
         'format' => 'basic_html',

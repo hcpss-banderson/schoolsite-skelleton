@@ -3,3 +3,5 @@
 .buildpath
 .project
 .DS_Store
+/nbproject/private/
+/nbproject

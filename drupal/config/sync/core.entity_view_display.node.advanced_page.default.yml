@@ -7,7 +7,14 @@ dependencies:
     - node.type.advanced_page
   module:
     - entity_reference_revisions
+    - panelizer
     - user
+third_party_settings:
+  panelizer:
+    enable: false
+    custom: false
+    allow: false
+    default: default
 id: node.advanced_page.default
 targetEntityType: node
 bundle: advanced_page
@@ -15,7 +22,7 @@ mode: default
 content:
   field_parts:
     type: entity_reference_revisions_entity_view
-    label: above
+    label: hidden
     settings:
       view_mode: default
       link: ''

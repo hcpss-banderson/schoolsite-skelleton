@@ -28,9 +28,7 @@ class FeaturedContentScraper extends ScraperBase implements ScraperInterface {
     
     $scraper = ScraperService::createFromUrl($this->getUrl());
     $selector = '.pane-node a > h1, .pane-important-news-upcoming-events h1';
-    $scraper->crawl()->filter($selector)->each(function (Crawler $header) use ($queue) {
-      echo trim($header->text())."\n";
-      
+    $scraper->crawl()->filter($selector)->each(function (Crawler $header) use ($queue) {      
       $query = \Drupal::entityQuery('node')
         ->condition('title', trim($header->text()));
       
@@ -40,8 +38,6 @@ class FeaturedContentScraper extends ScraperBase implements ScraperInterface {
       
       $query->condition($or);
       $nids = $query->execute();
-      
-      print_r($nids);
       
       if (!empty($nids)) {
         $node = Node::load(array_shift($nids));
